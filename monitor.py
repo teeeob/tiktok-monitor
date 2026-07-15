@@ -2,7 +2,7 @@
 """
 Surveillance de comptes TikTok concurrents.
 
-Ce script est conçu pour être lancé toutes les 15 minutes (via GitHub Actions,
+Ce script est conçu pour être lancé toutes les 30 minutes (via GitHub Actions,
 voir .github/workflows/monitor.yml). À chaque exécution il :
 
   1. Vérifie chaque compte listé dans accounts.json
@@ -47,6 +47,22 @@ CHECK_OFFSETS_HOURS = [1, 3, 5]
 REQUEST_TIMEOUT = 15
 MAX_RETRIES = 3
 
+# Cadence maximale autorisée par le plan tiktokapi.store (60 req/min).
+# On se cale un peu en dessous par sécurité, et on espace les appels
+# nous-mêmes plutôt que de compter sur les 429 + retry.
+MAX_REQUESTS_PER_MINUTE = 55
+_MIN_INTERVAL = 60.0 / MAX_REQUESTS_PER_MINUTE
+_last_request_at = 0.0
+
+
+def _throttle():
+    """Attend le temps nécessaire pour ne jamais dépasser MAX_REQUESTS_PER_MINUTE."""
+    global _last_request_at
+    elapsed = time.monotonic() - _last_request_at
+    if elapsed < _MIN_INTERVAL:
+        time.sleep(_MIN_INTERVAL - elapsed)
+    _last_request_at = time.monotonic()
+
 
 def log(msg: str):
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
@@ -66,6 +82,7 @@ def _api_get(path: str, params: dict) -> dict | None:
     url = f"{API_BASE}{path}"
 
     for attempt in range(1, MAX_RETRIES + 1):
+        _throttle()
         try:
             resp = requests.get(url, headers=headers, params=params, timeout=REQUEST_TIMEOUT)
             if resp.status_code == 200:
