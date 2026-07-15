@@ -1,0 +1,43 @@
+name: TikTok Monitor
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: tiktok-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer la vérification
+        env:
+          TIKTOK_API_KEY: ${{ secrets.TIKTOK_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python monitor.py
+
+      - name: Sauvegarder l'état (si changé)
+        run: |
+          if ! git diff --quiet -- state.json; then
+            git config user.name "tiktok-monitor-bot"
+            git config user.email "actions@github.com"
+            git add state.json
+            git commit -m "Mise à jour état [skip ci]"
+            git push
+          else
+            echo "Aucun changement d'état, rien à committer."
+          fi
