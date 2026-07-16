@@ -17,7 +17,7 @@
     "coachdydy3.0_infos": "7662757184215764256",
     "dydy_hugo": "7662766682095602977",
     "coachanddjojo": "7662325851308035361",
-    "coachdydy_business": "7662755086568918304",
+    "coachdydy_business": "7662014128168504609",
     "coachdydy3.0": "7662752650470903073",
     "journalsudouest": "7662806809203313952",
     "zopinfo": "7662836684739939617",
@@ -69,7 +69,7 @@
     "enbref33": "7654291291894795553",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7662774839060548896",
-    "kat_info": "7662723869316287776",
+    "kat_info": "7662914369885343008",
     "pandadunet": "7662661089292766467",
     "actufrance_33": "7662902367985110305",
     "actu.le.fran843": "7655296602613075233",
@@ -105,7 +105,7 @@
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7656913504967986464",
     "wordpress070": "7659746008074636576",
-    "fut_chronicles": "7662880650780888352",
+    "fut_chronicles": "7662917359656602912",
     "revelateur.france": "7662036233287126305",
     "breakingactufr": "7662087701033717024",
     "actu_france24": "7662752009061289248",
@@ -124,7 +124,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -132,10 +132,10 @@
         }
       ],
       "last_stats": {
-        "views": 13686,
-        "likes": 547,
-        "comments": 82,
-        "shares": 43
+        "views": 14241,
+        "likes": 565,
+        "comments": 84,
+        "shares": 47
       }
     },
     {
@@ -150,7 +150,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -158,7 +158,7 @@
         }
       ],
       "last_stats": {
-        "views": 523,
+        "views": 564,
         "likes": 24,
         "comments": 2,
         "shares": 0
@@ -176,7 +176,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -184,7 +184,7 @@
         }
       ],
       "last_stats": {
-        "views": 298,
+        "views": 348,
         "likes": 15,
         "comments": 1,
         "shares": 2
@@ -198,7 +198,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -210,10 +210,10 @@
         }
       ],
       "last_stats": {
-        "views": 24852,
-        "likes": 377,
-        "comments": 55,
-        "shares": 705
+        "views": 26031,
+        "likes": 401,
+        "comments": 58,
+        "shares": 730
       }
     },
     {
@@ -224,7 +224,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -236,10 +236,10 @@
         }
       ],
       "last_stats": {
-        "views": 272,
-        "likes": 25,
-        "comments": 0,
-        "shares": 0
+        "views": 2732,
+        "likes": 73,
+        "comments": 8,
+        "shares": 1
       }
     },
     {
@@ -247,6 +247,32 @@
       "video_id": "7662902736815443232",
       "url": "https://www.tiktok.com/@actudivers.fr/video/7662902736815443232",
       "detected_at": "2026-07-15T23:54:37.554221+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 18648,
+        "likes": 220,
+        "comments": 6,
+        "shares": 65
+      }
+    },
+    {
+      "handle": "coachdydy_business",
+      "video_id": "7662014128168504609",
+      "url": "https://www.tiktok.com/@coachdydy_business/video/7662014128168504609",
+      "detected_at": "2026-07-16T01:58:25.716038+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -262,10 +288,62 @@
         }
       ],
       "last_stats": {
-        "views": 409,
-        "likes": 14,
-        "comments": 0,
+        "views": 434700,
+        "likes": 28314,
+        "comments": 1075,
+        "shares": 1409
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7662914369885343008",
+      "url": "https://www.tiktok.com/@kat_info/video/7662914369885343008",
+      "detected_at": "2026-07-16T01:59:26.147774+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 496,
+        "likes": 13,
+        "comments": 1,
         "shares": 0
+      }
+    },
+    {
+      "handle": "fut_chronicles",
+      "video_id": "7662917359656602912",
+      "url": "https://www.tiktok.com/@fut_chronicles/video/7662917359656602912",
+      "detected_at": "2026-07-16T02:00:04.634826+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 437,
+        "likes": 35,
+        "comments": 1,
+        "shares": 2
       }
     }
   ]
