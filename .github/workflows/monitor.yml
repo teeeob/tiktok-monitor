@@ -2,9 +2,13 @@ name: TikTok Monitor
 
 on:
   schedule:
+    # Toutes les 30 minutes. GitHub Actions ne garantit pas la seconde exacte
+    # (retards possibles aux heures de forte charge, parfois significatifs),
+    # mais reste globalement fiable pour ce cas d'usage.
     - cron: "*/30 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}  # permet de le lancer manuellement depuis l'onglet Actions
 
+# Évite que deux exécutions se chevauchent et se marchent dessus sur state.json
 concurrency:
   group: tiktok-monitor
   cancel-in-progress: false
@@ -27,7 +31,8 @@ jobs:
       - name: Lancer la vérification
         env:
           TIKTOK_API_KEY: ${{ secrets.TIKTOK_API_KEY }}
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC_ALERTS: ${{ secrets.NTFY_TOPIC_ALERTS }}
+          NTFY_TOPIC_STATS: ${{ secrets.NTFY_TOPIC_STATS }}
         run: python monitor.py
 
       - name: Sauvegarder l'état (si changé)
