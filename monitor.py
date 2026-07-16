@@ -157,7 +157,8 @@ def get_video_stats_by_id(handle: str, video_id: str) -> dict | None:
 # Notifications push (ntfy.sh)
 # --------------------------------------------------------------------------
 
-def send_push(topic: str, title: str, message: str, url: str | None = None, priority: str = "default"):
+def send_push(topic: str, title: str, message: str, url: str | None = None,
+               priority: str = "default", markdown: bool = False):
     if not topic:
         raise RuntimeError("Topic ntfy manquant (NTFY_TOPIC_ALERTS / NTFY_TOPIC_STATS)")
 
@@ -167,6 +168,8 @@ def send_push(topic: str, title: str, message: str, url: str | None = None, prio
     }
     if url:
         headers["Click"] = url
+    if markdown:
+        headers["Markdown"] = "yes"
 
     try:
         resp = requests.post(
@@ -179,6 +182,41 @@ def send_push(topic: str, title: str, message: str, url: str | None = None, prio
             log(f"Échec envoi notif ntfy.sh ({topic}): {resp.status_code} {resp.text[:200]}")
     except requests.RequestException as e:
         log(f"Erreur réseau ntfy.sh ({topic}): {e}")
+
+
+# ntfy convertit tout message dépassant ~4096 octets en pièce jointe .txt
+# (illisible directement dans la notif). On se garde une bonne marge de
+# sécurité et on découpe en plusieurs notifs si besoin plutôt que de risquer
+# ce problème.
+MAX_DIGEST_BYTES = 3500
+
+
+def send_digest(topic: str, lines: list[str], label: str):
+    """Envoie une liste de lignes en un minimum de notifications, en
+    découpant automatiquement si ça dépasse la limite de taille de ntfy."""
+    if not lines:
+        return
+
+    chunks: list[list[str]] = []
+    current: list[str] = []
+    current_len = 0
+    for line in lines:
+        line_len = len(line.encode("utf-8")) + 2  # +2 pour le séparateur "\n\n"
+        if current and current_len + line_len > MAX_DIGEST_BYTES:
+            chunks.append(current)
+            current = []
+            current_len = 0
+        current.append(line)
+        current_len += line_len
+    if current:
+        chunks.append(current)
+
+    total = len(chunks)
+    for i, chunk in enumerate(chunks, start=1):
+        title = f"📊 {len(lines)} {label}"
+        if total > 1:
+            title += f" ({i}/{total})"
+        send_push(topic, title=title, message="\n\n".join(chunk), priority="low", markdown=True)
 
 
 def fmt_num(n) -> str:
@@ -331,7 +369,9 @@ def process_pending_checks(state: dict):
                 real_elapsed_h = (now - detected_at).total_seconds() / 3600
                 stats_text = format_stats(stats, item.get("last_stats"))
                 digest_lines.append(
-                    f"@{item['handle']} +{check['offset_h']}h (réel {real_elapsed_h:.1f}h) : {stats_text}\n{item['url']}"
+                    f"**@{item['handle']} +{check['offset_h']}h** (réel {real_elapsed_h:.1f}h)\n"
+                    f"{stats_text}\n"
+                    f"[▶ Voir la vidéo]({item['url']})"
                 )
                 if stats:
                     item["last_stats"] = stats  # référence pour le prochain rappel
@@ -348,9 +388,7 @@ def process_pending_checks(state: dict):
     state["pending"] = still_pending
 
     if digest_lines:
-        title = f"📊 {len(digest_lines)} rappel(s) stats disponible(s)"
-        message = "\n\n".join(digest_lines)
-        send_push(NTFY_TOPIC_STATS, title=title, message=message, priority="low")
+        send_digest(NTFY_TOPIC_STATS, digest_lines, label="rappel(s) stats disponible(s)")
 
 
 def main():
