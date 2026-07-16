@@ -36,7 +36,8 @@ import requests
 
 API_BASE = "https://tiktokapi.store/api/v1"
 API_KEY = os.environ.get("TIKTOK_API_KEY")
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "teo-tiktok-watch-8f2k1"
+NTFY_TOPIC_ALERTS = os.environ.get("NTFY_TOPIC_ALERTS")  # nouvelles vidéos, priorité haute
+NTFY_TOPIC_STATS = os.environ.get("NTFY_TOPIC_STATS")    # rappels stats, groupés en digest
 
 STATE_FILE = Path(__file__).parent / "state.json"
 ACCOUNTS_FILE = Path(__file__).parent / "accounts.json"
@@ -156,9 +157,9 @@ def get_video_stats_by_id(handle: str, video_id: str) -> dict | None:
 # Notifications push (ntfy.sh)
 # --------------------------------------------------------------------------
 
-def send_push(title: str, message: str, url: str | None = None, priority: str = "default"):
-    if not NTFY_TOPIC:
-        raise RuntimeError("NTFY_TOPIC manquant (variable d'environnement / secret GitHub)")
+def send_push(topic: str, title: str, message: str, url: str | None = None, priority: str = "default"):
+    if not topic:
+        raise RuntimeError("Topic ntfy manquant (NTFY_TOPIC_ALERTS / NTFY_TOPIC_STATS)")
 
     headers = {
         "Title": title.encode("utf-8"),
@@ -169,15 +170,15 @@ def send_push(title: str, message: str, url: str | None = None, priority: str = 
 
     try:
         resp = requests.post(
-            f"https://ntfy.sh/{NTFY_TOPIC}",
+            f"https://ntfy.sh/{topic}",
             data=message.encode("utf-8"),
             headers=headers,
             timeout=REQUEST_TIMEOUT,
         )
         if resp.status_code != 200:
-            log(f"Échec envoi notif ntfy.sh: {resp.status_code} {resp.text[:200]}")
+            log(f"Échec envoi notif ntfy.sh ({topic}): {resp.status_code} {resp.text[:200]}")
     except requests.RequestException as e:
-        log(f"Erreur réseau ntfy.sh: {e}")
+        log(f"Erreur réseau ntfy.sh ({topic}): {e}")
 
 
 def fmt_num(n) -> str:
@@ -278,6 +279,7 @@ def check_new_videos(state: dict, accounts: list[str]):
             state["last_video"][handle] = latest["video_id"]
 
             send_push(
+                NTFY_TOPIC_ALERTS,
                 title=f"🔴 @{handle} vient de poster",
                 message=latest["caption"][:200] or "(pas de légende)",
                 url=latest["url"],
@@ -314,6 +316,7 @@ def check_new_videos(state: dict, accounts: list[str]):
 def process_pending_checks(state: dict):
     now = datetime.now(timezone.utc)
     still_pending = []
+    digest_lines = []  # une ligne par rappel envoyé dans ce passage
 
     for item in state["pending"]:
         detected_at = datetime.fromisoformat(item["detected_at"])
@@ -326,12 +329,9 @@ def process_pending_checks(state: dict):
             if now >= due_at:
                 stats = get_video_stats_by_id(item["handle"], item["video_id"])
                 real_elapsed_h = (now - detected_at).total_seconds() / 3600
-                message = format_stats(stats, item.get("last_stats"))
-                message += f" · postée il y a {real_elapsed_h:.1f}h"
-                send_push(
-                    title=f"📊 @{item['handle']} +{check['offset_h']}h",
-                    message=message,
-                    url=item["url"],
+                stats_text = format_stats(stats, item.get("last_stats"))
+                digest_lines.append(
+                    f"@{item['handle']} +{check['offset_h']}h (réel {real_elapsed_h:.1f}h) : {stats_text}\n{item['url']}"
                 )
                 if stats:
                     item["last_stats"] = stats  # référence pour le prochain rappel
@@ -347,13 +347,21 @@ def process_pending_checks(state: dict):
 
     state["pending"] = still_pending
 
+    if digest_lines:
+        title = f"📊 {len(digest_lines)} rappel(s) stats disponible(s)"
+        message = "\n\n".join(digest_lines)
+        send_push(NTFY_TOPIC_STATS, title=title, message=message, priority="low")
+
 
 def main():
     if not API_KEY:
         log("ERREUR: la variable d'environnement TIKTOK_API_KEY n'est pas définie.")
         sys.exit(1)
-    if not NTFY_TOPIC:
-        log("ERREUR: la variable d'environnement NTFY_TOPIC n'est pas définie.")
+    if not NTFY_TOPIC_ALERTS:
+        log("ERREUR: la variable d'environnement NTFY_TOPIC_ALERTS n'est pas définie.")
+        sys.exit(1)
+    if not NTFY_TOPIC_STATS:
+        log("ERREUR: la variable d'environnement NTFY_TOPIC_STATS n'est pas définie.")
         sys.exit(1)
 
     accounts = load_accounts()
