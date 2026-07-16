@@ -288,11 +288,24 @@ def check_new_videos(state: dict, accounts: list[str]):
             # calculer la croissance affichée au rappel +1h.
             initial_stats = latest["stats"]
 
+            # On ancre les rappels sur la VRAIE heure de publication de la
+            # vidéo (create_time renvoyé par l'API), pas sur le moment où le
+            # script s'en aperçoit. Comme ça, même si GitHub Actions tourne
+            # en retard, les rappels +1h/+3h/+5h restent calculés par rapport
+            # à l'heure réelle de mise en ligne, pas à un retard de découverte.
+            create_time = latest.get("create_time")
+            try:
+                posted_at = datetime.fromtimestamp(int(create_time), tz=timezone.utc)
+            except (TypeError, ValueError, OSError):
+                # Timestamp absent ou invalide : à défaut, on utilise l'heure
+                # actuelle (moins précis, mais évite de planter).
+                posted_at = datetime.now(timezone.utc)
+
             state["pending"].append({
                 "handle": handle,
                 "video_id": latest["video_id"],
                 "url": latest["url"],
-                "detected_at": datetime.now(timezone.utc).isoformat(),
+                "detected_at": posted_at.isoformat(),
                 "checks": [{"offset_h": h, "done": False} for h in CHECK_OFFSETS_HOURS],
                 "last_stats": initial_stats,
             })
@@ -312,9 +325,12 @@ def process_pending_checks(state: dict):
             due_at = detected_at + timedelta(hours=check["offset_h"])
             if now >= due_at:
                 stats = get_video_stats_by_id(item["handle"], item["video_id"])
+                real_elapsed_h = (now - detected_at).total_seconds() / 3600
+                message = format_stats(stats, item.get("last_stats"))
+                message += f" · postée il y a {real_elapsed_h:.1f}h"
                 send_push(
                     title=f"📊 @{item['handle']} +{check['offset_h']}h",
-                    message=format_stats(stats, item.get("last_stats")),
+                    message=message,
                     url=item["url"],
                 )
                 if stats:
