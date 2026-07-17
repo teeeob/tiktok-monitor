@@ -60,8 +60,8 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7663140460570922273",
-    "actu913": "7663140053874396448",
+    "actualfrancetv": "7663412890841419040",
+    "actu913": "7663411930194791713",
     "franceendirect1": "7663146124689050913",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
@@ -124,7 +124,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -132,10 +132,10 @@
         }
       ],
       "last_stats": {
-        "views": 2405,
-        "likes": 57,
-        "comments": 6,
-        "shares": 13
+        "views": 7710,
+        "likes": 130,
+        "comments": 17,
+        "shares": 30
       }
     },
     {
@@ -292,6 +292,58 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7663412890841419040",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7663412890841419040",
+      "detected_at": "2026-07-17T08:36:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 382,
+        "likes": 20,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7663411930194791713",
+      "url": "https://www.tiktok.com/@actu913/video/7663411930194791713",
+      "detected_at": "2026-07-17T08:32:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 218,
+        "likes": 21,
+        "comments": 0,
+        "shares": 5
       }
     }
   ]
