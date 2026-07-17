@@ -109,35 +109,9 @@
     "revelateur.france": "7662036233287126305",
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7663250116488203553",
-    "newinfosfrance": "7663190799756037408"
+    "newinfosfrance": "7663388229126622497"
   },
   "pending": [
-    {
-      "handle": "oeil_global_news",
-      "video_id": "7663306736027061536",
-      "url": "https://www.tiktok.com/@oeil_global_news/video/7663306736027061536",
-      "detected_at": "2026-07-17T01:44:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 270,
-        "likes": 16,
-        "comments": 2,
-        "shares": 1
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7663332092419312928",
@@ -172,6 +146,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2405,
+        "likes": 57,
+        "comments": 6,
+        "shares": 13
+      }
+    },
+    {
+      "handle": "newinfosfrance",
+      "video_id": "7663388229126622497",
+      "url": "https://www.tiktok.com/@newinfosfrance/video/7663388229126622497",
+      "detected_at": "2026-07-17T07:00:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -184,8 +184,8 @@
         }
       ],
       "last_stats": {
-        "views": 373,
-        "likes": 11,
+        "views": 7,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
