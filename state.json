@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7663522912418188577",
     "actu913": "7663520245834894625",
-    "franceendirect1": "7663146124689050913",
+    "franceendirect1": "7663543559143902496",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
     "breaking3": "7663518886318312737",
@@ -191,32 +191,6 @@
       }
     },
     {
-      "handle": "journalsudouest",
-      "video_id": "7663466468473933089",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7663466468473933089",
-      "detected_at": "2026-07-17T12:03:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 12988,
-        "likes": 1341,
-        "comments": 15,
-        "shares": 167
-      }
-    },
-    {
       "handle": "coachdydy4.0_info",
       "video_id": "7663477309483076897",
       "url": "https://www.tiktok.com/@coachdydy4.0_info/video/7663477309483076897",
@@ -332,7 +306,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -340,10 +314,10 @@
         }
       ],
       "last_stats": {
-        "views": 3313,
-        "likes": 98,
-        "comments": 7,
-        "shares": 19
+        "views": 6901,
+        "likes": 148,
+        "comments": 12,
+        "shares": 33
       }
     },
     {
@@ -358,7 +332,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -366,9 +340,9 @@
         }
       ],
       "last_stats": {
-        "views": 510,
-        "likes": 17,
-        "comments": 1,
+        "views": 647,
+        "likes": 19,
+        "comments": 2,
         "shares": 6
       }
     },
@@ -682,6 +656,32 @@
         "likes": 186,
         "comments": 14,
         "shares": 20
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7663543559143902496",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7663543559143902496",
+      "detected_at": "2026-07-17T17:03:06+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
