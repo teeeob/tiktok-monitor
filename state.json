@@ -70,7 +70,7 @@
     "infofrance.24": "7628945207240772896",
     "info20fr": "7663215831962209569",
     "kat_info": "7663573396835339553",
-    "pandadunet": "7663574091466640673",
+    "pandadunet": "7663627506989288736",
     "actufrance_33": "7663615075307031841",
     "actu.le.fran843": "7655296602613075233",
     "france.actu02": "7663596962322730272",
@@ -432,7 +432,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -444,8 +444,8 @@
         }
       ],
       "last_stats": {
-        "views": 80,
-        "likes": 5,
+        "views": 267,
+        "likes": 12,
         "comments": 1,
         "shares": 4
       }
@@ -458,7 +458,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -470,10 +470,10 @@
         }
       ],
       "last_stats": {
-        "views": 7693,
-        "likes": 762,
-        "comments": 18,
-        "shares": 18
+        "views": 12295,
+        "likes": 1141,
+        "comments": 19,
+        "shares": 47
       }
     },
     {
@@ -499,6 +499,32 @@
         "views": 232,
         "likes": 23,
         "comments": 4,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "pandadunet",
+      "video_id": "7663627506989288736",
+      "url": "https://www.tiktok.com/@pandadunet/video/7663627506989288736",
+      "detected_at": "2026-07-17T22:28:50+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 22,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
