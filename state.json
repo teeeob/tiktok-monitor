@@ -113,32 +113,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7663758804042943776",
-      "url": "https://www.tiktok.com/@zopinfo/video/7663758804042943776",
-      "detected_at": "2026-07-18T06:58:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2086,
-        "likes": 65,
-        "comments": 0,
-        "shares": 43
-      }
-    },
-    {
       "handle": "contrelaguerre",
       "video_id": "7663764257346981152",
       "url": "https://www.tiktok.com/@contrelaguerre/video/7663764257346981152",
@@ -458,7 +432,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -470,10 +444,10 @@
         }
       ],
       "last_stats": {
-        "views": 20,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
+        "views": 535,
+        "likes": 52,
+        "comments": 2,
+        "shares": 2
       }
     },
     {
