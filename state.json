@@ -113,58 +113,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7663591213852888352",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7663591213852888352",
-      "detected_at": "2026-07-17T20:07:58+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9302,
-        "likes": 767,
-        "comments": 45,
-        "shares": 34
-      }
-    },
-    {
-      "handle": "france.actu02",
-      "video_id": "7663596962322730272",
-      "url": "https://www.tiktok.com/@france.actu02/video/7663596962322730272",
-      "detected_at": "2026-07-17T20:30:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1069,
-        "likes": 25,
-        "comments": 2,
-        "shares": 5
-      }
-    },
-    {
       "handle": "fut_chronicles",
       "video_id": "7663609534828629281",
       "url": "https://www.tiktok.com/@fut_chronicles/video/7663609534828629281",
@@ -254,7 +202,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -262,10 +210,10 @@
         }
       ],
       "last_stats": {
-        "views": 544,
-        "likes": 23,
-        "comments": 2,
-        "shares": 8
+        "views": 667,
+        "likes": 29,
+        "comments": 4,
+        "shares": 11
       }
     },
     {
