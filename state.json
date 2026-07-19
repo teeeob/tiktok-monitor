@@ -113,32 +113,6 @@
   },
   "pending": [
     {
-      "handle": "fut_chronicles",
-      "video_id": "7663943598953499936",
-      "url": "https://www.tiktok.com/@fut_chronicles/video/7663943598953499936",
-      "detected_at": "2026-07-18T18:55:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 276,
-        "likes": 5,
-        "comments": 1,
-        "shares": 5
-      }
-    },
-    {
       "handle": "pandadunet",
       "video_id": "7663946949531421984",
       "url": "https://www.tiktok.com/@pandadunet/video/7663946949531421984",
@@ -302,7 +276,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -314,10 +288,10 @@
         }
       ],
       "last_stats": {
-        "views": 339,
-        "likes": 23,
-        "comments": 1,
-        "shares": 0
+        "views": 6800,
+        "likes": 538,
+        "comments": 10,
+        "shares": 25
       }
     },
     {
@@ -328,7 +302,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -340,10 +314,10 @@
         }
       ],
       "last_stats": {
-        "views": 18194,
-        "likes": 1477,
-        "comments": 88,
-        "shares": 28
+        "views": 23040,
+        "likes": 1798,
+        "comments": 108,
+        "shares": 35
       }
     }
   ]
