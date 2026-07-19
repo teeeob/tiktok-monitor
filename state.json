@@ -109,7 +109,7 @@
     "revelateur.france": "7663435417231871265",
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7663250116488203553",
-    "newinfosfrance": "7664137857136708897"
+    "newinfosfrance": "7664156359444811041"
   },
   "pending": [
     {
@@ -176,7 +176,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -184,10 +184,10 @@
         }
       ],
       "last_stats": {
-        "views": 7500,
-        "likes": 118,
-        "comments": 8,
-        "shares": 66
+        "views": 33539,
+        "likes": 502,
+        "comments": 28,
+        "shares": 415
       }
     },
     {
@@ -344,6 +344,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "newinfosfrance",
+      "video_id": "7664156359444811041",
+      "url": "https://www.tiktok.com/@newinfosfrance/video/7664156359444811041",
+      "detected_at": "2026-07-19T08:41:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 153,
+        "likes": 41,
+        "comments": 2,
+        "shares": 1
       }
     }
   ]
