@@ -14,7 +14,7 @@
     "c.quoi.fr": "7663095139887303968",
     "actureact.info": "7664007161655119137",
     "coachdydy4.0_info": "7663879086221085985",
-    "coachdydy3.0_infos": "7663878568283278625",
+    "coachdydy3.0_infos": "7664102363069762849",
     "dydy_hugo": "7663891003060882721",
     "coachanddjojo": "7662325851308035361",
     "coachdydy_business": "7663891836628487457",
@@ -114,32 +114,6 @@
   "pending": [
     {
       "handle": "kat_info",
-      "video_id": "7664025195715300641",
-      "url": "https://www.tiktok.com/@kat_info/video/7664025195715300641",
-      "detected_at": "2026-07-19T00:12:06+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 729,
-        "likes": 29,
-        "comments": 3,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "kat_info",
       "video_id": "7664043116155997472",
       "url": "https://www.tiktok.com/@kat_info/video/7664043116155997472",
       "detected_at": "2026-07-19T01:21:45+00:00",
@@ -176,7 +150,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -240,6 +214,32 @@
         "likes": 8,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "coachdydy3.0_infos",
+      "video_id": "7664102363069762849",
+      "url": "https://www.tiktok.com/@coachdydy3.0_infos/video/7664102363069762849",
+      "detected_at": "2026-07-19T05:11:49+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 764,
+        "likes": 80,
+        "comments": 4,
+        "shares": 2
       }
     }
   ]
