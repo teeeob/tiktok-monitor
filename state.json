@@ -28,7 +28,7 @@
     "actuflashh": "7662451131527777569",
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7663905997701877025",
-    "mediaflix": "7662788269163203873",
+    "mediaflix": "7664170628202728737",
     "actu_brut.fr": "7663827723814587680",
     "tiktok.ragot": "7662350839176088865",
     "actu_minute_info": "7663956667444317472",
@@ -105,39 +105,13 @@
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7656913504967986464",
     "wordpress070": "7659746008074636576",
-    "fut_chronicles": "7663943598953499936",
+    "fut_chronicles": "7663609534828629281",
     "revelateur.france": "7663435417231871265",
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7663250116488203553",
     "newinfosfrance": "7664156359444811041"
   },
   "pending": [
-    {
-      "handle": "pandadunet",
-      "video_id": "7664095349933444385",
-      "url": "https://www.tiktok.com/@pandadunet/video/7664095349933444385",
-      "detected_at": "2026-07-19T04:44:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 595,
-        "likes": 23,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "coachdydy3.0_infos",
       "video_id": "7664102363069762849",
@@ -354,7 +328,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -366,10 +340,10 @@
         }
       ],
       "last_stats": {
-        "views": 153,
-        "likes": 41,
+        "views": 300,
+        "likes": 49,
         "comments": 2,
-        "shares": 1
+        "shares": 6
       }
     },
     {
@@ -448,6 +422,32 @@
         "likes": 28,
         "comments": 3,
         "shares": 11
+      }
+    },
+    {
+      "handle": "mediaflix",
+      "video_id": "7664170628202728737",
+      "url": "https://www.tiktok.com/@mediaflix/video/7664170628202728737",
+      "detected_at": "2026-07-19T09:36:26+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 358,
+        "likes": 18,
+        "comments": 0,
+        "shares": 3
       }
     }
   ]
