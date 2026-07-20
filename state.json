@@ -13,12 +13,12 @@
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7663095139887303968",
     "actureact.info": "7664362904489069857",
-    "coachdydy4.0_info": "7664195844278684960",
+    "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664523433547435297",
     "coachanddjojo": "7662325851308035361",
-    "coachdydy_business": "7664509080865738016",
-    "coachdydy3.0": "7664509291906223392",
+    "coachdydy_business": "7664535424198659361",
+    "coachdydy3.0": "7664535643799817505",
     "journalsudouest": "7664526154870590753",
     "zopinfo": "7664515098131598625",
     "actualfrance_tv": "7641314474950921504",
@@ -224,7 +224,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -236,10 +236,10 @@
         }
       ],
       "last_stats": {
-        "views": 180,
-        "likes": 12,
-        "comments": 0,
-        "shares": 0
+        "views": 2134,
+        "likes": 143,
+        "comments": 14,
+        "shares": 5
       }
     },
     {
@@ -370,6 +370,84 @@
         "likes": 28,
         "comments": 2,
         "shares": 5
+      }
+    },
+    {
+      "handle": "coachdydy4.0_info",
+      "video_id": "7664532381075901729",
+      "url": "https://www.tiktok.com/@coachdydy4.0_info/video/7664532381075901729",
+      "detected_at": "2026-07-20T09:00:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2737,
+        "likes": 254,
+        "comments": 15,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "coachdydy_business",
+      "video_id": "7664535424198659361",
+      "url": "https://www.tiktok.com/@coachdydy_business/video/7664535424198659361",
+      "detected_at": "2026-07-20T09:12:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 830,
+        "likes": 36,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "coachdydy3.0",
+      "video_id": "7664535643799817505",
+      "url": "https://www.tiktok.com/@coachdydy3.0/video/7664535643799817505",
+      "detected_at": "2026-07-20T09:12:53+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1599,
+        "likes": 71,
+        "comments": 2,
+        "shares": 3
       }
     }
   ]
