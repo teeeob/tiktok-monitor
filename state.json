@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7663095139887303968",
-    "actureact.info": "7664362904489069857",
+    "actureact.info": "7664599675558743329",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664523433547435297",
@@ -112,32 +112,6 @@
     "newinfosfrance": "7663820924143127841"
   },
   "pending": [
-    {
-      "handle": "dydy_hugo",
-      "video_id": "7664523433547435297",
-      "url": "https://www.tiktok.com/@dydy_hugo/video/7664523433547435297",
-      "detected_at": "2026-07-20T08:25:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6108,
-        "likes": 386,
-        "comments": 29,
-        "shares": 18
-      }
-    },
     {
       "handle": "coachdydy3.0_infos",
       "video_id": "7664526511847771425",
@@ -384,7 +358,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -392,8 +366,8 @@
         }
       ],
       "last_stats": {
-        "views": 524,
-        "likes": 57,
+        "views": 614,
+        "likes": 64,
         "comments": 2,
         "shares": 0
       }
@@ -484,6 +458,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 722,
+        "likes": 31,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7664599675558743329",
+      "url": "https://www.tiktok.com/@actureact.info/video/7664599675558743329",
+      "detected_at": "2026-07-20T13:21:19+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -496,10 +496,10 @@
         }
       ],
       "last_stats": {
-        "views": 93,
-        "likes": 7,
-        "comments": 0,
-        "shares": 0
+        "views": 808,
+        "likes": 48,
+        "comments": 2,
+        "shares": 2
       }
     }
   ]
