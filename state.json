@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7663095139887303968",
-    "actureact.info": "7665077223522716961",
+    "actureact.info": "7665290113177472289",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7662761792426364192",
     "en.bref_": "7639431069082586401",
     "509stories": "7642134615150431521",
-    "contrelaguerre": "7664667535001865504",
+    "contrelaguerre": "7665285218747632929",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7665061345900907809",
     "actuenbref.tv": "7664656432700067104",
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,7 +264,7 @@
         }
       ],
       "last_stats": {
-        "views": 159,
+        "views": 179,
         "likes": 13,
         "comments": 0,
         "shares": 0
@@ -408,6 +408,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7665290113177472289",
+      "url": "https://www.tiktok.com/@actureact.info/video/7665290113177472289",
+      "detected_at": "2026-07-22T10:00:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -424,6 +450,32 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7665285218747632929",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7665285218747632929",
+      "detected_at": "2026-07-22T09:41:37+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 47,
+        "likes": 5,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
