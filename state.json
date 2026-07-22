@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "revelateur.france",
-      "video_id": "7665057134190562593",
-      "url": "https://www.tiktok.com/@revelateur.france/video/7665057134190562593",
-      "detected_at": "2026-07-21T18:56:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8137,
-        "likes": 102,
-        "comments": 22,
-        "shares": 3
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7665059562327723297",
       "url": "https://www.tiktok.com/@zopinfo/video/7665059562327723297",
@@ -308,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 2492,
-        "likes": 30,
-        "comments": 0,
-        "shares": 24
+        "views": 3136,
+        "likes": 45,
+        "comments": 1,
+        "shares": 31
       }
     },
     {
