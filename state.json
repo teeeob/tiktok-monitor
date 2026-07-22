@@ -30,7 +30,7 @@
     "infofrance.tv": "7664929606348360992",
     "mediaflix": "7664170628202728737",
     "actu_brut.fr": "7665007435962141985",
-    "tiktok.ragot": "7664933000475315488",
+    "tiktok.ragot": "7665357789979741473",
     "actu_minute_info": "7665095845951311136",
     "actufranceplus": "7539888117499661590",
     "actu_tv": "7627243916009409794",
@@ -70,7 +70,7 @@
     "infofrance.24": "7628945207240772896",
     "info20fr": "7664940036223257889",
     "kat_info": "7665324625429007648",
-    "pandadunet": "7665316527578565920",
+    "pandadunet": "7665356751616609568",
     "actufrance_33": "7663615075307031841",
     "actu.le.fran843": "7655296602613075233",
     "france.actu02": "7664391761044770081",
@@ -282,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 3073,
-        "likes": 20,
-        "comments": 3,
-        "shares": 52
+        "views": 50113,
+        "likes": 257,
+        "comments": 13,
+        "shares": 978
       }
     },
     {
@@ -382,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,9 +394,9 @@
         }
       ],
       "last_stats": {
-        "views": 113,
-        "likes": 1,
-        "comments": 0,
+        "views": 374,
+        "likes": 10,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -424,6 +424,58 @@
         "likes": 9,
         "comments": 1,
         "shares": 0
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7665357789979741473",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7665357789979741473",
+      "detected_at": "2026-07-22T14:23:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 193,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "pandadunet",
+      "video_id": "7665356751616609568",
+      "url": "https://www.tiktok.com/@pandadunet/video/7665356751616609568",
+      "detected_at": "2026-07-22T14:19:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 221,
+        "likes": 10,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
