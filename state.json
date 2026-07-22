@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7665092318621437217",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7665092318621437217",
-      "detected_at": "2026-07-21T21:13:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 30518,
-        "likes": 2283,
-        "comments": 69,
-        "shares": 91
-      }
-    },
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7665095845951311136",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7665095845951311136",
-      "detected_at": "2026-07-21T21:26:43+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3126,
-        "likes": 65,
-        "comments": 3,
-        "shares": 18
-      }
-    },
-    {
       "handle": "fut_chronicles",
       "video_id": "7665100065698090273",
       "url": "https://www.tiktok.com/@fut_chronicles/video/7665100065698090273",
@@ -256,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1202,
-        "likes": 43,
+        "views": 1976,
+        "likes": 82,
         "comments": 2,
-        "shares": 5
+        "shares": 12
       }
     },
     {
@@ -282,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,7 +238,7 @@
         }
       ],
       "last_stats": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "shares": 0
