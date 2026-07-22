@@ -74,7 +74,7 @@
     "actufrance_33": "7663615075307031841",
     "actu.le.fran843": "7655296602613075233",
     "france.actu02": "7664391761044770081",
-    "actu.choc1": "7665233962222095649",
+    "actu.choc1": "7665242759728549152",
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7665109103601143073",
     "to.suissra": "7654575792071953696",
@@ -109,7 +109,7 @@
     "revelateur.france": "7665057134190562593",
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7664228491130457377",
-    "newinfosfrance": "7665070502565760288",
+    "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7664917843720326433",
     "flash.actu.france": "7664307653702585633"
   },
@@ -152,7 +152,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -160,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 858,
-        "likes": 40,
-        "comments": 3,
-        "shares": 1
+        "views": 3017,
+        "likes": 160,
+        "comments": 15,
+        "shares": 8
       }
     },
     {
@@ -178,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -186,8 +186,8 @@
         }
       ],
       "last_stats": {
-        "views": 213,
-        "likes": 13,
+        "views": 354,
+        "likes": 16,
         "comments": 0,
         "shares": 0
       }
@@ -226,7 +226,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -252,7 +252,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -318,6 +318,32 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu.choc1",
+      "video_id": "7665242759728549152",
+      "url": "https://www.tiktok.com/@actu.choc1/video/7665242759728549152",
+      "detected_at": "2026-07-22T06:56:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 6,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
