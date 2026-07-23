@@ -115,110 +115,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7665791374632946977",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7665791374632946977",
-      "detected_at": "2026-07-23T18:25:42+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 15262,
-        "likes": 1416,
-        "comments": 30,
-        "shares": 45
-      }
-    },
-    {
-      "handle": "actureact.info",
-      "video_id": "7665791506183228704",
-      "url": "https://www.tiktok.com/@actureact.info/video/7665791506183228704",
-      "detected_at": "2026-07-23T18:26:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 20362,
-        "likes": 1607,
-        "comments": 34,
-        "shares": 162
-      }
-    },
-    {
-      "handle": "journalsudouest",
-      "video_id": "7665788331308928289",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7665788331308928289",
-      "detected_at": "2026-07-23T18:13:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 37485,
-        "likes": 2126,
-        "comments": 29,
-        "shares": 380
-      }
-    },
-    {
-      "handle": "fut_chronicles",
-      "video_id": "7665792745612545313",
-      "url": "https://www.tiktok.com/@fut_chronicles/video/7665792745612545313",
-      "detected_at": "2026-07-23T18:31:03+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 218,
-        "likes": 6,
-        "comments": 1,
-        "shares": 6
-      }
-    },
-    {
       "handle": "actureact.info",
       "video_id": "7665799955675696416",
       "url": "https://www.tiktok.com/@actureact.info/video/7665799955675696416",
@@ -386,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -394,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 5397,
-        "likes": 298,
-        "comments": 7,
-        "shares": 10
+        "views": 8233,
+        "likes": 419,
+        "comments": 8,
+        "shares": 17
       }
     },
     {
@@ -412,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -420,7 +316,7 @@
         }
       ],
       "last_stats": {
-        "views": 140,
+        "views": 207,
         "likes": 2,
         "comments": 1,
         "shares": 5
@@ -438,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -446,9 +342,9 @@
         }
       ],
       "last_stats": {
-        "views": 192,
-        "likes": 6,
-        "comments": 0,
+        "views": 272,
+        "likes": 7,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -564,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -576,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 3679,
-        "likes": 300,
-        "comments": 6,
-        "shares": 7
+        "views": 12162,
+        "likes": 1046,
+        "comments": 24,
+        "shares": 38
       }
     }
   ]
