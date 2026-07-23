@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actuone.tv1",
-      "video_id": "7665434855903104288",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7665434855903104288",
-      "detected_at": "2026-07-22T19:22:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 19129,
-        "likes": 441,
-        "comments": 24,
-        "shares": 200
-      }
-    },
-    {
       "handle": "verifaffaires",
       "video_id": "7665444462822280481",
       "url": "https://www.tiktok.com/@verifaffaires/video/7665444462822280481",
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 3308,
-        "likes": 165,
-        "comments": 16,
-        "shares": 7
+        "views": 6834,
+        "likes": 302,
+        "comments": 23,
+        "shares": 15
       }
     },
     {
