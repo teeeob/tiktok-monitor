@@ -42,7 +42,7 @@
     "lejournal.actu2": "7665413680657370400",
     "en.bref_": "7639431069082586401",
     "509stories": "7642134615150431521",
-    "contrelaguerre": "7665285218747632929",
+    "contrelaguerre": "7665696457881668897",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7665434855903104288",
     "actuenbref.tv": "7664656432700067104",
@@ -204,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1183,
-        "likes": 39,
-        "comments": 2,
-        "shares": 18
+        "views": 3888,
+        "likes": 83,
+        "comments": 6,
+        "shares": 34
       }
     },
     {
@@ -282,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 4484,
-        "likes": 58,
-        "comments": 3,
-        "shares": 11
+        "views": 21365,
+        "likes": 225,
+        "comments": 5,
+        "shares": 46
       }
     },
     {
@@ -408,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 622,
-        "likes": 14,
-        "comments": 1,
-        "shares": 3
+        "views": 9933,
+        "likes": 100,
+        "comments": 4,
+        "shares": 34
       }
     },
     {
@@ -434,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 689,
-        "likes": 17,
-        "comments": 1,
-        "shares": 2
+        "views": 2117,
+        "likes": 46,
+        "comments": 3,
+        "shares": 9
       }
     },
     {
@@ -476,6 +476,32 @@
         "likes": 16,
         "comments": 2,
         "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7665696457881668897",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7665696457881668897",
+      "detected_at": "2026-07-23T12:17:25+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 129,
+        "likes": 4,
+        "comments": 3,
+        "shares": 5
       }
     }
   ]
