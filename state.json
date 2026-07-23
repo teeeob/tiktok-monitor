@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7663095139887303968",
-    "actureact.info": "7665726086721916193",
+    "actureact.info": "7665774856553647392",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -62,11 +62,11 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7665638150449941793",
     "actu913": "7665638674738007328",
-    "franceendirect1": "7665460730996559137",
+    "franceendirect1": "7665772137625554208",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
     "breaking3": "7665637203439029536",
-    "enbref33": "7665081106311548192",
+    "enbref33": "7665776693423901985",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7664940036223257889",
     "kat_info": "7665406523794853152",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7665724653012307233"
   },
   "pending": [
-    {
-      "handle": "contrelaguerre",
-      "video_id": "7665696457881668897",
-      "url": "https://www.tiktok.com/@contrelaguerre/video/7665696457881668897",
-      "detected_at": "2026-07-23T12:17:25+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5067,
-        "likes": 189,
-        "comments": 93,
-        "shares": 11
-      }
-    },
     {
       "handle": "actureact.info",
       "video_id": "7665705526096858401",
@@ -460,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 708,
-        "likes": 32,
-        "comments": 2,
-        "shares": 1
+        "views": 2036,
+        "likes": 66,
+        "comments": 6,
+        "shares": 5
       }
     },
     {
@@ -502,6 +476,84 @@
         "likes": 4,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7665774856553647392",
+      "url": "https://www.tiktok.com/@actureact.info/video/7665774856553647392",
+      "detected_at": "2026-07-23T17:21:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1252,
+        "likes": 109,
+        "comments": 3,
+        "shares": 4
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7665772137625554208",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7665772137625554208",
+      "detected_at": "2026-07-23T17:11:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 93,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "enbref33",
+      "video_id": "7665776693423901985",
+      "url": "https://www.tiktok.com/@enbref33/video/7665776693423901985",
+      "detected_at": "2026-07-23T17:28:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 12,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
