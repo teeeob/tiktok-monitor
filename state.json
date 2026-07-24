@@ -115,84 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actureact.info",
-      "video_id": "7665822074845416737",
-      "url": "https://www.tiktok.com/@actureact.info/video/7665822074845416737",
-      "detected_at": "2026-07-23T20:24:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8233,
-        "likes": 419,
-        "comments": 8,
-        "shares": 17
-      }
-    },
-    {
-      "handle": "fut_chronicles",
-      "video_id": "7665822801277783329",
-      "url": "https://www.tiktok.com/@fut_chronicles/video/7665822801277783329",
-      "detected_at": "2026-07-23T20:27:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 207,
-        "likes": 2,
-        "comments": 1,
-        "shares": 5
-      }
-    },
-    {
-      "handle": "newinfosfrance",
-      "video_id": "7665819385730272545",
-      "url": "https://www.tiktok.com/@newinfosfrance/video/7665819385730272545",
-      "detected_at": "2026-07-23T20:14:27+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 272,
-        "likes": 7,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
       "handle": "france24infos",
       "video_id": "7665827350017363233",
       "url": "https://www.tiktok.com/@france24infos/video/7665827350017363233",
@@ -308,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 12162,
-        "likes": 1046,
-        "comments": 24,
-        "shares": 38
+        "views": 17999,
+        "likes": 1597,
+        "comments": 36,
+        "shares": 58
       }
     }
   ]
