@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7665674145929121056",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7665836281301175585",
+    "infos.minutes": "7666101027627601184",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7661741159785434401",
@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7666010496696323361",
     "actu913": "7666012472368827681",
-    "franceendirect1": "7666033313861127456",
+    "franceendirect1": "7666101129176042785",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
     "breaking3": "7666008267402775841",
@@ -334,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -342,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 191,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
+        "views": 328,
+        "likes": 10,
+        "comments": 1,
+        "shares": 1
       }
     },
     {
@@ -460,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 81,
-        "likes": 5,
-        "comments": 0,
-        "shares": 1
+        "views": 8128,
+        "likes": 112,
+        "comments": 10,
+        "shares": 135
       }
     },
     {
@@ -486,7 +486,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -498,10 +498,10 @@
         }
       ],
       "last_stats": {
-        "views": 70,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 1741,
+        "likes": 54,
+        "comments": 4,
+        "shares": 5
       }
     },
     {
@@ -526,6 +526,58 @@
       "last_stats": {
         "views": 239,
         "likes": 7,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7666101027627601184",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7666101027627601184",
+      "detected_at": "2026-07-24T14:27:20+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 191,
+        "likes": 6,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7666101129176042785",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7666101129176042785",
+      "detected_at": "2026-07-24T14:27:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 9,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
