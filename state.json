@@ -66,7 +66,7 @@
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
     "breaking3": "7666113725828730145",
-    "enbref33": "7666055333361503521",
+    "enbref33": "7666146549663108385",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7666036478782213408",
     "kat_info": "7665406523794853152",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7665811779435367713"
   },
   "pending": [
-    {
-      "handle": "actureact.info",
-      "video_id": "7666070838499659040",
-      "url": "https://www.tiktok.com/@actureact.info/video/7666070838499659040",
-      "detected_at": "2026-07-24T12:30:12+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 34703,
-        "likes": 1871,
-        "comments": 49,
-        "shares": 57
-      }
-    },
     {
       "handle": "actureact.info",
       "video_id": "7666078796063214880",
@@ -282,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 10850,
-        "likes": 416,
-        "comments": 52,
-        "shares": 48
+        "views": 31557,
+        "likes": 853,
+        "comments": 185,
+        "shares": 246
       }
     },
     {
@@ -308,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 120,
-        "likes": 4,
+        "views": 387,
+        "likes": 10,
         "comments": 0,
-        "shares": 1
+        "shares": 2
       }
     },
     {
@@ -605,6 +579,32 @@
         "views": 172,
         "likes": 13,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "enbref33",
+      "video_id": "7666146549663108385",
+      "url": "https://www.tiktok.com/@enbref33/video/7666146549663108385",
+      "detected_at": "2026-07-24T17:23:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 61,
+        "likes": 1,
+        "comments": 1,
         "shares": 0
       }
     }
