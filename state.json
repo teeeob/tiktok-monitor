@@ -110,36 +110,10 @@
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7665311140628548897",
     "newinfosfrance": "7665819385730272545",
-    "verifaffaires": "7665444462822280481",
+    "verifaffaires": "7666063227809303841",
     "flash.actu.france": "7665811779435367713"
   },
   "pending": [
-    {
-      "handle": "contrelaguerre",
-      "video_id": "7665985733538237729",
-      "url": "https://www.tiktok.com/@contrelaguerre/video/7665985733538237729",
-      "detected_at": "2026-07-24T07:00:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1996,
-        "likes": 30,
-        "comments": 3,
-        "shares": 15
-      }
-    },
     {
       "handle": "acturium",
       "video_id": "7665992536443440416",
@@ -230,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1333,
-        "likes": 36,
-        "comments": 4,
-        "shares": 3
+        "views": 2585,
+        "likes": 69,
+        "comments": 7,
+        "shares": 20
       }
     },
     {
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 7246,
-        "likes": 110,
-        "comments": 12,
-        "shares": 31
+        "views": 12172,
+        "likes": 130,
+        "comments": 18,
+        "shares": 76
       }
     },
     {
@@ -282,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 1181,
-        "likes": 42,
-        "comments": 1,
-        "shares": 6
+        "views": 7927,
+        "likes": 115,
+        "comments": 16,
+        "shares": 49
       }
     },
     {
@@ -535,6 +509,32 @@
       "video_id": "7666055333361503521",
       "url": "https://www.tiktok.com/@enbref33/video/7666055333361503521",
       "detected_at": "2026-07-24T11:30:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "verifaffaires",
+      "video_id": "7666063227809303841",
+      "url": "https://www.tiktok.com/@verifaffaires/video/7666063227809303841",
+      "detected_at": "2026-07-24T12:00:40+00:00",
       "checks": [
         {
           "offset_h": 1,
