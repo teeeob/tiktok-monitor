@@ -50,7 +50,7 @@
     "langlecurieux": "7663918109513796886",
     "actualoff_fr": "7647819347489983776",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7666894938059197728",
+    "journalfrancetv": "7667083130041306400",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7666854920087244064",
@@ -113,5 +113,32 @@
     "verifaffaires": "7666063227809303841",
     "flash.actu.france": "7666350084090547489"
   },
-  "pending": []
+  "pending": [
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7667083130041306400",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7667083130041306400",
+      "detected_at": "2026-07-27T05:58:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 18,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    }
+  ]
 }
