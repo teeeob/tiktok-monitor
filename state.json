@@ -31,7 +31,7 @@
     "mediaflix": "7664170628202728737",
     "actu_brut.fr": "7666801248372411680",
     "tiktok.ragot": "7667142192632270113",
-    "actu_minute_info": "7666760581256432928",
+    "actu_minute_info": "7667186537062239520",
     "actufranceplus": "7539888117499661590",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 12638,
-        "likes": 228,
-        "comments": 61,
-        "shares": 228
+        "views": 40291,
+        "likes": 617,
+        "comments": 164,
+        "shares": 810
       }
     },
     {
@@ -282,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -408,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 5552,
-        "likes": 312,
-        "comments": 4,
-        "shares": 9
+        "views": 11745,
+        "likes": 710,
+        "comments": 10,
+        "shares": 43
       }
     },
     {
@@ -434,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 263,
-        "likes": 7,
-        "comments": 1,
-        "shares": 5
+        "views": 15235,
+        "likes": 225,
+        "comments": 17,
+        "shares": 178
       }
     },
     {
@@ -476,6 +476,32 @@
         "likes": 6,
         "comments": 1,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7667186537062239520",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7667186537062239520",
+      "detected_at": "2026-07-27T12:39:41+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 439,
+        "likes": 16,
+        "comments": 2,
+        "shares": 2
       }
     }
   ]
