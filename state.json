@@ -106,7 +106,7 @@
     "adrenatv.france": "7656913504967986464",
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7665822801277783329",
-    "revelateur.france": "7666874603188374817",
+    "revelateur.france": "7667183189042990368",
     "breakingactufr": "7663099218403380513",
     "actu_france24": "7666793793118620960",
     "newinfosfrance": "7663820924143127841",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7667096445358574880"
   },
   "pending": [
-    {
-      "handle": "actu.choc1",
-      "video_id": "7667100504912170273",
-      "url": "https://www.tiktok.com/@actu.choc1/video/7667100504912170273",
-      "detected_at": "2026-07-27T07:05:58+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 283,
-        "likes": 32,
-        "comments": 2,
-        "shares": 0
-      }
-    },
     {
       "handle": "breaking3",
       "video_id": "7667121167802682657",
@@ -204,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 8872,
-        "likes": 454,
-        "comments": 4,
-        "shares": 4
+        "views": 13652,
+        "likes": 664,
+        "comments": 11,
+        "shares": 8
       }
     },
     {
@@ -230,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 7342,
-        "likes": 87,
-        "comments": 0,
-        "shares": 6
+        "views": 35573,
+        "likes": 178,
+        "comments": 2,
+        "shares": 10
       }
     },
     {
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 1166,
-        "likes": 87,
-        "comments": 1,
-        "shares": 2
+        "views": 1481,
+        "likes": 97,
+        "comments": 2,
+        "shares": 3
       }
     },
     {
@@ -382,7 +356,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -408,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,9 +394,9 @@
         }
       ],
       "last_stats": {
-        "views": 49,
-        "likes": 2,
-        "comments": 0,
+        "views": 483,
+        "likes": 12,
+        "comments": 3,
         "shares": 0
       }
     },
@@ -476,6 +450,32 @@
         "likes": 7,
         "comments": 1,
         "shares": 5
+      }
+    },
+    {
+      "handle": "revelateur.france",
+      "video_id": "7667183189042990368",
+      "url": "https://www.tiktok.com/@revelateur.france/video/7667183189042990368",
+      "detected_at": "2026-07-27T12:26:42+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 81,
+        "likes": 6,
+        "comments": 1,
+        "shares": 0
       }
     }
   ]
