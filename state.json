@@ -74,7 +74,7 @@
     "actufrance_33": "7666973453148278049",
     "actu.le.fran843": "7655296602613075233",
     "france.actu02": "7664391761044770081",
-    "actu.choc1": "7667088035980365089",
+    "actu.choc1": "7667100504912170273",
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7666192266100280609",
     "to.suissra": "7654575792071953696",
@@ -148,7 +148,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -160,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 32,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 893,
+        "likes": 27,
+        "comments": 1,
+        "shares": 8
       }
     },
     {
@@ -174,7 +174,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -186,9 +186,9 @@
         }
       ],
       "last_stats": {
-        "views": 87,
-        "likes": 5,
-        "comments": 0,
+        "views": 246,
+        "likes": 19,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -241,6 +241,32 @@
         "views": 48,
         "likes": 6,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu.choc1",
+      "video_id": "7667100504912170273",
+      "url": "https://www.tiktok.com/@actu.choc1/video/7667100504912170273",
+      "detected_at": "2026-07-27T07:05:58+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 253,
+        "likes": 31,
+        "comments": 2,
         "shares": 0
       }
     }
