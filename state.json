@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7667238257456909601",
-    "actureact.info": "7667209422074072353",
+    "actureact.info": "7667265222180080928",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7667261216804424993",
-    "zopinfo": "7667250116788555040",
+    "zopinfo": "7667268752479718688",
     "actualfrance_tv": "7641314474950921504",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7665037824898501920",
@@ -668,7 +668,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -680,10 +680,10 @@
         }
       ],
       "last_stats": {
-        "views": 173,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0
+        "views": 541,
+        "likes": 22,
+        "comments": 2,
+        "shares": 1
       }
     },
     {
@@ -786,6 +786,58 @@
       "last_stats": {
         "views": 55,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7667265222180080928",
+      "url": "https://www.tiktok.com/@actureact.info/video/7667265222180080928",
+      "detected_at": "2026-07-27T17:44:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5852,
+        "likes": 456,
+        "comments": 15,
+        "shares": 41
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7667268752479718688",
+      "url": "https://www.tiktok.com/@zopinfo/video/7667268752479718688",
+      "detected_at": "2026-07-27T17:58:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 13,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
