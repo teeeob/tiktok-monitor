@@ -65,7 +65,7 @@
     "franceendirect1": "7666894775815015712",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
-    "breaking3": "7666853992609205536",
+    "breaking3": "7667121167802682657",
     "enbref33": "7666876707810430240",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7666418188829216032",
@@ -252,6 +252,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 283,
+        "likes": 32,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7667121167802682657",
+      "url": "https://www.tiktok.com/@breaking3/video/7667121167802682657",
+      "detected_at": "2026-07-27T08:26:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -264,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 253,
-        "likes": 31,
-        "comments": 2,
-        "shares": 0
+        "views": 47,
+        "likes": 6,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
