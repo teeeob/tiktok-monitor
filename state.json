@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actureact.info",
-      "video_id": "7667308820724501793",
-      "url": "https://www.tiktok.com/@actureact.info/video/7667308820724501793",
-      "detected_at": "2026-07-27T20:34:10+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 57817,
-        "likes": 6487,
-        "comments": 237,
-        "shares": 322
-      }
-    },
-    {
-      "handle": "infos.minutes",
-      "video_id": "7667315623470419232",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7667315623470419232",
-      "detected_at": "2026-07-27T21:00:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 34546,
-        "likes": 2247,
-        "comments": 58,
-        "shares": 69
-      }
-    },
-    {
       "handle": "actufrance98",
       "video_id": "7667317464274947360",
       "url": "https://www.tiktok.com/@actufrance98/video/7667317464274947360",
@@ -204,7 +152,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 1631,
-        "likes": 150,
-        "comments": 13,
-        "shares": 4
+        "views": 4187,
+        "likes": 317,
+        "comments": 31,
+        "shares": 10
       }
     }
   ]
