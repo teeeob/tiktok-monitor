@@ -21,7 +21,7 @@
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7667504094415801632",
     "zopinfo": "7667520232910556448",
-    "actualfrance_tv": "7641314474950921504",
+    "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7667277285078191393",
     "reclist": "7646688930988920097",
@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7667257587431247136",
     "mediaflix": "7664170628202728737",
-    "actu_brut.fr": "7666801248372411680",
+    "actu_brut.fr": "7667530210052459808",
     "tiktok.ragot": "7667142192632270113",
     "actu_minute_info": "7667186537062239520",
     "actufranceplus": "7539888117499661590",
@@ -204,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,8 +212,8 @@
         }
       ],
       "last_stats": {
-        "views": 544,
-        "likes": 17,
+        "views": 627,
+        "likes": 20,
         "comments": 1,
         "shares": 4
       }
@@ -501,6 +501,32 @@
         "views": 198,
         "likes": 15,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_brut.fr",
+      "video_id": "7667530210052459808",
+      "url": "https://www.tiktok.com/@actu_brut.fr/video/7667530210052459808",
+      "detected_at": "2026-07-28T10:53:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 197,
+        "likes": 28,
+        "comments": 0,
         "shares": 0
       }
     }
