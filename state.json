@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7667489719592209696",
-    "actureact.info": "7667877136857894177",
+    "actureact.info": "7667909196813208864",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -44,7 +44,7 @@
     "509stories": "7642134615150431521",
     "contrelaguerre": "7667679027460672801",
     "actubrute_fr": "7658675464088718625",
-    "actuone.tv1": "7666177407774248225",
+    "actuone.tv1": "7667910584045702433",
     "actuenbref.tv": "7667569841410215201",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7667575686793628950",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7667810684842822944"
   },
   "pending": [
-    {
-      "handle": "infos.tv05",
-      "video_id": "7667828003459681569",
-      "url": "https://www.tiktok.com/@infos.tv05/video/7667828003459681569",
-      "detected_at": "2026-07-29T06:09:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "journalfrancetv",
       "video_id": "7667840706488159521",
@@ -230,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1210,
-        "likes": 54,
-        "comments": 3,
-        "shares": 10
+        "views": 4212,
+        "likes": 112,
+        "comments": 7,
+        "shares": 20
       }
     },
     {
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 804,
-        "likes": 61,
-        "comments": 3,
-        "shares": 8
+        "views": 1345,
+        "likes": 79,
+        "comments": 4,
+        "shares": 12
       }
     },
     {
@@ -408,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,9 +394,9 @@
         }
       ],
       "last_stats": {
-        "views": 588,
-        "likes": 54,
-        "comments": 3,
+        "views": 1071,
+        "likes": 98,
+        "comments": 5,
         "shares": 0
       }
     },
@@ -450,6 +424,58 @@
         "likes": 20,
         "comments": 0,
         "shares": 6
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7667909196813208864",
+      "url": "https://www.tiktok.com/@actureact.info/video/7667909196813208864",
+      "detected_at": "2026-07-29T11:23:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 3579,
+        "likes": 256,
+        "comments": 6,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "actuone.tv1",
+      "video_id": "7667910584045702433",
+      "url": "https://www.tiktok.com/@actuone.tv1/video/7667910584045702433",
+      "detected_at": "2026-07-29T11:29:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
