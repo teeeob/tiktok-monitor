@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7667519586920680736",
+    "lejournal.actu": "7665674145929121056",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7667697740213751073",
     "alarmeactu": "7648462451649809697",
@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7667489719592209696",
-    "actureact.info": "7667732636105755936",
+    "actureact.info": "7667877136857894177",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -29,9 +29,9 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7667537232714108192",
     "mediaflix": "7664170628202728737",
-    "actu_brut.fr": "7667530210052459808",
-    "tiktok.ragot": "7667574089200045345",
-    "actu_minute_info": "7667549106771954977",
+    "actu_brut.fr": "7666801248372411680",
+    "tiktok.ragot": "7667142192632270113",
+    "actu_minute_info": "7667186537062239520",
     "actufranceplus": "7539888117499661590",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
@@ -44,7 +44,7 @@
     "509stories": "7642134615150431521",
     "contrelaguerre": "7667679027460672801",
     "actubrute_fr": "7658675464088718625",
-    "actuone.tv1": "7667535921322970401",
+    "actuone.tv1": "7666177407774248225",
     "actuenbref.tv": "7667569841410215201",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7667575686793628950",
@@ -82,7 +82,7 @@
     "univers_doc": "7667623571874794785",
     "infos.tv05": "7667609002854993184",
     "actufrance98": "7667698552197385504",
-    "lesignal.fr": "7667443608718462240",
+    "lesignal.fr": "7667277655074540832",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7667217081485528353",
     "actualitgeo": "7657906402735688992",
@@ -178,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 267,
-        "likes": 26,
-        "comments": 1,
-        "shares": 2
+        "views": 1210,
+        "likes": 54,
+        "comments": 3,
+        "shares": 10
       }
     },
     {
@@ -301,6 +301,32 @@
       "video_id": "7667859892111199521",
       "url": "https://www.tiktok.com/@breaking3/video/7667859892111199521",
       "detected_at": "2026-07-29T08:12:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 804,
+        "likes": 61,
+        "comments": 3,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7667877136857894177",
+      "url": "https://www.tiktok.com/@actureact.info/video/7667877136857894177",
+      "detected_at": "2026-07-29T09:19:35+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -316,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 277,
-        "likes": 36,
-        "comments": 0,
-        "shares": 5
+        "views": 1490,
+        "likes": 115,
+        "comments": 4,
+        "shares": 6
       }
     }
   ]
