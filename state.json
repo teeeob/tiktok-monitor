@@ -78,7 +78,7 @@
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7667706655370464545",
     "to.suissra": "7654575792071953696",
-    "essiide": "7667507837429353761",
+    "essiide": "7667810940871642401",
     "univers_doc": "7667623571874794785",
     "infos.tv05": "7667609002854993184",
     "actufrance98": "7667698552197385504",
@@ -111,7 +111,60 @@
     "actu_france24": "7666793793118620960",
     "newinfosfrance": "7667619431840746785",
     "verifaffaires": "7667667206687264033",
-    "flash.actu.france": "7667096445358574880"
+    "flash.actu.france": "7667810684842822944"
   },
-  "pending": []
+  "pending": [
+    {
+      "handle": "essiide",
+      "video_id": "7667810940871642401",
+      "url": "https://www.tiktok.com/@essiide/video/7667810940871642401",
+      "detected_at": "2026-07-29T05:02:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 126,
+        "likes": 7,
+        "comments": 4,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "flash.actu.france",
+      "video_id": "7667810684842822944",
+      "url": "https://www.tiktok.com/@flash.actu.france/video/7667810684842822944",
+      "detected_at": "2026-07-29T05:01:53+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 78,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      }
+    }
+  ]
 }
