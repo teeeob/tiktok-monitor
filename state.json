@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7668275528440220961",
+    "journalsudouest": "7668319310544194848",
     "zopinfo": "7668309968264629536",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7668008008621755680",
     "askyp.france": "7645734060261788961",
-    "infofrance.tv": "7667919878069816609",
+    "infofrance.tv": "7668314775339748641",
     "mediaflix": "7664170628202728737",
     "actu_brut.fr": "7668295737125375264",
     "tiktok.ragot": "7668297910882241825",
@@ -408,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 4141,
-        "likes": 325,
-        "comments": 10,
-        "shares": 7
+        "views": 9079,
+        "likes": 797,
+        "comments": 14,
+        "shares": 18
       }
     },
     {
@@ -603,6 +603,58 @@
       ],
       "last_stats": {
         "views": 14,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7668319310544194848",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7668319310544194848",
+      "detected_at": "2026-07-30T13:55:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1306,
+        "likes": 46,
+        "comments": 2,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7668314775339748641",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7668314775339748641",
+      "detected_at": "2026-07-30T13:37:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 10,
         "likes": 0,
         "comments": 0,
         "shares": 0
