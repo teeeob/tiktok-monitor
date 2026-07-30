@@ -113,32 +113,5 @@
     "verifaffaires": "7667667206687264033",
     "flash.actu.france": "7667096445358574880"
   },
-  "pending": [
-    {
-      "handle": "unmomentactu",
-      "video_id": "7668073766726995232",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7668073766726995232",
-      "detected_at": "2026-07-29T22:02:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 16892,
-        "likes": 1318,
-        "comments": 130,
-        "shares": 164
-      }
-    }
-  ]
+  "pending": []
 }
