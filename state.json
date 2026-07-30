@@ -115,110 +115,6 @@
   },
   "pending": [
     {
-      "handle": "lejournal.actu",
-      "video_id": "7668037856157306145",
-      "url": "https://www.tiktok.com/@lejournal.actu/video/7668037856157306145",
-      "detected_at": "2026-07-29T19:43:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9359,
-        "likes": 294,
-        "comments": 23,
-        "shares": 24
-      }
-    },
-    {
-      "handle": "actudivers.fr",
-      "video_id": "7668035980317707553",
-      "url": "https://www.tiktok.com/@actudivers.fr/video/7668035980317707553",
-      "detected_at": "2026-07-29T19:35:56+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 22345,
-        "likes": 226,
-        "comments": 30,
-        "shares": 115
-      }
-    },
-    {
-      "handle": "revelateur.france",
-      "video_id": "7668036823725247777",
-      "url": "https://www.tiktok.com/@revelateur.france/video/7668036823725247777",
-      "detected_at": "2026-07-29T19:39:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 961,
-        "likes": 16,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "infos.minutes",
-      "video_id": "7668041466551340320",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7668041466551340320",
-      "detected_at": "2026-07-29T19:57:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 41966,
-        "likes": 3203,
-        "comments": 45,
-        "shares": 173
-      }
-    },
-    {
       "handle": "journalsudouest",
       "video_id": "7668045439085628705",
       "url": "https://www.tiktok.com/@journalsudouest/video/7668045439085628705",
@@ -334,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -342,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 8202,
-        "likes": 482,
-        "comments": 35,
-        "shares": 48
+        "views": 16892,
+        "likes": 1318,
+        "comments": 130,
+        "shares": 164
       }
     }
   ]
