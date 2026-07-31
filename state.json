@@ -100,7 +100,7 @@
     "la.france.avenir2026": "7668328084415745312",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7668509431839116576",
-    "unmomentactu": "7668375753171553568",
+    "unmomentactu": "7668679063053012256",
     "franceecho": "7630581345105775894",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7656913504967986464",
@@ -356,7 +356,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 755,
-        "likes": 14,
-        "comments": 20,
-        "shares": 0
+        "views": 1392,
+        "likes": 25,
+        "comments": 51,
+        "shares": 6
       }
     },
     {
@@ -450,6 +450,32 @@
         "likes": 51,
         "comments": 2,
         "shares": 9
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7668679063053012256",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7668679063053012256",
+      "detected_at": "2026-07-31T13:11:26+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
