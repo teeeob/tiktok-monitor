@@ -28,7 +28,7 @@
     "actuflashh": "7668008008621755680",
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7668660738893843745",
-    "mediaflix": "7668558427752238369",
+    "mediaflix": "7668766786417855777",
     "actu_brut.fr": "7668653975020916000",
     "tiktok.ragot": "7668709812829506848",
     "actu_minute_info": "7668280327311330592",
@@ -308,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 5560,
-        "likes": 63,
-        "comments": 3,
-        "shares": 22
+        "views": 44836,
+        "likes": 280,
+        "comments": 15,
+        "shares": 222
       }
     },
     {
@@ -334,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -342,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 11107,
-        "likes": 210,
-        "comments": 4,
-        "shares": 91
+        "views": 40644,
+        "likes": 749,
+        "comments": 14,
+        "shares": 334
       }
     },
     {
@@ -512,7 +512,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -524,10 +524,10 @@
         }
       ],
       "last_stats": {
-        "views": 3717,
-        "likes": 179,
-        "comments": 9,
-        "shares": 22
+        "views": 17142,
+        "likes": 1367,
+        "comments": 34,
+        "shares": 73
       }
     },
     {
@@ -642,6 +642,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 812,
+        "likes": 31,
+        "comments": 2,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "mediaflix",
+      "video_id": "7668766786417855777",
+      "url": "https://www.tiktok.com/@mediaflix/video/7668766786417855777",
+      "detected_at": "2026-07-31T18:51:50+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -654,10 +680,10 @@
         }
       ],
       "last_stats": {
-        "views": 511,
-        "likes": 23,
+        "views": 76,
+        "likes": 10,
         "comments": 0,
-        "shares": 2
+        "shares": 0
       }
     }
   ]
