@@ -82,7 +82,7 @@
     "univers_doc": "7667972049712729377",
     "infos.tv05": "7668002037216349472",
     "actufrance98": "7668748345321508128",
-    "lesignal.fr": "7668416859837893920",
+    "lesignal.fr": "7669038859916807456",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7668377503567809824",
     "actualitgeo": "7657906402735688992",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7668583541394967840"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7668962515086331168",
-      "url": "https://www.tiktok.com/@zopinfo/video/7668962515086331168",
-      "detected_at": "2026-08-01T07:31:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 817,
-        "likes": 34,
-        "comments": 1,
-        "shares": 0
-      }
-    },
     {
       "handle": "actuenbref.tv",
       "video_id": "7668963713768066337",
@@ -460,6 +434,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 7638,
+        "likes": 481,
+        "comments": 3,
+        "shares": 5
+      }
+    },
+    {
+      "handle": "lesignal.fr",
+      "video_id": "7669038859916807456",
+      "url": "https://www.tiktok.com/@lesignal.fr/video/7669038859916807456",
+      "detected_at": "2026-08-01T12:27:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -472,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 4957,
-        "likes": 326,
-        "comments": 2,
-        "shares": 3
+        "views": 58,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
