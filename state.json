@@ -65,11 +65,11 @@
     "franceendirect1": "7668714979176058144",
     "h.o.b15": "7661239522927168800",
     "info247fr": "7661523879667502368",
-    "breaking3": "7668720758629092640",
+    "breaking3": "7668977126674140448",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7668727707408092449",
-    "kat_info": "7665406523794853152",
+    "kat_info": "7668973094794562848",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7668017257930427680",
     "actu.le.fran843": "7655044164291169568",
@@ -174,7 +174,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -186,9 +186,9 @@
         }
       ],
       "last_stats": {
-        "views": 65,
-        "likes": 5,
-        "comments": 0,
+        "views": 490,
+        "likes": 26,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -215,6 +215,58 @@
         "views": 157,
         "likes": 5,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7668977126674140448",
+      "url": "https://www.tiktok.com/@breaking3/video/7668977126674140448",
+      "detected_at": "2026-08-01T08:28:06+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 52,
+        "likes": 5,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7668973094794562848",
+      "url": "https://www.tiktok.com/@kat_info/video/7668973094794562848",
+      "detected_at": "2026-08-01T08:12:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 267,
+        "likes": 4,
+        "comments": 1,
         "shares": 0
       }
     }
