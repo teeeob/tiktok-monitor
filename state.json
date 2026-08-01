@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7668908854104657184",
-      "url": "https://www.tiktok.com/@zopinfo/video/7668908854104657184",
-      "detected_at": "2026-08-01T04:03:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2736,
-        "likes": 35,
-        "comments": 1,
-        "shares": 4
-      }
-    },
-    {
       "handle": "journalfrancetv",
       "video_id": "7668953194801679648",
       "url": "https://www.tiktok.com/@journalfrancetv/video/7668953194801679648",
@@ -226,7 +200,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -238,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 52,
-        "likes": 5,
-        "comments": 1,
-        "shares": 0
+        "views": 4427,
+        "likes": 116,
+        "comments": 24,
+        "shares": 27
       }
     },
     {
@@ -252,7 +226,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -264,9 +238,9 @@
         }
       ],
       "last_stats": {
-        "views": 267,
-        "likes": 4,
-        "comments": 1,
+        "views": 1332,
+        "likes": 14,
+        "comments": 3,
         "shares": 0
       }
     },
@@ -278,7 +252,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 1139,
-        "likes": 30,
+        "views": 2465,
+        "likes": 63,
         "comments": 3,
-        "shares": 7
+        "shares": 9
       }
     }
   ]
