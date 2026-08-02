@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "info20fr",
-      "video_id": "7669158584105700641",
-      "url": "https://www.tiktok.com/@info20fr/video/7669158584105700641",
-      "detected_at": "2026-08-01T20:12:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 625,
-        "likes": 82,
-        "comments": 2,
-        "shares": 2
-      }
-    },
-    {
-      "handle": "kat_info",
-      "video_id": "7669162420589415713",
-      "url": "https://www.tiktok.com/@kat_info/video/7669162420589415713",
-      "detected_at": "2026-08-01T20:27:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3406,
-        "likes": 45,
-        "comments": 4,
-        "shares": 4
-      }
-    },
-    {
       "handle": "franceendirect1",
       "video_id": "7669167402298461473",
       "url": "https://www.tiktok.com/@franceendirect1/video/7669167402298461473",
@@ -256,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1520,
-        "likes": 23,
+        "views": 1830,
+        "likes": 26,
         "comments": 0,
-        "shares": 6
+        "shares": 7
       }
     }
   ]
