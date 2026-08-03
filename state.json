@@ -81,7 +81,7 @@
     "essiide": "7669669929771126049",
     "univers_doc": "7667972049712729377",
     "infos.tv05": "7668002037216349472",
-    "actufrance98": "7669849013893532961",
+    "actufrance98": "7669925850577374497",
     "lesignal.fr": "7669038859916807456",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7669850752852004128",
@@ -108,7 +108,7 @@
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
     "breakingactufr": "7668232744417250592",
-    "actu_france24": "7668399798717844769",
+    "actu_france24": "7669943395275590945",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7669927869556051232",
     "flash.actu.france": "7669494346470772001"
@@ -512,6 +512,58 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2005,
+        "likes": 73,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "actufrance98",
+      "video_id": "7669925850577374497",
+      "url": "https://www.tiktok.com/@actufrance98/video/7669925850577374497",
+      "detected_at": "2026-08-03T21:49:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 223,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_france24",
+      "video_id": "7669943395275590945",
+      "url": "https://www.tiktok.com/@actu_france24/video/7669943395275590945",
+      "detected_at": "2026-08-03T22:57:42+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -524,8 +576,8 @@
         }
       ],
       "last_stats": {
-        "views": 143,
-        "likes": 5,
+        "views": 227,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
