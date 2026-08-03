@@ -113,32 +113,5 @@
     "verifaffaires": "7669533282329005344",
     "flash.actu.france": "7669494346470772001"
   },
-  "pending": [
-    {
-      "handle": "actu_brut.fr",
-      "video_id": "7669559380521536801",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7669559380521536801",
-      "detected_at": "2026-08-02T22:07:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9737,
-        "likes": 275,
-        "comments": 41,
-        "shares": 45
-      }
-    }
-  ]
+  "pending": []
 }
