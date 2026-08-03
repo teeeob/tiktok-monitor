@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7669864378614713633",
     "askyp.france": "7645734060261788961",
-    "infofrance.tv": "7669879090735795488",
+    "infofrance.tv": "7669919585532906784",
     "mediaflix": "7668766786417855777",
     "actu_brut.fr": "7669849251777744161",
     "tiktok.ragot": "7669907040826887457",
@@ -386,7 +386,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -394,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 1475,
-        "likes": 25,
-        "comments": 1,
-        "shares": 7
+        "views": 5991,
+        "likes": 68,
+        "comments": 7,
+        "shares": 35
       }
     },
     {
@@ -412,7 +412,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 1227,
-        "likes": 37,
-        "comments": 3,
-        "shares": 1
+        "views": 31242,
+        "likes": 757,
+        "comments": 31,
+        "shares": 23
       }
     },
     {
@@ -590,7 +590,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -602,10 +602,10 @@
         }
       ],
       "last_stats": {
-        "views": 169,
-        "likes": 8,
-        "comments": 0,
-        "shares": 0
+        "views": 4284,
+        "likes": 131,
+        "comments": 3,
+        "shares": 134
       }
     },
     {
@@ -616,7 +616,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -628,8 +628,8 @@
         }
       ],
       "last_stats": {
-        "views": 1324,
-        "likes": 15,
+        "views": 2330,
+        "likes": 21,
         "comments": 2,
         "shares": 0
       }
@@ -684,6 +684,32 @@
         "likes": 32,
         "comments": 7,
         "shares": 4
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7669919585532906784",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7669919585532906784",
+      "detected_at": "2026-08-03T21:25:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 297,
+        "likes": 14,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
