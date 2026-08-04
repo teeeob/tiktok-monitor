@@ -76,7 +76,7 @@
     "france.actu02": "7664391761044770081",
     "actu.choc1": "7670062806112275745",
     "infofrance_fr": "7649736592470330646",
-    "actudivers.fr": "7669898460589493536",
+    "actudivers.fr": "7670254008161914144",
     "to.suissra": "7654575792071953696",
     "essiide": "7670252344675814689",
     "univers_doc": "7670251465147043105",
@@ -138,32 +138,6 @@
         "likes": 356,
         "comments": 25,
         "shares": 249
-      }
-    },
-    {
-      "handle": "buzzalerte",
-      "video_id": "7670177444619488545",
-      "url": "https://www.tiktok.com/@buzzalerte/video/7670177444619488545",
-      "detected_at": "2026-08-04T14:05:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 45022,
-        "likes": 1128,
-        "comments": 69,
-        "shares": 216
       }
     },
     {
@@ -631,6 +605,32 @@
         "views": 29,
         "likes": 1,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actudivers.fr",
+      "video_id": "7670254008161914144",
+      "url": "https://www.tiktok.com/@actudivers.fr/video/7670254008161914144",
+      "detected_at": "2026-08-04T19:03:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 282,
+        "likes": 4,
+        "comments": 2,
         "shares": 0
       }
     }
