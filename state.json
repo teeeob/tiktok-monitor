@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7669919585532906784",
     "mediaflix": "7670113525951434017",
-    "actu_brut.fr": "7670128445724085536",
+    "actu_brut.fr": "7670135511742287137",
     "tiktok.ragot": "7669907040826887457",
     "actu_minute_info": "7669781773751995680",
     "actufranceplus": "7668591891759320353",
@@ -50,7 +50,7 @@
     "langlecurieux": "7667575686793628950",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7669859147906567456",
+    "journalfrancetv": "7670136363576069409",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7669877025141787936",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7669494346470772001"
   },
   "pending": [
-    {
-      "handle": "info247fr",
-      "video_id": "7670059050230402336",
-      "url": "https://www.tiktok.com/@info247fr/video/7670059050230402336",
-      "detected_at": "2026-08-04T06:26:33+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 881,
-        "likes": 86,
-        "comments": 2,
-        "shares": 1
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7670061346142063904",
@@ -230,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 763,
-        "likes": 40,
-        "comments": 3,
-        "shares": 17
+        "views": 1823,
+        "likes": 62,
+        "comments": 4,
+        "shares": 25
       }
     },
     {
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 429,
-        "likes": 25,
+        "views": 882,
+        "likes": 35,
         "comments": 0,
-        "shares": 7
+        "shares": 8
       }
     },
     {
@@ -434,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 2501,
-        "likes": 199,
-        "comments": 1,
-        "shares": 11
+        "views": 9471,
+        "likes": 912,
+        "comments": 15,
+        "shares": 42
       }
     },
     {
@@ -475,6 +449,58 @@
         "views": 0,
         "likes": 0,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_brut.fr",
+      "video_id": "7670135511742287137",
+      "url": "https://www.tiktok.com/@actu_brut.fr/video/7670135511742287137",
+      "detected_at": "2026-08-04T11:23:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 509,
+        "likes": 12,
+        "comments": 0,
+        "shares": 4
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7670136363576069409",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7670136363576069409",
+      "detected_at": "2026-08-04T11:26:30+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 188,
+        "likes": 10,
+        "comments": 1,
         "shares": 0
       }
     }
