@@ -44,7 +44,7 @@
     "509stories": "7642134615150431521",
     "contrelaguerre": "7670154346293644577",
     "actubrute_fr": "7658675464088718625",
-    "actuone.tv1": "7669830446162758945",
+    "actuone.tv1": "7670205211432013088",
     "actuenbref.tv": "7669846002232233249",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7667575686793628950",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7669494346470772001"
   },
   "pending": [
-    {
-      "handle": "actu_brut.fr",
-      "video_id": "7670128445724085536",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7670128445724085536",
-      "detected_at": "2026-08-04T10:55:47+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "actu_brut.fr",
       "video_id": "7670135511742287137",
@@ -450,6 +424,32 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actuone.tv1",
+      "video_id": "7670205211432013088",
+      "url": "https://www.tiktok.com/@actuone.tv1/video/7670205211432013088",
+      "detected_at": "2026-08-04T15:53:41+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 852,
+        "likes": 29,
+        "comments": 3,
+        "shares": 1
       }
     }
   ]
