@@ -60,12 +60,12 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7670091237055155489",
+    "actualfrancetv": "7670186257703587104",
     "actu913": "7670143617440255265",
     "franceendirect1": "7669860427890773281",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7670059050230402336",
-    "breaking3": "7670090334235364640",
+    "breaking3": "7670185769255849248",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7669538382480952608",
@@ -114,84 +114,6 @@
     "flash.actu.france": "7669494346470772001"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7670113215321247009",
-      "url": "https://www.tiktok.com/@zopinfo/video/7670113215321247009",
-      "detected_at": "2026-08-04T09:56:41+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3058,
-        "likes": 62,
-        "comments": 4,
-        "shares": 30
-      }
-    },
-    {
-      "handle": "mediaflix",
-      "video_id": "7670113525951434017",
-      "url": "https://www.tiktok.com/@mediaflix/video/7670113525951434017",
-      "detected_at": "2026-08-04T09:57:54+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7707,
-        "likes": 148,
-        "comments": 1,
-        "shares": 2
-      }
-    },
-    {
-      "handle": "verifaffaires",
-      "video_id": "7670113364168756512",
-      "url": "https://www.tiktok.com/@verifaffaires/video/7670113364168756512",
-      "detected_at": "2026-08-04T09:57:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3542,
-        "likes": 164,
-        "comments": 4,
-        "shares": 14
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7670115571349966113",
@@ -308,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 819,
-        "likes": 59,
-        "comments": 2,
-        "shares": 11
+        "views": 8343,
+        "likes": 148,
+        "comments": 16,
+        "shares": 41
       }
     },
     {
@@ -356,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,9 +290,9 @@
         }
       ],
       "last_stats": {
-        "views": 384,
-        "likes": 15,
-        "comments": 1,
+        "views": 937,
+        "likes": 22,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -424,6 +346,58 @@
         "likes": 38,
         "comments": 2,
         "shares": 6
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7670186257703587104",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7670186257703587104",
+      "detected_at": "2026-08-04T14:40:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 288,
+        "likes": 28,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7670185769255849248",
+      "url": "https://www.tiktok.com/@breaking3/video/7670185769255849248",
+      "detected_at": "2026-08-04T14:38:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 411,
+        "likes": 22,
+        "comments": 1,
+        "shares": 8
       }
     }
   ]
