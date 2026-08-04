@@ -64,7 +64,7 @@
     "actu913": "7669462921482636577",
     "franceendirect1": "7669860427890773281",
     "h.o.b15": "7669486505584364833",
-    "info247fr": "7669690376415989025",
+    "info247fr": "7670059050230402336",
     "breaking3": "7669820707362049312",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
@@ -178,6 +178,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1293,
+        "likes": 47,
+        "comments": 2,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "info247fr",
+      "video_id": "7670059050230402336",
+      "url": "https://www.tiktok.com/@info247fr/video/7670059050230402336",
+      "detected_at": "2026-08-04T06:26:33+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -186,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 478,
-        "likes": 17,
+        "views": 63,
+        "likes": 2,
         "comments": 0,
-        "shares": 1
+        "shares": 0
       }
     }
   ]
