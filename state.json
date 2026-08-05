@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7669439736573922592",
-    "actureact.info": "7670491567907474721",
+    "actureact.info": "7670518210231356704",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -30,7 +30,7 @@
     "infofrance.tv": "7669919585532906784",
     "mediaflix": "7670255111049907488",
     "actu_brut.fr": "7670135511742287137",
-    "tiktok.ragot": "7669907040826887457",
+    "tiktok.ragot": "7670518434613972257",
     "actu_minute_info": "7670484055208496417",
     "actufranceplus": "7668591891759320353",
     "actu_tv": "7627243916009409794",
@@ -178,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -186,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 1476,
-        "likes": 70,
-        "comments": 6,
-        "shares": 4
+        "views": 4392,
+        "likes": 203,
+        "comments": 10,
+        "shares": 9
       }
     },
     {
@@ -450,6 +450,58 @@
         "likes": 14,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7670518210231356704",
+      "url": "https://www.tiktok.com/@actureact.info/video/7670518210231356704",
+      "detected_at": "2026-08-05T12:08:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1714,
+        "likes": 116,
+        "comments": 18,
+        "shares": 14
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7670518434613972257",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7670518434613972257",
+      "detected_at": "2026-08-05T12:09:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 585,
+        "likes": 8,
+        "comments": 4,
+        "shares": 0
       }
     }
   ]
