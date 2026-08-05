@@ -60,7 +60,7 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7670186257703587104",
+    "actualfrancetv": "7670461066203335969",
     "actu913": "7670143617440255265",
     "franceendirect1": "7670201002175319329",
     "h.o.b15": "7669486505584364833",
@@ -152,7 +152,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -160,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 2050,
-        "likes": 43,
-        "comments": 2,
-        "shares": 4
+        "views": 3096,
+        "likes": 71,
+        "comments": 3,
+        "shares": 8
       }
     },
     {
@@ -266,6 +266,32 @@
       "last_stats": {
         "views": 723,
         "likes": 31,
+        "comments": 0,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7670461066203335969",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7670461066203335969",
+      "detected_at": "2026-08-05T08:26:32+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 48,
+        "likes": 0,
         "comments": 0,
         "shares": 3
       }
