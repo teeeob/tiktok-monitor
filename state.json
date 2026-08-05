@@ -116,58 +116,6 @@
   "pending": [
     {
       "handle": "actureact.info",
-      "video_id": "7670268399389363488",
-      "url": "https://www.tiktok.com/@actureact.info/video/7670268399389363488",
-      "detected_at": "2026-08-04T19:58:54+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 169,
-        "likes": 6,
-        "comments": 0,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "actuchrono60",
-      "video_id": "7670262473349401889",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7670262473349401889",
-      "detected_at": "2026-08-04T19:35:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 177396,
-        "likes": 6344,
-        "comments": 156,
-        "shares": 556
-      }
-    },
-    {
-      "handle": "actureact.info",
       "video_id": "7670269683475565857",
       "url": "https://www.tiktok.com/@actureact.info/video/7670269683475565857",
       "detected_at": "2026-08-04T20:03:50+00:00",
@@ -356,7 +304,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 119,
-        "likes": 16,
-        "comments": 0,
-        "shares": 1
+        "views": 1005,
+        "likes": 44,
+        "comments": 2,
+        "shares": 2
       }
     }
   ]
