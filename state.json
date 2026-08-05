@@ -61,7 +61,7 @@
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7670461066203335969",
-    "actu913": "7670499840559762720",
+    "actu913": "7670545836366892320",
     "franceendirect1": "7670201002175319329",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7670433044007800097",
@@ -308,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 8391,
-        "likes": 171,
-        "comments": 8,
-        "shares": 13
+        "views": 189801,
+        "likes": 12067,
+        "comments": 162,
+        "shares": 964
       }
     },
     {
@@ -334,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -342,9 +342,9 @@
         }
       ],
       "last_stats": {
-        "views": 1155,
-        "likes": 26,
-        "comments": 0,
+        "views": 4205,
+        "likes": 66,
+        "comments": 1,
         "shares": 5
       }
     },
@@ -460,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 6263,
-        "likes": 308,
-        "comments": 25,
-        "shares": 58
+        "views": 28556,
+        "likes": 1261,
+        "comments": 76,
+        "shares": 179
       }
     },
     {
@@ -483,6 +483,32 @@
       "video_id": "7670530922340486433",
       "url": "https://www.tiktok.com/@actu_france24/video/7670530922340486433",
       "detected_at": "2026-08-05T12:57:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1244,
+        "likes": 37,
+        "comments": 0,
+        "shares": 9
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7670545836366892320",
+      "url": "https://www.tiktok.com/@actu913/video/7670545836366892320",
+      "detected_at": "2026-08-05T13:55:28+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -498,9 +524,9 @@
         }
       ],
       "last_stats": {
-        "views": 97,
+        "views": 38,
         "likes": 2,
-        "comments": 0,
+        "comments": 1,
         "shares": 0
       }
     }
