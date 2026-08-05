@@ -45,7 +45,7 @@
     "contrelaguerre": "7670271729322773792",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7670205211432013088",
-    "actuenbref.tv": "7670251285190380833",
+    "actuenbref.tv": "7670495218835180832",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7670219042392755478",
     "actualoff_fr": "7669692052082265377",
@@ -61,7 +61,7 @@
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7670461066203335969",
-    "actu913": "7670143617440255265",
+    "actu913": "7670499840559762720",
     "franceendirect1": "7670201002175319329",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7670433044007800097",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7670436693115292960"
   },
   "pending": [
-    {
-      "handle": "actu.choc1",
-      "video_id": "7670422717698460961",
-      "url": "https://www.tiktok.com/@actu.choc1/video/7670422717698460961",
-      "detected_at": "2026-08-05T05:57:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 35173,
-        "likes": 380,
-        "comments": 11,
-        "shares": 22
-      }
-    },
     {
       "handle": "info247fr",
       "video_id": "7670433044007800097",
@@ -204,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 2800,
-        "likes": 85,
-        "comments": 2,
-        "shares": 44
+        "views": 14129,
+        "likes": 331,
+        "comments": 8,
+        "shares": 277
       }
     },
     {
@@ -278,7 +252,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 1832,
-        "likes": 70,
-        "comments": 1,
-        "shares": 0
+        "views": 3472,
+        "likes": 119,
+        "comments": 7,
+        "shares": 1
       }
     },
     {
@@ -304,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -316,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 88,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0
+        "views": 1986,
+        "likes": 40,
+        "comments": 2,
+        "shares": 6
       }
     },
     {
@@ -330,7 +304,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -342,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 951,
-        "likes": 33,
-        "comments": 0,
-        "shares": 6
+        "views": 3586,
+        "likes": 91,
+        "comments": 7,
+        "shares": 42
       }
     },
     {
@@ -424,6 +398,58 @@
         "likes": 15,
         "comments": 1,
         "shares": 1
+      }
+    },
+    {
+      "handle": "actuenbref.tv",
+      "video_id": "7670495218835180832",
+      "url": "https://www.tiktok.com/@actuenbref.tv/video/7670495218835180832",
+      "detected_at": "2026-08-05T10:39:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1673,
+        "likes": 54,
+        "comments": 1,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7670499840559762720",
+      "url": "https://www.tiktok.com/@actu913/video/7670499840559762720",
+      "detected_at": "2026-08-05T10:56:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 25,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
