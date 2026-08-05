@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actudivers.fr",
-      "video_id": "7670254008161914144",
-      "url": "https://www.tiktok.com/@actudivers.fr/video/7670254008161914144",
-      "detected_at": "2026-08-04T19:03:03+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5657,
-        "likes": 32,
-        "comments": 2,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "mediaflix",
-      "video_id": "7670255111049907488",
-      "url": "https://www.tiktok.com/@mediaflix/video/7670255111049907488",
-      "detected_at": "2026-08-04T19:07:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3882,
-        "likes": 81,
-        "comments": 9,
-        "shares": 4
-      }
-    },
-    {
       "handle": "actureact.info",
       "video_id": "7670268399389363488",
       "url": "https://www.tiktok.com/@actureact.info/video/7670268399389363488",
@@ -360,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -368,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 20036,
-        "likes": 1334,
-        "comments": 36,
-        "shares": 41
+        "views": 30923,
+        "likes": 2229,
+        "comments": 45,
+        "shares": 55
       }
     },
     {
@@ -382,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,9 +342,9 @@
         }
       ],
       "last_stats": {
-        "views": 77,
-        "likes": 2,
-        "comments": 0,
+        "views": 428,
+        "likes": 7,
+        "comments": 1,
         "shares": 0
       }
     },
