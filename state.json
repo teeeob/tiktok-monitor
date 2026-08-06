@@ -115,110 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actureact.info",
-      "video_id": "7670638296443145504",
-      "url": "https://www.tiktok.com/@actureact.info/video/7670638296443145504",
-      "detected_at": "2026-08-05T19:54:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 50435,
-        "likes": 3774,
-        "comments": 45,
-        "shares": 105
-      }
-    },
-    {
-      "handle": "zopinfo",
-      "video_id": "7670633208064544032",
-      "url": "https://www.tiktok.com/@zopinfo/video/7670633208064544032",
-      "detected_at": "2026-08-05T19:34:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5382,
-        "likes": 81,
-        "comments": 7,
-        "shares": 82
-      }
-    },
-    {
-      "handle": "zoomdefrance",
-      "video_id": "7670638627713453344",
-      "url": "https://www.tiktok.com/@zoomdefrance/video/7670638627713453344",
-      "detected_at": "2026-08-05T19:55:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1714,
-        "likes": 65,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7670638168672128289",
-      "url": "https://www.tiktok.com/@acturium/video/7670638168672128289",
-      "detected_at": "2026-08-05T19:53:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6191,
-        "likes": 55,
-        "comments": 5,
-        "shares": 25
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7670644962966523168",
       "url": "https://www.tiktok.com/@infos.minutes/video/7670644962966523168",
@@ -386,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -394,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 3168,
-        "likes": 91,
+        "views": 5476,
+        "likes": 136,
         "comments": 5,
-        "shares": 15
+        "shares": 50
       }
     },
     {
@@ -427,32 +323,6 @@
       }
     },
     {
-      "handle": "actureact.info",
-      "video_id": "7670638296443145504",
-      "url": "https://www.tiktok.com/@actureact.info/video/7670638296443145504",
-      "detected_at": "2026-08-05T19:54:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 50451,
-        "likes": 3775,
-        "comments": 45,
-        "shares": 105
-      }
-    },
-    {
       "handle": "france_infos",
       "video_id": "7670699238954634528",
       "url": "https://www.tiktok.com/@france_infos/video/7670699238954634528",
@@ -460,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,8 +342,8 @@
         }
       ],
       "last_stats": {
-        "views": 63,
-        "likes": 2,
+        "views": 103,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
