@@ -45,7 +45,7 @@
     "contrelaguerre": "7671191937197591841",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7670986480944450848",
-    "actuenbref.tv": "7670495218835180832",
+    "actuenbref.tv": "7671285517282987297",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7670979737191271702",
     "actualoff_fr": "7669692052082265377",
@@ -114,58 +114,6 @@
     "flash.actu.france": "7671170594230013217"
   },
   "pending": [
-    {
-      "handle": "actualfrancetv",
-      "video_id": "7671205288703266080",
-      "url": "https://www.tiktok.com/@actualfrancetv/video/7671205288703266080",
-      "detected_at": "2026-08-07T08:34:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9811,
-        "likes": 117,
-        "comments": 5,
-        "shares": 33
-      }
-    },
-    {
-      "handle": "breaking3",
-      "video_id": "7671204886549171488",
-      "url": "https://www.tiktok.com/@breaking3/video/7671204886549171488",
-      "detected_at": "2026-08-07T08:32:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6013,
-        "likes": 158,
-        "comments": 3,
-        "shares": 27
-      }
-    },
     {
       "handle": "essiide",
       "video_id": "7671209977859673377",
@@ -256,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 12384,
-        "likes": 198,
-        "comments": 35,
-        "shares": 32
+        "views": 17724,
+        "likes": 354,
+        "comments": 53,
+        "shares": 42
       }
     },
     {
@@ -282,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 567,
-        "likes": 42,
-        "comments": 2,
-        "shares": 4
+        "views": 5306,
+        "likes": 230,
+        "comments": 12,
+        "shares": 15
       }
     },
     {
@@ -434,6 +382,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 935,
+        "likes": 20,
+        "comments": 2,
+        "shares": 10
+      }
+    },
+    {
+      "handle": "actuenbref.tv",
+      "video_id": "7671285517282987297",
+      "url": "https://www.tiktok.com/@actuenbref.tv/video/7671285517282987297",
+      "detected_at": "2026-08-07T13:45:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -446,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 547,
-        "likes": 9,
-        "comments": 1,
-        "shares": 4
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
