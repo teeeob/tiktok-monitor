@@ -82,7 +82,7 @@
     "univers_doc": "7671147406800489760",
     "infos.tv05": "7668002037216349472",
     "actufrance98": "7671267933317877025",
-    "lesignal.fr": "7670792234756738337",
+    "lesignal.fr": "7671297572006268192",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7670945438446521633",
     "actualitgeo": "7657906402735688992",
@@ -356,6 +356,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 4916,
+        "likes": 118,
+        "comments": 6,
+        "shares": 16
+      }
+    },
+    {
+      "handle": "lesignal.fr",
+      "video_id": "7671297572006268192",
+      "url": "https://www.tiktok.com/@lesignal.fr/video/7671297572006268192",
+      "detected_at": "2026-08-07T14:32:35+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -368,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 707,
+        "likes": 16,
+        "comments": 2,
+        "shares": 1
       }
     }
   ]
