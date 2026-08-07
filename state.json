@@ -111,87 +111,9 @@
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7671238064022310177",
-    "flash.actu.france": "7671170594230013217"
+    "flash.actu.france": "7671379691650944289"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7671304586518334753",
-      "url": "https://www.tiktok.com/@zopinfo/video/7671304586518334753",
-      "detected_at": "2026-08-07T14:59:47+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5272,
-        "likes": 91,
-        "comments": 2,
-        "shares": 84
-      }
-    },
-    {
-      "handle": "actu.choc1",
-      "video_id": "7671302342871878944",
-      "url": "https://www.tiktok.com/@actu.choc1/video/7671302342871878944",
-      "detected_at": "2026-08-07T14:51:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 499,
-        "likes": 30,
-        "comments": 2,
-        "shares": 2
-      }
-    },
-    {
-      "handle": "unmomentactu",
-      "video_id": "7671302586791660833",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7671302586791660833",
-      "detected_at": "2026-08-07T14:52:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3102,
-        "likes": 48,
-        "comments": 3,
-        "shares": 6
-      }
-    },
     {
       "handle": "actu_brut.fr",
       "video_id": "7671308426038775073",
@@ -412,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -420,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 2546,
-        "likes": 54,
-        "comments": 4,
-        "shares": 25
+        "views": 14882,
+        "likes": 202,
+        "comments": 11,
+        "shares": 266
       }
     },
     {
@@ -438,7 +360,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -446,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 1473,
-        "likes": 38,
-        "comments": 6,
-        "shares": 7
+        "views": 6342,
+        "likes": 119,
+        "comments": 15,
+        "shares": 67
       }
     },
     {
@@ -668,7 +590,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -680,8 +602,8 @@
         }
       ],
       "last_stats": {
-        "views": 2074,
-        "likes": 41,
+        "views": 2957,
+        "likes": 65,
         "comments": 2,
         "shares": 0
       }
@@ -694,7 +616,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -706,10 +628,10 @@
         }
       ],
       "last_stats": {
-        "views": 118,
-        "likes": 11,
-        "comments": 1,
-        "shares": 0
+        "views": 1825,
+        "likes": 53,
+        "comments": 3,
+        "shares": 1
       }
     },
     {
@@ -760,6 +682,32 @@
       "last_stats": {
         "views": 9,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "flash.actu.france",
+      "video_id": "7671379691650944289",
+      "url": "https://www.tiktok.com/@flash.actu.france/video/7671379691650944289",
+      "detected_at": "2026-08-07T19:51:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 77,
+        "likes": 17,
         "comments": 0,
         "shares": 0
       }
