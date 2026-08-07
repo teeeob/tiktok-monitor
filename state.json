@@ -35,7 +35,7 @@
     "actufranceplus": "7668591891759320353",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
-    "zoomdefrance": "7671037678070107424",
+    "zoomdefrance": "7671376875012246817",
     "dbrif.off": "7621283100445707542",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
@@ -44,7 +44,7 @@
     "509stories": "7642134615150431521",
     "contrelaguerre": "7671191937197591841",
     "actubrute_fr": "7658675464088718625",
-    "actuone.tv1": "7670986480944450848",
+    "actuone.tv1": "7671377360553332000",
     "actuenbref.tv": "7671285517282987297",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7670979737191271702",
@@ -616,7 +616,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -642,7 +642,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -654,10 +654,10 @@
         }
       ],
       "last_stats": {
-        "views": 3374,
-        "likes": 294,
-        "comments": 15,
-        "shares": 11
+        "views": 8978,
+        "likes": 813,
+        "comments": 36,
+        "shares": 40
       }
     },
     {
@@ -709,6 +709,58 @@
         "views": 118,
         "likes": 11,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zoomdefrance",
+      "video_id": "7671376875012246817",
+      "url": "https://www.tiktok.com/@zoomdefrance/video/7671376875012246817",
+      "detected_at": "2026-08-07T19:40:19+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 31,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actuone.tv1",
+      "video_id": "7671377360553332000",
+      "url": "https://www.tiktok.com/@actuone.tv1/video/7671377360553332000",
+      "detected_at": "2026-08-07T19:42:12+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 9,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
