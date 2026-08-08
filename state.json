@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7669919585532906784",
     "mediaflix": "7671663507158437152",
-    "actu_brut.fr": "7671656543871421729",
+    "actu_brut.fr": "7671736051383192864",
     "tiktok.ragot": "7671720419812019489",
     "actu_minute_info": "7671588329619459360",
     "actufranceplus": "7668591891759320353",
@@ -103,7 +103,7 @@
     "unmomentactu": "7671640409705123104",
     "franceecho": "7671406441466498337",
     "franceavifactu": "7655787451516079392",
-    "adrenatv.france": "7671627639303490849",
+    "adrenatv.france": "7671732603833044257",
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
@@ -114,58 +114,6 @@
     "flash.actu.france": "7671721070465977632"
   },
   "pending": [
-    {
-      "handle": "actu_brut.fr",
-      "video_id": "7671656543871421729",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7671656543871421729",
-      "detected_at": "2026-08-08T13:45:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4481,
-        "likes": 174,
-        "comments": 6,
-        "shares": 8
-      }
-    },
-    {
-      "handle": "actufrance98",
-      "video_id": "7671658097789635872",
-      "url": "https://www.tiktok.com/@actufrance98/video/7671658097789635872",
-      "detected_at": "2026-08-08T13:51:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2661,
-        "likes": 83,
-        "comments": 5,
-        "shares": 5
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7671664319947410721",
@@ -434,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,8 +394,8 @@
         }
       ],
       "last_stats": {
-        "views": 244,
-        "likes": 5,
+        "views": 1256,
+        "likes": 6,
         "comments": 1,
         "shares": 0
       }
@@ -460,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 527,
-        "likes": 20,
-        "comments": 1,
-        "shares": 1
+        "views": 4333,
+        "likes": 77,
+        "comments": 5,
+        "shares": 2
       }
     },
     {
@@ -486,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -498,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 48,
-        "likes": 9,
-        "comments": 2,
-        "shares": 0
+        "views": 545,
+        "likes": 48,
+        "comments": 3,
+        "shares": 6
       }
     },
     {
@@ -512,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -524,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 2166,
-        "likes": 70,
-        "comments": 2,
-        "shares": 4
+        "views": 2845,
+        "likes": 94,
+        "comments": 3,
+        "shares": 8
       }
     },
     {
@@ -554,6 +502,58 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actu_brut.fr",
+      "video_id": "7671736051383192864",
+      "url": "https://www.tiktok.com/@actu_brut.fr/video/7671736051383192864",
+      "detected_at": "2026-08-08T18:54:06+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 424,
+        "likes": 12,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "adrenatv.france",
+      "video_id": "7671732603833044257",
+      "url": "https://www.tiktok.com/@adrenatv.france/video/7671732603833044257",
+      "detected_at": "2026-08-08T18:40:42+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 120,
+        "likes": 3,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
