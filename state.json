@@ -68,7 +68,7 @@
     "breaking3": "7671578229810990369",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
-    "info20fr": "7670864535510682912",
+    "info20fr": "7671668905818983713",
     "kat_info": "7671523711761091872",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7671350722566409505",
@@ -82,7 +82,7 @@
     "univers_doc": "7671147406800489760",
     "infos.tv05": "7668002037216349472",
     "actufrance98": "7671658097789635872",
-    "lesignal.fr": "7671649541384424737",
+    "lesignal.fr": "7671673976095100192",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7671332261005937952",
     "actualitgeo": "7657906402735688992",
@@ -204,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 1207,
-        "likes": 21,
-        "comments": 2,
-        "shares": 11
+        "views": 2596,
+        "likes": 56,
+        "comments": 3,
+        "shares": 21
       }
     },
     {
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,9 +264,9 @@
         }
       ],
       "last_stats": {
-        "views": 401,
-        "likes": 9,
-        "comments": 0,
+        "views": 539,
+        "likes": 11,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -356,7 +356,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,8 +368,8 @@
         }
       ],
       "last_stats": {
-        "views": 833,
-        "likes": 25,
+        "views": 2159,
+        "likes": 84,
         "comments": 4,
         "shares": 3
       }
@@ -382,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 583,
-        "likes": 22,
-        "comments": 2,
-        "shares": 1
+        "views": 1525,
+        "likes": 50,
+        "comments": 4,
+        "shares": 2
       }
     },
     {
@@ -501,6 +501,58 @@
         "views": 485,
         "likes": 15,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info20fr",
+      "video_id": "7671668905818983713",
+      "url": "https://www.tiktok.com/@info20fr/video/7671668905818983713",
+      "detected_at": "2026-08-08T14:33:32+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 957,
+        "likes": 37,
+        "comments": 2,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "lesignal.fr",
+      "video_id": "7671673976095100192",
+      "url": "https://www.tiktok.com/@lesignal.fr/video/7671673976095100192",
+      "detected_at": "2026-08-08T14:53:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 199,
+        "likes": 8,
+        "comments": 0,
         "shares": 0
       }
     }
