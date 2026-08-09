@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7672011520666012960",
-      "url": "https://www.tiktok.com/@zopinfo/video/7672011520666012960",
-      "detected_at": "2026-08-09T12:43:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1596,
-        "likes": 33,
-        "comments": 2,
-        "shares": 8
-      }
-    },
-    {
-      "handle": "actu913",
-      "video_id": "7672011069652618529",
-      "url": "https://www.tiktok.com/@actu913/video/7672011069652618529",
-      "detected_at": "2026-08-09T12:41:19+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2174,
-        "likes": 76,
-        "comments": 3,
-        "shares": 16
-      }
-    },
-    {
       "handle": "actu_brut.fr",
       "video_id": "7672015874643004705",
       "url": "https://www.tiktok.com/@actu_brut.fr/video/7672015874643004705",
@@ -460,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 162,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
+        "views": 1328,
+        "likes": 23,
+        "comments": 1,
+        "shares": 3
       }
     },
     {
