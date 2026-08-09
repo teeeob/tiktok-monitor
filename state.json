@@ -74,7 +74,7 @@
     "actufrance_33": "7671692382412344608",
     "actu.le.fran843": "7655044164291169568",
     "france.actu02": "7664391761044770081",
-    "actu.choc1": "7671532421610884385",
+    "actu.choc1": "7672032523265871137",
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7671737858272595232",
     "to.suissra": "7654575792071953696",
@@ -82,7 +82,7 @@
     "univers_doc": "7671147406800489760",
     "infos.tv05": "7668002037216349472",
     "actufrance98": "7671658097789635872",
-    "lesignal.fr": "7671673976095100192",
+    "lesignal.fr": "7672033344347016481",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7671985105295920416",
     "actualitgeo": "7657906402735688992",
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 2000,
-        "likes": 13,
-        "comments": 2,
-        "shares": 5
+        "views": 7482,
+        "likes": 39,
+        "comments": 4,
+        "shares": 33
       }
     },
     {
@@ -308,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 788,
-        "likes": 36,
+        "views": 1201,
+        "likes": 45,
         "comments": 4,
-        "shares": 9
+        "shares": 13
       }
     },
     {
@@ -502,6 +502,58 @@
         "likes": 22,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actu.choc1",
+      "video_id": "7672032523265871137",
+      "url": "https://www.tiktok.com/@actu.choc1/video/7672032523265871137",
+      "detected_at": "2026-08-09T14:04:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 290,
+        "likes": 13,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lesignal.fr",
+      "video_id": "7672033344347016481",
+      "url": "https://www.tiktok.com/@lesignal.fr/video/7672033344347016481",
+      "detected_at": "2026-08-09T14:07:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1350,
+        "likes": 19,
+        "comments": 0,
+        "shares": 4
       }
     }
   ]
