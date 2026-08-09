@@ -47,7 +47,7 @@
     "actuone.tv1": "7671722463755062560",
     "actuenbref.tv": "7671285517282987297",
     "actuexpressfr0": "7660542776613883168",
-    "langlecurieux": "7671664136555629846",
+    "langlecurieux": "7672068456283458838",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7672067044153593121",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7671996393313144096"
   },
   "pending": [
-    {
-      "handle": "unmomentactu",
-      "video_id": "7671991996340358433",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7671991996340358433",
-      "detected_at": "2026-08-09T11:27:21+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4490,
-        "likes": 135,
-        "comments": 56,
-        "shares": 32
-      }
-    },
     {
       "handle": "journalfrancetv",
       "video_id": "7671996650612657441",
@@ -500,6 +474,32 @@
       "last_stats": {
         "views": 194,
         "likes": 6,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "langlecurieux",
+      "video_id": "7672068456283458838",
+      "url": "https://www.tiktok.com/@langlecurieux/video/7672068456283458838",
+      "detected_at": "2026-08-09T16:26:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 63,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
