@@ -110,7 +110,7 @@
     "breakingactufr": "7668232744417250592",
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
-    "verifaffaires": "7671632077854477600",
+    "verifaffaires": "7672353391699332385",
     "flash.actu.france": "7672290186755116321"
   },
   "pending": [
@@ -204,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,8 +212,8 @@
         }
       ],
       "last_stats": {
-        "views": 245,
-        "likes": 11,
+        "views": 261,
+        "likes": 12,
         "comments": 3,
         "shares": 0
       }
@@ -398,6 +398,32 @@
         "likes": 12,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "verifaffaires",
+      "video_id": "7672353391699332385",
+      "url": "https://www.tiktok.com/@verifaffaires/video/7672353391699332385",
+      "detected_at": "2026-08-10T10:49:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 382,
+        "likes": 46,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
