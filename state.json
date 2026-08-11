@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7672870862529236256",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7672840270530055457",
+    "infos.minutes": "7672883544187784481",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7672303249390701857",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7672290186755116321"
   },
   "pending": [
-    {
-      "handle": "tiktok.ragot",
-      "video_id": "7672818461046738209",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7672818461046738209",
-      "detected_at": "2026-08-11T16:54:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2284,
-        "likes": 37,
-        "comments": 7,
-        "shares": 7
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7672825390733348128",
@@ -386,7 +360,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -394,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 5226,
-        "likes": 133,
-        "comments": 12,
-        "shares": 16
+        "views": 26418,
+        "likes": 622,
+        "comments": 34,
+        "shares": 86
       }
     },
     {
@@ -590,6 +564,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 942,
+        "likes": 25,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7672883544187784481",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7672883544187784481",
+      "detected_at": "2026-08-11T21:06:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -602,10 +602,10 @@
         }
       ],
       "last_stats": {
-        "views": 76,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 3378,
+        "likes": 309,
+        "comments": 8,
+        "shares": 6
       }
     }
   ]
