@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7672825390733348128",
-    "zopinfo": "7672808186222513440",
+    "zopinfo": "7672834195378457889",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7672314024318602529",
@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7672810284960009505",
-    "kat_info": "7672765948536818977",
+    "kat_info": "7672832755671059744",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7672524304365391136",
     "actu.le.fran843": "7655044164291169568",
@@ -382,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 639,
-        "likes": 3,
-        "comments": 1,
-        "shares": 0
+        "views": 1757,
+        "likes": 20,
+        "comments": 6,
+        "shares": 5
       }
     },
     {
@@ -447,6 +447,58 @@
       ],
       "last_stats": {
         "views": 52,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7672834195378457889",
+      "url": "https://www.tiktok.com/@zopinfo/video/7672834195378457889",
+      "detected_at": "2026-08-11T17:55:27+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 178,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7672832755671059744",
+      "url": "https://www.tiktok.com/@kat_info/video/7672832755671059744",
+      "detected_at": "2026-08-11T17:49:52+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 475,
         "likes": 2,
         "comments": 0,
         "shares": 0
