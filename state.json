@@ -50,7 +50,7 @@
     "langlecurieux": "7672793143732997398",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7672741924096216353",
+    "journalfrancetv": "7672679896308649249",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7672505141467057440",
@@ -114,58 +114,6 @@
     "flash.actu.france": "7672290186755116321"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7672723684217408800",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7672723684217408800",
-      "detected_at": "2026-08-11T10:46:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 45694,
-        "likes": 3299,
-        "comments": 9,
-        "shares": 180
-      }
-    },
-    {
-      "handle": "adrenatv.france",
-      "video_id": "7672721572356017440",
-      "url": "https://www.tiktok.com/@adrenatv.france/video/7672721572356017440",
-      "detected_at": "2026-08-11T10:38:27+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 167,
-        "likes": 9,
-        "comments": 1,
-        "shares": 0
-      }
-    },
     {
       "handle": "actu_minute_info",
       "video_id": "7672732206338526497",
@@ -434,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 4187,
-        "likes": 229,
-        "comments": 3,
-        "shares": 18
+        "views": 67222,
+        "likes": 4880,
+        "comments": 65,
+        "shares": 1101
       }
     },
     {
