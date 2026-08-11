@@ -31,7 +31,7 @@
     "mediaflix": "7672520163211644192",
     "actu_brut.fr": "7672717501158984993",
     "tiktok.ragot": "7672506725689298208",
-    "actu_minute_info": "7672384211696831776",
+    "actu_minute_info": "7672732206338526497",
     "actufranceplus": "7668591891759320353",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
@@ -204,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 5372,
-        "likes": 91,
-        "comments": 3,
-        "shares": 33
+        "views": 22866,
+        "likes": 251,
+        "comments": 11,
+        "shares": 202
       }
     },
     {
@@ -408,7 +408,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 4473,
-        "likes": 243,
-        "comments": 9,
-        "shares": 12
+        "views": 56827,
+        "likes": 3619,
+        "comments": 82,
+        "shares": 388
       }
     },
     {
@@ -434,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 7746,
+        "likes": 143,
+        "comments": 21,
+        "shares": 30
       }
     },
     {
@@ -500,6 +500,32 @@
       "last_stats": {
         "views": 129,
         "likes": 6,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7672732206338526497",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7672732206338526497",
+      "detected_at": "2026-08-11T11:19:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 372,
+        "likes": 11,
         "comments": 1,
         "shares": 0
       }
