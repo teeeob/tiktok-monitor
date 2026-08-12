@@ -113,58 +113,5 @@
     "verifaffaires": "7672791079401295137",
     "flash.actu.france": "7672290186755116321"
   },
-  "pending": [
-    {
-      "handle": "actuone.tv1",
-      "video_id": "7672889132603018528",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7672889132603018528",
-      "detected_at": "2026-08-11T21:28:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 29809,
-        "likes": 982,
-        "comments": 52,
-        "shares": 360
-      }
-    },
-    {
-      "handle": "infos.minutes",
-      "video_id": "7672883544187784481",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7672883544187784481",
-      "detected_at": "2026-08-11T21:06:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 30409,
-        "likes": 2243,
-        "comments": 39,
-        "shares": 64
-      }
-    }
-  ]
+  "pending": []
 }
