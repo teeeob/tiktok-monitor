@@ -111,35 +111,9 @@
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7672791079401295137",
-    "flash.actu.france": "7672290186755116321"
+    "flash.actu.france": "7673092032176442656"
   },
   "pending": [
-    {
-      "handle": "actu.choc1",
-      "video_id": "7673018569768062240",
-      "url": "https://www.tiktok.com/@actu.choc1/video/7673018569768062240",
-      "detected_at": "2026-08-12T05:51:03+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1213,
-        "likes": 48,
-        "comments": 3,
-        "shares": 10
-      }
-    },
     {
       "handle": "journalfrancetv",
       "video_id": "7673031714045709601",
@@ -204,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 1665,
-        "likes": 34,
-        "comments": 2,
-        "shares": 28
+        "views": 3178,
+        "likes": 68,
+        "comments": 6,
+        "shares": 58
       }
     },
     {
@@ -230,7 +204,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,9 +212,9 @@
         }
       ],
       "last_stats": {
-        "views": 289,
-        "likes": 12,
-        "comments": 0,
+        "views": 508,
+        "likes": 20,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -356,6 +330,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 8103,
+        "likes": 82,
+        "comments": 2,
+        "shares": 50
+      }
+    },
+    {
+      "handle": "flash.actu.france",
+      "video_id": "7673092032176442656",
+      "url": "https://www.tiktok.com/@flash.actu.france/video/7673092032176442656",
+      "detected_at": "2026-08-12T10:36:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -368,8 +368,8 @@
         }
       ],
       "last_stats": {
-        "views": 398,
-        "likes": 19,
+        "views": 114,
+        "likes": 15,
         "comments": 0,
         "shares": 0
       }
