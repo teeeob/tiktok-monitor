@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "verifaffaires",
-      "video_id": "7673492587587652896",
-      "url": "https://www.tiktok.com/@verifaffaires/video/7673492587587652896",
-      "detected_at": "2026-08-13T12:30:21+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 57104,
-        "likes": 1189,
-        "comments": 137,
-        "shares": 556
-      }
-    },
-    {
       "handle": "franceendirect1",
       "video_id": "7673493954041580832",
       "url": "https://www.tiktok.com/@franceendirect1/video/7673493954041580832",
@@ -564,7 +538,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -576,10 +550,10 @@
         }
       ],
       "last_stats": {
-        "views": 551,
-        "likes": 12,
-        "comments": 1,
-        "shares": 0
+        "views": 1497,
+        "likes": 25,
+        "comments": 2,
+        "shares": 1
       }
     },
     {
