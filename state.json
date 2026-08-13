@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7669439736573922592",
-    "actureact.info": "7673489141237075233",
+    "actureact.info": "7673617104628763936",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7673196285905603873",
     "en.bref_": "7639431069082586401",
     "509stories": "7642134615150431521",
-    "contrelaguerre": "7673461854051519776",
+    "contrelaguerre": "7673619532040211745",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7673536097237896480",
     "actuenbref.tv": "7673475454115826977",
@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7673573353214758177",
-    "kat_info": "7673546970689981728",
+    "kat_info": "7673620894962552096",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7672524304365391136",
     "actu.le.fran843": "7655044164291169568",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673092032176442656"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7673540940795039008",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7673540940795039008",
-      "detected_at": "2026-08-13T15:38:00+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 53586,
-        "likes": 2536,
-        "comments": 41,
-        "shares": 263
-      }
-    },
     {
       "handle": "infos.minutes",
       "video_id": "7673552364850138400",
@@ -219,32 +193,6 @@
       }
     },
     {
-      "handle": "kat_info",
-      "video_id": "7673546970689981728",
-      "url": "https://www.tiktok.com/@kat_info/video/7673546970689981728",
-      "detected_at": "2026-08-13T16:01:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 13640,
-        "likes": 207,
-        "comments": 22,
-        "shares": 77
-      }
-    },
-    {
       "handle": "acturium",
       "video_id": "7673554549461798176",
       "url": "https://www.tiktok.com/@acturium/video/7673554549461798176",
@@ -308,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,8 +264,8 @@
         }
       ],
       "last_stats": {
-        "views": 1636,
-        "likes": 31,
+        "views": 2936,
+        "likes": 38,
         "comments": 1,
         "shares": 0
       }
@@ -408,6 +356,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5168,
+        "likes": 62,
+        "comments": 2,
+        "shares": 69
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7673617104628763936",
+      "url": "https://www.tiktok.com/@actureact.info/video/7673617104628763936",
+      "detected_at": "2026-08-13T20:33:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -420,10 +394,62 @@
         }
       ],
       "last_stats": {
-        "views": 528,
-        "likes": 9,
-        "comments": 1,
-        "shares": 2
+        "views": 9841,
+        "likes": 465,
+        "comments": 11,
+        "shares": 40
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7673619532040211745",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7673619532040211745",
+      "detected_at": "2026-08-13T20:42:58+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 432,
+        "likes": 8,
+        "comments": 4,
+        "shares": 7
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7673620894962552096",
+      "url": "https://www.tiktok.com/@kat_info/video/7673620894962552096",
+      "detected_at": "2026-08-13T20:48:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 344,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
