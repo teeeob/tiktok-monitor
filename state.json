@@ -60,12 +60,12 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7673160033957432608",
+    "actualfrancetv": "7673427050505456929",
     "actu913": "7672745105702260000",
     "franceendirect1": "7673160970922954017",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7671201204323503392",
-    "breaking3": "7673160819324046625",
+    "breaking3": "7673428157608774945",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7673176860506869024",
@@ -242,6 +242,58 @@
         "likes": 7,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7673427050505456929",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7673427050505456929",
+      "detected_at": "2026-08-13T08:16:04+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 235,
+        "likes": 23,
+        "comments": 0,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7673428157608774945",
+      "url": "https://www.tiktok.com/@breaking3/video/7673428157608774945",
+      "detected_at": "2026-08-13T08:20:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 189,
+        "likes": 12,
+        "comments": 0,
+        "shares": 3
       }
     }
   ]
