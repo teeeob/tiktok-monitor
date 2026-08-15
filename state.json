@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7673982260370033953",
-      "url": "https://www.tiktok.com/@zopinfo/video/7673982260370033953",
-      "detected_at": "2026-08-14T20:10:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4670,
-        "likes": 49,
-        "comments": 4,
-        "shares": 33
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7673999869182233888",
       "url": "https://www.tiktok.com/@infos.minutes/video/7673999869182233888",
@@ -282,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 1255,
-        "likes": 28,
+        "views": 1723,
+        "likes": 33,
         "comments": 1,
-        "shares": 4
+        "shares": 5
       }
     }
   ]
