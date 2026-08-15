@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7674178888418823456",
     "actu913": "7673887837812542752",
-    "franceendirect1": "7674010369530039584",
+    "franceendirect1": "7674231323481066785",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7671201204323503392",
     "breaking3": "7673798036316769569",
@@ -230,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -238,8 +238,8 @@
         }
       ],
       "last_stats": {
-        "views": 918,
-        "likes": 14,
+        "views": 1158,
+        "likes": 17,
         "comments": 1,
         "shares": 0
       }
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 1247,
-        "likes": 45,
-        "comments": 28,
-        "shares": 5
+        "views": 2914,
+        "likes": 114,
+        "comments": 64,
+        "shares": 15
       }
     },
     {
@@ -408,6 +408,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1698,
+        "likes": 36,
+        "comments": 2,
+        "shares": 15
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7674231323481066785",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7674231323481066785",
+      "detected_at": "2026-08-15T12:17:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -420,8 +446,8 @@
         }
       ],
       "last_stats": {
-        "views": 326,
-        "likes": 9,
+        "views": 0,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
