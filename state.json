@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7674178888418823456",
     "actu913": "7673887837812542752",
-    "franceendirect1": "7674231323481066785",
+    "franceendirect1": "7674374270474145057",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7671201204323503392",
     "breaking3": "7673798036316769569",
@@ -278,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 346,
-        "likes": 4,
+        "views": 2253,
+        "likes": 39,
         "comments": 0,
-        "shares": 0
+        "shares": 9
       }
     },
     {
@@ -344,6 +344,32 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7674374270474145057",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7674374270474145057",
+      "detected_at": "2026-08-15T21:31:46+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 52,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
