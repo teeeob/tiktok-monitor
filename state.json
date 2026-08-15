@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7673516518189059360",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7673999869182233888",
+    "infos.minutes": "7674331275892657441",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7672303249390701857",
@@ -152,6 +152,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 3957,
+        "likes": 89,
+        "comments": 9,
+        "shares": 16
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7674315271254887712",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7674315271254887712",
+      "detected_at": "2026-08-15T17:42:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -160,17 +186,17 @@
         }
       ],
       "last_stats": {
-        "views": 3206,
-        "likes": 63,
-        "comments": 6,
-        "shares": 9
+        "views": 14738,
+        "likes": 418,
+        "comments": 7,
+        "shares": 32
       }
     },
     {
-      "handle": "journalsudouest",
-      "video_id": "7674315271254887712",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7674315271254887712",
-      "detected_at": "2026-08-15T17:42:48+00:00",
+      "handle": "infos.minutes",
+      "video_id": "7674331275892657441",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7674331275892657441",
+      "detected_at": "2026-08-15T18:44:55+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -186,10 +212,10 @@
         }
       ],
       "last_stats": {
-        "views": 2505,
-        "likes": 68,
-        "comments": 0,
-        "shares": 2
+        "views": 1724,
+        "likes": 166,
+        "comments": 4,
+        "shares": 4
       }
     }
   ]
