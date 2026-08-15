@@ -19,8 +19,8 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7674180697363385632",
-    "zopinfo": "7674149751897460001",
+    "journalsudouest": "7674200135902956832",
+    "zopinfo": "7674199621303799073",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7673132793907481888",
@@ -252,7 +252,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -264,9 +264,9 @@
         }
       ],
       "last_stats": {
-        "views": 160,
-        "likes": 7,
-        "comments": 0,
+        "views": 918,
+        "likes": 14,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -278,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,9 +290,9 @@
         }
       ],
       "last_stats": {
-        "views": 62,
-        "likes": 4,
-        "comments": 0,
+        "views": 1247,
+        "likes": 45,
+        "comments": 28,
         "shares": 5
       }
     },
@@ -345,6 +345,58 @@
         "views": 257,
         "likes": 6,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7674200135902956832",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7674200135902956832",
+      "detected_at": "2026-08-15T10:16:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 7518,
+        "likes": 390,
+        "comments": 2,
+        "shares": 46
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7674199621303799073",
+      "url": "https://www.tiktok.com/@zopinfo/video/7674199621303799073",
+      "detected_at": "2026-08-15T10:14:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 419,
+        "likes": 8,
+        "comments": 0,
         "shares": 0
       }
     }
