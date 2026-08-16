@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7673516518189059360",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7674363621454908704",
+    "infos.minutes": "7674696499019713824",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7661741159785434401",
@@ -278,6 +278,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2021,
+        "likes": 39,
+        "comments": 0,
+        "shares": 25
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7674696499019713824",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7674696499019713824",
+      "detected_at": "2026-08-16T18:22:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -290,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 548,
-        "likes": 9,
-        "comments": 0,
-        "shares": 1
+        "views": 4862,
+        "likes": 339,
+        "comments": 10,
+        "shares": 19
       }
     }
   ]
