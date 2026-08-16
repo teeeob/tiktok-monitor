@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7674534394786319649",
-    "zopinfo": "7674359220963216672",
+    "zopinfo": "7674548474678938913",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7673132793907481888",
@@ -174,7 +174,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -186,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 1672,
-        "likes": 57,
-        "comments": 0,
-        "shares": 0
+        "views": 12495,
+        "likes": 537,
+        "comments": 1,
+        "shares": 7
       }
     },
     {
@@ -294,6 +294,32 @@
         "likes": 19,
         "comments": 0,
         "shares": 5
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7674548474678938913",
+      "url": "https://www.tiktok.com/@zopinfo/video/7674548474678938913",
+      "detected_at": "2026-08-16T08:47:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 244,
+        "likes": 5,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
