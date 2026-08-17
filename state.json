@@ -61,7 +61,7 @@
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7674913958301568289",
-    "actu913": "7673887837812542752",
+    "actu913": "7674974596478536993",
     "franceendirect1": "7674374270474145057",
     "h.o.b15": "7669486505584364833",
     "info247fr": "7671201204323503392",
@@ -256,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 5210,
-        "likes": 123,
-        "comments": 36,
-        "shares": 14
+        "views": 16344,
+        "likes": 387,
+        "comments": 164,
+        "shares": 67
       }
     },
     {
@@ -500,6 +500,32 @@
       "last_stats": {
         "views": 87,
         "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7674974596478536993",
+      "url": "https://www.tiktok.com/@actu913/video/7674974596478536993",
+      "detected_at": "2026-08-17T12:21:20+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
