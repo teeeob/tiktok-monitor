@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7673517996484119841",
     "mediaflix": "7674012609988824353",
-    "actu_brut.fr": "7675000120458366241",
+    "actu_brut.fr": "7675044039816678688",
     "tiktok.ragot": "7674727000765910305",
     "actu_minute_info": "7674576535377956128",
     "actufranceplus": "7668591891759320353",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "tiktok.ragot",
-      "video_id": "7674968501185957152",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7674968501185957152",
-      "detected_at": "2026-08-17T11:57:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 87,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "actu913",
       "video_id": "7674974596478536993",
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 11381,
-        "likes": 121,
-        "comments": 18,
-        "shares": 97
+        "views": 52787,
+        "likes": 427,
+        "comments": 58,
+        "shares": 443
       }
     },
     {
@@ -398,6 +372,32 @@
         "likes": 34,
         "comments": 10,
         "shares": 8
+      }
+    },
+    {
+      "handle": "actu_brut.fr",
+      "video_id": "7675044039816678688",
+      "url": "https://www.tiktok.com/@actu_brut.fr/video/7675044039816678688",
+      "detected_at": "2026-08-17T16:50:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1000,
+        "likes": 21,
+        "comments": 2,
+        "shares": 4
       }
     }
   ]
