@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7675022248364870944",
-      "url": "https://www.tiktok.com/@zopinfo/video/7675022248364870944",
-      "detected_at": "2026-08-17T15:26:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3596,
-        "likes": 60,
-        "comments": 1,
-        "shares": 11
-      }
-    },
-    {
-      "handle": "univers_doc",
-      "video_id": "7675023263663181089",
-      "url": "https://www.tiktok.com/@univers_doc/video/7675023263663181089",
-      "detected_at": "2026-08-17T15:30:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 496,
-        "likes": 15,
-        "comments": 1,
-        "shares": 1
-      }
-    },
-    {
       "handle": "unmomentactu",
       "video_id": "7675029364089687328",
       "url": "https://www.tiktok.com/@unmomentactu/video/7675029364089687328",
@@ -453,32 +401,6 @@
       }
     },
     {
-      "handle": "univers_doc",
-      "video_id": "7675023263663181089",
-      "url": "https://www.tiktok.com/@univers_doc/video/7675023263663181089",
-      "detected_at": "2026-08-17T15:30:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 536,
-        "likes": 16,
-        "comments": 1,
-        "shares": 1
-      }
-    },
-    {
       "handle": "unmomentactu",
       "video_id": "7675029364089687328",
       "url": "https://www.tiktok.com/@unmomentactu/video/7675029364089687328",
@@ -512,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -524,8 +446,8 @@
         }
       ],
       "last_stats": {
-        "views": 396,
-        "likes": 5,
+        "views": 1493,
+        "likes": 41,
         "comments": 0,
         "shares": 0
       }
