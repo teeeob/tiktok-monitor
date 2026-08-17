@@ -35,7 +35,7 @@
     "actufranceplus": "7668591891759320353",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
-    "zoomdefrance": "7674368446636821793",
+    "zoomdefrance": "7675085031173344545",
     "dbrif.off": "7621283100445707542",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
@@ -434,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -446,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 1129,
-        "likes": 10,
-        "comments": 0,
-        "shares": 3
+        "views": 2730,
+        "likes": 25,
+        "comments": 1,
+        "shares": 10
       }
     },
     {
@@ -460,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,9 +472,9 @@
         }
       ],
       "last_stats": {
-        "views": 283,
-        "likes": 8,
-        "comments": 1,
+        "views": 436,
+        "likes": 15,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -528,6 +528,32 @@
         "likes": 250,
         "comments": 49,
         "shares": 104
+      }
+    },
+    {
+      "handle": "zoomdefrance",
+      "video_id": "7675085031173344545",
+      "url": "https://www.tiktok.com/@zoomdefrance/video/7675085031173344545",
+      "detected_at": "2026-08-17T19:29:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 396,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
