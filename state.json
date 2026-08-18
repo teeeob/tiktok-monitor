@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "kat_info",
-      "video_id": "7675239706556173600",
-      "url": "https://www.tiktok.com/@kat_info/video/7675239706556173600",
-      "detected_at": "2026-08-18T05:30:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 601,
-        "likes": 3,
-        "comments": 2,
-        "shares": 2
-      }
-    },
-    {
       "handle": "essiide",
       "video_id": "7675254441209040161",
       "url": "https://www.tiktok.com/@essiide/video/7675254441209040161",
@@ -204,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 3366,
-        "likes": 72,
-        "comments": 4,
-        "shares": 4
+        "views": 6211,
+        "likes": 123,
+        "comments": 6,
+        "shares": 21
       }
     },
     {
@@ -330,7 +304,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -342,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 1736,
+        "likes": 27,
+        "comments": 3,
+        "shares": 3
       }
     },
     {
@@ -356,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,9 +342,9 @@
         }
       ],
       "last_stats": {
-        "views": 83,
-        "likes": 3,
-        "comments": 1,
+        "views": 509,
+        "likes": 11,
+        "comments": 2,
         "shares": 0
       }
     },
