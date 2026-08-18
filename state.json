@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7673516518189059360",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7675433945118379296",
+    "infos.minutes": "7675482035556715809",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7661741159785434401",
@@ -35,7 +35,7 @@
     "actufranceplus": "7668591891759320353",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
-    "zoomdefrance": "7675085031173344545",
+    "zoomdefrance": "7675479260982676769",
     "dbrif.off": "7621283100445707542",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
@@ -308,7 +308,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +316,10 @@
         }
       ],
       "last_stats": {
-        "views": 8547,
-        "likes": 744,
-        "comments": 31,
-        "shares": 34
+        "views": 15062,
+        "likes": 1389,
+        "comments": 73,
+        "shares": 64
       }
     },
     {
@@ -424,6 +424,58 @@
         "likes": 20,
         "comments": 0,
         "shares": 6
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7675482035556715809",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7675482035556715809",
+      "detected_at": "2026-08-18T21:10:25+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 171,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zoomdefrance",
+      "video_id": "7675479260982676769",
+      "url": "https://www.tiktok.com/@zoomdefrance/video/7675479260982676769",
+      "detected_at": "2026-08-18T20:59:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 224,
+        "likes": 5,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
