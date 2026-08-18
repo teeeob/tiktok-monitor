@@ -28,7 +28,7 @@
     "actuflashh": "7672550146902625569",
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7673517996484119841",
-    "mediaflix": "7674012609988824353",
+    "mediaflix": "7675493872981576992",
     "actu_brut.fr": "7675472578189872417",
     "tiktok.ragot": "7675333633753795873",
     "actu_minute_info": "7675375797133233440",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "actuenbref.tv",
-      "video_id": "7675417738885516577",
-      "url": "https://www.tiktok.com/@actuenbref.tv/video/7675417738885516577",
-      "detected_at": "2026-08-18T17:00:56+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 18419,
-        "likes": 401,
-        "comments": 41,
-        "shares": 79
-      }
-    },
     {
       "handle": "langlecurieux",
       "video_id": "7675418319884700950",
@@ -282,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 70,
-        "likes": 3,
+        "views": 2596,
+        "likes": 44,
         "comments": 1,
-        "shares": 0
+        "shares": 40
       }
     },
     {
@@ -356,6 +330,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1515,
+        "likes": 35,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "mediaflix",
+      "video_id": "7675493872981576992",
+      "url": "https://www.tiktok.com/@mediaflix/video/7675493872981576992",
+      "detected_at": "2026-08-18T21:56:24+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -368,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 224,
-        "likes": 5,
+        "views": 46,
+        "likes": 2,
         "comments": 0,
-        "shares": 1
+        "shares": 0
       }
     }
   ]
