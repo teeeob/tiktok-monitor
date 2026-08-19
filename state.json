@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7672550146902625569",
     "askyp.france": "7645734060261788961",
-    "infofrance.tv": "7675795835489193249",
+    "infofrance.tv": "7675881000290782497",
     "mediaflix": "7675614055331007776",
     "actu_brut.fr": "7675689673695513889",
     "tiktok.ragot": "7675786236593786145",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "langlecurieux",
-      "video_id": "7675803541130235158",
-      "url": "https://www.tiktok.com/@langlecurieux/video/7675803541130235158",
-      "detected_at": "2026-08-19T17:59:29+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 15148,
-        "likes": 115,
-        "comments": 10,
-        "shares": 13
-      }
-    },
     {
       "handle": "univers_doc",
       "video_id": "7675807169886833953",
@@ -408,6 +382,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 24051,
+        "likes": 1507,
+        "comments": 29,
+        "shares": 81
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7675881000290782497",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7675881000290782497",
+      "detected_at": "2026-08-19T22:58:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -420,10 +420,10 @@
         }
       ],
       "last_stats": {
-        "views": 3710,
-        "likes": 224,
-        "comments": 7,
-        "shares": 4
+        "views": 9,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
