@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7673517996484119841",
     "mediaflix": "7675614055331007776",
-    "actu_brut.fr": "7675472578189872417",
+    "actu_brut.fr": "7675407604755008800",
     "tiktok.ragot": "7675333633753795873",
     "actu_minute_info": "7675375797133233440",
     "actufranceplus": "7668591891759320353",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "univers_doc",
-      "video_id": "7675609378631716129",
-      "url": "https://www.tiktok.com/@univers_doc/video/7675609378631716129",
-      "detected_at": "2026-08-19T05:24:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1591,
-        "likes": 23,
-        "comments": 1,
-        "shares": 1
-      }
-    },
     {
       "handle": "mediaflix",
       "video_id": "7675614055331007776",
@@ -304,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -316,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 192,
-        "likes": 28,
+        "views": 328,
+        "likes": 38,
         "comments": 1,
-        "shares": 0
+        "shares": 1
       }
     },
     {
