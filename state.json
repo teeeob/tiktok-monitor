@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7675409991804718368",
-    "zopinfo": "7675652759533767969",
+    "zopinfo": "7675676056786980128",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7675019211843915040",
@@ -100,46 +100,20 @@
     "la.france.avenir2026": "7672487160968138016",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7672988362105556257",
-    "unmomentactu": "7675299439455538464",
+    "unmomentactu": "7675676392188595488",
     "franceecho": "7675432462402538785",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7673048596496911648",
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
-    "breakingactufr": "7674929438122888481",
+    "breakingactufr": "7675672874115468576",
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7673492587587652896",
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7675597645934513440",
-      "url": "https://www.tiktok.com/@zopinfo/video/7675597645934513440",
-      "detected_at": "2026-08-19T04:39:08+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3078,
-        "likes": 56,
-        "comments": 2,
-        "shares": 10
-      }
-    },
     {
       "handle": "journalfrancetv",
       "video_id": "7675605530555043105",
@@ -252,7 +226,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 31,
-        "likes": 3,
-        "comments": 0,
-        "shares": 4
+        "views": 2384,
+        "likes": 46,
+        "comments": 3,
+        "shares": 17
       }
     },
     {
@@ -275,6 +249,32 @@
       "video_id": "7675659713345785121",
       "url": "https://www.tiktok.com/@breaking3/video/7675659713345785121",
       "detected_at": "2026-08-19T08:39:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 44,
+        "likes": 4,
+        "comments": 0,
+        "shares": 20
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7675676056786980128",
+      "url": "https://www.tiktok.com/@zopinfo/video/7675676056786980128",
+      "detected_at": "2026-08-19T09:43:26+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -290,9 +290,61 @@
         }
       ],
       "last_stats": {
-        "views": 4,
-        "likes": 0,
-        "comments": 0,
+        "views": 185,
+        "likes": 9,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7675676392188595488",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7675676392188595488",
+      "detected_at": "2026-08-19T09:44:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 217,
+        "likes": 10,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "breakingactufr",
+      "video_id": "7675672874115468576",
+      "url": "https://www.tiktok.com/@breakingactufr/video/7675672874115468576",
+      "detected_at": "2026-08-19T09:30:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 192,
+        "likes": 28,
+        "comments": 1,
         "shares": 0
       }
     }
