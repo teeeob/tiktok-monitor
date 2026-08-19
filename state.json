@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "france_infos",
-      "video_id": "7675697606625938720",
-      "url": "https://www.tiktok.com/@france_infos/video/7675697606625938720",
-      "detected_at": "2026-08-19T11:06:58+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 223,
-        "likes": 13,
-        "comments": 4,
-        "shares": 0
-      }
-    },
-    {
       "handle": "tiktok.ragot",
       "video_id": "7675707587601370401",
       "url": "https://www.tiktok.com/@tiktok.ragot/video/7675707587601370401",
@@ -356,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 3526,
-        "likes": 119,
-        "comments": 8,
-        "shares": 7
+        "views": 12018,
+        "likes": 297,
+        "comments": 54,
+        "shares": 21
       }
     },
     {
@@ -382,7 +356,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 388,
-        "likes": 31,
-        "comments": 5,
-        "shares": 6
+        "views": 2434,
+        "likes": 166,
+        "comments": 26,
+        "shares": 8
       }
     },
     {
@@ -408,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -420,10 +394,10 @@
         }
       ],
       "last_stats": {
-        "views": 83,
-        "likes": 1,
+        "views": 208,
+        "likes": 10,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     }
   ]
