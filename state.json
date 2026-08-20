@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7675966970629606688",
-      "url": "https://www.tiktok.com/@zopinfo/video/7675966970629606688",
-      "detected_at": "2026-08-20T04:32:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8524,
-        "likes": 152,
-        "comments": 5,
-        "shares": 134
-      }
-    },
-    {
       "handle": "dbrif.off",
       "video_id": "7675980983950183713",
       "url": "https://www.tiktok.com/@dbrif.off/video/7675980983950183713",
@@ -226,7 +200,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -238,9 +212,9 @@
         }
       ],
       "last_stats": {
-        "views": 357,
-        "likes": 7,
-        "comments": 3,
+        "views": 622,
+        "likes": 10,
+        "comments": 8,
         "shares": 6
       }
     },
@@ -252,7 +226,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 33,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0
+        "views": 396,
+        "likes": 38,
+        "comments": 2,
+        "shares": 16
       }
     },
     {
@@ -278,7 +252,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -290,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 32,
-        "likes": 3,
+        "views": 66,
+        "likes": 8,
         "comments": 0,
-        "shares": 0
+        "shares": 12
       }
     }
   ]
