@@ -115,136 +115,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7676085022817815841",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7676085022817815841",
-      "detected_at": "2026-08-20T12:10:20+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8815,
-        "likes": 502,
-        "comments": 48,
-        "shares": 8
-      }
-    },
-    {
-      "handle": "actu_brut.fr",
-      "video_id": "7676088179312594209",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7676088179312594209",
-      "detected_at": "2026-08-20T12:22:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 31913,
-        "likes": 311,
-        "comments": 50,
-        "shares": 62
-      }
-    },
-    {
-      "handle": "tiktok.ragot",
-      "video_id": "7676083772437187872",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7676083772437187872",
-      "detected_at": "2026-08-20T12:05:29+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 46484,
-        "likes": 399,
-        "comments": 69,
-        "shares": 78
-      }
-    },
-    {
-      "handle": "journalsudouest",
-      "video_id": "7676089889313574176",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7676089889313574176",
-      "detected_at": "2026-08-20T12:29:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4508,
-        "likes": 210,
-        "comments": 4,
-        "shares": 6
-      }
-    },
-    {
-      "handle": "essiide",
-      "video_id": "7676089631892344096",
-      "url": "https://www.tiktok.com/@essiide/video/7676089631892344096",
-      "detected_at": "2026-08-20T12:28:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 844,
-        "likes": 62,
-        "comments": 10,
-        "shares": 5
-      }
-    },
-    {
       "handle": "journalsudouest",
       "video_id": "7676093273949113632",
       "url": "https://www.tiktok.com/@journalsudouest/video/7676093273949113632",
@@ -360,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -368,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 34500,
-        "likes": 966,
-        "comments": 138,
-        "shares": 62
+        "views": 88474,
+        "likes": 3228,
+        "comments": 484,
+        "shares": 243
       }
     },
     {
@@ -386,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -394,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 10096,
-        "likes": 252,
-        "comments": 23,
-        "shares": 10
+        "views": 21333,
+        "likes": 522,
+        "comments": 74,
+        "shares": 48
       }
     },
     {
@@ -479,32 +349,6 @@
       }
     },
     {
-      "handle": "actu_brut.fr",
-      "video_id": "7676088179312594209",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7676088179312594209",
-      "detected_at": "2026-08-20T12:22:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 71400,
-        "likes": 715,
-        "comments": 141,
-        "shares": 180
-      }
-    },
-    {
       "handle": "alarmeactu",
       "video_id": "7676146731658087712",
       "url": "https://www.tiktok.com/@alarmeactu/video/7676146731658087712",
@@ -512,7 +356,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -524,36 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 178,
-        "likes": 7,
+        "views": 415,
+        "likes": 13,
         "comments": 1,
         "shares": 2
-      }
-    },
-    {
-      "handle": "actu_brut.fr",
-      "video_id": "7676088179312594209",
-      "url": "https://www.tiktok.com/@actu_brut.fr/video/7676088179312594209",
-      "detected_at": "2026-08-20T12:22:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 71553,
-        "likes": 721,
-        "comments": 141,
-        "shares": 180
       }
     },
     {
@@ -564,7 +382,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -576,8 +394,8 @@
         }
       ],
       "last_stats": {
-        "views": 7,
-        "likes": 0,
+        "views": 250,
+        "likes": 11,
         "comments": 0,
         "shares": 0
       }
