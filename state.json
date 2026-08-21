@@ -29,7 +29,7 @@
     "askyp.france": "7645734060261788961",
     "infofrance.tv": "7676191733905886496",
     "mediaflix": "7675614055331007776",
-    "actu_brut.fr": "7675689673695513889",
+    "actu_brut.fr": "7676509202730257696",
     "tiktok.ragot": "7676451428956704032",
     "actu_minute_info": "7676422918271782176",
     "actufranceplus": "7675734936652975393",
@@ -528,6 +528,32 @@
         "likes": 8,
         "comments": 1,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actu_brut.fr",
+      "video_id": "7676509202730257696",
+      "url": "https://www.tiktok.com/@actu_brut.fr/video/7676509202730257696",
+      "detected_at": "2026-08-21T15:36:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 956,
+        "likes": 19,
+        "comments": 2,
+        "shares": 8
       }
     }
   ]
