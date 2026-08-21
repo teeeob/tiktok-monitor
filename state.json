@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7669439736573922592",
-    "actureact.info": "7676236120899849505",
+    "actureact.info": "7676492671644437793",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actu_minute_info",
-      "video_id": "7676422918271782176",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7676422918271782176",
-      "detected_at": "2026-08-21T10:01:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3875,
-        "likes": 69,
-        "comments": 2,
-        "shares": 25
-      }
-    },
-    {
       "handle": "actuenbref.tv",
       "video_id": "7676439818011757856",
       "url": "https://www.tiktok.com/@actuenbref.tv/video/7676439818011757856",
@@ -178,7 +152,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -186,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 1601,
-        "likes": 18,
-        "comments": 4,
-        "shares": 5
+        "views": 3297,
+        "likes": 26,
+        "comments": 5,
+        "shares": 11
       }
     },
     {
@@ -204,7 +178,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 4167,
-        "likes": 108,
-        "comments": 12,
-        "shares": 32
+        "views": 6381,
+        "likes": 168,
+        "comments": 19,
+        "shares": 55
       }
     },
     {
@@ -372,6 +346,32 @@
         "likes": 9,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7676492671644437793",
+      "url": "https://www.tiktok.com/@actureact.info/video/7676492671644437793",
+      "detected_at": "2026-08-21T14:32:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 4712,
+        "likes": 274,
+        "comments": 5,
+        "shares": 12
       }
     }
   ]
