@@ -44,7 +44,7 @@
     "509stories": "7642134615150431521",
     "contrelaguerre": "7676391965939764512",
     "actubrute_fr": "7658675464088718625",
-    "actuone.tv1": "7676119637062405409",
+    "actuone.tv1": "7676546230989655329",
     "actuenbref.tv": "7676439818011757856",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7675418319884700950",
@@ -114,84 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "actualfrancetv",
-      "video_id": "7676506970370673953",
-      "url": "https://www.tiktok.com/@actualfrancetv/video/7676506970370673953",
-      "detected_at": "2026-08-21T15:27:42+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5169,
-        "likes": 114,
-        "comments": 20,
-        "shares": 19
-      }
-    },
-    {
-      "handle": "breaking3",
-      "video_id": "7676507346629086497",
-      "url": "https://www.tiktok.com/@breaking3/video/7676507346629086497",
-      "detected_at": "2026-08-21T15:29:10+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1755,
-        "likes": 44,
-        "comments": 2,
-        "shares": 8
-      }
-    },
-    {
-      "handle": "actufrance_14",
-      "video_id": "7676506956495899936",
-      "url": "https://www.tiktok.com/@actufrance_14/video/7676506956495899936",
-      "detected_at": "2026-08-21T15:27:38+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4750,
-        "likes": 95,
-        "comments": 2,
-        "shares": 38
-      }
-    },
     {
       "handle": "actu_brut.fr",
       "video_id": "7676509202730257696",
@@ -412,7 +334,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -420,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 3186,
-        "likes": 32,
-        "comments": 9,
-        "shares": 11
+        "views": 5390,
+        "likes": 55,
+        "comments": 13,
+        "shares": 21
       }
     },
     {
@@ -616,7 +538,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -628,10 +550,10 @@
         }
       ],
       "last_stats": {
-        "views": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 2087,
+        "likes": 32,
+        "comments": 3,
+        "shares": 4
       }
     },
     {
@@ -642,7 +564,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -654,10 +576,36 @@
         }
       ],
       "last_stats": {
-        "views": 318,
-        "likes": 8,
-        "comments": 0,
+        "views": 1192,
+        "likes": 30,
+        "comments": 1,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actuone.tv1",
+      "video_id": "7676546230989655329",
+      "url": "https://www.tiktok.com/@actuone.tv1/video/7676546230989655329",
+      "detected_at": "2026-08-21T18:00:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 8821,
+        "likes": 234,
+        "comments": 18,
+        "shares": 14
       }
     }
   ]
