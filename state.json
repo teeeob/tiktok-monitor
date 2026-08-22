@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7676877174191688992",
-    "zopinfo": "7676914345942519073",
+    "zopinfo": "7676955438419594528",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7675019211843915040",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7676877174191688992",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7676877174191688992",
-      "detected_at": "2026-08-22T15:24:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2427,
-        "likes": 109,
-        "comments": 0,
-        "shares": 2
-      }
-    },
     {
       "handle": "tiktok.ragot",
       "video_id": "7676888710599789857",
@@ -256,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -264,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 1391,
-        "likes": 51,
-        "comments": 3,
-        "shares": 26
+        "views": 2578,
+        "likes": 92,
+        "comments": 6,
+        "shares": 52
       }
     },
     {
@@ -460,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -472,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 12,
-        "likes": 0,
+        "views": 1272,
+        "likes": 17,
         "comments": 0,
-        "shares": 0
+        "shares": 3
       }
     },
     {
@@ -554,6 +528,32 @@
         "likes": 246,
         "comments": 4,
         "shares": 8
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7676955438419594528",
+      "url": "https://www.tiktok.com/@zopinfo/video/7676955438419594528",
+      "detected_at": "2026-08-22T20:27:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 20,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
