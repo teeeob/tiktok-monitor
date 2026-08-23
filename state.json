@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7676973162617212193",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7676973162617212193",
-      "detected_at": "2026-08-22T21:36:46+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6865,
-        "likes": 270,
-        "comments": 24,
-        "shares": 14
-      }
-    },
-    {
       "handle": "langlecurieux",
       "video_id": "7677003213756747030",
       "url": "https://www.tiktok.com/@langlecurieux/video/7677003213756747030",
@@ -152,7 +126,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -160,9 +134,9 @@
         }
       ],
       "last_stats": {
-        "views": 602,
-        "likes": 16,
-        "comments": 1,
+        "views": 900,
+        "likes": 26,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -174,7 +148,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -186,8 +160,8 @@
         }
       ],
       "last_stats": {
-        "views": 141,
-        "likes": 11,
+        "views": 920,
+        "likes": 64,
         "comments": 0,
         "shares": 0
       }
