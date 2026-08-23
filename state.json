@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7677218886424481056",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7677238106117917985",
+    "infos.minutes": "7677282929831103776",
     "alarmeactu": "7677251567531134240",
     "actumedias": "7523926913388170518",
     "france_infos": "7676615173486005536",
@@ -76,7 +76,7 @@
     "france.actu02": "7677239893013138721",
     "actu.choc1": "7673018569768062240",
     "infofrance_fr": "7649736592470330646",
-    "actudivers.fr": "7676936508351221024",
+    "actudivers.fr": "7677283003613187361",
     "to.suissra": "7654575792071953696",
     "essiide": "7676898761578138912",
     "univers_doc": "7677085482529901857",
@@ -360,7 +360,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -368,10 +368,10 @@
         }
       ],
       "last_stats": {
-        "views": 4927,
-        "likes": 536,
-        "comments": 21,
-        "shares": 8
+        "views": 11402,
+        "likes": 1238,
+        "comments": 46,
+        "shares": 38
       }
     },
     {
@@ -604,6 +604,58 @@
       "last_stats": {
         "views": 56,
         "likes": 10,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7677282929831103776",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7677282929831103776",
+      "detected_at": "2026-08-23T17:38:49+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 313,
+        "likes": 16,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actudivers.fr",
+      "video_id": "7677283003613187361",
+      "url": "https://www.tiktok.com/@actudivers.fr/video/7677283003613187361",
+      "detected_at": "2026-08-23T17:39:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 296,
+        "likes": 11,
         "comments": 0,
         "shares": 0
       }
