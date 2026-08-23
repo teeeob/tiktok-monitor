@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "journalfrancetv",
-      "video_id": "7677108966677089569",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7677108966677089569",
-      "detected_at": "2026-08-23T06:23:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6352,
-        "likes": 171,
-        "comments": 8,
-        "shares": 148
-      }
-    },
-    {
-      "handle": "journalsudouest",
-      "video_id": "7677109674591653153",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7677109674591653153",
-      "detected_at": "2026-08-23T06:26:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4480,
-        "likes": 194,
-        "comments": 6,
-        "shares": 5
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7677144972717575457",
       "url": "https://www.tiktok.com/@zopinfo/video/7677144972717575457",
@@ -382,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -394,10 +342,10 @@
         }
       ],
       "last_stats": {
-        "views": 52,
-        "likes": 4,
+        "views": 3432,
+        "likes": 59,
         "comments": 0,
-        "shares": 0
+        "shares": 11
       }
     },
     {
