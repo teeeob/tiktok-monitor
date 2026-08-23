@@ -23,7 +23,7 @@
     "zopinfo": "7677302945603423521",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
-    "actuchrono60": "7675019211843915040",
+    "actuchrono60": "7677336793871584544",
     "reclist": "7646688930988920097",
     "actuflashh": "7672550146902625569",
     "askyp.france": "7645734060261788961",
@@ -101,7 +101,7 @@
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7677035855403437345",
     "unmomentactu": "7676247034021678368",
-    "franceecho": "7676944418301168928",
+    "franceecho": "7677336138704506145",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7676122677454654753",
     "wordpress070": "7659746008074636576",
@@ -164,32 +164,6 @@
         "likes": 27,
         "comments": 1,
         "shares": 0
-      }
-    },
-    {
-      "handle": "la.france.avenir2026",
-      "video_id": "7677260962742783265",
-      "url": "https://www.tiktok.com/@la.france.avenir2026/video/7677260962742783265",
-      "detected_at": "2026-08-23T16:13:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1121,
-        "likes": 27,
-        "comments": 6,
-        "shares": 1
       }
     },
     {
@@ -502,6 +476,58 @@
         "likes": 140,
         "comments": 10,
         "shares": 1
+      }
+    },
+    {
+      "handle": "actuchrono60",
+      "video_id": "7677336793871584544",
+      "url": "https://www.tiktok.com/@actuchrono60/video/7677336793871584544",
+      "detected_at": "2026-08-23T21:07:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 99,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "franceecho",
+      "video_id": "7677336138704506145",
+      "url": "https://www.tiktok.com/@franceecho/video/7677336138704506145",
+      "detected_at": "2026-08-23T21:05:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 141,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
