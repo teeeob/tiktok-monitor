@@ -50,10 +50,10 @@
     "langlecurieux": "7677003213756747030",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7677302547438161185",
+    "journalfrancetv": "7677317473510624545",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
-    "france24infos": "7676925494301969697",
+    "france24infos": "7677316399907310881",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7675407687198199073",
     "suziepress": "7675741773410389280",
@@ -114,58 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "infos.minutes",
-      "video_id": "7677238106117917985",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7677238106117917985",
-      "detected_at": "2026-08-23T14:44:53+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 11402,
-        "likes": 1238,
-        "comments": 46,
-        "shares": 38
-      }
-    },
-    {
-      "handle": "france.actu02",
-      "video_id": "7677239893013138721",
-      "url": "https://www.tiktok.com/@france.actu02/video/7677239893013138721",
-      "detected_at": "2026-08-23T14:51:50+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 15846,
-        "likes": 188,
-        "comments": 32,
-        "shares": 36
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7677247342478740768",
@@ -334,7 +282,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -342,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 4339,
-        "likes": 137,
-        "comments": 3,
-        "shares": 35
+        "views": 28519,
+        "likes": 568,
+        "comments": 37,
+        "shares": 388
       }
     },
     {
@@ -486,7 +434,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -498,10 +446,10 @@
         }
       ],
       "last_stats": {
-        "views": 49,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
+        "views": 2386,
+        "likes": 37,
+        "comments": 1,
+        "shares": 13
       }
     },
     {
@@ -512,7 +460,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -524,10 +472,10 @@
         }
       ],
       "last_stats": {
-        "views": 333,
-        "likes": 10,
-        "comments": 0,
-        "shares": 3
+        "views": 7100,
+        "likes": 107,
+        "comments": 7,
+        "shares": 27
       }
     },
     {
@@ -554,6 +502,58 @@
         "likes": 3,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7677317473510624545",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7677317473510624545",
+      "detected_at": "2026-08-23T19:52:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 497,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "france24infos",
+      "video_id": "7677316399907310881",
+      "url": "https://www.tiktok.com/@france24infos/video/7677316399907310881",
+      "detected_at": "2026-08-23T19:48:42+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 385,
+        "likes": 10,
+        "comments": 3,
+        "shares": 2
       }
     }
   ]
