@@ -79,7 +79,7 @@
     "actudivers.fr": "7676936508351221024",
     "to.suissra": "7654575792071953696",
     "essiide": "7676898761578138912",
-    "univers_doc": "7676915447542943009",
+    "univers_doc": "7677085482529901857",
     "infos.tv05": "7676172752088304929",
     "actufrance98": "7676947374132038944",
     "lesignal.fr": "7672033344347016481",
@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "langlecurieux",
-      "video_id": "7677003213756747030",
-      "url": "https://www.tiktok.com/@langlecurieux/video/7677003213756747030",
-      "detected_at": "2026-08-22T23:34:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 900,
-        "likes": 26,
-        "comments": 2,
-        "shares": 0
-      }
-    },
-    {
       "handle": "oeil_global_news",
       "video_id": "7677035855403437345",
       "url": "https://www.tiktok.com/@oeil_global_news/video/7677035855403437345",
@@ -152,6 +126,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1932,
+        "likes": 159,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "univers_doc",
+      "video_id": "7677085482529901857",
+      "url": "https://www.tiktok.com/@univers_doc/video/7677085482529901857",
+      "detected_at": "2026-08-23T04:52:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -160,8 +160,8 @@
         }
       ],
       "last_stats": {
-        "views": 920,
-        "likes": 64,
+        "views": 3,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
