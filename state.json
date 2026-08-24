@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7677154108297481505",
+    "acturium": "7677529427768511777",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7648716566913142038",
     "le.journalrapide": "7647185027427536160",
@@ -148,7 +148,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -160,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 644,
-        "likes": 13,
+        "views": 2926,
+        "likes": 43,
         "comments": 0,
-        "shares": 1
+        "shares": 9
       }
     },
     {
@@ -174,7 +174,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -186,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 502,
-        "likes": 37,
-        "comments": 0,
-        "shares": 9
+        "views": 2548,
+        "likes": 77,
+        "comments": 1,
+        "shares": 10
       }
     },
     {
@@ -226,7 +226,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -238,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 600,
-        "likes": 39,
-        "comments": 0,
-        "shares": 13
+        "views": 2686,
+        "likes": 95,
+        "comments": 3,
+        "shares": 19
       }
     },
     {
@@ -292,6 +292,32 @@
       "last_stats": {
         "views": 237,
         "likes": 4,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7677529427768511777",
+      "url": "https://www.tiktok.com/@acturium/video/7677529427768511777",
+      "detected_at": "2026-08-24T09:35:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 37,
+        "likes": 5,
         "comments": 1,
         "shares": 0
       }
