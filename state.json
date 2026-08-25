@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7677818818999110945",
-      "url": "https://www.tiktok.com/@zopinfo/video/7677818818999110945",
-      "detected_at": "2026-08-25T04:18:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3117,
-        "likes": 40,
-        "comments": 2,
-        "shares": 9
-      }
-    },
-    {
       "handle": "actuenbref.tv",
       "video_id": "7677833669993663777",
       "url": "https://www.tiktok.com/@actuenbref.tv/video/7677833669993663777",
@@ -200,7 +174,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -212,10 +186,10 @@
         }
       ],
       "last_stats": {
-        "views": 411,
-        "likes": 23,
-        "comments": 1,
-        "shares": 0
+        "views": 2191,
+        "likes": 51,
+        "comments": 2,
+        "shares": 23
       }
     },
     {
