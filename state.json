@@ -81,7 +81,7 @@
     "essiide": "7677634984814923041",
     "univers_doc": "7677776346793266464",
     "infos.tv05": "7678011844551789856",
-    "actufrance98": "7676947374132038944",
+    "actufrance98": "7678106646001814816",
     "lesignal.fr": "7672033344347016481",
     "actunews_tv": "7653174359816686880",
     "actufrance_14": "7678029618657479969",
@@ -114,32 +114,6 @@
     "flash.actu.france": "7673939811475983648"
   },
   "pending": [
-    {
-      "handle": "actufrance_14",
-      "video_id": "7678029618657479969",
-      "url": "https://www.tiktok.com/@actufrance_14/video/7678029618657479969",
-      "detected_at": "2026-08-25T17:56:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4134,
-        "likes": 89,
-        "comments": 2,
-        "shares": 25
-      }
-    },
     {
       "handle": "actu_brut.fr",
       "video_id": "7678037722514099489",
@@ -256,6 +230,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 6874,
+        "likes": 132,
+        "comments": 19,
+        "shares": 19
+      }
+    },
+    {
+      "handle": "actufrance98",
+      "video_id": "7678106646001814816",
+      "url": "https://www.tiktok.com/@actufrance98/video/7678106646001814816",
+      "detected_at": "2026-08-25T22:55:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -264,10 +264,10 @@
         }
       ],
       "last_stats": {
-        "views": 4357,
-        "likes": 81,
-        "comments": 15,
-        "shares": 7
+        "views": 108,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
