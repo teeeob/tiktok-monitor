@@ -45,7 +45,7 @@
     "contrelaguerre": "7677531362278067488",
     "actubrute_fr": "7658675464088718625",
     "actuone.tv1": "7677581667334163745",
-    "actuenbref.tv": "7677270527735565601",
+    "actuenbref.tv": "7677833669993663777",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7677003213756747030",
     "actualoff_fr": "7669692052082265377",
@@ -174,6 +174,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1733,
+        "likes": 22,
+        "comments": 2,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "actuenbref.tv",
+      "video_id": "7677833669993663777",
+      "url": "https://www.tiktok.com/@actuenbref.tv/video/7677833669993663777",
+      "detected_at": "2026-08-25T05:16:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -186,9 +212,9 @@
         }
       ],
       "last_stats": {
-        "views": 223,
-        "likes": 4,
-        "comments": 1,
+        "views": 471,
+        "likes": 25,
+        "comments": 2,
         "shares": 0
       }
     }
