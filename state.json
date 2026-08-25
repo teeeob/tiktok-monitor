@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7677707136360647969",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7677707136360647969",
-      "detected_at": "2026-08-24T21:04:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 41150,
-        "likes": 2536,
-        "comments": 34,
-        "shares": 79
-      }
-    },
-    {
-      "handle": "univers_doc",
-      "video_id": "7677708685757386016",
-      "url": "https://www.tiktok.com/@univers_doc/video/7677708685757386016",
-      "detected_at": "2026-08-24T21:10:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 258,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "franceecho",
       "video_id": "7677723081074347297",
       "url": "https://www.tiktok.com/@franceecho/video/7677723081074347297",
@@ -204,7 +152,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -212,10 +160,10 @@
         }
       ],
       "last_stats": {
-        "views": 425,
-        "likes": 23,
+        "views": 554,
+        "likes": 27,
         "comments": 0,
-        "shares": 2
+        "shares": 3
       }
     },
     {
