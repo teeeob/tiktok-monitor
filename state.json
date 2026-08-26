@@ -115,58 +115,6 @@
   },
   "pending": [
     {
-      "handle": "france_infos",
-      "video_id": "7678405323715104033",
-      "url": "https://www.tiktok.com/@france_infos/video/7678405323715104033",
-      "detected_at": "2026-08-26T18:14:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 305,
-        "likes": 8,
-        "comments": 2,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "actuone.tv1",
-      "video_id": "7678406644933381409",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7678406644933381409",
-      "detected_at": "2026-08-26T18:19:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 30146,
-        "likes": 1086,
-        "comments": 60,
-        "shares": 311
-      }
-    },
-    {
       "handle": "actu_brut.fr",
       "video_id": "7678416598645919008",
       "url": "https://www.tiktok.com/@actu_brut.fr/video/7678416598645919008",
@@ -245,32 +193,6 @@
       }
     },
     {
-      "handle": "breakingactufr",
-      "video_id": "7678409251215133984",
-      "url": "https://www.tiktok.com/@breakingactufr/video/7678409251215133984",
-      "detected_at": "2026-08-26T18:29:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 959,
-        "likes": 48,
-        "comments": 4,
-        "shares": 1
-      }
-    },
-    {
       "handle": "actudivers.fr",
       "video_id": "7678431850699787553",
       "url": "https://www.tiktok.com/@actudivers.fr/video/7678431850699787553",
@@ -308,7 +230,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -316,10 +238,10 @@
         }
       ],
       "last_stats": {
-        "views": 19529,
-        "likes": 1213,
-        "comments": 25,
-        "shares": 27
+        "views": 47419,
+        "likes": 2412,
+        "comments": 33,
+        "shares": 103
       }
     },
     {
