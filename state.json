@@ -115,32 +115,6 @@
   },
   "pending": [
     {
-      "handle": "actudivers.fr",
-      "video_id": "7678431850699787553",
-      "url": "https://www.tiktok.com/@actudivers.fr/video/7678431850699787553",
-      "detected_at": "2026-08-26T19:57:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5817,
-        "likes": 94,
-        "comments": 27,
-        "shares": 2
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7678436501666925856",
       "url": "https://www.tiktok.com/@infos.minutes/video/7678436501666925856",
@@ -282,7 +256,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -290,8 +264,8 @@
         }
       ],
       "last_stats": {
-        "views": 365,
-        "likes": 13,
+        "views": 395,
+        "likes": 14,
         "comments": 1,
         "shares": 0
       }
@@ -304,7 +278,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -316,10 +290,10 @@
         }
       ],
       "last_stats": {
-        "views": 12,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 4812,
+        "likes": 80,
+        "comments": 4,
+        "shares": 12
       }
     },
     {
@@ -330,7 +304,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -342,9 +316,9 @@
         }
       ],
       "last_stats": {
-        "views": 101,
-        "likes": 13,
-        "comments": 0,
+        "views": 435,
+        "likes": 35,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -356,7 +330,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -368,9 +342,9 @@
         }
       ],
       "last_stats": {
-        "views": 3,
-        "likes": 0,
-        "comments": 0,
+        "views": 372,
+        "likes": 14,
+        "comments": 1,
         "shares": 0
       }
     }
