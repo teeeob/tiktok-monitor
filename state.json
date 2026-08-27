@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7672550146902625569",
     "askyp.france": "7645734060261788961",
-    "infofrance.tv": "7678491620500622625",
+    "infofrance.tv": "7678610235338067233",
     "mediaflix": "7678521263165410593",
     "actu_brut.fr": "7678416598645919008",
     "tiktok.ragot": "7678381004947574048",
@@ -116,32 +116,6 @@
   "pending": [
     {
       "handle": "kat_info",
-      "video_id": "7678528690585701664",
-      "url": "https://www.tiktok.com/@kat_info/video/7678528690585701664",
-      "detected_at": "2026-08-27T02:13:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 96,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "kat_info",
       "video_id": "7678552465884663072",
       "url": "https://www.tiktok.com/@kat_info/video/7678552465884663072",
       "detected_at": "2026-08-27T03:45:44+00:00",
@@ -216,6 +190,32 @@
         "likes": 57,
         "comments": 4,
         "shares": 12
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7678610235338067233",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7678610235338067233",
+      "detected_at": "2026-08-27T07:29:30+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
