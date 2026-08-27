@@ -122,36 +122,10 @@
     "canalfrance.fr": "7674261052581776672",
     "franceactu24f": "7678788711491915041",
     "flashactu_france": "7678420924118453537",
-    "jtmonde1": "7678761723909737761",
+    "jtmonde1": "7678814251552607520",
     "le_signalfr": "7678630003625495841"
   },
   "pending": [
-    {
-      "handle": "franceecho",
-      "video_id": "7678742063436877089",
-      "url": "https://www.tiktok.com/@franceecho/video/7678742063436877089",
-      "detected_at": "2026-08-27T16:01:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 25372,
-        "likes": 639,
-        "comments": 126,
-        "shares": 31
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7678755826240130336",
@@ -346,7 +320,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -354,9 +328,9 @@
         }
       ],
       "last_stats": {
-        "views": 268,
-        "likes": 21,
-        "comments": 6,
+        "views": 787,
+        "likes": 41,
+        "comments": 8,
         "shares": 0
       }
     },
@@ -372,7 +346,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -380,10 +354,10 @@
         }
       ],
       "last_stats": {
-        "views": 1987,
-        "likes": 59,
-        "comments": 4,
-        "shares": 4
+        "views": 5543,
+        "likes": 217,
+        "comments": 34,
+        "shares": 21
       }
     },
     {
@@ -472,7 +446,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -484,10 +458,10 @@
         }
       ],
       "last_stats": {
-        "views": 7425,
-        "likes": 652,
-        "comments": 11,
-        "shares": 21
+        "views": 20920,
+        "likes": 1697,
+        "comments": 30,
+        "shares": 77
       }
     },
     {
@@ -498,7 +472,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -510,10 +484,10 @@
         }
       ],
       "last_stats": {
-        "views": 1608,
-        "likes": 12,
-        "comments": 1,
-        "shares": 0
+        "views": 19528,
+        "likes": 97,
+        "comments": 5,
+        "shares": 17
       }
     },
     {
@@ -540,6 +514,32 @@
         "likes": 21,
         "comments": 1,
         "shares": 5
+      }
+    },
+    {
+      "handle": "jtmonde1",
+      "video_id": "7678814251552607520",
+      "url": "https://www.tiktok.com/@jtmonde1/video/7678814251552607520",
+      "detected_at": "2026-08-27T20:41:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 309,
+        "likes": 28,
+        "comments": 2,
+        "shares": 0
       }
     }
   ]
