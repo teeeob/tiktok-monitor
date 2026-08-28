@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7679072597740440864",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7679141389703073056",
+    "infos.minutes": "7679175312218787104",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7678405323715104033",
@@ -126,32 +126,6 @@
     "le_signalfr": "7678630003625495841"
   },
   "pending": [
-    {
-      "handle": "askyp.france",
-      "video_id": "7679102531288501536",
-      "url": "https://www.tiktok.com/@askyp.france/video/7679102531288501536",
-      "detected_at": "2026-08-28T15:19:48+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 365,
-        "likes": 34,
-        "comments": 8,
-        "shares": 12
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7679108594045848864",
@@ -372,7 +346,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -380,10 +354,10 @@
         }
       ],
       "last_stats": {
-        "views": 4730,
-        "likes": 675,
-        "comments": 24,
-        "shares": 40
+        "views": 15453,
+        "likes": 2782,
+        "comments": 146,
+        "shares": 117
       }
     },
     {
@@ -524,7 +498,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -536,7 +510,7 @@
         }
       ],
       "last_stats": {
-        "views": 49,
+        "views": 109,
         "likes": 0,
         "comments": 0,
         "shares": 0
@@ -592,6 +566,32 @@
         "likes": 20,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7679175312218787104",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7679175312218787104",
+      "detected_at": "2026-08-28T20:02:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 6568,
+        "likes": 613,
+        "comments": 18,
+        "shares": 5
       }
     }
   ]
