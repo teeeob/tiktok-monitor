@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7679397919774035233",
-    "zopinfo": "7679388894349020449",
+    "zopinfo": "7679438349026839840",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7677672595713576225",
@@ -127,58 +127,6 @@
     "bazar_clubfr": "7679391448915004694"
   },
   "pending": [
-    {
-      "handle": "info247fr",
-      "video_id": "7679365999598112032",
-      "url": "https://www.tiktok.com/@info247fr/video/7679365999598112032",
-      "detected_at": "2026-08-29T08:22:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 431,
-        "likes": 50,
-        "comments": 1,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7679365661113535776",
-      "url": "https://www.tiktok.com/@acturium/video/7679365661113535776",
-      "detected_at": "2026-08-29T08:20:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 48369,
-        "likes": 782,
-        "comments": 27,
-        "shares": 278
-      }
-    },
     {
       "handle": "actualfrancetv",
       "video_id": "7679372850066640161",
@@ -295,7 +243,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -303,10 +251,10 @@
         }
       ],
       "last_stats": {
-        "views": 8363,
-        "likes": 1248,
-        "comments": 9,
-        "shares": 74
+        "views": 16502,
+        "likes": 2512,
+        "comments": 12,
+        "shares": 158
       }
     },
     {
@@ -369,7 +317,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -381,10 +329,10 @@
         }
       ],
       "last_stats": {
-        "views": 129,
-        "likes": 14,
+        "views": 224,
+        "likes": 25,
         "comments": 1,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -395,7 +343,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -407,9 +355,9 @@
         }
       ],
       "last_stats": {
-        "views": 158,
-        "likes": 11,
-        "comments": 1,
+        "views": 490,
+        "likes": 16,
+        "comments": 2,
         "shares": 1
       }
     },
@@ -421,7 +369,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -433,9 +381,9 @@
         }
       ],
       "last_stats": {
-        "views": 273,
-        "likes": 20,
-        "comments": 5,
+        "views": 1663,
+        "likes": 55,
+        "comments": 7,
         "shares": 1
       }
     },
@@ -489,6 +437,32 @@
         "likes": 16,
         "comments": 1,
         "shares": 1
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7679438349026839840",
+      "url": "https://www.tiktok.com/@zopinfo/video/7679438349026839840",
+      "detected_at": "2026-08-29T13:02:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 491,
+        "likes": 26,
+        "comments": 1,
+        "shares": 8
       }
     }
   ]
