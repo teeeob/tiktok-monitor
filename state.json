@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7679119765587103009",
-    "zopinfo": "7679303434222210336",
+    "zopinfo": "7679348172333927712",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7677672595713576225",
@@ -127,32 +127,6 @@
   },
   "pending": [
     {
-      "handle": "actufrance_33",
-      "video_id": "7679272275807391009",
-      "url": "https://www.tiktok.com/@actufrance_33/video/7679272275807391009",
-      "detected_at": "2026-08-29T02:18:41+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 10014,
-        "likes": 115,
-        "comments": 19,
-        "shares": 39
-      }
-    },
-    {
       "handle": "actu_minute_info",
       "video_id": "7679299002940149024",
       "url": "https://www.tiktok.com/@actu_minute_info/video/7679299002940149024",
@@ -190,6 +164,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2195,
+        "likes": 30,
+        "comments": 0,
+        "shares": 7
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7679348172333927712",
+      "url": "https://www.tiktok.com/@zopinfo/video/7679348172333927712",
+      "detected_at": "2026-08-29T07:13:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -198,10 +198,10 @@
         }
       ],
       "last_stats": {
-        "views": 899,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0
+        "views": 483,
+        "likes": 18,
+        "comments": 1,
+        "shares": 6
       }
     }
   ]
