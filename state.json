@@ -114,7 +114,7 @@
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7667628668490894624",
     "lenoverr": "7677151179154935073",
-    "lesignal.actu": "7677187788290247969",
+    "lesignal.actu": "7679753974387395873",
     "flash.actu.france1": "7676535006063365409",
     "brut_actu": "7677902506424323360",
     "actuuflashh": "7665368680720518432",
@@ -187,7 +187,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -199,10 +199,10 @@
         }
       ],
       "last_stats": {
-        "views": 108,
-        "likes": 14,
-        "comments": 0,
-        "shares": 12
+        "views": 4886,
+        "likes": 77,
+        "comments": 1,
+        "shares": 44
       }
     },
     {
@@ -213,7 +213,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -225,10 +225,10 @@
         }
       ],
       "last_stats": {
-        "views": 21,
-        "likes": 5,
+        "views": 30,
+        "likes": 7,
         "comments": 0,
-        "shares": 3
+        "shares": 12
       }
     },
     {
@@ -281,6 +281,32 @@
         "likes": 29,
         "comments": 1,
         "shares": 2
+      }
+    },
+    {
+      "handle": "lesignal.actu",
+      "video_id": "7679753974387395873",
+      "url": "https://www.tiktok.com/@lesignal.actu/video/7679753974387395873",
+      "detected_at": "2026-08-30T09:27:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 27,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
