@@ -128,32 +128,6 @@
   },
   "pending": [
     {
-      "handle": "acturium",
-      "video_id": "7679528449916030241",
-      "url": "https://www.tiktok.com/@acturium/video/7679528449916030241",
-      "detected_at": "2026-08-29T18:52:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2755,
-        "likes": 72,
-        "comments": 9,
-        "shares": 6
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7679533026233027873",
       "url": "https://www.tiktok.com/@infos.minutes/video/7679533026233027873",
@@ -269,7 +243,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -277,10 +251,10 @@
         }
       ],
       "last_stats": {
-        "views": 4352,
-        "likes": 69,
-        "comments": 16,
-        "shares": 3
+        "views": 6941,
+        "likes": 129,
+        "comments": 19,
+        "shares": 8
       }
     },
     {
