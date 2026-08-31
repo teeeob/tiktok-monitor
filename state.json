@@ -50,7 +50,7 @@
     "langlecurieux": "7677962348593679638",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7680062981299866913",
+    "journalfrancetv": "7680208046785645857",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7679896572615871776",
@@ -127,58 +127,6 @@
     "bazar_clubfr": "7679391448915004694"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7680133519942700320",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7680133519942700320",
-      "detected_at": "2026-08-31T10:00:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6444,
-        "likes": 770,
-        "comments": 1,
-        "shares": 42
-      }
-    },
-    {
-      "handle": "lejournal.actu2",
-      "video_id": "7680130535481560353",
-      "url": "https://www.tiktok.com/@lejournal.actu2/video/7680130535481560353",
-      "detected_at": "2026-08-31T09:49:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 220300,
-        "likes": 23680,
-        "comments": 343,
-        "shares": 970
-      }
-    },
     {
       "handle": "infos.minutes",
       "video_id": "7680138904380525857",
@@ -295,7 +243,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -303,10 +251,10 @@
         }
       ],
       "last_stats": {
-        "views": 2343,
-        "likes": 72,
-        "comments": 2,
-        "shares": 1
+        "views": 6527,
+        "likes": 147,
+        "comments": 3,
+        "shares": 3
       }
     },
     {
@@ -347,7 +295,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -355,8 +303,8 @@
         }
       ],
       "last_stats": {
-        "views": 356,
-        "likes": 17,
+        "views": 959,
+        "likes": 29,
         "comments": 0,
         "shares": 0
       }
@@ -395,7 +343,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -407,10 +355,10 @@
         }
       ],
       "last_stats": {
-        "views": 1455,
-        "likes": 109,
-        "comments": 4,
-        "shares": 2
+        "views": 2830,
+        "likes": 199,
+        "comments": 7,
+        "shares": 8
       }
     },
     {
@@ -421,7 +369,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -433,8 +381,8 @@
         }
       ],
       "last_stats": {
-        "views": 238,
-        "likes": 15,
+        "views": 718,
+        "likes": 35,
         "comments": 2,
         "shares": 1
       }
@@ -513,6 +461,32 @@
       "last_stats": {
         "views": 66,
         "likes": 4,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7680208046785645857",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7680208046785645857",
+      "detected_at": "2026-08-31T14:49:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 249,
+        "likes": 22,
         "comments": 1,
         "shares": 0
       }
