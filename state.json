@@ -128,110 +128,6 @@
   },
   "pending": [
     {
-      "handle": "breaking3",
-      "video_id": "7680110150815976737",
-      "url": "https://www.tiktok.com/@breaking3/video/7680110150815976737",
-      "detected_at": "2026-08-31T08:29:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1292,
-        "likes": 56,
-        "comments": 4,
-        "shares": 26
-      }
-    },
-    {
-      "handle": "essiide",
-      "video_id": "7680109482302590240",
-      "url": "https://www.tiktok.com/@essiide/video/7680109482302590240",
-      "detected_at": "2026-08-31T08:27:21+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 21101,
-        "likes": 320,
-        "comments": 26,
-        "shares": 60
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7680104850784324897",
-      "url": "https://www.tiktok.com/@acturium/video/7680104850784324897",
-      "detected_at": "2026-08-31T08:09:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 70591,
-        "likes": 1697,
-        "comments": 52,
-        "shares": 101
-      }
-    },
-    {
-      "handle": "actualfrancetv",
-      "video_id": "7680110762928393505",
-      "url": "https://www.tiktok.com/@actualfrancetv/video/7680110762928393505",
-      "detected_at": "2026-08-31T08:32:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1581,
-        "likes": 67,
-        "comments": 2,
-        "shares": 51
-      }
-    },
-    {
       "handle": "breakingactufr",
       "video_id": "7680114203230817569",
       "url": "https://www.tiktok.com/@breakingactufr/video/7680114203230817569",
@@ -347,7 +243,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -355,10 +251,10 @@
         }
       ],
       "last_stats": {
-        "views": 3944,
-        "likes": 239,
-        "comments": 54,
-        "shares": 6
+        "views": 6756,
+        "likes": 446,
+        "comments": 118,
+        "shares": 19
       }
     },
     {
@@ -373,7 +269,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -381,10 +277,10 @@
         }
       ],
       "last_stats": {
-        "views": 1890,
-        "likes": 62,
-        "comments": 6,
-        "shares": 12
+        "views": 6627,
+        "likes": 145,
+        "comments": 21,
+        "shares": 65
       }
     },
     {
@@ -399,7 +295,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -407,9 +303,9 @@
         }
       ],
       "last_stats": {
-        "views": 340,
-        "likes": 23,
-        "comments": 0,
+        "views": 452,
+        "likes": 30,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -473,7 +369,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -485,10 +381,10 @@
         }
       ],
       "last_stats": {
-        "views": 1021,
-        "likes": 62,
+        "views": 3373,
+        "likes": 134,
         "comments": 3,
-        "shares": 1
+        "shares": 3
       }
     },
     {
@@ -525,7 +421,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -537,10 +433,10 @@
         }
       ],
       "last_stats": {
-        "views": 372,
-        "likes": 31,
-        "comments": 9,
-        "shares": 0
+        "views": 1255,
+        "likes": 74,
+        "comments": 30,
+        "shares": 9
       }
     }
   ]
