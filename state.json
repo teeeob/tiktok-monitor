@@ -50,7 +50,7 @@
     "langlecurieux": "7677962348593679638",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7680499034775112993",
+    "journalfrancetv": "7680602594506558753",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7679896572615871776",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7680274315186539808",
     "to.suissra": "7654575792071953696",
-    "essiide": "7680551129402445088",
+    "essiide": "7680604420228320544",
     "univers_doc": "7680400981795802400",
     "infos.tv05": "7680277752506748192",
     "actufrance98": "7679368329454292256",
@@ -128,58 +128,6 @@
     "alerte.min": "7680592442638241057"
   },
   "pending": [
-    {
-      "handle": "actuone.tv1",
-      "video_id": "7680524868730866976",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7680524868730866976",
-      "detected_at": "2026-09-01T11:19:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4908,
-        "likes": 211,
-        "comments": 15,
-        "shares": 11
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7680527187551767841",
-      "url": "https://www.tiktok.com/@acturium/video/7680527187551767841",
-      "detected_at": "2026-09-01T11:28:12+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1222,
-        "likes": 46,
-        "comments": 4,
-        "shares": 1
-      }
-    },
     {
       "handle": "universcache3",
       "video_id": "7680539705087118625",
@@ -322,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -330,8 +278,8 @@
         }
       ],
       "last_stats": {
-        "views": 351,
-        "likes": 19,
+        "views": 481,
+        "likes": 25,
         "comments": 1,
         "shares": 0
       }
@@ -422,7 +370,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -434,10 +382,10 @@
         }
       ],
       "last_stats": {
-        "views": 369,
-        "likes": 36,
-        "comments": 3,
-        "shares": 0
+        "views": 645,
+        "likes": 75,
+        "comments": 10,
+        "shares": 2
       }
     },
     {
@@ -490,6 +438,58 @@
         "likes": 14,
         "comments": 0,
         "shares": 11
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7680602594506558753",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7680602594506558753",
+      "detected_at": "2026-09-01T16:20:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 164,
+        "likes": 17,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7680604420228320544",
+      "url": "https://www.tiktok.com/@essiide/video/7680604420228320544",
+      "detected_at": "2026-09-01T16:27:54+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 8,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0
       }
     }
   ]
