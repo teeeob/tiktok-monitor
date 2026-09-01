@@ -28,7 +28,7 @@
     "actuflashh": "7669864378614713633",
     "askyp.france": "7679191003827309857",
     "infofrance.tv": "7680163857511304480",
-    "mediaflix": "7680161462236499233",
+    "mediaflix": "7680639424165694752",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7680621891039546657",
     "actu_minute_info": "7680500381151005985",
@@ -125,7 +125,7 @@
     "jtmonde1": "7678618761494138144",
     "le_signalfr": "7678630003625495841",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7680592442638241057"
+    "alerte.min": "7680640634725715232"
   },
   "pending": [
     {
@@ -244,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,9 +252,9 @@
         }
       ],
       "last_stats": {
-        "views": 296,
-        "likes": 25,
-        "comments": 0,
+        "views": 607,
+        "likes": 35,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -270,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +278,10 @@
         }
       ],
       "last_stats": {
-        "views": 738,
-        "likes": 33,
-        "comments": 1,
-        "shares": 13
+        "views": 1449,
+        "likes": 69,
+        "comments": 2,
+        "shares": 14
       }
     },
     {
@@ -526,7 +526,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -538,10 +538,10 @@
         }
       ],
       "last_stats": {
-        "views": 1142,
-        "likes": 30,
-        "comments": 5,
-        "shares": 4
+        "views": 4786,
+        "likes": 139,
+        "comments": 19,
+        "shares": 32
       }
     },
     {
@@ -620,6 +620,58 @@
         "likes": 10,
         "comments": 3,
         "shares": 2
+      }
+    },
+    {
+      "handle": "mediaflix",
+      "video_id": "7680639424165694752",
+      "url": "https://www.tiktok.com/@mediaflix/video/7680639424165694752",
+      "detected_at": "2026-09-01T18:43:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 327,
+        "likes": 16,
+        "comments": 0,
+        "shares": 4
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7680640634725715232",
+      "url": "https://www.tiktok.com/@alerte.min/video/7680640634725715232",
+      "detected_at": "2026-09-01T18:48:25+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 181,
+        "likes": 22,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
