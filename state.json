@@ -110,7 +110,7 @@
     "breakingactufr": "7680200529431039264",
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
-    "verifaffaires": "7678046137068064033",
+    "verifaffaires": "7680584398516833568",
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7680539705087118625",
     "lenoverr": "7677151179154935073",
@@ -127,32 +127,6 @@
     "bazar_clubfr": "7616428878394952982"
   },
   "pending": [
-    {
-      "handle": "actusmad",
-      "video_id": "7680508447003069728",
-      "url": "https://www.tiktok.com/@actusmad/video/7680508447003069728",
-      "detected_at": "2026-09-01T10:15:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 313,
-        "likes": 22,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "lejournal.actu",
       "video_id": "7680518177389841697",
@@ -243,7 +217,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -251,10 +225,10 @@
         }
       ],
       "last_stats": {
-        "views": 108,
-        "likes": 10,
+        "views": 208,
+        "likes": 18,
         "comments": 0,
-        "shares": 3
+        "shares": 4
       }
     },
     {
@@ -269,7 +243,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -277,10 +251,10 @@
         }
       ],
       "last_stats": {
-        "views": 1080,
-        "likes": 26,
+        "views": 2078,
+        "likes": 35,
         "comments": 1,
-        "shares": 12
+        "shares": 19
       }
     },
     {
@@ -295,7 +269,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -303,10 +277,10 @@
         }
       ],
       "last_stats": {
-        "views": 310,
-        "likes": 8,
+        "views": 441,
+        "likes": 11,
         "comments": 1,
-        "shares": 6
+        "shares": 10
       }
     },
     {
@@ -395,7 +369,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -407,10 +381,10 @@
         }
       ],
       "last_stats": {
-        "views": 3870,
-        "likes": 258,
-        "comments": 3,
-        "shares": 20
+        "views": 33270,
+        "likes": 1627,
+        "comments": 8,
+        "shares": 347
       }
     },
     {
@@ -421,7 +395,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -433,10 +407,10 @@
         }
       ],
       "last_stats": {
-        "views": 263,
-        "likes": 13,
-        "comments": 0,
-        "shares": 3
+        "views": 4850,
+        "likes": 55,
+        "comments": 1,
+        "shares": 42
       }
     },
     {
@@ -462,6 +436,32 @@
         "views": 232,
         "likes": 20,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "verifaffaires",
+      "video_id": "7680584398516833568",
+      "url": "https://www.tiktok.com/@verifaffaires/video/7680584398516833568",
+      "detected_at": "2026-09-01T15:10:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 369,
+        "likes": 36,
+        "comments": 3,
         "shares": 0
       }
     }
