@@ -129,32 +129,6 @@
   },
   "pending": [
     {
-      "handle": "tiktok.ragot",
-      "video_id": "7680621891039546657",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7680621891039546657",
-      "detected_at": "2026-09-01T17:35:43+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8814,
-        "likes": 258,
-        "comments": 41,
-        "shares": 101
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7680630098155867424",
       "url": "https://www.tiktok.com/@infos.minutes/video/7680630098155867424",
@@ -322,7 +296,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -330,8 +304,8 @@
         }
       ],
       "last_stats": {
-        "views": 447,
-        "likes": 7,
+        "views": 524,
+        "likes": 8,
         "comments": 2,
         "shares": 0
       }
