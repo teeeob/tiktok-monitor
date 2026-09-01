@@ -7,7 +7,7 @@
     "infos.minutes": "7680291448171892001",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
-    "france_infos": "7678405323715104033",
+    "france_infos": "7676615173486005536",
     "en.savoir.plus.fr": "7492076316179729687",
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
@@ -44,7 +44,7 @@
     "509stories": "7605983036626308374",
     "contrelaguerre": "7680497494903524641",
     "actubrute_fr": "7679840350071967009",
-    "actuone.tv1": "7680149813718945056",
+    "actuone.tv1": "7680524868730866976",
     "actuenbref.tv": "7679488175747681568",
     "actuexpressfr0": "7660542776613883168",
     "langlecurieux": "7677962348593679638",
@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7680191870718315809",
+    "acturium": "7680527187551767841",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7648716566913142038",
     "le.journalrapide": "7647185027427536160",
@@ -127,32 +127,6 @@
     "bazar_clubfr": "7679391448915004694"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7680444381798731041",
-      "url": "https://www.tiktok.com/@zopinfo/video/7680444381798731041",
-      "detected_at": "2026-09-01T06:07:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1202,
-        "likes": 38,
-        "comments": 2,
-        "shares": 3
-      }
-    },
     {
       "handle": "contrelaguerre",
       "video_id": "7680473284932029729",
@@ -191,7 +165,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -199,8 +173,8 @@
         }
       ],
       "last_stats": {
-        "views": 1474,
-        "likes": 121,
+        "views": 2247,
+        "likes": 145,
         "comments": 1,
         "shares": 5
       }
@@ -217,7 +191,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -225,10 +199,10 @@
         }
       ],
       "last_stats": {
-        "views": 856,
-        "likes": 40,
-        "comments": 2,
-        "shares": 17
+        "views": 6732,
+        "likes": 141,
+        "comments": 15,
+        "shares": 36
       }
     },
     {
@@ -295,7 +269,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -303,10 +277,10 @@
         }
       ],
       "last_stats": {
-        "views": 715,
-        "likes": 40,
-        "comments": 2,
-        "shares": 14
+        "views": 3661,
+        "likes": 125,
+        "comments": 11,
+        "shares": 42
       }
     },
     {
@@ -447,7 +421,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -459,8 +433,8 @@
         }
       ],
       "last_stats": {
-        "views": 97,
-        "likes": 7,
+        "views": 248,
+        "likes": 21,
         "comments": 0,
         "shares": 0
       }
@@ -489,6 +463,58 @@
         "likes": 46,
         "comments": 2,
         "shares": 3
+      }
+    },
+    {
+      "handle": "actuone.tv1",
+      "video_id": "7680524868730866976",
+      "url": "https://www.tiktok.com/@actuone.tv1/video/7680524868730866976",
+      "detected_at": "2026-09-01T11:19:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 502,
+        "likes": 34,
+        "comments": 2,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7680527187551767841",
+      "url": "https://www.tiktok.com/@acturium/video/7680527187551767841",
+      "detected_at": "2026-09-01T11:28:12+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 31,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0
       }
     }
   ]
