@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7678367554842217760",
+    "lejournal.actu": "7680518177389841697",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7680291448171892001",
     "alarmeactu": "7648462451649809697",
@@ -128,32 +128,6 @@
   },
   "pending": [
     {
-      "handle": "journalsudouest",
-      "video_id": "7680436726816460065",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7680436726816460065",
-      "detected_at": "2026-09-01T05:37:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3050,
-        "likes": 171,
-        "comments": 1,
-        "shares": 5
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7680444381798731041",
       "url": "https://www.tiktok.com/@zopinfo/video/7680444381798731041",
@@ -191,7 +165,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -199,10 +173,10 @@
         }
       ],
       "last_stats": {
-        "views": 605,
-        "likes": 27,
-        "comments": 1,
-        "shares": 8
+        "views": 3730,
+        "likes": 124,
+        "comments": 14,
+        "shares": 12
       }
     },
     {
@@ -343,7 +317,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -355,10 +329,10 @@
         }
       ],
       "last_stats": {
-        "views": 330,
-        "likes": 8,
-        "comments": 0,
-        "shares": 5
+        "views": 1535,
+        "likes": 37,
+        "comments": 2,
+        "shares": 17
       }
     },
     {
@@ -369,7 +343,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -381,10 +355,10 @@
         }
       ],
       "last_stats": {
-        "views": 128,
-        "likes": 11,
-        "comments": 1,
-        "shares": 5
+        "views": 1002,
+        "likes": 29,
+        "comments": 3,
+        "shares": 13
       }
     },
     {
@@ -395,7 +369,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -407,10 +381,10 @@
         }
       ],
       "last_stats": {
-        "views": 316,
-        "likes": 11,
-        "comments": 3,
-        "shares": 6
+        "views": 3331,
+        "likes": 68,
+        "comments": 32,
+        "shares": 8
       }
     },
     {
@@ -421,7 +395,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -433,10 +407,10 @@
         }
       ],
       "last_stats": {
-        "views": 273,
-        "likes": 17,
+        "views": 963,
+        "likes": 41,
         "comments": 3,
-        "shares": 10
+        "shares": 22
       }
     },
     {
@@ -447,7 +421,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -459,10 +433,10 @@
         }
       ],
       "last_stats": {
-        "views": 190,
-        "likes": 25,
-        "comments": 6,
-        "shares": 0
+        "views": 1098,
+        "likes": 43,
+        "comments": 7,
+        "shares": 1
       }
     },
     {
@@ -489,6 +463,32 @@
         "likes": 7,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7680518177389841697",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7680518177389841697",
+      "detected_at": "2026-09-01T10:53:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 329,
+        "likes": 46,
+        "comments": 2,
+        "shares": 3
       }
     }
   ]
