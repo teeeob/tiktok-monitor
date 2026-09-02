@@ -110,7 +110,7 @@
     "breakingactufr": "7680200529431039264",
     "actu_france24": "7670530922340486433",
     "newinfosfrance": "7663820924143127841",
-    "verifaffaires": "7680584398516833568",
+    "verifaffaires": "7680959622458445088",
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7680620340078267680",
     "lenoverr": "7677151179154935073",
@@ -128,32 +128,6 @@
     "alerte.min": "7680640634725715232"
   },
   "pending": [
-    {
-      "handle": "askyp.france",
-      "video_id": "7680883120891022625",
-      "url": "https://www.tiktok.com/@askyp.france/video/7680883120891022625",
-      "detected_at": "2026-09-02T10:29:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "actuone.tv1",
       "video_id": "7680885306643565856",
@@ -218,7 +192,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -226,8 +200,8 @@
         }
       ],
       "last_stats": {
-        "views": 2207,
-        "likes": 26,
+        "views": 2529,
+        "likes": 31,
         "comments": 4,
         "shares": 0
       }
@@ -244,7 +218,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,9 +226,9 @@
         }
       ],
       "last_stats": {
-        "views": 609,
-        "likes": 25,
-        "comments": 1,
+        "views": 1097,
+        "likes": 41,
+        "comments": 2,
         "shares": 1
       }
     },
@@ -385,6 +359,32 @@
         "views": 101,
         "likes": 10,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "verifaffaires",
+      "video_id": "7680959622458445088",
+      "url": "https://www.tiktok.com/@verifaffaires/video/7680959622458445088",
+      "detected_at": "2026-09-02T15:26:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 101,
+        "likes": 8,
+        "comments": 0,
         "shares": 0
       }
     }
