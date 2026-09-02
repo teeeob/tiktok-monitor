@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7680870415899626785",
     "chronoactu": "7500232938978577696",
-    "infos.minutes": "7681007965318434080",
+    "infos.minutes": "7681043490247085344",
     "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7676615173486005536",
@@ -53,7 +53,7 @@
     "journalfrancetv": "7680986190572555553",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
-    "france24infos": "7680679707515407648",
+    "france24infos": "7681042483286969633",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7675407687198199073",
     "suziepress": "7675741773410389280",
@@ -128,32 +128,6 @@
     "alerte.min": "7680640634725715232"
   },
   "pending": [
-    {
-      "handle": "brut_actu",
-      "video_id": "7680962753611255073",
-      "url": "https://www.tiktok.com/@brut_actu/video/7680962753611255073",
-      "detected_at": "2026-09-02T15:38:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3891,
-        "likes": 76,
-        "comments": 51,
-        "shares": 15
-      }
-    },
     {
       "handle": "tiktok.ragot",
       "video_id": "7680975127839804704",
@@ -374,7 +348,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -382,10 +356,10 @@
         }
       ],
       "last_stats": {
-        "views": 3376,
-        "likes": 45,
-        "comments": 4,
-        "shares": 68
+        "views": 7139,
+        "likes": 82,
+        "comments": 6,
+        "shares": 112
       }
     },
     {
@@ -400,7 +374,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -408,10 +382,10 @@
         }
       ],
       "last_stats": {
-        "views": 2115,
-        "likes": 31,
+        "views": 9232,
+        "likes": 111,
         "comments": 1,
-        "shares": 9
+        "shares": 44
       }
     },
     {
@@ -604,6 +578,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 424,
+        "likes": 13,
+        "comments": 5,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7681043490247085344",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7681043490247085344",
+      "detected_at": "2026-09-02T20:51:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -616,10 +616,36 @@
         }
       ],
       "last_stats": {
-        "views": 251,
-        "likes": 11,
-        "comments": 3,
-        "shares": 0
+        "views": 3277,
+        "likes": 322,
+        "comments": 8,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "france24infos",
+      "video_id": "7681042483286969633",
+      "url": "https://www.tiktok.com/@france24infos/video/7681042483286969633",
+      "detected_at": "2026-09-02T20:47:50+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 245,
+        "likes": 25,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
