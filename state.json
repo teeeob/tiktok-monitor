@@ -26,7 +26,7 @@
     "actuchrono60": "7680303884635557152",
     "reclist": "7646688930988920097",
     "actuflashh": "7669864378614713633",
-    "askyp.france": "7679191003827309857",
+    "askyp.france": "7680883120891022625",
     "infofrance.tv": "7680163857511304480",
     "mediaflix": "7680639424165694752",
     "actu_brut.fr": "7678679027103599905",
@@ -128,58 +128,6 @@
     "alerte.min": "7680640634725715232"
   },
   "pending": [
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7680799098177342752",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7680799098177342752",
-      "detected_at": "2026-09-02T05:03:25+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2793,
-        "likes": 100,
-        "comments": 4,
-        "shares": 10
-      }
-    },
-    {
-      "handle": "zopinfo",
-      "video_id": "7680803216740683041",
-      "url": "https://www.tiktok.com/@zopinfo/video/7680803216740683041",
-      "detected_at": "2026-09-02T05:19:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1010,
-        "likes": 41,
-        "comments": 1,
-        "shares": 4
-      }
-    },
     {
       "handle": "acturium",
       "video_id": "7680838341595614497",
@@ -344,7 +292,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -356,10 +304,10 @@
         }
       ],
       "last_stats": {
-        "views": 99,
-        "likes": 9,
-        "comments": 0,
-        "shares": 0
+        "views": 19593,
+        "likes": 1254,
+        "comments": 56,
+        "shares": 355
       }
     },
     {
@@ -489,6 +437,32 @@
         "views": 95,
         "likes": 7,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "askyp.france",
+      "video_id": "7680883120891022625",
+      "url": "https://www.tiktok.com/@askyp.france/video/7680883120891022625",
+      "detected_at": "2026-09-02T10:29:26+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
