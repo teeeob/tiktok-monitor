@@ -5,7 +5,7 @@
     "lejournal.actu": "7680870415899626785",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7681043490247085344",
-    "alarmeactu": "7522538169070390530",
+    "alarmeactu": "7648462451649809697",
     "actumedias": "7523926913388170518",
     "france_infos": "7676615173486005536",
     "en.savoir.plus.fr": "7492076316179729687",
@@ -113,7 +113,7 @@
     "verifaffaires": "7680959622458445088",
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7681012373586464033",
-    "lenoverr": "7677151179154935073",
+    "lenoverr": "7681150952820247840",
     "lesignal.actu": "7680536303208811808",
     "flash.actu.france1": "7680651058720279840",
     "brut_actu": "7680962753611255073",
@@ -127,5 +127,32 @@
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7680640634725715232"
   },
-  "pending": []
+  "pending": [
+    {
+      "handle": "lenoverr",
+      "video_id": "7681150952820247840",
+      "url": "https://www.tiktok.com/@lenoverr/video/7681150952820247840",
+      "detected_at": "2026-09-03T03:49:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 78,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    }
+  ]
 }
