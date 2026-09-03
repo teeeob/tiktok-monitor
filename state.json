@@ -43,7 +43,7 @@
     "en.bref_": "7639431069082586401",
     "509stories": "7605983036626308374",
     "contrelaguerre": "7681010329307909409",
-    "actubrute_fr": "7679840350071967009",
+    "actubrute_fr": "7681211139383987489",
     "actuone.tv1": "7680951719584468256",
     "actuenbref.tv": "7680605664586108192",
     "actuexpressfr0": "7660542776613883168",
@@ -97,7 +97,7 @@
     "le.journalrapide": "7647185027427536160",
     "actufrlive": "7661341770462072096",
     "newo.telop": "7649748799023320352",
-    "la.france.avenir2026": "7662397715694849313",
+    "la.france.avenir2026": "7660803982062882081",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7680869863673351457",
     "unmomentactu": "7681051219204361505",
@@ -214,7 +214,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -226,9 +226,9 @@
         }
       ],
       "last_stats": {
-        "views": 15,
-        "likes": 4,
-        "comments": 2,
+        "views": 451,
+        "likes": 16,
+        "comments": 3,
         "shares": 0
       }
     },
@@ -255,6 +255,32 @@
         "views": 441,
         "likes": 22,
         "comments": 3,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actubrute_fr",
+      "video_id": "7681211139383987489",
+      "url": "https://www.tiktok.com/@actubrute_fr/video/7681211139383987489",
+      "detected_at": "2026-09-03T07:42:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 126,
+        "likes": 11,
+        "comments": 1,
         "shares": 0
       }
     }
