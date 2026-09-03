@@ -28,9 +28,9 @@
     "actuflashh": "7669864378614713633",
     "askyp.france": "7680883120891022625",
     "infofrance.tv": "7680163857511304480",
-    "mediaflix": "7681270019644329248",
+    "mediaflix": "7680639424165694752",
     "actu_brut.fr": "7678679027103599905",
-    "tiktok.ragot": "7681278640209841441",
+    "tiktok.ragot": "7681368958108306721",
     "actu_minute_info": "7681356119674998049",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
@@ -270,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +278,10 @@
         }
       ],
       "last_stats": {
-        "views": 1507,
-        "likes": 32,
+        "views": 3211,
+        "likes": 46,
         "comments": 4,
-        "shares": 3
+        "shares": 9
       }
     },
     {
@@ -500,7 +500,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -512,10 +512,10 @@
         }
       ],
       "last_stats": {
-        "views": 13,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 5631,
+        "likes": 230,
+        "comments": 24,
+        "shares": 40
       }
     },
     {
@@ -604,7 +604,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -616,10 +616,10 @@
         }
       ],
       "last_stats": {
-        "views": 354,
-        "likes": 14,
+        "views": 919,
+        "likes": 24,
         "comments": 0,
-        "shares": 1
+        "shares": 2
       }
     },
     {
@@ -722,6 +722,32 @@
       "last_stats": {
         "views": 197,
         "likes": 11,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7681368958108306721",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7681368958108306721",
+      "detected_at": "2026-09-03T17:54:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 499,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
