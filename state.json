@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7681018530598358305",
+    "acturium": "7681202789875256608",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7648716566913142038",
     "le.journalrapide": "7647185027427536160",
@@ -166,7 +166,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -174,10 +174,10 @@
         }
       ],
       "last_stats": {
-        "views": 703,
-        "likes": 24,
+        "views": 1420,
+        "likes": 35,
         "comments": 0,
-        "shares": 2
+        "shares": 3
       }
     },
     {
@@ -229,6 +229,32 @@
         "views": 15,
         "likes": 4,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7681202789875256608",
+      "url": "https://www.tiktok.com/@acturium/video/7681202789875256608",
+      "detected_at": "2026-09-03T07:09:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 441,
+        "likes": 22,
+        "comments": 3,
         "shares": 0
       }
     }
