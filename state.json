@@ -129,32 +129,6 @@
   },
   "pending": [
     {
-      "handle": "unmomentactu",
-      "video_id": "7681446091178478880",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7681446091178478880",
-      "detected_at": "2026-09-03T22:54:06+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4952,
-        "likes": 95,
-        "comments": 9,
-        "shares": 31
-      }
-    },
-    {
       "handle": "kat_info",
       "video_id": "7681482249690254624",
       "url": "https://www.tiktok.com/@kat_info/video/7681482249690254624",
@@ -214,7 +188,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -226,8 +200,8 @@
         }
       ],
       "last_stats": {
-        "views": 69,
-        "likes": 1,
+        "views": 145,
+        "likes": 8,
         "comments": 2,
         "shares": 3
       }
