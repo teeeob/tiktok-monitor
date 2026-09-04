@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7681548998737530144",
+    "journalsudouest": "7681677464107601185",
     "zopinfo": "7681670126382468384",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -103,7 +103,7 @@
     "unmomentactu": "7681446091178478880",
     "franceecho": "7681366917713628449",
     "franceavifactu": "7655787451516079392",
-    "adrenatv.france": "7676122677454654753",
+    "adrenatv.france": "7681678080607292704",
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
@@ -396,7 +396,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -408,10 +408,10 @@
         }
       ],
       "last_stats": {
-        "views": 2,
-        "likes": 0,
+        "views": 119,
+        "likes": 3,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -462,6 +462,58 @@
       "last_stats": {
         "views": 154,
         "likes": 14,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7681677464107601185",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7681677464107601185",
+      "detected_at": "2026-09-04T13:51:53+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5216,
+        "likes": 247,
+        "comments": 6,
+        "shares": 98
+      }
+    },
+    {
+      "handle": "adrenatv.france",
+      "video_id": "7681678080607292704",
+      "url": "https://www.tiktok.com/@adrenatv.france/video/7681678080607292704",
+      "detected_at": "2026-09-04T13:54:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 49,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
