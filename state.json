@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7681548998737530144",
-    "zopinfo": "7681584245441039649",
+    "zopinfo": "7681670126382468384",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7680303884635557152",
@@ -270,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,8 +278,8 @@
         }
       ],
       "last_stats": {
-        "views": 404,
-        "likes": 28,
+        "views": 562,
+        "likes": 31,
         "comments": 2,
         "shares": 0
       }
@@ -370,7 +370,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -382,10 +382,10 @@
         }
       ],
       "last_stats": {
-        "views": 154,
-        "likes": 12,
-        "comments": 0,
-        "shares": 0
+        "views": 802,
+        "likes": 17,
+        "comments": 1,
+        "shares": 6
       }
     },
     {
@@ -396,7 +396,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -516,6 +516,32 @@
         "likes": 9,
         "comments": 1,
         "shares": 1
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7681670126382468384",
+      "url": "https://www.tiktok.com/@zopinfo/video/7681670126382468384",
+      "detected_at": "2026-09-04T13:23:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 154,
+        "likes": 14,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
