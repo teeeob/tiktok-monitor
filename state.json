@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7681274572531977505",
+    "acturium": "7681561066328952096",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7648716566913142038",
     "le.journalrapide": "7647185027427536160",
@@ -128,32 +128,6 @@
     "alerte.min": "7681359914203090209"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7681482249690254624",
-      "url": "https://www.tiktok.com/@kat_info/video/7681482249690254624",
-      "detected_at": "2026-09-04T01:14:29+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1045,
-        "likes": 39,
-        "comments": 1,
-        "shares": 1
-      }
-    },
     {
       "handle": "kat_info",
       "video_id": "7681488385663323425",
@@ -255,6 +229,32 @@
         "views": 1447,
         "likes": 66,
         "comments": 3,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7681561066328952096",
+      "url": "https://www.tiktok.com/@acturium/video/7681561066328952096",
+      "detected_at": "2026-09-04T06:20:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 87,
+        "likes": 3,
+        "comments": 1,
         "shares": 0
       }
     }
