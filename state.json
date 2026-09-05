@@ -30,7 +30,7 @@
     "infofrance.tv": "7680163857511304480",
     "mediaflix": "7682033224188497184",
     "actu_brut.fr": "7678679027103599905",
-    "tiktok.ragot": "7681725746875780384",
+    "tiktok.ragot": "7682079410303831328",
     "actu_minute_info": "7682004705958038816",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
@@ -129,84 +129,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7682000335874936097",
-      "url": "https://www.tiktok.com/@zopinfo/video/7682000335874936097",
-      "detected_at": "2026-09-05T10:44:48+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5277,
-        "likes": 92,
-        "comments": 4,
-        "shares": 68
-      }
-    },
-    {
-      "handle": "infos.tv05",
-      "video_id": "7681999651423194401",
-      "url": "https://www.tiktok.com/@infos.tv05/video/7681999651423194401",
-      "detected_at": "2026-09-05T10:42:08+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2810,
-        "likes": 86,
-        "comments": 2,
-        "shares": 10
-      }
-    },
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7682004705958038816",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7682004705958038816",
-      "detected_at": "2026-09-05T11:01:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1397,
-        "likes": 30,
-        "comments": 1,
-        "shares": 5
-      }
-    },
-    {
       "handle": "essiide",
       "video_id": "7682007306329918752",
       "url": "https://www.tiktok.com/@essiide/video/7682007306329918752",
@@ -244,7 +166,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +174,10 @@
         }
       ],
       "last_stats": {
-        "views": 13425,
-        "likes": 398,
-        "comments": 22,
-        "shares": 113
+        "views": 21877,
+        "likes": 637,
+        "comments": 31,
+        "shares": 207
       }
     },
     {
@@ -270,7 +192,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +200,10 @@
         }
       ],
       "last_stats": {
-        "views": 1144,
+        "views": 1455,
         "likes": 26,
         "comments": 0,
-        "shares": 3
+        "shares": 4
       }
     },
     {
@@ -396,7 +318,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -408,8 +330,8 @@
         }
       ],
       "last_stats": {
-        "views": 469,
-        "likes": 43,
+        "views": 712,
+        "likes": 64,
         "comments": 1,
         "shares": 1
       }
@@ -463,6 +385,32 @@
         "views": 115,
         "likes": 16,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7682079410303831328",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7682079410303831328",
+      "detected_at": "2026-09-05T15:51:37+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 509,
+        "likes": 4,
+        "comments": 0,
         "shares": 0
       }
     }
