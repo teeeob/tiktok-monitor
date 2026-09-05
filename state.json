@@ -36,7 +36,7 @@
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
     "zoomdefrance": "7681719555969879329",
-    "dbrif.off": "7675980983950183713",
+    "dbrif.off": "7681916196324756768",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
     "lejournal.actu2": "7681658401268485408",
@@ -162,7 +162,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -174,10 +174,10 @@
         }
       ],
       "last_stats": {
-        "views": 160,
-        "likes": 11,
-        "comments": 0,
-        "shares": 1
+        "views": 651,
+        "likes": 31,
+        "comments": 1,
+        "shares": 3
       }
     },
     {
@@ -202,6 +202,32 @@
       "last_stats": {
         "views": 231,
         "likes": 7,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "dbrif.off",
+      "video_id": "7681916196324756768",
+      "url": "https://www.tiktok.com/@dbrif.off/video/7681916196324756768",
+      "detected_at": "2026-09-05T05:18:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 123,
+        "likes": 8,
         "comments": 0,
         "shares": 0
       }
