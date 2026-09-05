@@ -50,7 +50,7 @@
     "langlecurieux": "7681328824159620374",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7681996781864979744",
+    "journalfrancetv": "7682042398746168609",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7681726222610599201",
@@ -100,7 +100,7 @@
     "la.france.avenir2026": "7637484118543961366",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7680869863673351457",
-    "unmomentactu": "7681719494645009696",
+    "unmomentactu": "7682036433070083360",
     "franceecho": "7681756500741688609",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7681678080607292704",
@@ -322,7 +322,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -330,9 +330,9 @@
         }
       ],
       "last_stats": {
-        "views": 1372,
-        "likes": 33,
-        "comments": 2,
+        "views": 1778,
+        "likes": 36,
+        "comments": 3,
         "shares": 13
       }
     },
@@ -374,7 +374,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -516,6 +516,58 @@
         "likes": 7,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7682042398746168609",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7682042398746168609",
+      "detected_at": "2026-09-05T13:28:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 37,
+        "likes": 3,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7682036433070083360",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7682036433070083360",
+      "detected_at": "2026-09-05T13:04:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1110,
+        "likes": 32,
+        "comments": 1,
+        "shares": 3
       }
     }
   ]
