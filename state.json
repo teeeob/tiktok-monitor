@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7680518177389841697",
+    "lejournal.actu": "7680870415899626785",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7681793536043371809",
     "alarmeactu": "7648462451649809697",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7681658401268485408",
     "en.bref_": "7639431069082586401",
     "509stories": "7605983036626308374",
-    "contrelaguerre": "7681957002892889376",
+    "contrelaguerre": "7681993412152806688",
     "actubrute_fr": "7681985043857771808",
     "actuone.tv1": "7681684064864095521",
     "actuenbref.tv": "7681326768824814880",
@@ -128,32 +128,6 @@
     "alerte.min": "7681359914203090209"
   },
   "pending": [
-    {
-      "handle": "dbrif.off",
-      "video_id": "7681916196324756768",
-      "url": "https://www.tiktok.com/@dbrif.off/video/7681916196324756768",
-      "detected_at": "2026-09-05T05:18:28+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 844,
-        "likes": 22,
-        "comments": 6,
-        "shares": 13
-      }
-    },
     {
       "handle": "essiide",
       "video_id": "7681924184850697504",
@@ -318,7 +292,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -330,8 +304,8 @@
         }
       ],
       "last_stats": {
-        "views": 1745,
-        "likes": 99,
+        "views": 2749,
+        "likes": 176,
         "comments": 0,
         "shares": 0
       }
@@ -386,6 +360,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7681993412152806688",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7681993412152806688",
+      "detected_at": "2026-09-05T10:17:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 194,
+        "likes": 8,
+        "comments": 0,
+        "shares": 6
       }
     }
   ]
