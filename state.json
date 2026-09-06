@@ -129,32 +129,6 @@
   },
   "pending": [
     {
-      "handle": "essiide",
-      "video_id": "7682335107276967201",
-      "url": "https://www.tiktok.com/@essiide/video/7682335107276967201",
-      "detected_at": "2026-09-06T08:23:54+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5499,
-        "likes": 150,
-        "comments": 9,
-        "shares": 4
-      }
-    },
-    {
       "handle": "actualfrancetv",
       "video_id": "7682339803370671392",
       "url": "https://www.tiktok.com/@actualfrancetv/video/7682339803370671392",
@@ -270,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +252,10 @@
         }
       ],
       "last_stats": {
-        "views": 1345,
-        "likes": 90,
-        "comments": 4,
-        "shares": 6
+        "views": 1852,
+        "likes": 105,
+        "comments": 6,
+        "shares": 18
       }
     },
     {
@@ -292,7 +266,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
