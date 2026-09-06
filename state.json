@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7682105431228976416",
-    "zopinfo": "7682353933297208609",
+    "zopinfo": "7682399816206339360",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7680303884635557152",
@@ -50,7 +50,7 @@
     "langlecurieux": "7681328824159620374",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7682392782958234912",
+    "journalfrancetv": "7682401447505300769",
     "ora_418": "7643912510692805921",
     "actufrance36": "7610931704454237462",
     "france24infos": "7682095660723752224",
@@ -68,7 +68,7 @@
     "breaking3": "7682338541048728864",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
-    "info20fr": "7682095408532737312",
+    "info20fr": "7682402527328865569",
     "kat_info": "7682249862393515297",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7681742661295951136",
@@ -128,32 +128,6 @@
     "alerte.min": "7681359914203090209"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7682322411580149024",
-      "url": "https://www.tiktok.com/@zopinfo/video/7682322411580149024",
-      "detected_at": "2026-09-06T07:34:38+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6956,
-        "likes": 86,
-        "comments": 4,
-        "shares": 74
-      }
-    },
     {
       "handle": "essiide",
       "video_id": "7682335107276967201",
@@ -270,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,8 +252,8 @@
         }
       ],
       "last_stats": {
-        "views": 1154,
-        "likes": 44,
+        "views": 1574,
+        "likes": 49,
         "comments": 1,
         "shares": 2
       }
@@ -334,6 +308,84 @@
         "likes": 26,
         "comments": 1,
         "shares": 5
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7682399816206339360",
+      "url": "https://www.tiktok.com/@zopinfo/video/7682399816206339360",
+      "detected_at": "2026-09-06T12:34:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 958,
+        "likes": 19,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7682401447505300769",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7682401447505300769",
+      "detected_at": "2026-09-06T12:41:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 820,
+        "likes": 26,
+        "comments": 2,
+        "shares": 10
+      }
+    },
+    {
+      "handle": "info20fr",
+      "video_id": "7682402527328865569",
+      "url": "https://www.tiktok.com/@info20fr/video/7682402527328865569",
+      "detected_at": "2026-09-06T12:45:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 162,
+        "likes": 25,
+        "comments": 3,
+        "shares": 3
       }
     }
   ]
