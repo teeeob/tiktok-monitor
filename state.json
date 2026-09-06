@@ -30,7 +30,7 @@
     "infofrance.tv": "7680163857511304480",
     "mediaflix": "7682231282834623777",
     "actu_brut.fr": "7678679027103599905",
-    "tiktok.ragot": "7682460082298244384",
+    "tiktok.ragot": "7682485507133082913",
     "actu_minute_info": "7682424642061061408",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
@@ -218,7 +218,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -226,10 +226,10 @@
         }
       ],
       "last_stats": {
-        "views": 1708,
-        "likes": 62,
-        "comments": 7,
-        "shares": 13
+        "views": 3859,
+        "likes": 103,
+        "comments": 13,
+        "shares": 17
       }
     },
     {
@@ -244,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +252,10 @@
         }
       ],
       "last_stats": {
-        "views": 1354,
-        "likes": 30,
-        "comments": 8,
-        "shares": 6
+        "views": 2272,
+        "likes": 43,
+        "comments": 15,
+        "shares": 10
       }
     },
     {
@@ -270,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +278,10 @@
         }
       ],
       "last_stats": {
-        "views": 7206,
-        "likes": 75,
-        "comments": 17,
-        "shares": 4
+        "views": 18903,
+        "likes": 183,
+        "comments": 31,
+        "shares": 24
       }
     },
     {
@@ -370,7 +370,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -382,8 +382,8 @@
         }
       ],
       "last_stats": {
-        "views": 115,
-        "likes": 4,
+        "views": 231,
+        "likes": 5,
         "comments": 1,
         "shares": 1
       }
@@ -462,6 +462,32 @@
       "last_stats": {
         "views": 73,
         "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7682485507133082913",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7682485507133082913",
+      "detected_at": "2026-09-06T18:07:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 378,
+        "likes": 6,
         "comments": 0,
         "shares": 0
       }
