@@ -129,32 +129,6 @@
   },
   "pending": [
     {
-      "handle": "journalsudouest",
-      "video_id": "7682662726509792544",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7682662726509792544",
-      "detected_at": "2026-09-07T05:35:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5624,
-        "likes": 199,
-        "comments": 9,
-        "shares": 15
-      }
-    },
-    {
       "handle": "acturium",
       "video_id": "7682693707681778976",
       "url": "https://www.tiktok.com/@acturium/video/7682693707681778976",
@@ -166,7 +140,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -174,10 +148,10 @@
         }
       ],
       "last_stats": {
-        "views": 1419,
-        "likes": 49,
-        "comments": 1,
-        "shares": 3
+        "views": 7226,
+        "likes": 94,
+        "comments": 3,
+        "shares": 16
       }
     },
     {
@@ -344,7 +318,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -356,9 +330,9 @@
         }
       ],
       "last_stats": {
-        "views": 4,
-        "likes": 0,
-        "comments": 0,
+        "views": 1024,
+        "likes": 24,
+        "comments": 2,
         "shares": 0
       }
     }
