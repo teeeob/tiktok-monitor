@@ -78,7 +78,7 @@
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7682889685584203040",
     "to.suissra": "7654575792071953696",
-    "essiide": "7683089368742890785",
+    "essiide": "7683196701477211424",
     "univers_doc": "7682859101235236128",
     "infos.tv05": "7681999651423194401",
     "actufrance98": "7680998138773130528",
@@ -218,7 +218,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -226,10 +226,10 @@
         }
       ],
       "last_stats": {
-        "views": 2194,
-        "likes": 105,
-        "comments": 2,
-        "shares": 1
+        "views": 3683,
+        "likes": 185,
+        "comments": 3,
+        "shares": 2
       }
     },
     {
@@ -244,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +252,10 @@
         }
       ],
       "last_stats": {
-        "views": 1390,
-        "likes": 22,
+        "views": 2347,
+        "likes": 44,
         "comments": 0,
-        "shares": 14
+        "shares": 18
       }
     },
     {
@@ -370,6 +370,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 987,
+        "likes": 24,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7683196701477211424",
+      "url": "https://www.tiktok.com/@essiide/video/7683196701477211424",
+      "detected_at": "2026-09-08T16:07:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -382,10 +408,10 @@
         }
       ],
       "last_stats": {
-        "views": 561,
+        "views": 199,
         "likes": 12,
-        "comments": 1,
-        "shares": 0
+        "comments": 2,
+        "shares": 1
       }
     }
   ]
