@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7682840038782012705",
+    "lejournal.actu": "7683143184565783840",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7682901950341418272",
     "alarmeactu": "7648462451649809697",
@@ -128,32 +128,6 @@
     "alerte.min": "7682871170177273120"
   },
   "pending": [
-    {
-      "handle": "contrelaguerre",
-      "video_id": "7683066045355035936",
-      "url": "https://www.tiktok.com/@contrelaguerre/video/7683066045355035936",
-      "detected_at": "2026-09-08T07:40:21+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1096,
-        "likes": 24,
-        "comments": 13,
-        "shares": 9
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7683082364649606433",
@@ -296,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -304,8 +278,8 @@
         }
       ],
       "last_stats": {
-        "views": 254,
-        "likes": 24,
+        "views": 279,
+        "likes": 25,
         "comments": 0,
         "shares": 0
       }
@@ -396,7 +370,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -408,10 +382,10 @@
         }
       ],
       "last_stats": {
-        "views": 386,
-        "likes": 10,
-        "comments": 0,
-        "shares": 0
+        "views": 2292,
+        "likes": 59,
+        "comments": 6,
+        "shares": 1
       }
     },
     {
@@ -438,6 +412,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7683143184565783840",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7683143184565783840",
+      "detected_at": "2026-09-08T12:39:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1666,
+        "likes": 88,
+        "comments": 4,
+        "shares": 2
       }
     }
   ]
