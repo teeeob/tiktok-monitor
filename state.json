@@ -113,7 +113,7 @@
     "verifaffaires": "7683207652872080673",
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7683233892802874656",
-    "lenoverr": "7681150952820247840",
+    "lenoverr": "7683490649622039840",
     "lesignal.actu": "7681639289758682401",
     "flash.actu.france1": "7680651058720279840",
     "brut_actu": "7682360874014756129",
@@ -125,35 +125,9 @@
     "jtmonde1": "7678618761494138144",
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7683260222650977568"
+    "alerte.min": "7683495570996006177"
   },
   "pending": [
-    {
-      "handle": "canalfrance.fr",
-      "video_id": "7683418076443888929",
-      "url": "https://www.tiktok.com/@canalfrance.fr/video/7683418076443888929",
-      "detected_at": "2026-09-09T06:26:22+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 463,
-        "likes": 5,
-        "comments": 1,
-        "shares": 2
-      }
-    },
     {
       "handle": "journalfrancetv",
       "video_id": "7683434351345831201",
@@ -244,7 +218,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +226,10 @@
         }
       ],
       "last_stats": {
-        "views": 4294,
-        "likes": 110,
-        "comments": 9,
-        "shares": 37
+        "views": 11035,
+        "likes": 210,
+        "comments": 33,
+        "shares": 107
       }
     },
     {
@@ -296,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -304,10 +278,10 @@
         }
       ],
       "last_stats": {
-        "views": 2564,
-        "likes": 83,
-        "comments": 8,
-        "shares": 43
+        "views": 22578,
+        "likes": 409,
+        "comments": 27,
+        "shares": 218
       }
     },
     {
@@ -322,7 +296,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -330,10 +304,10 @@
         }
       ],
       "last_stats": {
-        "views": 974,
-        "likes": 17,
-        "comments": 2,
-        "shares": 11
+        "views": 3226,
+        "likes": 30,
+        "comments": 4,
+        "shares": 18
       }
     },
     {
@@ -370,7 +344,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -382,9 +356,9 @@
         }
       ],
       "last_stats": {
-        "views": 1241,
-        "likes": 41,
-        "comments": 3,
+        "views": 1858,
+        "likes": 51,
+        "comments": 5,
         "shares": 1
       }
     },
@@ -393,6 +367,32 @@
       "video_id": "7683483768702766368",
       "url": "https://www.tiktok.com/@zopinfo/video/7683483768702766368",
       "detected_at": "2026-09-09T10:41:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2092,
+        "likes": 35,
+        "comments": 2,
+        "shares": 12
+      }
+    },
+    {
+      "handle": "lenoverr",
+      "video_id": "7683490649622039840",
+      "url": "https://www.tiktok.com/@lenoverr/video/7683490649622039840",
+      "detected_at": "2026-09-09T11:07:58+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -408,10 +408,36 @@
         }
       ],
       "last_stats": {
-        "views": 829,
-        "likes": 20,
+        "views": 58,
+        "likes": 3,
         "comments": 1,
-        "shares": 2
+        "shares": 0
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7683495570996006177",
+      "url": "https://www.tiktok.com/@alerte.min/video/7683495570996006177",
+      "detected_at": "2026-09-09T11:27:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 316,
+        "likes": 25,
+        "comments": 1,
+        "shares": 0
       }
     }
   ]
