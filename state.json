@@ -119,7 +119,7 @@
     "brut_actu": "7682360874014756129",
     "actuuflashh": "7665368680720518432",
     "francedecouvertes": "7683641382396792097",
-    "canalfrance.fr": "7683418076443888929",
+    "canalfrance.fr": "7683984176357379360",
     "franceactu24f": "7682491447051898145",
     "flashactu_france": "7673873538373127456",
     "jtmonde1": "7678618761494138144",
@@ -128,58 +128,6 @@
     "alerte.min": "7683949350875057441"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7683905260355669280",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7683905260355669280",
-      "detected_at": "2026-09-10T13:56:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5003,
-        "likes": 187,
-        "comments": 16,
-        "shares": 9
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7683903508319309088",
-      "url": "https://www.tiktok.com/@acturium/video/7683903508319309088",
-      "detected_at": "2026-09-10T13:50:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1883,
-        "likes": 49,
-        "comments": 0,
-        "shares": 6
-      }
-    },
     {
       "handle": "franceecho",
       "video_id": "7683909699162344736",
@@ -448,7 +396,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -460,10 +408,10 @@
         }
       ],
       "last_stats": {
-        "views": 3994,
-        "likes": 367,
-        "comments": 10,
-        "shares": 8
+        "views": 14390,
+        "likes": 1498,
+        "comments": 18,
+        "shares": 80
       }
     },
     {
@@ -593,6 +541,32 @@
         "views": 207,
         "likes": 12,
         "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "canalfrance.fr",
+      "video_id": "7683984176357379360",
+      "url": "https://www.tiktok.com/@canalfrance.fr/video/7683984176357379360",
+      "detected_at": "2026-09-10T19:03:04+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 95,
+        "likes": 2,
+        "comments": 0,
         "shares": 1
       }
     }
