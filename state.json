@@ -65,7 +65,7 @@
     "franceendirect1": "7683213868193156384",
     "h.o.b15": "7682061307809516833",
     "info247fr": "7681230734899694880",
-    "breaking3": "7683823548632239392",
+    "breaking3": "7683926599858687265",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7683612126056893729",
@@ -192,7 +192,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -200,10 +200,10 @@
         }
       ],
       "last_stats": {
-        "views": 6701,
-        "likes": 418,
-        "comments": 41,
-        "shares": 13
+        "views": 16000,
+        "likes": 918,
+        "comments": 101,
+        "shares": 27
       }
     },
     {
@@ -218,7 +218,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -226,10 +226,10 @@
         }
       ],
       "last_stats": {
-        "views": 7450,
-        "likes": 283,
-        "comments": 38,
-        "shares": 94
+        "views": 24567,
+        "likes": 1144,
+        "comments": 187,
+        "shares": 424
       }
     },
     {
@@ -438,6 +438,32 @@
         "likes": 9,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7683926599858687265",
+      "url": "https://www.tiktok.com/@breaking3/video/7683926599858687265",
+      "detected_at": "2026-09-10T15:19:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 395,
+        "likes": 18,
+        "comments": 2,
+        "shares": 3
       }
     }
   ]
