@@ -114,7 +114,7 @@
     "flash.actu.france": "7673939811475983648",
     "universcache3": "7683615178092580128",
     "lenoverr": "7683490649622039840",
-    "lesignal.actu": "7681639289758682401",
+    "lesignal.actu": "7683751105636945185",
     "flash.actu.france1": "7680651058720279840",
     "brut_actu": "7682360874014756129",
     "actuuflashh": "7665368680720518432",
@@ -127,5 +127,32 @@
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7683606518587182369"
   },
-  "pending": []
+  "pending": [
+    {
+      "handle": "lesignal.actu",
+      "video_id": "7683751105636945185",
+      "url": "https://www.tiktok.com/@lesignal.actu/video/7683751105636945185",
+      "detected_at": "2026-09-10T03:58:52+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 152,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    }
+  ]
 }
