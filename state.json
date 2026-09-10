@@ -125,7 +125,7 @@
     "jtmonde1": "7678618761494138144",
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7683733479066029334"
+    "alerte.min": "7683949350875057441"
   },
   "pending": [
     {
@@ -244,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +252,10 @@
         }
       ],
       "last_stats": {
-        "views": 2446,
-        "likes": 93,
-        "comments": 8,
-        "shares": 2
+        "views": 5003,
+        "likes": 187,
+        "comments": 16,
+        "shares": 9
       }
     },
     {
@@ -270,7 +270,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -278,10 +278,10 @@
         }
       ],
       "last_stats": {
-        "views": 1514,
-        "likes": 36,
+        "views": 3127,
+        "likes": 64,
         "comments": 1,
-        "shares": 1
+        "shares": 11
       }
     },
     {
@@ -296,7 +296,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -304,10 +304,10 @@
         }
       ],
       "last_stats": {
-        "views": 1405,
-        "likes": 37,
+        "views": 1883,
+        "likes": 49,
         "comments": 0,
-        "shares": 3
+        "shares": 6
       }
     },
     {
@@ -489,6 +489,32 @@
         "views": 429,
         "likes": 15,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7683949350875057441",
+      "url": "https://www.tiktok.com/@alerte.min/video/7683949350875057441",
+      "detected_at": "2026-09-10T16:47:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 411,
+        "likes": 24,
+        "comments": 1,
         "shares": 0
       }
     }
