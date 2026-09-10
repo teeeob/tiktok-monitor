@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7682840038782012705",
+    "lejournal.actu": "7683882141767240993",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7683640210990664993",
     "alarmeactu": "7648462451649809697",
@@ -30,7 +30,7 @@
     "infofrance.tv": "7680163857511304480",
     "mediaflix": "7683139701468843297",
     "actu_brut.fr": "7678679027103599905",
-    "tiktok.ragot": "7683561900596120864",
+    "tiktok.ragot": "7683876001113230624",
     "actu_minute_info": "7683526811514408225",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
@@ -244,7 +244,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -252,10 +252,10 @@
         }
       ],
       "last_stats": {
-        "views": 1605,
-        "likes": 45,
-        "comments": 1,
-        "shares": 20
+        "views": 5658,
+        "likes": 136,
+        "comments": 2,
+        "shares": 116
       }
     },
     {
@@ -410,6 +410,58 @@
       "last_stats": {
         "views": 437,
         "likes": 25,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7683882141767240993",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7683882141767240993",
+      "detected_at": "2026-09-10T12:27:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 90,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "tiktok.ragot",
+      "video_id": "7683876001113230624",
+      "url": "https://www.tiktok.com/@tiktok.ragot/video/7683876001113230624",
+      "detected_at": "2026-09-10T12:03:19+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1113,
+        "likes": 15,
         "comments": 1,
         "shares": 0
       }
