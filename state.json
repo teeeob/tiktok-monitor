@@ -31,7 +31,7 @@
     "mediaflix": "7683139701468843297",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7683876001113230624",
-    "actu_minute_info": "7683526811514408225",
+    "actu_minute_info": "7684259026191879457",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7662635726579813664",
@@ -348,7 +348,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -356,10 +356,10 @@
         }
       ],
       "last_stats": {
-        "views": 734,
-        "likes": 26,
+        "views": 1211,
+        "likes": 30,
         "comments": 1,
-        "shares": 1
+        "shares": 3
       }
     },
     {
@@ -374,7 +374,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -382,10 +382,10 @@
         }
       ],
       "last_stats": {
-        "views": 3212,
-        "likes": 134,
-        "comments": 1,
-        "shares": 0
+        "views": 4720,
+        "likes": 196,
+        "comments": 4,
+        "shares": 1
       }
     },
     {
@@ -500,6 +500,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 512,
+        "likes": 44,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7684259026191879457",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7684259026191879457",
+      "detected_at": "2026-09-11T12:49:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -512,10 +538,10 @@
         }
       ],
       "last_stats": {
-        "views": 380,
-        "likes": 35,
-        "comments": 1,
-        "shares": 1
+        "views": 97,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
