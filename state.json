@@ -130,62 +130,10 @@
     "actutv_france": "7684361785251613985",
     "remi4max": "7684717195632332065",
     "actud5": "7684575947600710945",
-    "lenaentdeckt_": "7684351019198713121",
+    "lenaentdeckt_": "7684725317864312097",
     "hostileactu": "7684299592338361632"
   },
   "pending": [
-    {
-      "handle": "lejournal.actu",
-      "video_id": "7684648048491826465",
-      "url": "https://www.tiktok.com/@lejournal.actu/video/7684648048491826465",
-      "detected_at": "2026-09-12T13:59:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8296,
-        "likes": 512,
-        "comments": 16,
-        "shares": 101
-      }
-    },
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7684647225154112801",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7684647225154112801",
-      "detected_at": "2026-09-12T13:56:02+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 14703,
-        "likes": 386,
-        "comments": 15,
-        "shares": 407
-      }
-    },
     {
       "handle": "c.quoi.fr",
       "video_id": "7684650382978518305",
@@ -662,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -674,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 137,
-        "likes": 9,
-        "comments": 1,
-        "shares": 0
+        "views": 9836,
+        "likes": 200,
+        "comments": 57,
+        "shares": 38
       }
     },
     {
@@ -688,7 +636,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -700,10 +648,10 @@
         }
       ],
       "last_stats": {
-        "views": 481,
-        "likes": 19,
-        "comments": 1,
-        "shares": 2
+        "views": 814,
+        "likes": 23,
+        "comments": 3,
+        "shares": 6
       }
     },
     {
@@ -808,6 +756,32 @@
         "likes": 1,
         "comments": 1,
         "shares": 1
+      }
+    },
+    {
+      "handle": "lenaentdeckt_",
+      "video_id": "7684725317864312097",
+      "url": "https://www.tiktok.com/@lenaentdeckt_/video/7684725317864312097",
+      "detected_at": "2026-09-12T18:59:04+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 16,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
