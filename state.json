@@ -125,7 +125,7 @@
     "jtmonde1": "7678618761494138144",
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7684341264917040416",
+    "alerte.min": "7684641168876981537",
     "actu60seconds": "7684565596641447200",
     "actutv_france": "7684361785251613985",
     "remi4max": "7684562171560267041",
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,9 +232,9 @@
         }
       ],
       "last_stats": {
-        "views": 925,
-        "likes": 45,
-        "comments": 2,
+        "views": 1334,
+        "likes": 67,
+        "comments": 4,
         "shares": 1
       }
     },
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,9 +388,9 @@
         }
       ],
       "last_stats": {
-        "views": 1565,
-        "likes": 19,
-        "comments": 1,
+        "views": 2136,
+        "likes": 32,
+        "comments": 2,
         "shares": 2
       }
     },
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 695,
-        "likes": 24,
-        "comments": 3,
-        "shares": 1
+        "views": 3203,
+        "likes": 97,
+        "comments": 8,
+        "shares": 2
       }
     },
     {
@@ -428,7 +428,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,9 +440,9 @@
         }
       ],
       "last_stats": {
-        "views": 70,
-        "likes": 4,
-        "comments": 1,
+        "views": 854,
+        "likes": 38,
+        "comments": 4,
         "shares": 0
       }
     },
@@ -469,6 +469,32 @@
         "views": 78,
         "likes": 4,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7684641168876981537",
+      "url": "https://www.tiktok.com/@alerte.min/video/7684641168876981537",
+      "detected_at": "2026-09-12T13:32:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 520,
+        "likes": 36,
+        "comments": 1,
         "shares": 0
       }
     }
