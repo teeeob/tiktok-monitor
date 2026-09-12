@@ -34,7 +34,7 @@ import requests
 # Configuration
 # --------------------------------------------------------------------------
 
-API_BASE = "https://tiktokapi.store/api/v1"
+API_BASE = "https://tik.socialholmes.com/api/v1"
 API_KEY = os.environ.get("TIKTOK_API_KEY")
 NTFY_TOPIC_ALERTS = os.environ.get("NTFY_TOPIC_ALERTS")  # nouvelles vidéos, priorité haute
 NTFY_TOPIC_STATS = os.environ.get("NTFY_TOPIC_STATS")    # rappels stats, groupés en digest
