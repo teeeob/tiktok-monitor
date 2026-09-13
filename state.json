@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "zopinfo",
-      "video_id": "7684950023972375841",
-      "url": "https://www.tiktok.com/@zopinfo/video/7684950023972375841",
-      "detected_at": "2026-09-13T09:31:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3386,
-        "likes": 52,
-        "comments": 0,
-        "shares": 4
-      }
-    },
-    {
       "handle": "actureact.info",
       "video_id": "7684961582022937889",
       "url": "https://www.tiktok.com/@actureact.info/video/7684961582022937889",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 3631,
-        "likes": 110,
-        "comments": 5,
-        "shares": 84
+        "views": 9570,
+        "likes": 252,
+        "comments": 17,
+        "shares": 222
       }
     },
     {
