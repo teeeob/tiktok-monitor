@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7685409210741378337",
-    "zopinfo": "7685298318636846368",
+    "zopinfo": "7685420691717426464",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7685130292113181985",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7685091693154127136",
     "to.suissra": "7654575792071953696",
-    "essiide": "7685324569111973153",
+    "essiide": "7685420148374637857",
     "univers_doc": "7684892648632552737",
     "infos.tv05": "7684711984780152097",
     "actufrance98": "7680998138773130528",
@@ -130,8 +130,8 @@
     "actutv_france": "7685092263222840609",
     "remi4max": "7685412583179848992",
     "actud5": "7684575947600710945",
-    "lenaentdeckt_": "7684725317864312097",
-    "hostileactu": "7685401548754586913"
+    "lenaentdeckt_": "7685420483633794336",
+    "hostileactu": "7685409993192934679"
   },
   "pending": [
     {
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 2518,
-        "likes": 51,
-        "comments": 3,
-        "shares": 16
+        "views": 7125,
+        "likes": 104,
+        "comments": 5,
+        "shares": 54
       }
     },
     {
@@ -547,6 +547,110 @@
         "views": 476,
         "likes": 17,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7685420691717426464",
+      "url": "https://www.tiktok.com/@zopinfo/video/7685420691717426464",
+      "detected_at": "2026-09-14T15:57:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 77,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7685420148374637857",
+      "url": "https://www.tiktok.com/@essiide/video/7685420148374637857",
+      "detected_at": "2026-09-14T15:55:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 53,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lenaentdeckt_",
+      "video_id": "7685420483633794336",
+      "url": "https://www.tiktok.com/@lenaentdeckt_/video/7685420483633794336",
+      "detected_at": "2026-09-14T15:56:41+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 48,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "hostileactu",
+      "video_id": "7685409993192934679",
+      "url": "https://www.tiktok.com/@hostileactu/video/7685409993192934679",
+      "detected_at": "2026-09-14T16:00:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 149,
+        "likes": 3,
+        "comments": 0,
         "shares": 0
       }
     }
