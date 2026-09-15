@@ -129,37 +129,11 @@
     "actu60seconds": "7685691435512843552",
     "actutv_france": "7685092263222840609",
     "remi4max": "7685533421271125280",
-    "actud5": "7685437923214265632",
+    "actud5": "7685697006228098337",
     "lenaentdeckt_": "7685420483633794336",
     "hostileactu": "7685409993192934679"
   },
   "pending": [
-    {
-      "handle": "univers_doc",
-      "video_id": "7685618855258983712",
-      "url": "https://www.tiktok.com/@univers_doc/video/7685618855258983712",
-      "detected_at": "2026-09-15T04:46:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1002,
-        "likes": 29,
-        "comments": 0,
-        "shares": 3
-      }
-    },
     {
       "handle": "actu60seconds",
       "video_id": "7685633363671026976",
@@ -224,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 3599,
-        "likes": 27,
+        "views": 7267,
+        "likes": 42,
         "comments": 1,
-        "shares": 7
+        "shares": 9
       }
     },
     {
@@ -250,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 764,
-        "likes": 27,
-        "comments": 1,
-        "shares": 0
+        "views": 47068,
+        "likes": 605,
+        "comments": 14,
+        "shares": 55
       }
     },
     {
@@ -391,6 +365,32 @@
         "views": 50,
         "likes": 1,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7685697006228098337",
+      "url": "https://www.tiktok.com/@actud5/video/7685697006228098337",
+      "detected_at": "2026-09-15T09:49:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 152,
+        "likes": 17,
+        "comments": 2,
         "shares": 0
       }
     }
