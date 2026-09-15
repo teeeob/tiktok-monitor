@@ -126,7 +126,7 @@
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7685359857645538592",
-    "actu60seconds": "7685691435512843552",
+    "actu60seconds": "7685759630735084832",
     "actutv_france": "7685092263222840609",
     "remi4max": "7685743620044901664",
     "actud5": "7685697006228098337",
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 973,
-        "likes": 42,
-        "comments": 4,
-        "shares": 0
+        "views": 2121,
+        "likes": 70,
+        "comments": 5,
+        "shares": 4
       }
     },
     {
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 239,
-        "likes": 19,
-        "comments": 0,
-        "shares": 0
+        "views": 114002,
+        "likes": 4616,
+        "comments": 62,
+        "shares": 622
       }
     },
     {
@@ -324,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 859,
-        "likes": 22,
-        "comments": 0,
-        "shares": 0
+        "views": 8220,
+        "likes": 96,
+        "comments": 8,
+        "shares": 19
       }
     },
     {
@@ -391,6 +391,32 @@
         "views": 9,
         "likes": 0,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7685759630735084832",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7685759630735084832",
+      "detected_at": "2026-09-15T13:52:46+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 232,
+        "likes": 17,
+        "comments": 2,
         "shares": 0
       }
     }
