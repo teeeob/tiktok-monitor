@@ -26,7 +26,7 @@
     "actuchrono60": "7685476212864535841",
     "reclist": "7646688930988920097",
     "actuflashh": "7669864378614713633",
-    "askyp.france": "7685186536228375840",
+    "askyp.france": "7685944597591100704",
     "infofrance.tv": "7680163857511304480",
     "mediaflix": "7684969699213315361",
     "actu_brut.fr": "7678679027103599905",
@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7685865950687677729",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7685865950687677729",
-      "detected_at": "2026-09-15T20:45:21+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 30433,
-        "likes": 3089,
-        "comments": 54,
-        "shares": 89
-      }
-    },
-    {
       "handle": "actuone.tv1",
       "video_id": "7685885315445230880",
       "url": "https://www.tiktok.com/@actuone.tv1/video/7685885315445230880",
@@ -184,32 +158,6 @@
         "likes": 171,
         "comments": 14,
         "shares": 5
-      }
-    },
-    {
-      "handle": "info20fr",
-      "video_id": "7685870988122148128",
-      "url": "https://www.tiktok.com/@info20fr/video/7685870988122148128",
-      "detected_at": "2026-09-15T21:04:53+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 379,
-        "likes": 20,
-        "comments": 1,
-        "shares": 0
       }
     },
     {
@@ -261,6 +209,32 @@
         "views": 210,
         "likes": 6,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "askyp.france",
+      "video_id": "7685944597591100704",
+      "url": "https://www.tiktok.com/@askyp.france/video/7685944597591100704",
+      "detected_at": "2026-09-16T01:50:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 100,
+        "likes": 6,
+        "comments": 0,
         "shares": 0
       }
     }
