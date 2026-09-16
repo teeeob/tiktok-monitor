@@ -128,38 +128,12 @@
     "alerte.min": "7686229852512423201",
     "actu60seconds": "7685759630735084832",
     "actutv_france": "7685092263222840609",
-    "remi4max": "7686185541087382816",
+    "remi4max": "7686088208655879456",
     "actud5": "7685844172598791457",
     "lenaentdeckt_": "7685420483633794336",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "unmomentactu",
-      "video_id": "7686176087436430625",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7686176087436430625",
-      "detected_at": "2026-09-16T16:48:49+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7524,
-        "likes": 145,
-        "comments": 13,
-        "shares": 20
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7686186583262858529",
@@ -380,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
