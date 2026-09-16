@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "actuone.tv1",
-      "video_id": "7685885315445230880",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7685885315445230880",
-      "detected_at": "2026-09-15T22:00:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3766,
-        "likes": 171,
-        "comments": 14,
-        "shares": 5
-      }
-    },
-    {
       "handle": "kat_info",
       "video_id": "7685917608851295521",
       "url": "https://www.tiktok.com/@kat_info/video/7685917608851295521",
@@ -172,7 +146,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -194,7 +168,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -206,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 100,
-        "likes": 6,
+        "views": 432,
+        "likes": 19,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
