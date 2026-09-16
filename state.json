@@ -172,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -180,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 1610,
-        "likes": 28,
-        "comments": 2,
-        "shares": 0
+        "views": 4142,
+        "likes": 127,
+        "comments": 8,
+        "shares": 5
       }
     },
     {
@@ -191,6 +191,32 @@
       "video_id": "7685951355260816672",
       "url": "https://www.tiktok.com/@univers_doc/video/7685951355260816672",
       "detected_at": "2026-09-16T02:16:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 157,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7685980420202122529",
+      "url": "https://www.tiktok.com/@kat_info/video/7685980420202122529",
+      "detected_at": "2026-09-16T04:09:39+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -206,36 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 90,
-        "likes": 2,
+        "views": 373,
+        "likes": 6,
         "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "kat_info",
-      "video_id": "7685980420202122529",
-      "url": "https://www.tiktok.com/@kat_info/video/7685980420202122529",
-      "detected_at": "2026-09-16T04:09:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": false
-        },
-        {
-          "offset_h": 3,
-          "done": false
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 169,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
+        "shares": 4
       }
     }
   ]
