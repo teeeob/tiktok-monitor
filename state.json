@@ -39,7 +39,7 @@
     "dbrif.off": "7681916196324756768",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
-    "lejournal.actu2": "7685104780905090337",
+    "lejournal.actu2": "7686562578100751648",
     "en.bref_": "7639431069082586401",
     "509stories": "7605983036626308374",
     "contrelaguerre": "7686193805996936480",
@@ -100,7 +100,7 @@
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7680869863673351457",
-    "unmomentactu": "7686176087436430625",
+    "unmomentactu": "7686567485759425824",
     "franceecho": "7685753144587963681",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7681678080607292704",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7686492330387442976",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7686492330387442976",
-      "detected_at": "2026-09-17T13:16:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 11470,
-        "likes": 828,
-        "comments": 5,
-        "shares": 47
-      }
-    },
     {
       "handle": "askyp.france",
       "video_id": "7686495182455426337",
@@ -302,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 30,
-        "likes": 1,
-        "comments": 0,
-        "shares": 10
+        "views": 5153,
+        "likes": 103,
+        "comments": 5,
+        "shares": 15
       }
     },
     {
@@ -328,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -336,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 12043,
-        "likes": 61,
-        "comments": 0,
-        "shares": 13
+        "views": 57350,
+        "likes": 354,
+        "comments": 2,
+        "shares": 15
       }
     },
     {
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 13177,
-        "likes": 187,
-        "comments": 1,
-        "shares": 18
+        "views": 112315,
+        "likes": 1959,
+        "comments": 12,
+        "shares": 51
       }
     },
     {
@@ -480,7 +454,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -492,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 658,
-        "likes": 18,
+        "views": 1467,
+        "likes": 23,
         "comments": 0,
-        "shares": 1
+        "shares": 3
       }
     },
     {
@@ -546,6 +520,58 @@
       "last_stats": {
         "views": 131,
         "likes": 3,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu2",
+      "video_id": "7686562578100751648",
+      "url": "https://www.tiktok.com/@lejournal.actu2/video/7686562578100751648",
+      "detected_at": "2026-09-17T17:48:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 3184,
+        "likes": 190,
+        "comments": 2,
+        "shares": 11
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7686567485759425824",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7686567485759425824",
+      "detected_at": "2026-09-17T18:07:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 382,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
