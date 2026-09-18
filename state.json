@@ -128,7 +128,7 @@
     "alerte.min": "7686559604263767328",
     "actu60seconds": "7685759630735084832",
     "actutv_france": "7685092263222840609",
-    "remi4max": "7686572100378840352",
+    "remi4max": "7686828768123424033",
     "actud5": "7686617925117136160",
     "lenaentdeckt_": "7685420483633794336",
     "hostileactu": "7685072274961059104"
@@ -172,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -180,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 1314,
-        "likes": 35,
-        "comments": 1,
-        "shares": 17
+        "views": 5027,
+        "likes": 55,
+        "comments": 2,
+        "shares": 20
       }
     },
     {
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,8 +206,8 @@
         }
       ],
       "last_stats": {
-        "views": 412,
-        "likes": 34,
+        "views": 467,
+        "likes": 36,
         "comments": 1,
         "shares": 13
       }
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 723,
-        "likes": 35,
-        "comments": 0,
-        "shares": 18
+        "views": 1089,
+        "likes": 41,
+        "comments": 1,
+        "shares": 19
       }
     },
     {
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 3439,
-        "likes": 31,
-        "comments": 6,
-        "shares": 11
+        "views": 7771,
+        "likes": 73,
+        "comments": 7,
+        "shares": 15
       }
     },
     {
@@ -340,6 +340,32 @@
         "likes": 1357,
         "comments": 22,
         "shares": 172
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7686828768123424033",
+      "url": "https://www.tiktok.com/@remi4max/video/7686828768123424033",
+      "detected_at": "2026-09-18T11:01:33+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 624,
+        "likes": 19,
+        "comments": 1,
+        "shares": 5
       }
     }
   ]
