@@ -126,7 +126,7 @@
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7686857997682871585",
-    "actu60seconds": "7685759630735084832",
+    "actu60seconds": "7687112999143869728",
     "actutv_france": "7685092263222840609",
     "remi4max": "7686828768123424033",
     "actud5": "7686940422945492257",
@@ -142,7 +142,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -154,10 +154,10 @@
         }
       ],
       "last_stats": {
-        "views": 190,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 2981,
+        "likes": 15,
+        "comments": 1,
+        "shares": 1
       }
     },
     {
@@ -168,7 +168,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -180,8 +180,8 @@
         }
       ],
       "last_stats": {
-        "views": 45,
-        "likes": 1,
+        "views": 162,
+        "likes": 3,
         "comments": 0,
         "shares": 0
       }
@@ -208,6 +208,32 @@
       "last_stats": {
         "views": 60,
         "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7687112999143869728",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7687112999143869728",
+      "detected_at": "2026-09-19T05:24:50+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 116,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
