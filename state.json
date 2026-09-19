@@ -42,7 +42,7 @@
     "lejournal.actu2": "7686562578100751648",
     "en.bref_": "7639431069082586401",
     "509stories": "7686897901234113824",
-    "contrelaguerre": "7686610418088856864",
+    "contrelaguerre": "7687168263263898912",
     "actubrute_fr": "7683111235130379553",
     "actuone.tv1": "7686957092971810081",
     "actuenbref.tv": "7686905669362011425",
@@ -60,12 +60,12 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7686784619882073376",
-    "actu913": "7686786255568391457",
+    "actualfrancetv": "7687164398577732897",
+    "actu913": "7687166019391048992",
     "franceendirect1": "7686233874258611489",
     "h.o.b15": "7684290941007514913",
     "info247fr": "7681230734899694880",
-    "breaking3": "7686785088129862945",
+    "breaking3": "7687163236793257249",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7686915775919099168",
@@ -129,7 +129,7 @@
     "actu60seconds": "7687112999143869728",
     "actutv_france": "7685092263222840609",
     "remi4max": "7686828768123424033",
-    "actud5": "7686940422945492257",
+    "actud5": "7687169040757902625",
     "lenaentdeckt_": "7685420483633794336",
     "hostileactu": "7685072274961059104"
   },
@@ -298,6 +298,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 3809,
+        "likes": 119,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7687168263263898912",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7687168263263898912",
+      "detected_at": "2026-09-19T08:58:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -310,8 +336,112 @@
         }
       ],
       "last_stats": {
-        "views": 2215,
-        "likes": 69,
+        "views": 14,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7687164398577732897",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7687164398577732897",
+      "detected_at": "2026-09-19T08:44:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 328,
+        "likes": 31,
+        "comments": 0,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7687166019391048992",
+      "url": "https://www.tiktok.com/@actu913/video/7687166019391048992",
+      "detected_at": "2026-09-19T08:50:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 58,
+        "likes": 4,
+        "comments": 0,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7687163236793257249",
+      "url": "https://www.tiktok.com/@breaking3/video/7687163236793257249",
+      "detected_at": "2026-09-19T08:39:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 679,
+        "likes": 32,
+        "comments": 2,
+        "shares": 14
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7687169040757902625",
+      "url": "https://www.tiktok.com/@actud5/video/7687169040757902625",
+      "detected_at": "2026-09-19T09:02:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
