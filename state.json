@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7687164398577732897",
     "actu913": "7687166019391048992",
-    "franceendirect1": "7686233874258611489",
+    "franceendirect1": "7687366471235767584",
     "h.o.b15": "7684290941007514913",
     "info247fr": "7681230734899694880",
     "breaking3": "7687163236793257249",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7687287438783286561",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7687287438783286561",
-      "detected_at": "2026-09-19T16:41:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8407,
-        "likes": 417,
-        "comments": 2,
-        "shares": 25
-      }
-    },
-    {
-      "handle": "essiide",
-      "video_id": "7687290331653524769",
-      "url": "https://www.tiktok.com/@essiide/video/7687290331653524769",
-      "detected_at": "2026-09-19T16:52:38+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 28521,
-        "likes": 180,
-        "comments": 4,
-        "shares": 133
-      }
-    },
     {
       "handle": "lejournal.actu",
       "video_id": "7687299554185596193",
@@ -432,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 201,
-        "likes": 16,
+        "views": 534,
+        "likes": 17,
         "comments": 2,
         "shares": 0
       }
@@ -610,6 +558,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 31985,
+        "likes": 2520,
+        "comments": 46,
+        "shares": 102
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7687366471235767584",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7687366471235767584",
+      "detected_at": "2026-09-19T21:48:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -622,10 +596,10 @@
         }
       ],
       "last_stats": {
-        "views": 4536,
-        "likes": 426,
-        "comments": 16,
-        "shares": 12
+        "views": 30,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
