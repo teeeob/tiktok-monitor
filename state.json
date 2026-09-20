@@ -130,7 +130,7 @@
     "actutv_france": "7685092263222840609",
     "remi4max": "7687306381522767136",
     "actud5": "7687169040757902625",
-    "lenaentdeckt_": "7685420483633794336",
+    "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 1662,
-        "likes": 32,
+        "views": 2489,
+        "likes": 47,
         "comments": 0,
-        "shares": 5
+        "shares": 7
       }
     },
     {
@@ -328,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -336,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 1420,
-        "likes": 18,
-        "comments": 0,
-        "shares": 2
+        "views": 25100,
+        "likes": 151,
+        "comments": 7,
+        "shares": 71
       }
     },
     {
@@ -480,7 +480,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -492,10 +492,10 @@
         }
       ],
       "last_stats": {
-        "views": 26,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 6305,
+        "likes": 92,
+        "comments": 9,
+        "shares": 63
       }
     },
     {
@@ -503,6 +503,32 @@
       "video_id": "7687574777371905313",
       "url": "https://www.tiktok.com/@actufrance36/video/7687574777371905313",
       "detected_at": "2026-09-20T11:16:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1043,
+        "likes": 5,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lenaentdeckt_",
+      "video_id": "7687587330466630945",
+      "url": "https://www.tiktok.com/@lenaentdeckt_/video/7687587330466630945",
+      "detected_at": "2026-09-20T12:05:10+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -518,9 +544,9 @@
         }
       ],
       "last_stats": {
-        "views": 159,
-        "likes": 3,
-        "comments": 1,
+        "views": 141,
+        "likes": 13,
+        "comments": 0,
         "shares": 0
       }
     }
