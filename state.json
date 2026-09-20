@@ -68,7 +68,7 @@
     "breaking3": "7687526949157211424",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
-    "info20fr": "7687599197792537888",
+    "info20fr": "7687652678154898720",
     "kat_info": "7687332859773865248",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7685416263111150881",
@@ -107,7 +107,7 @@
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
-    "breakingactufr": "7687600376236805409",
+    "breakingactufr": "7687649168902393121",
     "actu_france24": "7686104339680742688",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7683207652872080673",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7687577228250549537",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7687577228250549537",
-      "detected_at": "2026-09-20T11:25:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 26072,
-        "likes": 413,
-        "comments": 43,
-        "shares": 517
-      }
-    },
-    {
-      "handle": "actufrance36",
-      "video_id": "7687574777371905313",
-      "url": "https://www.tiktok.com/@actufrance36/video/7687574777371905313",
-      "detected_at": "2026-09-20T11:16:28+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1168,
-        "likes": 5,
-        "comments": 1,
-        "shares": 0
-      }
-    },
     {
       "handle": "lenaentdeckt_",
       "video_id": "7687587330466630945",
@@ -302,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 2043,
-        "likes": 27,
-        "comments": 1,
-        "shares": 9
+        "views": 10300,
+        "likes": 163,
+        "comments": 8,
+        "shares": 65
       }
     },
     {
@@ -328,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -336,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 1790,
-        "likes": 54,
-        "comments": 2,
-        "shares": 1
+        "views": 4876,
+        "likes": 107,
+        "comments": 7,
+        "shares": 7
       }
     },
     {
@@ -428,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 362,
-        "likes": 29,
-        "comments": 3,
-        "shares": 5
+        "views": 1348,
+        "likes": 151,
+        "comments": 29,
+        "shares": 6
       }
     },
     {
@@ -520,6 +468,58 @@
       "last_stats": {
         "views": 20,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info20fr",
+      "video_id": "7687652678154898720",
+      "url": "https://www.tiktok.com/@info20fr/video/7687652678154898720",
+      "detected_at": "2026-09-20T16:18:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 94,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "breakingactufr",
+      "video_id": "7687649168902393121",
+      "url": "https://www.tiktok.com/@breakingactufr/video/7687649168902393121",
+      "detected_at": "2026-09-20T16:05:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 164,
+        "likes": 10,
         "comments": 0,
         "shares": 0
       }
