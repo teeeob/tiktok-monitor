@@ -126,7 +126,7 @@
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7687971582987242784",
-    "actu60seconds": "7687917587493096736",
+    "actu60seconds": "7687974000244378912",
     "actutv_france": "7685092263222840609",
     "remi4max": "7687943874425130273",
     "actud5": "7687677907132747041",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "essiide",
-      "video_id": "7687898883233565985",
-      "url": "https://www.tiktok.com/@essiide/video/7687898883233565985",
-      "detected_at": "2026-09-21T08:14:15+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 10975,
-        "likes": 108,
-        "comments": 46,
-        "shares": 9
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7687905183828888864",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,8 +336,8 @@
         }
       ],
       "last_stats": {
-        "views": 171,
-        "likes": 10,
+        "views": 237,
+        "likes": 17,
         "comments": 1,
         "shares": 0
       }
@@ -380,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,9 +362,9 @@
         }
       ],
       "last_stats": {
-        "views": 457,
-        "likes": 6,
-        "comments": 1,
+        "views": 743,
+        "likes": 11,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -573,6 +547,32 @@
         "views": 52,
         "likes": 13,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7687974000244378912",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7687974000244378912",
+      "detected_at": "2026-09-21T13:05:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 101,
+        "likes": 5,
+        "comments": 2,
         "shares": 0
       }
     }
