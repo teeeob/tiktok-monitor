@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7687876229352934689",
-    "zopinfo": "7687831109802921249",
+    "zopinfo": "7687905183828888864",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7686600761765088544",
@@ -60,12 +60,12 @@
     "trasssh.tv": "7606597006471073046",
     "kosactcbndb": "7649474816805735712",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7687526074070158624",
-    "actu913": "7687527797350321441",
+    "actualfrancetv": "7687904977406201120",
+    "actu913": "7687907612414741793",
     "franceendirect1": "7687366471235767584",
     "h.o.b15": "7687628019069898016",
     "info247fr": "7681230734899694880",
-    "breaking3": "7687526949157211424",
+    "breaking3": "7687906647225699616",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7687683506868178208",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7687831109802921249",
-      "url": "https://www.tiktok.com/@zopinfo/video/7687831109802921249",
-      "detected_at": "2026-09-21T03:51:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9047,
-        "likes": 181,
-        "comments": 4,
-        "shares": 141
-      }
-    },
     {
       "handle": "kat_info",
       "video_id": "7687834869862305057",
@@ -366,6 +340,110 @@
         "likes": 11,
         "comments": 5,
         "shares": 0
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7687905183828888864",
+      "url": "https://www.tiktok.com/@zopinfo/video/7687905183828888864",
+      "detected_at": "2026-09-21T08:38:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 540,
+        "likes": 20,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7687904977406201120",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7687904977406201120",
+      "detected_at": "2026-09-21T08:37:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 810,
+        "likes": 21,
+        "comments": 0,
+        "shares": 20
+      }
+    },
+    {
+      "handle": "actu913",
+      "video_id": "7687907612414741793",
+      "url": "https://www.tiktok.com/@actu913/video/7687907612414741793",
+      "detected_at": "2026-09-21T08:48:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 84,
+        "likes": 9,
+        "comments": 0,
+        "shares": 9
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7687906647225699616",
+      "url": "https://www.tiktok.com/@breaking3/video/7687906647225699616",
+      "detected_at": "2026-09-21T08:44:20+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 284,
+        "likes": 22,
+        "comments": 0,
+        "shares": 13
       }
     }
   ]
