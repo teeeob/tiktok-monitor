@@ -129,89 +129,11 @@
     "actu60seconds": "7687974000244378912",
     "actutv_france": "7685092263222840609",
     "remi4max": "7687943874425130273",
-    "actud5": "7687677907132747041",
+    "actud5": "7688018316073504032",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "info20fr",
-      "video_id": "7687937299086167329",
-      "url": "https://www.tiktok.com/@info20fr/video/7687937299086167329",
-      "detected_at": "2026-09-21T10:43:17+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 270,
-        "likes": 33,
-        "comments": 1,
-        "shares": 2
-      }
-    },
-    {
-      "handle": "newo.telop",
-      "video_id": "7687938723769568545",
-      "url": "https://www.tiktok.com/@newo.telop/video/7687938723769568545",
-      "detected_at": "2026-09-21T10:48:51+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 21023,
-        "likes": 692,
-        "comments": 10,
-        "shares": 437
-      }
-    },
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7687939715735080224",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7687939715735080224",
-      "detected_at": "2026-09-21T10:52:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5283,
-        "likes": 54,
-        "comments": 2,
-        "shares": 20
-      }
-    },
     {
       "handle": "contrelaguerre",
       "video_id": "7687942968438770976",
@@ -302,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 491,
-        "likes": 37,
+        "views": 1174,
+        "likes": 53,
         "comments": 3,
-        "shares": 4
+        "shares": 7
       }
     },
     {
@@ -376,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 12,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
+        "views": 2024,
+        "likes": 56,
+        "comments": 4,
+        "shares": 14
       }
     },
     {
@@ -428,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 976,
-        "likes": 45,
-        "comments": 0,
-        "shares": 21
+        "views": 2435,
+        "likes": 64,
+        "comments": 1,
+        "shares": 31
       }
     },
     {
@@ -496,6 +418,32 @@
         "likes": 32,
         "comments": 1,
         "shares": 2
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7688018316073504032",
+      "url": "https://www.tiktok.com/@actud5/video/7688018316073504032",
+      "detected_at": "2026-09-21T15:57:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 35,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
