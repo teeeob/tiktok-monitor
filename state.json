@@ -50,7 +50,7 @@
     "langlecurieux": "7687195891794513174",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7687577228250549537",
+    "journalfrancetv": "7687924367413513505",
     "ora_418": "7643912510692805921",
     "actufrance36": "7687660905626144032",
     "france24infos": "7687694504069025057",
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 5359,
-        "likes": 217,
-        "comments": 2,
-        "shares": 4
+        "views": 19696,
+        "likes": 842,
+        "comments": 7,
+        "shares": 22
       }
     },
     {
@@ -324,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 540,
-        "likes": 20,
-        "comments": 0,
-        "shares": 2
+        "views": 6725,
+        "likes": 104,
+        "comments": 5,
+        "shares": 61
       }
     },
     {
@@ -350,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 810,
-        "likes": 21,
-        "comments": 0,
-        "shares": 20
+        "views": 4749,
+        "likes": 52,
+        "comments": 2,
+        "shares": 21
       }
     },
     {
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 84,
-        "likes": 9,
+        "views": 517,
+        "likes": 33,
         "comments": 0,
-        "shares": 9
+        "shares": 18
       }
     },
     {
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 284,
-        "likes": 22,
-        "comments": 0,
-        "shares": 13
+        "views": 1399,
+        "likes": 63,
+        "comments": 3,
+        "shares": 22
       }
     },
     {
@@ -470,6 +470,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7687924367413513505",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7687924367413513505",
+      "detected_at": "2026-09-21T09:53:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 263,
+        "likes": 10,
+        "comments": 0,
+        "shares": 5
       }
     }
   ]
