@@ -78,7 +78,7 @@
     "infofrance_fr": "7649736592470330646",
     "actudivers.fr": "7688062980969270560",
     "to.suissra": "7654575792071953696",
-    "essiide": "7688045490126064929",
+    "essiide": "7688247583440964897",
     "univers_doc": "7688177455349222688",
     "infos.tv05": "7688022294928624929",
     "actufrance98": "7680998138773130528",
@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7687886293602192672",
+    "acturium": "7688248944639364384",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7648716566913142038",
     "le.journalrapide": "7647185027427536160",
@@ -220,7 +220,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 332,
-        "likes": 18,
-        "comments": 1,
-        "shares": 0
+        "views": 2123,
+        "likes": 37,
+        "comments": 5,
+        "shares": 1
       }
     },
     {
@@ -243,6 +243,32 @@
       "video_id": "7688145620636306721",
       "url": "https://www.tiktok.com/@509stories/video/7688145620636306721",
       "detected_at": "2026-09-22T05:42:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 398,
+        "likes": 13,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7688247583440964897",
+      "url": "https://www.tiktok.com/@essiide/video/7688247583440964897",
+      "detected_at": "2026-09-22T06:47:27+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -258,9 +284,35 @@
         }
       ],
       "last_stats": {
-        "views": 128,
-        "likes": 5,
-        "comments": 0,
+        "views": 137,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7688248944639364384",
+      "url": "https://www.tiktok.com/@acturium/video/7688248944639364384",
+      "detected_at": "2026-09-22T06:52:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 71,
+        "likes": 7,
+        "comments": 1,
         "shares": 0
       }
     }
