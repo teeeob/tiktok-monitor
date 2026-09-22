@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7688228186928254240",
-    "zopinfo": "7688230165314325793",
+    "zopinfo": "7688258765023415584",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7686600761765088544",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7686562578100751648",
     "en.bref_": "7639431069082586401",
     "509stories": "7688145620636306721",
-    "contrelaguerre": "7687942968438770976",
+    "contrelaguerre": "7688259241198603552",
     "actubrute_fr": "7687928231906856224",
     "actuone.tv1": "7687306039129017632",
     "actuenbref.tv": "7687284609666551073",
@@ -246,7 +246,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 137,
-        "likes": 8,
-        "comments": 1,
-        "shares": 0
+        "views": 1405,
+        "likes": 26,
+        "comments": 3,
+        "shares": 3
       }
     },
     {
@@ -338,6 +338,58 @@
       "last_stats": {
         "views": 229,
         "likes": 12,
+        "comments": 0,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7688258765023415584",
+      "url": "https://www.tiktok.com/@zopinfo/video/7688258765023415584",
+      "detected_at": "2026-09-22T07:30:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 159,
+        "likes": 18,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7688259241198603552",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7688259241198603552",
+      "detected_at": "2026-09-22T07:32:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 195,
+        "likes": 5,
         "comments": 0,
         "shares": 6
       }
