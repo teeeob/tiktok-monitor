@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7687299554185596193",
+    "lejournal.actu": "7688293623045082401",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7688093768733429024",
     "alarmeactu": "7648462451649809697",
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 1405,
-        "likes": 26,
-        "comments": 3,
-        "shares": 3
+        "views": 9488,
+        "likes": 97,
+        "comments": 8,
+        "shares": 30
       }
     },
     {
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,8 +258,8 @@
         }
       ],
       "last_stats": {
-        "views": 330,
-        "likes": 19,
+        "views": 677,
+        "likes": 24,
         "comments": 1,
         "shares": 1
       }
@@ -506,6 +506,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 391,
+        "likes": 25,
+        "comments": 3,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7688293623045082401",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7688293623045082401",
+      "detected_at": "2026-09-22T09:46:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -518,10 +544,10 @@
         }
       ],
       "last_stats": {
-        "views": 93,
-        "likes": 8,
-        "comments": 2,
-        "shares": 1
+        "views": 983,
+        "likes": 69,
+        "comments": 3,
+        "shares": 5
       }
     }
   ]
