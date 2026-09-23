@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "actu60seconds",
-      "video_id": "7688472468054494496",
-      "url": "https://www.tiktok.com/@actu60seconds/video/7688472468054494496",
-      "detected_at": "2026-09-22T21:20:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 665,
-        "likes": 12,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
       "handle": "univers_doc",
       "video_id": "7688499215307263264",
       "url": "https://www.tiktok.com/@univers_doc/video/7688499215307263264",
@@ -172,7 +146,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -180,8 +154,8 @@
         }
       ],
       "last_stats": {
-        "views": 177,
-        "likes": 4,
+        "views": 295,
+        "likes": 7,
         "comments": 1,
         "shares": 0
       }
