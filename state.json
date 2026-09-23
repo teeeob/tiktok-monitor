@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7688395756146887968",
-    "kat_info": "7688395422573874465",
+    "kat_info": "7688736624703786273",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7685416263111150881",
     "actu.le.fran843": "7655044164291169568",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "509stories",
-      "video_id": "7688507134190931232",
-      "url": "https://www.tiktok.com/@509stories/video/7688507134190931232",
-      "detected_at": "2026-09-23T09:30:00+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8658,
-        "likes": 211,
-        "comments": 34,
-        "shares": 30
-      }
-    },
-    {
-      "handle": "actu60seconds",
-      "video_id": "7688658865495362849",
-      "url": "https://www.tiktok.com/@actu60seconds/video/7688658865495362849",
-      "detected_at": "2026-09-23T09:23:19+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 729,
-        "likes": 18,
-        "comments": 0,
-        "shares": 1
-      }
-    },
     {
       "handle": "actu_minute_info",
       "video_id": "7688667512241671456",
@@ -380,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 12973,
-        "likes": 271,
-        "comments": 44,
-        "shares": 77
+        "views": 36190,
+        "likes": 677,
+        "comments": 98,
+        "shares": 267
       }
     },
     {
@@ -406,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 4911,
-        "likes": 76,
-        "comments": 7,
-        "shares": 70
+        "views": 20649,
+        "likes": 428,
+        "comments": 26,
+        "shares": 421
       }
     },
     {
@@ -636,6 +584,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 357,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7688736624703786273",
+      "url": "https://www.tiktok.com/@kat_info/video/7688736624703786273",
+      "detected_at": "2026-09-23T14:25:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -648,9 +622,9 @@
         }
       ],
       "last_stats": {
-        "views": 82,
-        "likes": 0,
-        "comments": 0,
+        "views": 144,
+        "likes": 1,
+        "comments": 1,
         "shares": 0
       }
     }
