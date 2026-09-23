@@ -135,58 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7688440375752641824",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7688440375752641824",
-      "detected_at": "2026-09-22T19:15:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 79065,
-        "likes": 4518,
-        "comments": 649,
-        "shares": 699
-      }
-    },
-    {
-      "handle": "remi4max",
-      "video_id": "7688439249846226208",
-      "url": "https://www.tiktok.com/@remi4max/video/7688439249846226208",
-      "detected_at": "2026-09-22T19:11:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1191,
-        "likes": 18,
-        "comments": 1,
-        "shares": 2
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7688448029459877152",
       "url": "https://www.tiktok.com/@zopinfo/video/7688448029459877152",
@@ -432,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 357,
-        "likes": 10,
+        "views": 665,
+        "likes": 12,
         "comments": 1,
         "shares": 0
       }
@@ -454,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -466,9 +414,9 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
+        "views": 177,
+        "likes": 4,
+        "comments": 1,
         "shares": 0
       }
     },
