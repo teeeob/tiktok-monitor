@@ -31,7 +31,7 @@
     "mediaflix": "7688944650526215457",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7689075076284599585",
-    "actu_minute_info": "7688667512241671456",
+    "actu_minute_info": "7689103520460590368",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7687645113069096225",
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 4789,
-        "likes": 82,
-        "comments": 2,
-        "shares": 79
+        "views": 12466,
+        "likes": 230,
+        "comments": 6,
+        "shares": 263
       }
     },
     {
@@ -416,6 +416,32 @@
       "last_stats": {
         "views": 289,
         "likes": 3,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7689103520460590368",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7689103520460590368",
+      "detected_at": "2026-09-24T14:08:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 273,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
