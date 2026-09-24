@@ -42,7 +42,7 @@
     "lejournal.actu2": "7688739452847639841",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7688769525671595297",
+    "contrelaguerre": "7688987465817918752",
     "actubrute_fr": "7688314096592145697",
     "actuone.tv1": "7688700064486706465",
     "actuenbref.tv": "7688761713352527137",
@@ -123,7 +123,7 @@
     "franceactu24f": "7688815219212094752",
     "flashactu_france": "7688310225916398880",
     "jtmonde1": "7678618761494138144",
-    "le_signalfr": "7688812417509231904",
+    "le_signalfr": "7688988161627737377",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7688766033083043104",
     "actu60seconds": "7688658865495362849",
@@ -146,7 +146,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -154,10 +154,10 @@
         }
       ],
       "last_stats": {
-        "views": 367,
-        "likes": 13,
-        "comments": 1,
-        "shares": 3
+        "views": 2978,
+        "likes": 98,
+        "comments": 3,
+        "shares": 71
       }
     },
     {
@@ -194,7 +194,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 194,
-        "likes": 12,
-        "comments": 1,
-        "shares": 0
+        "views": 1528,
+        "likes": 33,
+        "comments": 2,
+        "shares": 5
       }
     },
     {
@@ -287,6 +287,58 @@
         "views": 267,
         "likes": 3,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7688987465817918752",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7688987465817918752",
+      "detected_at": "2026-09-24T06:38:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 343,
+        "likes": 9,
+        "comments": 0,
+        "shares": 4
+      }
+    },
+    {
+      "handle": "le_signalfr",
+      "video_id": "7688988161627737377",
+      "url": "https://www.tiktok.com/@le_signalfr/video/7688988161627737377",
+      "detected_at": "2026-09-24T06:41:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 176,
+        "likes": 2,
+        "comments": 0,
         "shares": 0
       }
     }
