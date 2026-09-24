@@ -126,7 +126,7 @@
     "le_signalfr": "7688988161627737377",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7688766033083043104",
-    "actu60seconds": "7689064946147036449",
+    "actu60seconds": "7689080443680967969",
     "actutv_france": "7688977854507289889",
     "remi4max": "7688982729995586849",
     "actud5": "7688018316073504032",
@@ -354,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 2374,
-        "likes": 67,
-        "comments": 3,
-        "shares": 3
+        "views": 5440,
+        "likes": 138,
+        "comments": 9,
+        "shares": 5
       }
     },
     {
@@ -380,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 24813,
-        "likes": 377,
-        "comments": 43,
-        "shares": 91
+        "views": 50232,
+        "likes": 1985,
+        "comments": 137,
+        "shares": 369
       }
     },
     {
@@ -532,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -544,10 +544,10 @@
         }
       ],
       "last_stats": {
-        "views": 38,
-        "likes": 4,
-        "comments": 1,
-        "shares": 0
+        "views": 591,
+        "likes": 18,
+        "comments": 3,
+        "shares": 1
       }
     },
     {
@@ -558,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -570,8 +570,8 @@
         }
       ],
       "last_stats": {
-        "views": 259,
-        "likes": 12,
+        "views": 631,
+        "likes": 44,
         "comments": 1,
         "shares": 0
       }
@@ -598,6 +598,32 @@
       "last_stats": {
         "views": 610,
         "likes": 6,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7689080443680967969",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7689080443680967969",
+      "detected_at": "2026-09-24T12:39:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 155,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
