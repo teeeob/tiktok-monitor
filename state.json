@@ -96,7 +96,7 @@
     "actufrance.tv": "7688451827796380960",
     "le.journalrapide": "7647185027427536160",
     "actufrlive": "7661341770462072096",
-    "newo.telop": "7688796407972564256",
+    "newo.telop": "7689244143607926048",
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7680869863673351457",
@@ -134,84 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "infos.minutes",
-      "video_id": "7689166669272468769",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7689166669272468769",
-      "detected_at": "2026-09-24T18:13:48+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 75576,
-        "likes": 4217,
-        "comments": 456,
-        "shares": 242
-      }
-    },
-    {
-      "handle": "actufrance36",
-      "video_id": "7689166252455021856",
-      "url": "https://www.tiktok.com/@actufrance36/video/7689166252455021856",
-      "detected_at": "2026-09-24T18:12:12+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 251,
-        "likes": 4,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "flashactu_france",
-      "video_id": "7689170393785060640",
-      "url": "https://www.tiktok.com/@flashactu_france/video/7689170393785060640",
-      "detected_at": "2026-09-24T18:28:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 555,
-        "likes": 6,
-        "comments": 1,
-        "shares": 6
-      }
-    },
     {
       "handle": "infos.minutes",
       "video_id": "7689177395248614689",
@@ -406,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 19597,
-        "likes": 1353,
-        "comments": 28,
-        "shares": 36
+        "views": 34859,
+        "likes": 2400,
+        "comments": 45,
+        "shares": 53
       }
     },
     {
@@ -432,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,9 +362,9 @@
         }
       ],
       "last_stats": {
-        "views": 469,
-        "likes": 8,
-        "comments": 3,
+        "views": 901,
+        "likes": 14,
+        "comments": 4,
         "shares": 0
       }
     },
@@ -522,6 +444,32 @@
         "likes": 815,
         "comments": 118,
         "shares": 177
+      }
+    },
+    {
+      "handle": "newo.telop",
+      "video_id": "7689244143607926048",
+      "url": "https://www.tiktok.com/@newo.telop/video/7689244143607926048",
+      "detected_at": "2026-09-24T23:14:35+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 225,
+        "likes": 10,
+        "comments": 0,
+        "shares": 2
       }
     }
   ]
