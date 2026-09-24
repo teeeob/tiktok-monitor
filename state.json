@@ -79,7 +79,7 @@
     "actudivers.fr": "7688392023111486753",
     "to.suissra": "7654575792071953696",
     "essiide": "7688978025249131808",
-    "univers_doc": "7688499215307263264",
+    "univers_doc": "7688992688183594273",
     "infos.tv05": "7688807901212855585",
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
@@ -220,7 +220,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 13950,
+        "likes": 79,
+        "comments": 4,
+        "shares": 4
       }
     },
     {
@@ -246,7 +246,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -338,6 +338,32 @@
       "last_stats": {
         "views": 176,
         "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "univers_doc",
+      "video_id": "7688992688183594273",
+      "url": "https://www.tiktok.com/@univers_doc/video/7688992688183594273",
+      "detected_at": "2026-09-24T06:58:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 4,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
