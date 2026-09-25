@@ -46,7 +46,7 @@
     "actubrute_fr": "7688314096592145697",
     "actuone.tv1": "7689488961688915233",
     "actuenbref.tv": "7689488317301198113",
-    "actuexpressfr0": "7689051932211694881",
+    "actuexpressfr0": "7689522998331641120",
     "langlecurieux": "7688784117126745366",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
@@ -80,7 +80,7 @@
     "to.suissra": "7654575792071953696",
     "essiide": "7689392126542548256",
     "univers_doc": "7689289309806988576",
-    "infos.tv05": "7689496192887131424",
+    "infos.tv05": "7689521893598154016",
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
     "actunews_tv": "7653174359816686880",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7689447582082387232",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7689447582082387232",
-      "detected_at": "2026-09-25T12:23:59+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 17186,
-        "likes": 289,
-        "comments": 32,
-        "shares": 539
-      }
-    },
-    {
-      "handle": "info20fr",
-      "video_id": "7689447760562507040",
-      "url": "https://www.tiktok.com/@info20fr/video/7689447760562507040",
-      "detected_at": "2026-09-25T12:24:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 257,
-        "likes": 8,
-        "comments": 0,
-        "shares": 1
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7689459005013495073",
@@ -558,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -570,10 +518,10 @@
         }
       ],
       "last_stats": {
-        "views": 24,
-        "likes": 2,
+        "views": 748,
+        "likes": 12,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -584,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,8 +544,8 @@
         }
       ],
       "last_stats": {
-        "views": 118,
-        "likes": 7,
+        "views": 310,
+        "likes": 16,
         "comments": 0,
         "shares": 1
       }
@@ -610,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -622,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 159,
-        "likes": 25,
-        "comments": 5,
-        "shares": 0
+        "views": 8689,
+        "likes": 558,
+        "comments": 129,
+        "shares": 7
       }
     },
     {
@@ -703,6 +651,58 @@
         "views": 128,
         "likes": 5,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actuexpressfr0",
+      "video_id": "7689522998331641120",
+      "url": "https://www.tiktok.com/@actuexpressfr0/video/7689522998331641120",
+      "detected_at": "2026-09-25T17:16:33+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 113,
+        "likes": 2,
+        "comments": 1,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "infos.tv05",
+      "video_id": "7689521893598154016",
+      "url": "https://www.tiktok.com/@infos.tv05/video/7689521893598154016",
+      "detected_at": "2026-09-25T17:12:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 65,
+        "likes": 5,
+        "comments": 3,
         "shares": 0
       }
     }
