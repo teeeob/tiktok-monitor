@@ -42,7 +42,7 @@
     "lejournal.actu2": "7688739452847639841",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7688987465817918752",
+    "contrelaguerre": "7689370408692305184",
     "actubrute_fr": "7688314096592145697",
     "actuone.tv1": "7688700064486706465",
     "actuenbref.tv": "7688761713352527137",
@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "univers_doc",
-      "video_id": "7689289309806988576",
-      "url": "https://www.tiktok.com/@univers_doc/video/7689289309806988576",
-      "detected_at": "2026-09-25T02:10:27+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1092,
-        "likes": 38,
-        "comments": 2,
-        "shares": 4
-      }
-    },
-    {
       "handle": "infos.tv05",
       "video_id": "7689351560907771168",
       "url": "https://www.tiktok.com/@infos.tv05/video/7689351560907771168",
@@ -168,6 +142,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 268,
+        "likes": 16,
+        "comments": 3,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7689370408692305184",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7689370408692305184",
+      "detected_at": "2026-09-25T07:24:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -180,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 71,
-        "likes": 10,
-        "comments": 3,
-        "shares": 0
+        "views": 70,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
