@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7685383682806287648",
-    "actureact.info": "7689562253137317152",
+    "actureact.info": "7689779647508139297",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7689699443305696544",
-      "url": "https://www.tiktok.com/@zopinfo/video/7689699443305696544",
-      "detected_at": "2026-09-26T04:41:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8246,
-        "likes": 209,
-        "comments": 3,
-        "shares": 42
-      }
-    },
     {
       "handle": "infos.tv05",
       "video_id": "7689721733993041185",
@@ -392,6 +366,32 @@
         "likes": 22,
         "comments": 0,
         "shares": 6
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7689779647508139297",
+      "url": "https://www.tiktok.com/@actureact.info/video/7689779647508139297",
+      "detected_at": "2026-09-26T09:52:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 618,
+        "likes": 49,
+        "comments": 5,
+        "shares": 0
       }
     }
   ]
