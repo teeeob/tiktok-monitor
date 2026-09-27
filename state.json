@@ -47,7 +47,7 @@
     "actuone.tv1": "7689926992510094625",
     "actuenbref.tv": "7689866587729300768",
     "actuexpressfr0": "7690232076955634976",
-    "langlecurieux": "7689549586620239126",
+    "langlecurieux": "7690253313580731670",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7690187784203652384",
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 158,
-        "likes": 15,
+        "views": 239,
+        "likes": 25,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 812,
-        "likes": 25,
-        "comments": 0,
-        "shares": 1
+        "views": 5254,
+        "likes": 105,
+        "comments": 7,
+        "shares": 37
       }
     },
     {
@@ -276,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 98,
-        "likes": 2,
-        "comments": 0,
-        "shares": 1
+        "views": 809,
+        "likes": 38,
+        "comments": 3,
+        "shares": 14
       }
     },
     {
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,8 +414,8 @@
         }
       ],
       "last_stats": {
-        "views": 19,
-        "likes": 2,
+        "views": 480,
+        "likes": 22,
         "comments": 1,
         "shares": 8
       }
@@ -428,6 +428,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2071,
+        "likes": 16,
+        "comments": 3,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "langlecurieux",
+      "video_id": "7690253313580731670",
+      "url": "https://www.tiktok.com/@langlecurieux/video/7690253313580731670",
+      "detected_at": "2026-09-27T16:32:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -440,9 +466,9 @@
         }
       ],
       "last_stats": {
-        "views": 2,
-        "likes": 1,
-        "comments": 1,
+        "views": 6,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
