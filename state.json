@@ -135,84 +135,6 @@
   },
   "pending": [
     {
-      "handle": "tiktok.ragot",
-      "video_id": "7690996630794882336",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7690996630794882336",
-      "detected_at": "2026-09-29T16:35:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 67844,
-        "likes": 835,
-        "comments": 186,
-        "shares": 143
-      }
-    },
-    {
-      "handle": "franceactu24f",
-      "video_id": "7691000128064343328",
-      "url": "https://www.tiktok.com/@franceactu24f/video/7691000128064343328",
-      "detected_at": "2026-09-29T16:48:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 680,
-        "likes": 30,
-        "comments": 2,
-        "shares": 4
-      }
-    },
-    {
-      "handle": "alerte.min",
-      "video_id": "7691001289655733537",
-      "url": "https://www.tiktok.com/@alerte.min/video/7691001289655733537",
-      "detected_at": "2026-09-29T16:53:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1526,
-        "likes": 85,
-        "comments": 2,
-        "shares": 5
-      }
-    },
-    {
       "handle": "journalfrancetv",
       "video_id": "7691004750145277217",
       "url": "https://www.tiktok.com/@journalfrancetv/video/7691004750145277217",
@@ -236,58 +158,6 @@
         "likes": 300,
         "comments": 9,
         "shares": 199
-      }
-    },
-    {
-      "handle": "france24infos",
-      "video_id": "7691003276988353824",
-      "url": "https://www.tiktok.com/@france24infos/video/7691003276988353824",
-      "detected_at": "2026-09-29T17:00:47+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 80289,
-        "likes": 2719,
-        "comments": 235,
-        "shares": 328
-      }
-    },
-    {
-      "handle": "infos.tv05",
-      "video_id": "7691000352514067744",
-      "url": "https://www.tiktok.com/@infos.tv05/video/7691000352514067744",
-      "detected_at": "2026-09-29T16:49:25+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 897,
-        "likes": 27,
-        "comments": 3,
-        "shares": 2
       }
     },
     {
@@ -458,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 6391,
-        "likes": 107,
-        "comments": 1,
-        "shares": 9
+        "views": 14302,
+        "likes": 263,
+        "comments": 9,
+        "shares": 21
       }
     },
     {
@@ -484,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 171,
-        "likes": 2,
+        "views": 317,
+        "likes": 5,
         "comments": 0,
-        "shares": 1
+        "shares": 2
       }
     },
     {
