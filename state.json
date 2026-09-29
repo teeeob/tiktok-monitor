@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7690677841737960737",
-    "kat_info": "7690559404210457889",
+    "kat_info": "7690775737414012193",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7689515161958354209",
     "actu.le.fran843": "7655044164291169568",
@@ -103,7 +103,7 @@
     "unmomentactu": "7690649417111719201",
     "franceecho": "7690662107464961313",
     "franceavifactu": "7655787451516079392",
-    "adrenatv.france": "7690756619537304865",
+    "adrenatv.france": "7690783775160077600",
     "wordpress070": "7659746008074636576",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "france24infos",
-      "video_id": "7690702490269994273",
-      "url": "https://www.tiktok.com/@france24infos/video/7690702490269994273",
-      "detected_at": "2026-09-28T21:33:37+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4732,
-        "likes": 156,
-        "comments": 4,
-        "shares": 14
-      }
-    },
-    {
       "handle": "adrenatv.france",
       "video_id": "7690756619537304865",
       "url": "https://www.tiktok.com/@adrenatv.france/video/7690756619537304865",
@@ -183,6 +157,58 @@
         "views": 140,
         "likes": 3,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7690775737414012193",
+      "url": "https://www.tiktok.com/@kat_info/video/7690775737414012193",
+      "detected_at": "2026-09-29T02:18:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 205,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "adrenatv.france",
+      "video_id": "7690783775160077600",
+      "url": "https://www.tiktok.com/@adrenatv.france/video/7690783775160077600",
+      "detected_at": "2026-09-29T02:49:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
