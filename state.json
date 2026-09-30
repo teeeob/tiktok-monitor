@@ -133,58 +133,5 @@
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
-  "pending": [
-    {
-      "handle": "infos.minutes",
-      "video_id": "7691051032926883105",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7691051032926883105",
-      "detected_at": "2026-09-29T20:06:08+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 38051,
-        "likes": 2530,
-        "comments": 37,
-        "shares": 105
-      }
-    },
-    {
-      "handle": "zopinfo",
-      "video_id": "7691052045255724321",
-      "url": "https://www.tiktok.com/@zopinfo/video/7691052045255724321",
-      "detected_at": "2026-09-29T20:10:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5273,
-        "likes": 102,
-        "comments": 2,
-        "shares": 71
-      }
-    }
-  ]
+  "pending": []
 }
