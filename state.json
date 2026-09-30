@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7685383682806287648",
-    "actureact.info": "7690870052219915553",
+    "actureact.info": "7691270768746827041",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7691254941792472352",
-    "zopinfo": "7691189279732600096",
+    "zopinfo": "7691273705451769120",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7686600761765088544",
@@ -68,7 +68,7 @@
     "breaking3": "7690127642275630368",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
-    "info20fr": "7691044352902139168",
+    "info20fr": "7691270614476279072",
     "kat_info": "7691171393093831968",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7689515161958354209",
@@ -125,7 +125,7 @@
     "jtmonde1": "7678618761494138144",
     "le_signalfr": "7688988161627737377",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7691047484382039329",
+    "alerte.min": "7691268222934338848",
     "actu60seconds": "7690980402638441761",
     "actutv_france": "7690836926651223328",
     "remi4max": "7691050111945821472",
@@ -350,6 +350,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 39436,
+        "likes": 3771,
+        "comments": 83,
+        "shares": 728
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7691270768746827041",
+      "url": "https://www.tiktok.com/@actureact.info/video/7691270768746827041",
+      "detected_at": "2026-09-30T10:18:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -362,10 +388,88 @@
         }
       ],
       "last_stats": {
-        "views": 3629,
-        "likes": 341,
-        "comments": 8,
-        "shares": 58
+        "views": 1344,
+        "likes": 65,
+        "comments": 1,
+        "shares": 16
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7691273705451769120",
+      "url": "https://www.tiktok.com/@zopinfo/video/7691273705451769120",
+      "detected_at": "2026-09-30T10:30:12+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 20,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info20fr",
+      "video_id": "7691270614476279072",
+      "url": "https://www.tiktok.com/@info20fr/video/7691270614476279072",
+      "detected_at": "2026-09-30T10:18:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 168,
+        "likes": 33,
+        "comments": 5,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7691268222934338848",
+      "url": "https://www.tiktok.com/@alerte.min/video/7691268222934338848",
+      "detected_at": "2026-09-30T10:08:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2109,
+        "likes": 54,
+        "comments": 6,
+        "shares": 19
       }
     }
   ]
