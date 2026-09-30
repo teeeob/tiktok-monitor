@@ -129,63 +129,11 @@
     "actu60seconds": "7690980402638441761",
     "actutv_france": "7690836926651223328",
     "remi4max": "7691050111945821472",
-    "actud5": "7690846128031403296",
+    "actud5": "7691249977779096865",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7691171393093831968",
-      "url": "https://www.tiktok.com/@kat_info/video/7691171393093831968",
-      "detected_at": "2026-09-30T03:53:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1426,
-        "likes": 22,
-        "comments": 2,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "univers_doc",
-      "video_id": "7691172226615233825",
-      "url": "https://www.tiktok.com/@univers_doc/video/7691172226615233825",
-      "detected_at": "2026-09-30T03:56:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3552,
-        "likes": 58,
-        "comments": 11,
-        "shares": 6
-      }
-    },
     {
       "handle": "univers_doc",
       "video_id": "7691176257773604128",
@@ -418,6 +366,32 @@
         "likes": 3,
         "comments": 0,
         "shares": 5
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7691249977779096865",
+      "url": "https://www.tiktok.com/@actud5/video/7691249977779096865",
+      "detected_at": "2026-09-30T08:58:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 99,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
