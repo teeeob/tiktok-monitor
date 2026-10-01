@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7690512904608632097",
+    "lejournal.actu": "7691628778849602849",
     "chronoactu": "7500232938978577696",
     "infos.minutes": "7691424540890615073",
     "alarmeactu": "7648462451649809697",
@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7685383682806287648",
-    "actureact.info": "7691299711172529441",
+    "actureact.info": "7691628918419344673",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -104,7 +104,7 @@
     "franceecho": "7691017661106392353",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7690625742496992544",
-    "wordpress070": "7691409961884175649",
+    "wordpress070": "7691623827998100768",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
     "breakingactufr": "7661674082575846688",
@@ -126,7 +126,7 @@
     "le_signalfr": "7688988161627737377",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7691390167340420384",
-    "actu60seconds": "7691575128274013473",
+    "actu60seconds": "7691631883821567265",
     "actutv_france": "7691392061987147041",
     "remi4max": "7691590919522356513",
     "actud5": "7691249977779096865",
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 1677,
-        "likes": 28,
-        "comments": 0,
-        "shares": 14
+        "views": 5777,
+        "likes": 89,
+        "comments": 2,
+        "shares": 24
       }
     },
     {
@@ -324,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 248,
-        "likes": 20,
-        "comments": 0,
-        "shares": 9
+        "views": 913,
+        "likes": 42,
+        "comments": 1,
+        "shares": 11
       }
     },
     {
@@ -350,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 630,
-        "likes": 25,
-        "comments": 1,
-        "shares": 16
+        "views": 2177,
+        "likes": 54,
+        "comments": 2,
+        "shares": 17
       }
     },
     {
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 118,
-        "likes": 7,
-        "comments": 0,
-        "shares": 0
+        "views": 891,
+        "likes": 47,
+        "comments": 2,
+        "shares": 1
       }
     },
     {
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 93,
-        "likes": 3,
-        "comments": 1,
-        "shares": 0
+        "views": 22069,
+        "likes": 436,
+        "comments": 45,
+        "shares": 74
       }
     },
     {
@@ -428,7 +428,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,8 +440,8 @@
         }
       ],
       "last_stats": {
-        "views": 249,
-        "likes": 19,
+        "views": 269,
+        "likes": 21,
         "comments": 0,
         "shares": 0
       }
@@ -454,6 +454,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1300,
+        "likes": 34,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7691628778849602849",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7691628778849602849",
+      "detected_at": "2026-10-01T09:28:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -466,8 +492,86 @@
         }
       ],
       "last_stats": {
-        "views": 478,
-        "likes": 14,
+        "views": 41,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7691628918419344673",
+      "url": "https://www.tiktok.com/@actureact.info/video/7691628918419344673",
+      "detected_at": "2026-10-01T09:28:41+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 500,
+        "likes": 44,
+        "comments": 4,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "wordpress070",
+      "video_id": "7691623827998100768",
+      "url": "https://www.tiktok.com/@wordpress070/video/7691623827998100768",
+      "detected_at": "2026-10-01T09:08:53+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 864,
+        "likes": 13,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7691631883821567265",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7691631883821567265",
+      "detected_at": "2026-10-01T09:40:10+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 77,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
