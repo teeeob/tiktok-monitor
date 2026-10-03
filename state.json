@@ -52,7 +52,7 @@
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7692486918210096417",
     "ora_418": "7643912510692805921",
-    "actufrance36": "7692408996635970848",
+    "actufrance36": "7692512490252422432",
     "france24infos": "7692489454547717409",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7663201521915448609",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "remi4max",
-      "video_id": "7692435935182572832",
-      "url": "https://www.tiktok.com/@remi4max/video/7692435935182572832",
-      "detected_at": "2026-10-03T13:40:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1118,
-        "likes": 35,
-        "comments": 2,
-        "shares": 2
-      }
-    },
     {
       "handle": "wordpress070",
       "video_id": "7692446890884926753",
@@ -276,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -284,8 +258,8 @@
         }
       ],
       "last_stats": {
-        "views": 814,
-        "likes": 42,
+        "views": 1333,
+        "likes": 51,
         "comments": 2,
         "shares": 1
       }
@@ -584,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,9 +570,9 @@
         }
       ],
       "last_stats": {
-        "views": 238,
-        "likes": 16,
-        "comments": 3,
+        "views": 562,
+        "likes": 26,
+        "comments": 5,
         "shares": 1
       }
     },
@@ -677,6 +651,32 @@
         "views": 332,
         "likes": 15,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance36",
+      "video_id": "7692512490252422432",
+      "url": "https://www.tiktok.com/@actufrance36/video/7692512490252422432",
+      "detected_at": "2026-10-03T18:37:18+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 99,
+        "likes": 4,
+        "comments": 1,
         "shares": 0
       }
     }
