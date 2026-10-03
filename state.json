@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7691990218404089121",
+    "acturium": "7692466866203233568",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7692144960732253473",
     "le.journalrapide": "7647185027427536160",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7692392219952565536",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7692392219952565536",
-      "detected_at": "2026-10-03T10:50:37+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 130,
-        "likes": 1,
-        "comments": 0,
-        "shares": 3
-      }
-    },
     {
       "handle": "actu_minute_info",
       "video_id": "7692400100466773281",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 303,
-        "likes": 40,
-        "comments": 2,
-        "shares": 2
+        "views": 11693,
+        "likes": 317,
+        "comments": 43,
+        "shares": 70
       }
     },
     {
@@ -480,7 +454,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -492,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 2101,
-        "likes": 83,
-        "comments": 1,
-        "shares": 7
+        "views": 12841,
+        "likes": 487,
+        "comments": 11,
+        "shares": 57
       }
     },
     {
@@ -547,6 +521,32 @@
         "views": 95,
         "likes": 9,
         "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7692466866203233568",
+      "url": "https://www.tiktok.com/@acturium/video/7692466866203233568",
+      "detected_at": "2026-10-03T15:40:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 384,
+        "likes": 30,
+        "comments": 1,
         "shares": 0
       }
     }
