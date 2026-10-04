@@ -126,7 +126,7 @@
     "le_signalfr": "7688988161627737377",
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7692031479521545505",
-    "actu60seconds": "7692419719235718433",
+    "actu60seconds": "7692693492388089120",
     "actutv_france": "7692519376339094816",
     "remi4max": "7692522972829044001",
     "actud5": "7692176521754086688",
@@ -194,7 +194,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 94,
-        "likes": 5,
-        "comments": 0,
-        "shares": 0
+        "views": 17603,
+        "likes": 336,
+        "comments": 7,
+        "shares": 179
       }
     },
     {
@@ -234,6 +234,32 @@
       "last_stats": {
         "views": 434,
         "likes": 23,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu60seconds",
+      "video_id": "7692693492388089120",
+      "url": "https://www.tiktok.com/@actu60seconds/video/7692693492388089120",
+      "detected_at": "2026-10-04T06:19:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 68,
+        "likes": 3,
         "comments": 0,
         "shares": 0
       }
