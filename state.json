@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7692911140917103905",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7692911140917103905",
-      "detected_at": "2026-10-04T20:24:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 44039,
-        "likes": 2841,
-        "comments": 44,
-        "shares": 178
-      }
-    },
-    {
       "handle": "adrenatv.france",
       "video_id": "7692917816915168544",
       "url": "https://www.tiktok.com/@adrenatv.france/video/7692917816915168544",
@@ -324,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,8 +310,8 @@
         }
       ],
       "last_stats": {
-        "views": 251,
-        "likes": 8,
+        "views": 391,
+        "likes": 14,
         "comments": 1,
         "shares": 0
       }
