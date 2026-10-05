@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "adrenatv.france",
-      "video_id": "7693107735763717409",
-      "url": "https://www.tiktok.com/@adrenatv.france/video/7693107735763717409",
-      "detected_at": "2026-10-05T09:07:20+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 585,
-        "likes": 110,
-        "comments": 26,
-        "shares": 13
-      }
-    },
-    {
       "handle": "lejournal.actu",
       "video_id": "7693114732353572128",
       "url": "https://www.tiktok.com/@lejournal.actu/video/7693114732353572128",
@@ -302,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 1017,
-        "likes": 59,
-        "comments": 5,
-        "shares": 1
+        "views": 4417,
+        "likes": 135,
+        "comments": 9,
+        "shares": 3
       }
     },
     {
@@ -584,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 363,
-        "likes": 30,
-        "comments": 0,
-        "shares": 8
+        "views": 6273,
+        "likes": 177,
+        "comments": 3,
+        "shares": 15
       }
     },
     {
@@ -610,7 +584,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -622,10 +596,10 @@
         }
       ],
       "last_stats": {
-        "views": 514,
-        "likes": 23,
-        "comments": 0,
-        "shares": 3
+        "views": 2566,
+        "likes": 44,
+        "comments": 2,
+        "shares": 11
       }
     },
     {
@@ -636,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -648,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 26155,
-        "likes": 458,
-        "comments": 38,
-        "shares": 179
+        "views": 106133,
+        "likes": 2748,
+        "comments": 261,
+        "shares": 1001
       }
     }
   ]
