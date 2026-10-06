@@ -79,7 +79,7 @@
     "actudivers.fr": "7693252521686568225",
     "to.suissra": "7654575792071953696",
     "essiide": "7693219440766258464",
-    "univers_doc": "7693271979352280353",
+    "univers_doc": "7693360329044102432",
     "infos.tv05": "7693230052552559904",
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
@@ -135,84 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7693277872307359009",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7693277872307359009",
-      "detected_at": "2026-10-05T20:07:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 52764,
-        "likes": 3342,
-        "comments": 40,
-        "shares": 98
-      }
-    },
-    {
-      "handle": "wordpress070",
-      "video_id": "7693277296433614113",
-      "url": "https://www.tiktok.com/@wordpress070/video/7693277296433614113",
-      "detected_at": "2026-10-05T20:05:08+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 33251,
-        "likes": 413,
-        "comments": 50,
-        "shares": 71
-      }
-    },
-    {
-      "handle": "remi4max",
-      "video_id": "7693282845053242657",
-      "url": "https://www.tiktok.com/@remi4max/video/7693282845053242657",
-      "detected_at": "2026-10-05T20:26:41+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5418,
-        "likes": 37,
-        "comments": 1,
-        "shares": 4
-      }
-    },
-    {
       "handle": "kat_info",
       "video_id": "7693309812775357729",
       "url": "https://www.tiktok.com/@kat_info/video/7693309812775357729",
@@ -224,6 +146,32 @@
         },
         {
           "offset_h": 3,
+          "done": true
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5078,
+        "likes": 195,
+        "comments": 27,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "univers_doc",
+      "video_id": "7693360329044102432",
+      "url": "https://www.tiktok.com/@univers_doc/video/7693360329044102432",
+      "detected_at": "2026-10-06T01:28:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
           "done": false
         },
         {
@@ -232,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 1065,
-        "likes": 55,
-        "comments": 3,
-        "shares": 1
+        "views": 8,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
