@@ -84,7 +84,7 @@
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
     "actunews_tv": "7653174359816686880",
-    "actufrance_14": "7693607326707748128",
+    "actufrance_14": "7693941880702127392",
     "actualitgeo": "7626086707489787158",
     "buzzalerte": "7689049144563961121",
     "alarmeinfos": "7660874459221478688",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7693867500722818337",
-      "url": "https://www.tiktok.com/@kat_info/video/7693867500722818337",
-      "detected_at": "2026-10-07T10:15:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4270,
-        "likes": 74,
-        "comments": 32,
-        "shares": 18
-      }
-    },
     {
       "handle": "actu_minute_info",
       "video_id": "7693873036281400609",
@@ -302,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,8 +284,8 @@
         }
       ],
       "last_stats": {
-        "views": 307,
-        "likes": 20,
+        "views": 465,
+        "likes": 24,
         "comments": 3,
         "shares": 11
       }
@@ -328,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -336,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 3379,
-        "likes": 52,
-        "comments": 1,
-        "shares": 6
+        "views": 4700,
+        "likes": 79,
+        "comments": 3,
+        "shares": 18
       }
     },
     {
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 1353,
-        "likes": 36,
+        "views": 2134,
+        "likes": 51,
         "comments": 1,
-        "shares": 1
+        "shares": 2
       }
     },
     {
@@ -506,7 +480,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -518,9 +492,9 @@
         }
       ],
       "last_stats": {
-        "views": 158,
-        "likes": 8,
-        "comments": 0,
+        "views": 1435,
+        "likes": 44,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -532,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -544,10 +518,10 @@
         }
       ],
       "last_stats": {
-        "views": 237,
-        "likes": 46,
+        "views": 4732,
+        "likes": 165,
         "comments": 1,
-        "shares": 0
+        "shares": 2
       }
     },
     {
@@ -555,6 +529,32 @@
       "video_id": "7693930539325099297",
       "url": "https://www.tiktok.com/@alerte.min/video/7693930539325099297",
       "detected_at": "2026-10-07T14:20:04+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 6491,
+        "likes": 52,
+        "comments": 0,
+        "shares": 16
+      }
+    },
+    {
+      "handle": "actufrance_14",
+      "video_id": "7693941880702127392",
+      "url": "https://www.tiktok.com/@actufrance_14/video/7693941880702127392",
+      "detected_at": "2026-10-07T15:04:06+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -570,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 225,
-        "likes": 19,
-        "comments": 0,
-        "shares": 0
+        "views": 1222,
+        "likes": 24,
+        "comments": 2,
+        "shares": 2
       }
     }
   ]
