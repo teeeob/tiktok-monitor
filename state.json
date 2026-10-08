@@ -69,11 +69,11 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7694369107881348384",
-    "kat_info": "7694413605168745760",
+    "kat_info": "7694432617176812832",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7694250347568581921",
     "actu.le.fran843": "7655044164291169568",
-    "france.actu02": "7694368492157504800",
+    "france.actu02": "7693990906940165409",
     "actu.choc1": "7673018569768062240",
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7694381942090845473",
@@ -506,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -518,10 +518,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 11615,
+        "likes": 211,
+        "comments": 38,
+        "shares": 36
       }
     },
     {
@@ -532,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -544,8 +544,8 @@
         }
       ],
       "last_stats": {
-        "views": 32,
-        "likes": 1,
+        "views": 417,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
@@ -572,6 +572,32 @@
       "last_stats": {
         "views": 76,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7694432617176812832",
+      "url": "https://www.tiktok.com/@kat_info/video/7694432617176812832",
+      "detected_at": "2026-10-08T22:48:35+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 130,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
