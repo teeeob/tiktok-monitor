@@ -58,7 +58,7 @@
     "monde_actu2": "7641320494981074208",
     "suziepress": "7675741773410389280",
     "trasssh.tv": "7606597006471073046",
-    "kosactcbndb": "7688797131015982368",
+    "kosactcbndb": "7694341191566970145",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7694207565411962145",
     "actu913": "7693464169907080480",
@@ -135,58 +135,6 @@
   },
   "pending": [
     {
-      "handle": "contrelaguerre",
-      "video_id": "7694262162209983777",
-      "url": "https://www.tiktok.com/@contrelaguerre/video/7694262162209983777",
-      "detected_at": "2026-10-08T11:46:56+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3791,
-        "likes": 187,
-        "comments": 40,
-        "shares": 23
-      }
-    },
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7694261490127260961",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7694261490127260961",
-      "detected_at": "2026-10-08T11:44:20+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4244,
-        "likes": 117,
-        "comments": 3,
-        "shares": 72
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7694287489623756065",
       "url": "https://www.tiktok.com/@zopinfo/video/7694287489623756065",
@@ -224,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 59409,
-        "likes": 3753,
-        "comments": 137,
-        "shares": 1110
+        "views": 95950,
+        "likes": 6527,
+        "comments": 303,
+        "shares": 2064
       }
     },
     {
@@ -402,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 1521,
-        "likes": 100,
-        "comments": 7,
-        "shares": 1
+        "views": 40295,
+        "likes": 2967,
+        "comments": 28,
+        "shares": 105
       }
     },
     {
@@ -546,6 +494,32 @@
       "last_stats": {
         "views": 170,
         "likes": 9,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kosactcbndb",
+      "video_id": "7694341191566970145",
+      "url": "https://www.tiktok.com/@kosactcbndb/video/7694341191566970145",
+      "detected_at": "2026-10-08T16:53:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 58,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
