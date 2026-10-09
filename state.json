@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7691346429910027552",
     "askyp.france": "7686960308279168288",
-    "infofrance.tv": "7693907177601273120",
+    "infofrance.tv": "7694773837174541600",
     "mediaflix": "7693105055666277664",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7694726636691885344",
@@ -35,7 +35,7 @@
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7693901688834460961",
-    "zoomdefrance": "7694400984671391009",
+    "zoomdefrance": "7694774288557165857",
     "dbrif.off": "7693806010854673696",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7694698091173137696",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7694698091173137696",
-      "detected_at": "2026-10-09T15:58:33+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 20918,
-        "likes": 1245,
-        "comments": 20,
-        "shares": 276
-      }
-    },
     {
       "handle": "tiktok.ragot",
       "video_id": "7694702321434955041",
@@ -380,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 10544,
-        "likes": 839,
-        "comments": 32,
-        "shares": 39
+        "views": 17323,
+        "likes": 1316,
+        "comments": 59,
+        "shares": 60
       }
     },
     {
@@ -406,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 67,
-        "likes": 3,
+        "views": 187,
+        "likes": 11,
         "comments": 0,
         "shares": 1
       }
@@ -584,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 470,
-        "likes": 12,
-        "comments": 0,
-        "shares": 1
+        "views": 6398,
+        "likes": 58,
+        "comments": 11,
+        "shares": 4
       }
     },
     {
@@ -636,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -648,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 2361,
-        "likes": 192,
-        "comments": 8,
-        "shares": 4
+        "views": 18082,
+        "likes": 1288,
+        "comments": 44,
+        "shares": 47
       }
     },
     {
@@ -676,6 +650,58 @@
       "last_stats": {
         "views": 19,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7694773837174541600",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7694773837174541600",
+      "detected_at": "2026-10-09T20:52:30+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 181,
+        "likes": 12,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zoomdefrance",
+      "video_id": "7694774288557165857",
+      "url": "https://www.tiktok.com/@zoomdefrance/video/7694774288557165857",
+      "detected_at": "2026-10-09T20:54:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 47,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
