@@ -71,7 +71,7 @@
     "info20fr": "7694369107881348384",
     "kat_info": "7694514503358205217",
     "pandadunet": "7665356751616609568",
-    "actufrance_33": "7694250347568581921",
+    "actufrance_33": "7694556513947471137",
     "actu.le.fran843": "7655044164291169568",
     "france.actu02": "7693990906940165409",
     "actu.choc1": "7673018569768062240",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7694479110831099169",
-      "url": "https://www.tiktok.com/@kat_info/video/7694479110831099169",
-      "detected_at": "2026-10-09T01:49:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3796,
-        "likes": 88,
-        "comments": 8,
-        "shares": 26
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7694484585907752224",
@@ -288,6 +262,32 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance_33",
+      "video_id": "7694556513947471137",
+      "url": "https://www.tiktok.com/@actufrance_33/video/7694556513947471137",
+      "detected_at": "2026-10-09T06:49:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 989,
+        "likes": 42,
+        "comments": 2,
+        "shares": 1
       }
     }
   ]
