@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "newo.telop",
-      "video_id": "7694427369934818592",
-      "url": "https://www.tiktok.com/@newo.telop/video/7694427369934818592",
-      "detected_at": "2026-10-08T22:28:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 175190,
-        "likes": 15121,
-        "comments": 576,
-        "shares": 1620
-      }
-    },
-    {
       "handle": "kat_info",
       "video_id": "7694432617176812832",
       "url": "https://www.tiktok.com/@kat_info/video/7694432617176812832",
@@ -220,7 +194,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -232,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 791,
-        "likes": 45,
-        "comments": 1,
-        "shares": 3
+        "views": 2411,
+        "likes": 102,
+        "comments": 4,
+        "shares": 12
       }
     }
   ]
