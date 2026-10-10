@@ -58,7 +58,7 @@
     "monde_actu2": "7641320494981074208",
     "suziepress": "7675741773410389280",
     "trasssh.tv": "7694380457093303584",
-    "kosactcbndb": "7695050385022520608",
+    "kosactcbndb": "7695094910340320545",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7694948661435944225",
     "actu913": "7693464169907080480",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7694668339494292769",
     "to.suissra": "7654575792071953696",
-    "essiide": "7694938428093386016",
+    "essiide": "7695095561736719648",
     "univers_doc": "7695089025924877600",
     "infos.tv05": "7694077483959799072",
     "actufrance98": "7680998138773130528",
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,8 +258,8 @@
         }
       ],
       "last_stats": {
-        "views": 854,
-        "likes": 7,
+        "views": 1055,
+        "likes": 10,
         "comments": 0,
         "shares": 0
       }
@@ -276,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -284,8 +284,8 @@
         }
       ],
       "last_stats": {
-        "views": 58,
-        "likes": 2,
+        "views": 96,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 124,
-        "likes": 10,
-        "comments": 0,
-        "shares": 0
+        "views": 1101,
+        "likes": 35,
+        "comments": 3,
+        "shares": 3
       }
     },
     {
@@ -454,7 +454,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -466,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 1476,
-        "likes": 109,
-        "comments": 2,
-        "shares": 6
+        "views": 64276,
+        "likes": 4341,
+        "comments": 32,
+        "shares": 62
       }
     },
     {
@@ -522,6 +522,58 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "kosactcbndb",
+      "video_id": "7695094910340320545",
+      "url": "https://www.tiktok.com/@kosactcbndb/video/7695094910340320545",
+      "detected_at": "2026-10-10T17:38:24+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 118,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7695095561736719648",
+      "url": "https://www.tiktok.com/@essiide/video/7695095561736719648",
+      "detected_at": "2026-10-10T17:40:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 93,
+        "likes": 6,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
