@@ -128,7 +128,7 @@
     "alerte.min": "7694221512131349793",
     "actu60seconds": "7694953731170815264",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7694630828743085344",
+    "remi4max": "7694992148327828768",
     "actud5": "7694952188543552800",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,8 +206,8 @@
         }
       ],
       "last_stats": {
-        "views": 270,
-        "likes": 21,
+        "views": 337,
+        "likes": 22,
         "comments": 0,
         "shares": 1
       }
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 19,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 631,
+        "likes": 18,
+        "comments": 1,
+        "shares": 2
       }
     },
     {
@@ -480,6 +480,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 29,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7694992148327828768",
+      "url": "https://www.tiktok.com/@remi4max/video/7694992148327828768",
+      "detected_at": "2026-10-10T10:59:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -492,8 +518,8 @@
         }
       ],
       "last_stats": {
-        "views": 26,
-        "likes": 0,
+        "views": 73,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
