@@ -31,7 +31,7 @@
     "mediaflix": "7693105055666277664",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7694955941896162593",
-    "actu_minute_info": "7693873036281400609",
+    "actu_minute_info": "7694976062190570785",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7693901688834460961",
@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infos.minutes",
-      "video_id": "7694899030836383008",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7694899030836383008",
-      "detected_at": "2026-10-10T04:58:45+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 44280,
-        "likes": 2564,
-        "comments": 280,
-        "shares": 278
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7694904932863921440",
       "url": "https://www.tiktok.com/@zopinfo/video/7694904932863921440",
@@ -198,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,8 +180,8 @@
         }
       ],
       "last_stats": {
-        "views": 943,
-        "likes": 55,
+        "views": 1085,
+        "likes": 59,
         "comments": 2,
         "shares": 2
       }
@@ -402,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 283,
-        "likes": 24,
-        "comments": 2,
-        "shares": 0
+        "views": 1616,
+        "likes": 87,
+        "comments": 3,
+        "shares": 2
       }
     },
     {
@@ -425,6 +399,32 @@
       "video_id": "7694955941896162593",
       "url": "https://www.tiktok.com/@tiktok.ragot/video/7694955941896162593",
       "detected_at": "2026-10-10T08:39:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 30130,
+        "likes": 183,
+        "comments": 29,
+        "shares": 56
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7694976062190570785",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7694976062190570785",
+      "detected_at": "2026-10-10T09:57:15+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -440,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 2003,
-        "likes": 31,
-        "comments": 3,
-        "shares": 7
+        "views": 19,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
