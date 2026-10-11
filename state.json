@@ -50,7 +50,7 @@
     "langlecurieux": "7693979393080806678",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7695003035742915873",
+    "journalfrancetv": "7695330308886924577",
     "ora_418": "7695289789041380641",
     "actufrance36": "7695106075242089760",
     "france24infos": "7695155710367141152",
@@ -128,7 +128,7 @@
     "alerte.min": "7694221512131349793",
     "actu60seconds": "7695315113787559200",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7695072031640931616",
+    "remi4max": "7695330204108999969",
     "actud5": "7695152663977119009",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 65,
-        "likes": 3,
-        "comments": 0,
-        "shares": 1
+        "views": 970,
+        "likes": 20,
+        "comments": 1,
+        "shares": 2
       }
     },
     {
@@ -506,6 +506,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1819,
+        "likes": 43,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7695330308886924577",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7695330308886924577",
+      "detected_at": "2026-10-11T08:52:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -518,9 +544,35 @@
         }
       ],
       "last_stats": {
-        "views": 1654,
-        "likes": 38,
-        "comments": 2,
+        "views": 332,
+        "likes": 13,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7695330204108999969",
+      "url": "https://www.tiktok.com/@remi4max/video/7695330204108999969",
+      "detected_at": "2026-10-11T08:51:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 374,
+        "likes": 9,
+        "comments": 0,
         "shares": 0
       }
     }
