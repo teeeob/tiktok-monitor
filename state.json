@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7695803050786606369",
     "chronoactu": "7695855896072604960",
-    "infos.minutes": "7695877864037698849",
+    "infos.minutes": "7696205013646970144",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7695082999737568545",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7695817742913391905",
+    "contrelaguerre": "7696204617671118112",
     "actubrute_fr": "7688314096592145697",
     "actuone.tv1": "7695817340281212192",
     "actuenbref.tv": "7693600010725838112",
@@ -50,7 +50,7 @@
     "langlecurieux": "7693979393080806678",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7696161444433300769",
+    "journalfrancetv": "7696201825082445088",
     "ora_418": "7695687961676909857",
     "actufrance36": "7695847649995492641",
     "france24infos": "7695835265096486176",
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 102,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
+        "views": 1186,
+        "likes": 23,
+        "comments": 1,
+        "shares": 1
       }
     },
     {
@@ -402,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 72,
-        "likes": 3,
+        "views": 547,
+        "likes": 16,
         "comments": 0,
-        "shares": 0
+        "shares": 2
       }
     },
     {
@@ -496,6 +496,84 @@
         "likes": 9,
         "comments": 2,
         "shares": 1
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7696205013646970144",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7696205013646970144",
+      "detected_at": "2026-10-13T17:26:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 541,
+        "likes": 27,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7696204617671118112",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7696204617671118112",
+      "detected_at": "2026-10-13T17:24:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 108,
+        "likes": 5,
+        "comments": 1,
+        "shares": 5
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7696201825082445088",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7696201825082445088",
+      "detected_at": "2026-10-13T17:13:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 466,
+        "likes": 16,
+        "comments": 2,
+        "shares": 0
       }
     }
   ]
