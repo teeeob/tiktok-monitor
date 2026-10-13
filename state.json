@@ -5,7 +5,7 @@
     "lejournal.actu": "7695803050786606369",
     "chronoactu": "7696221705290747169",
     "infos.minutes": "7696235072738938144",
-    "alarmeactu": "7695956366476774689",
+    "alarmeactu": "7696256610561199393",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
     "en.savoir.plus.fr": "7492076316179729687",
@@ -103,7 +103,7 @@
     "unmomentactu": "7696189671008668961",
     "franceecho": "7696222406519672097",
     "franceavifactu": "7655787451516079392",
-    "adrenatv.france": "7694935915537485089",
+    "adrenatv.france": "7696257176368647456",
     "wordpress070": "7693158639011499296",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
@@ -128,7 +128,7 @@
     "alerte.min": "7695802644803161376",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7696155328253136161",
+    "remi4max": "7696253798926404897",
     "actud5": "7696063380586515745",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -584,7 +584,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,8 +596,8 @@
         }
       ],
       "last_stats": {
-        "views": 6,
-        "likes": 1,
+        "views": 176,
+        "likes": 10,
         "comments": 0,
         "shares": 0
       }
@@ -624,6 +624,84 @@
       "last_stats": {
         "views": 21,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "alarmeactu",
+      "video_id": "7696256610561199393",
+      "url": "https://www.tiktok.com/@alarmeactu/video/7696256610561199393",
+      "detected_at": "2026-10-13T20:46:25+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 80,
+        "likes": 5,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "adrenatv.france",
+      "video_id": "7696257176368647456",
+      "url": "https://www.tiktok.com/@adrenatv.france/video/7696257176368647456",
+      "detected_at": "2026-10-13T20:48:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 131,
+        "likes": 13,
+        "comments": 5,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7696253798926404897",
+      "url": "https://www.tiktok.com/@remi4max/video/7696253798926404897",
+      "detected_at": "2026-10-13T20:35:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 272,
+        "likes": 9,
         "comments": 0,
         "shares": 0
       }
