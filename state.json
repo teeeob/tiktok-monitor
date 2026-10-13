@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7695813555769085216",
-    "kat_info": "7695899091888327968",
+    "kat_info": "7695969955589688608",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7695917804549115168",
     "actu.le.fran843": "7655044164291169568",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "francedecouvertes",
-      "video_id": "7695893176703356193",
-      "url": "https://www.tiktok.com/@francedecouvertes/video/7695893176703356193",
-      "detected_at": "2026-10-12T21:16:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5052,
-        "likes": 47,
-        "comments": 3,
-        "shares": 22
-      }
-    },
     {
       "handle": "kat_info",
       "video_id": "7695899091888327968",
@@ -350,6 +324,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2211,
+        "likes": 78,
+        "comments": 1,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7695969955589688608",
+      "url": "https://www.tiktok.com/@kat_info/video/7695969955589688608",
+      "detected_at": "2026-10-13T02:14:52+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -362,8 +362,8 @@
         }
       ],
       "last_stats": {
-        "views": 51,
-        "likes": 5,
+        "views": 11,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
