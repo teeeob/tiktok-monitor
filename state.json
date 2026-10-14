@@ -26,7 +26,7 @@
     "actuchrono60": "7694291863158672673",
     "reclist": "7646688930988920097",
     "actuflashh": "7691346429910027552",
-    "askyp.france": "7696467631137705248",
+    "askyp.france": "7696475123653545249",
     "infofrance.tv": "7695434422258109728",
     "mediaflix": "7695030931962252577",
     "actu_brut.fr": "7678679027103599905",
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 346,
+        "likes": 13,
+        "comments": 1,
+        "shares": 1
       }
     },
     {
@@ -494,6 +494,32 @@
       "last_stats": {
         "views": 16,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "askyp.france",
+      "video_id": "7696475123653545249",
+      "url": "https://www.tiktok.com/@askyp.france/video/7696475123653545249",
+      "detected_at": "2026-10-14T10:54:20+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
