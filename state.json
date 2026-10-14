@@ -128,38 +128,12 @@
     "alerte.min": "7695802644803161376",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7696473327921073441",
+    "remi4max": "7696629438540238113",
     "actud5": "7696291220192021792",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "journalsudouest",
-      "video_id": "7696549733409590561",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7696549733409590561",
-      "detected_at": "2026-10-14T15:43:53+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 10669,
-        "likes": 585,
-        "comments": 3,
-        "shares": 82
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7696555146280537376",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 878,
-        "likes": 36,
-        "comments": 9,
-        "shares": 4
+        "views": 1758,
+        "likes": 88,
+        "comments": 13,
+        "shares": 6
       }
     },
     {
@@ -558,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -570,10 +544,10 @@
         }
       ],
       "last_stats": {
-        "views": 1969,
-        "likes": 166,
-        "comments": 10,
-        "shares": 2
+        "views": 35500,
+        "likes": 2008,
+        "comments": 48,
+        "shares": 34
       }
     },
     {
@@ -610,7 +584,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -622,9 +596,9 @@
         }
       ],
       "last_stats": {
-        "views": 81,
-        "likes": 5,
-        "comments": 0,
+        "views": 308,
+        "likes": 15,
+        "comments": 1,
         "shares": 1
       }
     },
@@ -678,6 +652,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7696629438540238113",
+      "url": "https://www.tiktok.com/@remi4max/video/7696629438540238113",
+      "detected_at": "2026-10-14T20:53:10+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 269,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2
       }
     }
   ]
