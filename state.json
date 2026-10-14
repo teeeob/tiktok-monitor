@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "essiide",
-      "video_id": "7696577952552586528",
-      "url": "https://www.tiktok.com/@essiide/video/7696577952552586528",
-      "detected_at": "2026-10-14T17:33:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1758,
-        "likes": 88,
-        "comments": 13,
-        "shares": 6
-      }
-    },
-    {
       "handle": "infos.minutes",
       "video_id": "7696589819627015456",
       "url": "https://www.tiktok.com/@infos.minutes/video/7696589819627015456",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 35500,
-        "likes": 2008,
-        "comments": 48,
-        "shares": 34
+        "views": 96666,
+        "likes": 4577,
+        "comments": 83,
+        "shares": 136
       }
     },
     {
@@ -406,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 308,
-        "likes": 15,
+        "views": 329,
+        "likes": 16,
         "comments": 1,
         "shares": 1
       }
