@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7691346429910027552",
     "askyp.france": "7696475123653545249",
-    "infofrance.tv": "7696959461994335521",
+    "infofrance.tv": "7697029422196509985",
     "mediaflix": "7696492888657513760",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7696864541040315680",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "infos.minutes",
-      "video_id": "7696954030987218209",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7696954030987218209",
-      "detected_at": "2026-10-15T17:52:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 22111,
-        "likes": 2156,
-        "comments": 69,
-        "shares": 62
-      }
-    },
     {
       "handle": "infofrance.tv",
       "video_id": "7696959461994335521",
@@ -610,6 +584,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 741,
+        "likes": 28,
+        "comments": 3,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7697029422196509985",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7697029422196509985",
+      "detected_at": "2026-10-15T22:45:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -622,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 6,
-        "likes": 3,
+        "views": 140,
+        "likes": 8,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     }
   ]
