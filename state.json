@@ -128,7 +128,7 @@
     "alerte.min": "7695802644803161376",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7696629438540238113",
+    "remi4max": "7696778533439393057",
     "actud5": "7696291220192021792",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -146,7 +146,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -154,10 +154,10 @@
         }
       ],
       "last_stats": {
-        "views": 517,
-        "likes": 11,
-        "comments": 0,
-        "shares": 1
+        "views": 1571,
+        "likes": 30,
+        "comments": 2,
+        "shares": 5
       }
     },
     {
@@ -172,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -180,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 406,
-        "likes": 13,
+        "views": 1156,
+        "likes": 21,
         "comments": 2,
-        "shares": 1
+        "shares": 6
       }
     },
     {
@@ -246,7 +246,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 893,
-        "likes": 37,
-        "comments": 3,
-        "shares": 17
+        "views": 15158,
+        "likes": 457,
+        "comments": 16,
+        "shares": 589
       }
     },
     {
@@ -314,6 +314,32 @@
         "likes": 15,
         "comments": 8,
         "shares": 1
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7696778533439393057",
+      "url": "https://www.tiktok.com/@remi4max/video/7696778533439393057",
+      "detected_at": "2026-10-15T06:31:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
