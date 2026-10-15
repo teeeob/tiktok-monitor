@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "francedecouvertes",
-      "video_id": "7696645807759527200",
-      "url": "https://www.tiktok.com/@francedecouvertes/video/7696645807759527200",
-      "detected_at": "2026-10-14T21:56:43+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 35398,
-        "likes": 823,
-        "comments": 17,
-        "shares": 102
-      }
-    },
-    {
       "handle": "kat_info",
       "video_id": "7696661944996220193",
       "url": "https://www.tiktok.com/@kat_info/video/7696661944996220193",
@@ -198,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,9 +180,9 @@
         }
       ],
       "last_stats": {
-        "views": 314,
-        "likes": 14,
-        "comments": 1,
+        "views": 730,
+        "likes": 31,
+        "comments": 2,
         "shares": 0
       }
     }
