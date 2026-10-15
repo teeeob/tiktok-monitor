@@ -3,7 +3,7 @@
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7696856117980286241",
-    "chronoactu": "7696739843216362784",
+    "chronoactu": "7696921208410983713",
     "infos.minutes": "7696874773946584352",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7696895599777680672",
+    "journalsudouest": "7696921766328798497",
     "zopinfo": "7696913312642092321",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -135,58 +135,6 @@
   },
   "pending": [
     {
-      "handle": "journalsudouest",
-      "video_id": "7696843046717000992",
-      "url": "https://www.tiktok.com/@journalsudouest/video/7696843046717000992",
-      "detected_at": "2026-10-15T10:42:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 58220,
-        "likes": 3926,
-        "comments": 56,
-        "shares": 1140
-      }
-    },
-    {
-      "handle": "actufrance36",
-      "video_id": "7696846915006237984",
-      "url": "https://www.tiktok.com/@actufrance36/video/7696846915006237984",
-      "detected_at": "2026-10-15T10:57:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 279,
-        "likes": 13,
-        "comments": 1,
-        "shares": 1
-      }
-    },
-    {
       "handle": "lejournal.actu",
       "video_id": "7696856117980286241",
       "url": "https://www.tiktok.com/@lejournal.actu/video/7696856117980286241",
@@ -276,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -284,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 9870,
-        "likes": 669,
-        "comments": 61,
-        "shares": 13
+        "views": 23001,
+        "likes": 1399,
+        "comments": 116,
+        "shares": 37
       }
     },
     {
@@ -428,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 1644,
-        "likes": 69,
-        "comments": 5,
-        "shares": 0
+        "views": 40084,
+        "likes": 1249,
+        "comments": 61,
+        "shares": 31
       }
     },
     {
@@ -454,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -466,9 +414,9 @@
         }
       ],
       "last_stats": {
-        "views": 266,
-        "likes": 15,
-        "comments": 0,
+        "views": 1303,
+        "likes": 22,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -496,6 +444,58 @@
         "likes": 12,
         "comments": 1,
         "shares": 2
+      }
+    },
+    {
+      "handle": "chronoactu",
+      "video_id": "7696921208410983713",
+      "url": "https://www.tiktok.com/@chronoactu/video/7696921208410983713",
+      "detected_at": "2026-10-15T15:45:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 99,
+        "likes": 19,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7696921766328798497",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7696921766328798497",
+      "detected_at": "2026-10-15T15:47:32+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1542,
+        "likes": 80,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
