@@ -50,7 +50,7 @@
     "langlecurieux": "7696675044369419542",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7696763794394991905",
+    "journalfrancetv": "7697215237539286304",
     "ora_418": "7697162282299559201",
     "actufrance36": "7697208671595466016",
     "france24infos": "7696965216021646625",
@@ -128,7 +128,7 @@
     "alerte.min": "7697199277507988768",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7697204734209363233",
+    "remi4max": "7697213066399796512",
     "actud5": "7696889622776778016",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 2632,
-        "likes": 54,
-        "comments": 4,
-        "shares": 16
+        "views": 6168,
+        "likes": 91,
+        "comments": 11,
+        "shares": 38
       }
     },
     {
@@ -392,6 +392,58 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7697215237539286304",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7697215237539286304",
+      "detected_at": "2026-10-16T10:46:24+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 345,
+        "likes": 13,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7697213066399796512",
+      "url": "https://www.tiktok.com/@remi4max/video/7697213066399796512",
+      "detected_at": "2026-10-16T10:37:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 318,
+        "likes": 9,
+        "comments": 1,
+        "shares": 3
       }
     }
   ]
