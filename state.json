@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7697164480374951201",
+    "journalsudouest": "7697247538914577696",
     "zopinfo": "7697238153119157536",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7696602751580540192",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7697194803729157409",
+    "contrelaguerre": "7697243289447091489",
     "actubrute_fr": "7688314096592145697",
     "actuone.tv1": "7696905507570814240",
     "actuenbref.tv": "7696944739924315425",
@@ -79,7 +79,7 @@
     "actudivers.fr": "7696959428632874272",
     "to.suissra": "7654575792071953696",
     "essiide": "7697205614455344417",
-    "univers_doc": "7697108045293260065",
+    "univers_doc": "7697246485829717280",
     "infos.tv05": "7696793918322593056",
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
@@ -128,7 +128,7 @@
     "alerte.min": "7697199277507988768",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7697223087657372961",
+    "remi4max": "7697250496855215392",
     "actud5": "7696889622776778016",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 6168,
-        "likes": 91,
-        "comments": 11,
-        "shares": 38
+        "views": 7357,
+        "likes": 106,
+        "comments": 15,
+        "shares": 49
       }
     },
     {
@@ -454,7 +454,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -466,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 763,
-        "likes": 18,
-        "comments": 2,
-        "shares": 0
+        "views": 9589,
+        "likes": 151,
+        "comments": 19,
+        "shares": 17
       }
     },
     {
@@ -496,6 +496,110 @@
         "likes": 14,
         "comments": 0,
         "shares": 2
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7697247538914577696",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7697247538914577696",
+      "detected_at": "2026-10-16T12:51:42+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1333,
+        "likes": 50,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7697243289447091489",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7697243289447091489",
+      "detected_at": "2026-10-16T12:35:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "univers_doc",
+      "video_id": "7697246485829717280",
+      "url": "https://www.tiktok.com/@univers_doc/video/7697246485829717280",
+      "detected_at": "2026-10-16T12:47:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 37,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7697250496855215392",
+      "url": "https://www.tiktok.com/@remi4max/video/7697250496855215392",
+      "detected_at": "2026-10-16T13:03:13+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
