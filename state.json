@@ -60,16 +60,16 @@
     "trasssh.tv": "7696186076033060128",
     "kosactcbndb": "7697321709606685985",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7697177729648643361",
+    "actualfrancetv": "7697548542046457120",
     "actu913": "7693464169907080480",
     "franceendirect1": "7695799146300575008",
     "h.o.b15": "7690985038111853857",
     "info247fr": "7681230734899694880",
-    "breaking3": "7697177279633378592",
+    "breaking3": "7697549430257503520",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7697314940666826016",
-    "kat_info": "7697326820886187297",
+    "kat_info": "7696739488982142241",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7696862644266880289",
     "actu.le.fran843": "7655044164291169568",
@@ -172,7 +172,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -180,10 +180,10 @@
         }
       ],
       "last_stats": {
-        "views": 1569,
-        "likes": 42,
-        "comments": 0,
-        "shares": 6
+        "views": 4701,
+        "likes": 105,
+        "comments": 2,
+        "shares": 52
       }
     },
     {
@@ -236,6 +236,58 @@
         "likes": 25,
         "comments": 7,
         "shares": 12
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7697548542046457120",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7697548542046457120",
+      "detected_at": "2026-10-17T08:19:51+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 138,
+        "likes": 10,
+        "comments": 1,
+        "shares": 8
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7697549430257503520",
+      "url": "https://www.tiktok.com/@breaking3/video/7697549430257503520",
+      "detected_at": "2026-10-17T08:23:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 72,
+        "likes": 6,
+        "comments": 0,
+        "shares": 4
       }
     }
   ]
