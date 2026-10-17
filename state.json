@@ -118,7 +118,7 @@
     "flash.actu.france1": "7680651058720279840",
     "brut_actu": "7692417192469581088",
     "actuuflashh": "7665368680720518432",
-    "francedecouvertes": "7696998595278474529",
+    "francedecouvertes": "7697437789813624097",
     "canalfrance.fr": "7683984176357379360",
     "franceactu24f": "7697341943155625248",
     "flashactu_france": "7696432816791244064",
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 1534,
-        "likes": 26,
+        "views": 1859,
+        "likes": 29,
         "comments": 0,
-        "shares": 6
+        "shares": 8
       }
     },
     {
@@ -262,6 +262,32 @@
         "likes": 19,
         "comments": 4,
         "shares": 3
+      }
+    },
+    {
+      "handle": "francedecouvertes",
+      "video_id": "7697437789813624097",
+      "url": "https://www.tiktok.com/@francedecouvertes/video/7697437789813624097",
+      "detected_at": "2026-10-17T01:10:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 61,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
