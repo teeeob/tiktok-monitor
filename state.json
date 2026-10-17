@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7696856117980286241",
     "chronoactu": "7697465263519812897",
-    "infos.minutes": "7697612298403286305",
+    "infos.minutes": "7697619209467006241",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 2126,
-        "likes": 38,
+        "views": 5881,
+        "likes": 93,
         "comments": 4,
-        "shares": 13
+        "shares": 55
       }
     },
     {
@@ -276,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -284,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 260,
-        "likes": 7,
+        "views": 593,
+        "likes": 9,
         "comments": 0,
-        "shares": 2
+        "shares": 9
       }
     },
     {
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 58071,
-        "likes": 5318,
-        "comments": 28,
-        "shares": 393
+        "views": 131145,
+        "likes": 12974,
+        "comments": 56,
+        "shares": 974
       }
     },
     {
@@ -506,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -518,9 +518,9 @@
         }
       ],
       "last_stats": {
-        "views": 95,
-        "likes": 13,
-        "comments": 3,
+        "views": 565,
+        "likes": 38,
+        "comments": 8,
         "shares": 0
       }
     },
@@ -548,6 +548,32 @@
         "likes": 19,
         "comments": 0,
         "shares": 2
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7697619209467006241",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7697619209467006241",
+      "detected_at": "2026-10-17T12:54:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1043,
+        "likes": 46,
+        "comments": 1,
+        "shares": 13
       }
     }
   ]
