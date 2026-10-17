@@ -52,7 +52,7 @@
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7697328931547909408",
     "ora_418": "7697162282299559201",
-    "actufrance36": "7697497625548868896",
+    "actufrance36": "7697586519258778913",
     "france24infos": "7696965216021646625",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7697580018830003488",
@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7697297706938666273",
+    "acturium": "7697589672431701281",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7695738080170347808",
     "le.journalrapide": "7647185027427536160",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "essiide",
-      "video_id": "7697509140221971745",
-      "url": "https://www.tiktok.com/@essiide/video/7697509140221971745",
-      "detected_at": "2026-10-17T05:47:08+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 18838,
-        "likes": 280,
-        "comments": 23,
-        "shares": 474
-      }
-    },
     {
       "handle": "actualfrancetv",
       "video_id": "7697548542046457120",
@@ -272,7 +246,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -284,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 355,
-        "likes": 16,
-        "comments": 0,
-        "shares": 2
+        "views": 2126,
+        "likes": 38,
+        "comments": 4,
+        "shares": 13
       }
     },
     {
@@ -298,7 +272,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 1,
-        "likes": 1,
+        "views": 260,
+        "likes": 7,
         "comments": 0,
-        "shares": 1
+        "shares": 2
       }
     },
     {
@@ -324,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 31180,
-        "likes": 2474,
-        "comments": 8,
-        "shares": 118
+        "views": 58071,
+        "likes": 5318,
+        "comments": 28,
+        "shares": 393
       }
     },
     {
@@ -391,6 +365,58 @@
         "views": 112,
         "likes": 1,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance36",
+      "video_id": "7697586519258778913",
+      "url": "https://www.tiktok.com/@actufrance36/video/7697586519258778913",
+      "detected_at": "2026-10-17T10:47:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 325,
+        "likes": 22,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7697589672431701281",
+      "url": "https://www.tiktok.com/@acturium/video/7697589672431701281",
+      "detected_at": "2026-10-17T10:59:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 1,
+        "comments": 1,
         "shares": 0
       }
     }
