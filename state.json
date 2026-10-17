@@ -42,7 +42,7 @@
     "lejournal.actu2": "7697340220252998945",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7697623258497060128",
+    "contrelaguerre": "7697654916570991904",
     "actubrute_fr": "7697625816531766561",
     "actuone.tv1": "7697646265739349280",
     "actuenbref.tv": "7696944739924315425",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7697580811519839521",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7697580811519839521",
-      "detected_at": "2026-10-17T10:25:00+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 513,
-        "likes": 22,
-        "comments": 1,
-        "shares": 16
-      }
-    },
-    {
-      "handle": "monde_actu2",
-      "video_id": "7697580018830003488",
-      "url": "https://www.tiktok.com/@monde_actu2/video/7697580018830003488",
-      "detected_at": "2026-10-17T10:21:57+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8333,
-        "likes": 168,
-        "comments": 2,
-        "shares": 56
-      }
-    },
     {
       "handle": "actufrance36",
       "video_id": "7697586519258778913",
@@ -354,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 47954,
-        "likes": 936,
-        "comments": 168,
-        "shares": 706
+        "views": 125341,
+        "likes": 2040,
+        "comments": 420,
+        "shares": 2016
       }
     },
     {
@@ -584,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,10 +544,10 @@
         }
       ],
       "last_stats": {
-        "views": 7237,
-        "likes": 318,
-        "comments": 5,
-        "shares": 66
+        "views": 59430,
+        "likes": 3744,
+        "comments": 49,
+        "shares": 1390
       }
     },
     {
@@ -610,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -622,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 44,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
+        "views": 4981,
+        "likes": 91,
+        "comments": 7,
+        "shares": 9
       }
     },
     {
@@ -730,6 +678,32 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7697654916570991904",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7697654916570991904",
+      "detected_at": "2026-10-17T15:12:33+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 186,
+        "likes": 10,
+        "comments": 2,
+        "shares": 6
       }
     }
   ]
