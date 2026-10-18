@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7697934317300813089",
+    "journalsudouest": "7698038757311728929",
     "zopinfo": "7698023531904486688",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -58,7 +58,7 @@
     "monde_actu2": "7697785423317323040",
     "suziepress": "7675741773410389280",
     "trasssh.tv": "7697643394843020577",
-    "kosactcbndb": "7697995283019451680",
+    "kosactcbndb": "7698043050207055136",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7697919081642609953",
     "actu913": "7693464169907080480",
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,8 +310,8 @@
         }
       ],
       "last_stats": {
-        "views": 439,
-        "likes": 7,
+        "views": 1160,
+        "likes": 14,
         "comments": 0,
         "shares": 0
       }
@@ -354,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 13390,
-        "likes": 114,
-        "comments": 21,
-        "shares": 85
+        "views": 47652,
+        "likes": 445,
+        "comments": 100,
+        "shares": 360
       }
     },
     {
@@ -380,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 1336,
-        "likes": 50,
+        "views": 2324,
+        "likes": 63,
         "comments": 2,
-        "shares": 3
+        "shares": 10
       }
     },
     {
@@ -558,7 +558,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -570,10 +570,10 @@
         }
       ],
       "last_stats": {
-        "views": 87,
-        "likes": 12,
+        "views": 2092,
+        "likes": 88,
         "comments": 1,
-        "shares": 0
+        "shares": 2
       }
     },
     {
@@ -584,7 +584,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,10 +596,10 @@
         }
       ],
       "last_stats": {
-        "views": 1347,
-        "likes": 47,
-        "comments": 5,
-        "shares": 2
+        "views": 44720,
+        "likes": 654,
+        "comments": 41,
+        "shares": 103
       }
     },
     {
@@ -610,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -622,8 +622,8 @@
         }
       ],
       "last_stats": {
-        "views": 53,
-        "likes": 5,
+        "views": 360,
+        "likes": 24,
         "comments": 0,
         "shares": 0
       }
@@ -636,7 +636,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -648,10 +648,10 @@
         }
       ],
       "last_stats": {
-        "views": 222,
-        "likes": 15,
+        "views": 1839,
+        "likes": 36,
         "comments": 1,
-        "shares": 6
+        "shares": 7
       }
     },
     {
@@ -677,6 +677,58 @@
         "views": 193,
         "likes": 23,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7698038757311728929",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7698038757311728929",
+      "detected_at": "2026-10-18T16:02:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5532,
+        "likes": 334,
+        "comments": 10,
+        "shares": 7
+      }
+    },
+    {
+      "handle": "kosactcbndb",
+      "video_id": "7698043050207055136",
+      "url": "https://www.tiktok.com/@kosactcbndb/video/7698043050207055136",
+      "detected_at": "2026-10-18T16:18:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 79,
+        "likes": 1,
+        "comments": 0,
         "shares": 0
       }
     }
