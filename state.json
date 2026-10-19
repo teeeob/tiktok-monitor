@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "ora_418",
-      "video_id": "7698111094308474145",
-      "url": "https://www.tiktok.com/@ora_418/video/7698111094308474145",
-      "detected_at": "2026-10-18T20:42:46+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 664,
-        "likes": 12,
-        "comments": 3,
-        "shares": 0
-      }
-    },
-    {
       "handle": "contrelaguerre",
       "video_id": "7698122206408166689",
       "url": "https://www.tiktok.com/@contrelaguerre/video/7698122206408166689",
@@ -184,32 +158,6 @@
         "likes": 17,
         "comments": 2,
         "shares": 6
-      }
-    },
-    {
-      "handle": "remi4max",
-      "video_id": "7698116163796225313",
-      "url": "https://www.tiktok.com/@remi4max/video/7698116163796225313",
-      "detected_at": "2026-10-18T21:02:27+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 77,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0
       }
     },
     {
@@ -272,7 +220,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -284,8 +232,8 @@
         }
       ],
       "last_stats": {
-        "views": 779,
-        "likes": 17,
+        "views": 1349,
+        "likes": 21,
         "comments": 0,
         "shares": 0
       }
