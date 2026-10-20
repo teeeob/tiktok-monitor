@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "infofrance.tv",
-      "video_id": "7698500572718107937",
-      "url": "https://www.tiktok.com/@infofrance.tv/video/7698500572718107937",
-      "detected_at": "2026-10-19T21:54:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 43124,
-        "likes": 1100,
-        "comments": 19,
-        "shares": 239
-      }
-    },
-    {
       "handle": "univers_doc",
       "video_id": "7698561026614152480",
       "url": "https://www.tiktok.com/@univers_doc/video/7698561026614152480",
@@ -168,7 +142,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -180,7 +154,7 @@
         }
       ],
       "last_stats": {
-        "views": 1,
+        "views": 16,
         "likes": 0,
         "comments": 0,
         "shares": 0
