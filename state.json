@@ -52,7 +52,7 @@
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7698679094245903649",
     "ora_418": "7698618171502136609",
-    "actufrance36": "7698341632818662689",
+    "actufrance36": "7698697594238815521",
     "france24infos": "7698380911015972128",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7697785423317323040",
@@ -71,7 +71,7 @@
     "info20fr": "7698636810729114912",
     "kat_info": "7698673039092895009",
     "pandadunet": "7665356751616609568",
-    "actufrance_33": "7698679664201501984",
+    "actufrance_33": "7698700237489130785",
     "actu.le.fran843": "7655044164291169568",
     "france.actu02": "7698368437717929249",
     "actu.choc1": "7673018569768062240",
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 7376,
-        "likes": 145,
-        "comments": 6,
-        "shares": 27
+        "views": 22364,
+        "likes": 340,
+        "comments": 9,
+        "shares": 102
       }
     },
     {
@@ -626,6 +626,58 @@
         "likes": 4,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance36",
+      "video_id": "7698697594238815521",
+      "url": "https://www.tiktok.com/@actufrance36/video/7698697594238815521",
+      "detected_at": "2026-10-20T10:38:52+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance_33",
+      "video_id": "7698700237489130785",
+      "url": "https://www.tiktok.com/@actufrance_33/video/7698700237489130785",
+      "detected_at": "2026-10-20T10:48:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 625,
+        "likes": 29,
+        "comments": 3,
+        "shares": 1
       }
     }
   ]
