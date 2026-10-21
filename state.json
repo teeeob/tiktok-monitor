@@ -12,7 +12,7 @@
     "loeildumondee": "7622026607238204694",
     "infoactutv7": "7519895167315348738",
     "c.quoi.fr": "7685383682806287648",
-    "actureact.info": "7697694318835928353",
+    "actureact.info": "7699188435738709281",
     "coachdydy4.0_info": "7664532381075901729",
     "coachdydy3.0_infos": "7664526511847771425",
     "dydy_hugo": "7664871333364337952",
@@ -58,7 +58,7 @@
     "monde_actu2": "7697785423317323040",
     "suziepress": "7675741773410389280",
     "trasssh.tv": "7698812174025690401",
-    "kosactcbndb": "7699166246813650209",
+    "kosactcbndb": "7699186072550395169",
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7698664332078435616",
     "actu913": "7693464169907080480",
@@ -134,32 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "franceactu24f",
-      "video_id": "7699110663175621920",
-      "url": "https://www.tiktok.com/@franceactu24f/video/7699110663175621920",
-      "detected_at": "2026-10-21T13:21:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5709,
-        "likes": 219,
-        "comments": 46,
-        "shares": 37
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7699123067594804513",
@@ -250,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 1953,
-        "likes": 34,
+        "views": 3637,
+        "likes": 56,
         "comments": 0,
-        "shares": 3
+        "shares": 9
       }
     },
     {
@@ -276,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -284,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 1785,
-        "likes": 73,
-        "comments": 5,
-        "shares": 2
+        "views": 4605,
+        "likes": 176,
+        "comments": 18,
+        "shares": 11
       }
     },
     {
@@ -532,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -544,10 +518,10 @@
         }
       ],
       "last_stats": {
-        "views": 687,
-        "likes": 22,
-        "comments": 1,
-        "shares": 1
+        "views": 3095,
+        "likes": 54,
+        "comments": 8,
+        "shares": 3
       }
     },
     {
@@ -650,6 +624,58 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actureact.info",
+      "video_id": "7699188435738709281",
+      "url": "https://www.tiktok.com/@actureact.info/video/7699188435738709281",
+      "detected_at": "2026-10-21T18:23:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1580,
+        "likes": 135,
+        "comments": 4,
+        "shares": 7
+      }
+    },
+    {
+      "handle": "kosactcbndb",
+      "video_id": "7699186072550395169",
+      "url": "https://www.tiktok.com/@kosactcbndb/video/7699186072550395169",
+      "detected_at": "2026-10-21T18:14:12+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 224,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
