@@ -50,7 +50,7 @@
     "langlecurieux": "7697300762535202070",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
-    "journalfrancetv": "7699029178988973345",
+    "journalfrancetv": "7699090896679161121",
     "ora_418": "7698618171502136609",
     "actufrance36": "7698896158222978337",
     "france24infos": "7698816670139206944",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7698876110653721888",
     "to.suissra": "7654575792071953696",
-    "essiide": "7698997407903681825",
+    "essiide": "7699091616199363873",
     "univers_doc": "7698946704766291233",
     "infos.tv05": "7698444973238275360",
     "actufrance98": "7680998138773130528",
@@ -250,7 +250,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 6704,
-        "likes": 416,
-        "comments": 8,
-        "shares": 16
+        "views": 10583,
+        "likes": 725,
+        "comments": 26,
+        "shares": 28
       }
     },
     {
@@ -480,6 +480,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1471,
+        "likes": 46,
+        "comments": 1,
+        "shares": 5
+      }
+    },
+    {
+      "handle": "journalfrancetv",
+      "video_id": "7699090896679161121",
+      "url": "https://www.tiktok.com/@journalfrancetv/video/7699090896679161121",
+      "detected_at": "2026-10-21T12:04:53+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -492,10 +518,36 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 1238,
+        "likes": 31,
+        "comments": 2,
+        "shares": 10
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7699091616199363873",
+      "url": "https://www.tiktok.com/@essiide/video/7699091616199363873",
+      "detected_at": "2026-10-21T12:07:41+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 426,
+        "likes": 38,
+        "comments": 2,
+        "shares": 1
       }
     }
   ]
