@@ -19,7 +19,7 @@
     "coachanddjojo": "7664940745706491168",
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
-    "journalsudouest": "7699154296926915873",
+    "journalsudouest": "7699417716305743136",
     "zopinfo": "7699356848343895328",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
@@ -42,7 +42,7 @@
     "lejournal.actu2": "7699204149178600736",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7699145516122180897",
+    "contrelaguerre": "7699421956260498720",
     "actubrute_fr": "7697625816531766561",
     "actuone.tv1": "7699233669529046304",
     "actuenbref.tv": "7698453358662798624",
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,8 +206,8 @@
         }
       ],
       "last_stats": {
-        "views": 601,
-        "likes": 21,
+        "views": 772,
+        "likes": 23,
         "comments": 3,
         "shares": 3
       }
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 2459,
-        "likes": 57,
-        "comments": 5,
-        "shares": 14
+        "views": 8246,
+        "likes": 181,
+        "comments": 8,
+        "shares": 46
       }
     },
     {
@@ -350,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 416,
-        "likes": 31,
-        "comments": 0,
-        "shares": 15
+        "views": 4181,
+        "likes": 125,
+        "comments": 4,
+        "shares": 69
       }
     },
     {
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 99,
-        "likes": 9,
+        "views": 329,
+        "likes": 24,
         "comments": 1,
         "shares": 0
       }
@@ -444,6 +444,58 @@
         "likes": 11,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "journalsudouest",
+      "video_id": "7699417716305743136",
+      "url": "https://www.tiktok.com/@journalsudouest/video/7699417716305743136",
+      "detected_at": "2026-10-22T09:13:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1701,
+        "likes": 95,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7699421956260498720",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7699421956260498720",
+      "detected_at": "2026-10-22T09:29:34+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
