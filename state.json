@@ -5,7 +5,7 @@
     "lejournal.actu": "7698347337529232673",
     "chronoactu": "7698958691709553953",
     "infos.minutes": "7699198891907894561",
-    "alarmeactu": "7695956366476774689",
+    "alarmeactu": "7699269403472334112",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
     "en.savoir.plus.fr": "7492076316179729687",
@@ -432,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 346,
-        "likes": 40,
-        "comments": 6,
-        "shares": 6
+        "views": 2603,
+        "likes": 133,
+        "comments": 31,
+        "shares": 15
       }
     },
     {
@@ -458,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 482,
-        "likes": 27,
-        "comments": 3,
-        "shares": 0
+        "views": 12841,
+        "likes": 255,
+        "comments": 27,
+        "shares": 35
       }
     },
     {
@@ -506,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -518,10 +518,10 @@
         }
       ],
       "last_stats": {
-        "views": 228,
-        "likes": 20,
-        "comments": 1,
-        "shares": 0
+        "views": 401,
+        "likes": 22,
+        "comments": 2,
+        "shares": 1
       }
     },
     {
@@ -529,6 +529,32 @@
       "video_id": "7699258905670536481",
       "url": "https://www.tiktok.com/@zoomdefrance/video/7699258905670536481",
       "detected_at": "2026-10-21T22:57:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 424,
+        "likes": 16,
+        "comments": 1,
+        "shares": 5
+      }
+    },
+    {
+      "handle": "alarmeactu",
+      "video_id": "7699269403472334112",
+      "url": "https://www.tiktok.com/@alarmeactu/video/7699269403472334112",
+      "detected_at": "2026-10-21T23:37:44+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -544,8 +570,8 @@
         }
       ],
       "last_stats": {
-        "views": 36,
-        "likes": 2,
+        "views": 245,
+        "likes": 22,
         "comments": 0,
         "shares": 0
       }
