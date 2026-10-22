@@ -4,7 +4,7 @@
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7699423272684883233",
     "chronoactu": "7699369233716694304",
-    "infos.minutes": "7699587011732114720",
+    "infos.minutes": "7699617328366980384",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
@@ -134,84 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7699540504404315424",
-      "url": "https://www.tiktok.com/@zopinfo/video/7699540504404315424",
-      "detected_at": "2026-10-22T17:09:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6861,
-        "likes": 125,
-        "comments": 4,
-        "shares": 56
-      }
-    },
-    {
-      "handle": "actuone.tv1",
-      "video_id": "7699539677577088288",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7699539677577088288",
-      "detected_at": "2026-10-22T17:06:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 24490,
-        "likes": 939,
-        "comments": 24,
-        "shares": 45
-      }
-    },
-    {
-      "handle": "info20fr",
-      "video_id": "7699540934177951009",
-      "url": "https://www.tiktok.com/@info20fr/video/7699540934177951009",
-      "detected_at": "2026-10-22T17:11:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 596,
-        "likes": 48,
-        "comments": 3,
-        "shares": 4
-      }
-    },
     {
       "handle": "infos.minutes",
       "video_id": "7699551389688548640",
@@ -484,7 +406,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,8 +414,8 @@
         }
       ],
       "last_stats": {
-        "views": 98,
-        "likes": 5,
+        "views": 172,
+        "likes": 9,
         "comments": 0,
         "shares": 2
       }
@@ -510,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -518,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 387,
-        "likes": 8,
+        "views": 641,
+        "likes": 16,
         "comments": 0,
-        "shares": 1
+        "shares": 2
       }
     },
     {
@@ -536,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -544,8 +466,8 @@
         }
       ],
       "last_stats": {
-        "views": 422,
-        "likes": 12,
+        "views": 590,
+        "likes": 14,
         "comments": 1,
         "shares": 0
       }
@@ -704,6 +626,32 @@
         "likes": 22,
         "comments": 4,
         "shares": 6
+      }
+    },
+    {
+      "handle": "infos.minutes",
+      "video_id": "7699617328366980384",
+      "url": "https://www.tiktok.com/@infos.minutes/video/7699617328366980384",
+      "detected_at": "2026-10-22T22:07:44+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2217,
+        "likes": 110,
+        "comments": 4,
+        "shares": 1
       }
     }
   ]
