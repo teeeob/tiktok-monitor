@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7699417716305743136",
-    "zopinfo": "7699356848343895328",
+    "zopinfo": "7699477137174039841",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7653616818912873761",
     "actuchrono60": "7698847755468311840",
@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7628945207240772896",
     "info20fr": "7699394481732209953",
-    "kat_info": "7699331998308994336",
+    "kat_info": "7699482650746178849",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7699170014946970912",
     "actu.le.fran843": "7655044164291169568",
@@ -108,7 +108,7 @@
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
     "breakingactufr": "7661674082575846688",
-    "actu_france24": "7697696274409196833",
+    "actu_france24": "7699478278964350241",
     "newinfosfrance": "7663820924143127841",
     "verifaffaires": "7683207652872080673",
     "flash.actu.france": "7673939811475983648",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "actualfrancetv",
-      "video_id": "7699402512767388960",
-      "url": "https://www.tiktok.com/@actualfrancetv/video/7699402512767388960",
-      "detected_at": "2026-10-22T08:14:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9199,
-        "likes": 305,
-        "comments": 7,
-        "shares": 172
-      }
-    },
-    {
-      "handle": "breaking3",
-      "video_id": "7699403774590340385",
-      "url": "https://www.tiktok.com/@breaking3/video/7699403774590340385",
-      "detected_at": "2026-10-22T08:19:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 721,
-        "likes": 40,
-        "comments": 1,
-        "shares": 5
-      }
-    },
     {
       "handle": "adrenatv.france",
       "video_id": "7699402221632441633",
@@ -418,6 +366,84 @@
         "likes": 4,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7699477137174039841",
+      "url": "https://www.tiktok.com/@zopinfo/video/7699477137174039841",
+      "detected_at": "2026-10-22T13:03:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 632,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7699482650746178849",
+      "url": "https://www.tiktok.com/@kat_info/video/7699482650746178849",
+      "detected_at": "2026-10-22T13:25:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 86,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_france24",
+      "video_id": "7699478278964350241",
+      "url": "https://www.tiktok.com/@actu_france24/video/7699478278964350241",
+      "detected_at": "2026-10-22T13:08:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 636,
+        "likes": 27,
+        "comments": 0,
+        "shares": 3
       }
     }
   ]
