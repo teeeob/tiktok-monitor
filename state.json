@@ -103,7 +103,7 @@
     "unmomentactu": "7699203553709133088",
     "franceecho": "7699576756616891680",
     "franceavifactu": "7655787451516079392",
-    "adrenatv.france": "7699714958778469664",
+    "adrenatv.france": "7699739272252853537",
     "wordpress070": "7693158639011499296",
     "fut_chronicles": "7668007024503901472",
     "revelateur.france": "7668645835105733920",
@@ -194,6 +194,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 831,
+        "likes": 26,
+        "comments": 3,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "adrenatv.france",
+      "video_id": "7699739272252853537",
+      "url": "https://www.tiktok.com/@adrenatv.france/video/7699739272252853537",
+      "detected_at": "2026-10-23T06:29:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -206,8 +232,8 @@
         }
       ],
       "last_stats": {
-        "views": 93,
-        "likes": 8,
+        "views": 9,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
