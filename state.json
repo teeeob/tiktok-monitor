@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "adrenatv.france",
-      "video_id": "7699714958778469664",
-      "url": "https://www.tiktok.com/@adrenatv.france/video/7699714958778469664",
-      "detected_at": "2026-10-23T04:54:50+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3031,
-        "likes": 39,
-        "comments": 2,
-        "shares": 3
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7699729800885243168",
       "url": "https://www.tiktok.com/@zopinfo/video/7699729800885243168",
@@ -224,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 18307,
-        "likes": 389,
-        "comments": 9,
-        "shares": 298
+        "views": 46985,
+        "likes": 1328,
+        "comments": 24,
+        "shares": 969
       }
     },
     {
@@ -250,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,9 +232,9 @@
         }
       ],
       "last_stats": {
-        "views": 512,
-        "likes": 14,
-        "comments": 2,
+        "views": 987,
+        "likes": 19,
+        "comments": 5,
         "shares": 0
       }
     },
@@ -350,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,9 +336,9 @@
         }
       ],
       "last_stats": {
-        "views": 52,
-        "likes": 2,
-        "comments": 0,
+        "views": 530,
+        "likes": 15,
+        "comments": 1,
         "shares": 0
       }
     },
