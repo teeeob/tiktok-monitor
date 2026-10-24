@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7699847684789783840",
     "to.suissra": "7654575792071953696",
-    "essiide": "7699957369870044448",
+    "essiide": "7700159166698065184",
     "univers_doc": "7700097301418724640",
     "infos.tv05": "7699904199970082081",
     "actufrance98": "7680998138773130528",
@@ -128,38 +128,12 @@
     "alerte.min": "7699986291215191328",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7700143576075783457",
+    "remi4max": "7700157841604087072",
     "actud5": "7699555719640616224",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7700082054381276449",
-      "url": "https://www.tiktok.com/@kat_info/video/7700082054381276449",
-      "detected_at": "2026-10-24T04:11:47+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5886,
-        "likes": 23,
-        "comments": 0,
-        "shares": 1
-      }
-    },
     {
       "handle": "univers_doc",
       "video_id": "7700097301418724640",
@@ -272,7 +246,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -284,10 +258,10 @@
         }
       ],
       "last_stats": {
-        "views": 1004,
-        "likes": 10,
-        "comments": 5,
-        "shares": 6
+        "views": 1870,
+        "likes": 26,
+        "comments": 10,
+        "shares": 11
       }
     },
     {
@@ -298,7 +272,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 333,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
+        "views": 2645,
+        "likes": 18,
+        "comments": 2,
+        "shares": 1
       }
     },
     {
@@ -324,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 444,
-        "likes": 22,
+        "views": 1470,
+        "likes": 39,
         "comments": 1,
-        "shares": 5
+        "shares": 11
       }
     },
     {
@@ -376,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -416,6 +390,58 @@
       "last_stats": {
         "views": 73,
         "likes": 5,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7700159166698065184",
+      "url": "https://www.tiktok.com/@essiide/video/7700159166698065184",
+      "detected_at": "2026-10-24T09:10:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 22,
+        "likes": 4,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7700157841604087072",
+      "url": "https://www.tiktok.com/@remi4max/video/7700157841604087072",
+      "detected_at": "2026-10-24T09:05:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 173,
+        "likes": 12,
         "comments": 0,
         "shares": 0
       }
