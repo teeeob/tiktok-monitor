@@ -31,7 +31,7 @@
     "mediaflix": "7699848560140913952",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7699987162648956192",
-    "actu_minute_info": "7698691306515713313",
+    "actu_minute_info": "7700153945120886048",
     "actufranceplus": "7675734936652975393",
     "actu_tv": "7627243916009409794",
     "neuf.officiel": "7693901688834460961",
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 1036,
-        "likes": 32,
-        "comments": 2,
-        "shares": 22
+        "views": 6606,
+        "likes": 139,
+        "comments": 3,
+        "shares": 239
       }
     },
     {
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 7109,
-        "likes": 45,
-        "comments": 2,
-        "shares": 14
+        "views": 20397,
+        "likes": 148,
+        "comments": 13,
+        "shares": 35
       }
     },
     {
@@ -390,6 +390,32 @@
       "last_stats": {
         "views": 370,
         "likes": 9,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu_minute_info",
+      "video_id": "7700153945120886048",
+      "url": "https://www.tiktok.com/@actu_minute_info/video/7700153945120886048",
+      "detected_at": "2026-10-24T08:50:04+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 73,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
