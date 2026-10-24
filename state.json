@@ -62,7 +62,7 @@
     "askyp.fr": "7651886903687531809",
     "actualfrancetv": "7700225994979953952",
     "actu913": "7693464169907080480",
-    "franceendirect1": "7695799146300575008",
+    "franceendirect1": "7700287140776676641",
     "h.o.b15": "7690985038111853857",
     "info247fr": "7681230734899694880",
     "breaking3": "7700226654349659424",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7699847684789783840",
     "to.suissra": "7654575792071953696",
-    "essiide": "7700222642200022304",
+    "essiide": "7700283624020610337",
     "univers_doc": "7700097301418724640",
     "infos.tv05": "7699904199970082081",
     "actufrance98": "7680998138773130528",
@@ -118,7 +118,7 @@
     "flash.actu.france1": "7680651058720279840",
     "brut_actu": "7692417192469581088",
     "actuuflashh": "7665368680720518432",
-    "francedecouvertes": "7700003725204655392",
+    "francedecouvertes": "7700284138909207840",
     "canalfrance.fr": "7683984176357379360",
     "franceactu24f": "7699886602725772577",
     "flashactu_france": "7698728649050115361",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "actualitetiktok61",
-      "video_id": "7700204956644592929",
-      "url": "https://www.tiktok.com/@actualitetiktok61/video/7700204956644592929",
-      "detected_at": "2026-10-24T12:08:01+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 13671,
-        "likes": 110,
-        "comments": 11,
-        "shares": 42
-      }
-    },
-    {
-      "handle": "contrelaguerre",
-      "video_id": "7700204253868018976",
-      "url": "https://www.tiktok.com/@contrelaguerre/video/7700204253868018976",
-      "detected_at": "2026-10-24T12:05:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 582,
-        "likes": 13,
-        "comments": 3,
-        "shares": 6
-      }
-    },
     {
       "handle": "journalsudouest",
       "video_id": "7700220748253629728",
@@ -406,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 11570,
-        "likes": 767,
-        "comments": 18,
-        "shares": 34
+        "views": 18545,
+        "likes": 1261,
+        "comments": 23,
+        "shares": 56
       }
     },
     {
@@ -714,7 +662,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -726,10 +674,10 @@
         }
       ],
       "last_stats": {
-        "views": 1850,
-        "likes": 109,
-        "comments": 2,
-        "shares": 5
+        "views": 17591,
+        "likes": 1044,
+        "comments": 29,
+        "shares": 120
       }
     },
     {
@@ -860,6 +808,84 @@
         "likes": 8,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "franceendirect1",
+      "video_id": "7700287140776676641",
+      "url": "https://www.tiktok.com/@franceendirect1/video/7700287140776676641",
+      "detected_at": "2026-10-24T17:26:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 19,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7700283624020610337",
+      "url": "https://www.tiktok.com/@essiide/video/7700283624020610337",
+      "detected_at": "2026-10-24T17:13:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 353,
+        "likes": 12,
+        "comments": 2,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "francedecouvertes",
+      "video_id": "7700284138909207840",
+      "url": "https://www.tiktok.com/@francedecouvertes/video/7700284138909207840",
+      "detected_at": "2026-10-24T17:15:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 261,
+        "likes": 8,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
