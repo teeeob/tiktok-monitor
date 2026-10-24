@@ -2,7 +2,7 @@
   "last_video": {
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
-    "lejournal.actu": "7699423272684883233",
+    "lejournal.actu": "7700311168572722464",
     "chronoactu": "7700276214937718048",
     "infos.minutes": "7700279385097588001",
     "alarmeactu": "7695956366476774689",
@@ -688,7 +688,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -700,8 +700,8 @@
         }
       ],
       "last_stats": {
-        "views": 319,
-        "likes": 7,
+        "views": 642,
+        "likes": 9,
         "comments": 0,
         "shares": 1
       }
@@ -714,7 +714,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -726,10 +726,10 @@
         }
       ],
       "last_stats": {
-        "views": 426,
-        "likes": 17,
-        "comments": 0,
-        "shares": 1
+        "views": 5690,
+        "likes": 65,
+        "comments": 3,
+        "shares": 5
       }
     },
     {
@@ -834,6 +834,32 @@
         "likes": 10,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu",
+      "video_id": "7700311168572722464",
+      "url": "https://www.tiktok.com/@lejournal.actu/video/7700311168572722464",
+      "detected_at": "2026-10-24T19:00:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 539,
+        "likes": 29,
+        "comments": 1,
+        "shares": 1
       }
     }
   ]
