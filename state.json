@@ -51,7 +51,7 @@
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7700324055894723872",
-    "ora_418": "7698618171502136609",
+    "ora_418": "7700497918540680480",
     "actufrance36": "7700310394971245856",
     "france24infos": "7700243589288267040",
     "actusmad": "7614152772648176898",
@@ -198,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -206,10 +206,10 @@
         }
       ],
       "last_stats": {
-        "views": 532,
-        "likes": 8,
+        "views": 1467,
+        "likes": 20,
         "comments": 1,
-        "shares": 1
+        "shares": 6
       }
     },
     {
@@ -272,6 +272,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 590,
+        "likes": 12,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "ora_418",
+      "video_id": "7700497918540680480",
+      "url": "https://www.tiktok.com/@ora_418/video/7700497918540680480",
+      "detected_at": "2026-10-25T07:04:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -284,9 +310,9 @@
         }
       ],
       "last_stats": {
-        "views": 149,
+        "views": 98,
         "likes": 2,
-        "comments": 1,
+        "comments": 0,
         "shares": 0
       }
     }
