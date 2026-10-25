@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7699474980202941729",
+    "acturium": "7700537135761296673",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7695738080170347808",
     "le.journalrapide": "7647185027427536160",
@@ -134,58 +134,6 @@
     "hostileactu": "7685072274961059104"
   },
   "pending": [
-    {
-      "handle": "chronoactu",
-      "video_id": "7700460762304613665",
-      "url": "https://www.tiktok.com/@chronoactu/video/7700460762304613665",
-      "detected_at": "2026-10-25T04:41:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 25829,
-        "likes": 803,
-        "comments": 28,
-        "shares": 260
-      }
-    },
-    {
-      "handle": "zopinfo",
-      "video_id": "7700463179444309280",
-      "url": "https://www.tiktok.com/@zopinfo/video/7700463179444309280",
-      "detected_at": "2026-10-25T04:50:28+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7112,
-        "likes": 102,
-        "comments": 2,
-        "shares": 35
-      }
-    },
     {
       "handle": "essiide",
       "video_id": "7700484448176901408",
@@ -324,7 +272,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,10 +284,10 @@
         }
       ],
       "last_stats": {
-        "views": 49,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
+        "views": 9850,
+        "likes": 386,
+        "comments": 10,
+        "shares": 12
       }
     },
     {
@@ -350,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 631,
-        "likes": 17,
-        "comments": 1,
-        "shares": 1
+        "views": 2906,
+        "likes": 69,
+        "comments": 4,
+        "shares": 34
       }
     },
     {
@@ -376,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 329,
-        "likes": 29,
-        "comments": 2,
-        "shares": 0
+        "views": 609,
+        "likes": 36,
+        "comments": 4,
+        "shares": 1
       }
     },
     {
@@ -428,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 221,
-        "likes": 9,
+        "views": 346,
+        "likes": 11,
         "comments": 1,
-        "shares": 0
+        "shares": 2
       }
     },
     {
@@ -468,6 +416,32 @@
       "last_stats": {
         "views": 77,
         "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7700537135761296673",
+      "url": "https://www.tiktok.com/@acturium/video/7700537135761296673",
+      "detected_at": "2026-10-25T09:37:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 547,
+        "likes": 26,
         "comments": 0,
         "shares": 0
       }
