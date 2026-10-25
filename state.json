@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "mediaflix",
-      "video_id": "7700344326383029537",
-      "url": "https://www.tiktok.com/@mediaflix/video/7700344326383029537",
-      "detected_at": "2026-10-24T21:08:50+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2849,
-        "likes": 77,
-        "comments": 4,
-        "shares": 25
-      }
-    },
-    {
       "handle": "contrelaguerre",
       "video_id": "7700368050461101344",
       "url": "https://www.tiktok.com/@contrelaguerre/video/7700368050461101344",
@@ -224,7 +198,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,8 +206,8 @@
         }
       ],
       "last_stats": {
-        "views": 557,
-        "likes": 24,
+        "views": 643,
+        "likes": 25,
         "comments": 1,
         "shares": 3
       }
