@@ -135,58 +135,6 @@
   },
   "pending": [
     {
-      "handle": "chronoactu",
-      "video_id": "7700680978271849761",
-      "url": "https://www.tiktok.com/@chronoactu/video/7700680978271849761",
-      "detected_at": "2026-10-25T18:55:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 36077,
-        "likes": 1078,
-        "comments": 140,
-        "shares": 209
-      }
-    },
-    {
-      "handle": "infos.minutes",
-      "video_id": "7700679305717730592",
-      "url": "https://www.tiktok.com/@infos.minutes/video/7700679305717730592",
-      "detected_at": "2026-10-25T18:48:42+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 71432,
-        "likes": 5074,
-        "comments": 183,
-        "shares": 488
-      }
-    },
-    {
       "handle": "tiktok.ragot",
       "video_id": "7700684941918473505",
       "url": "https://www.tiktok.com/@tiktok.ragot/video/7700684941918473505",
@@ -402,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 68,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 569,
+        "likes": 20,
+        "comments": 3,
+        "shares": 1
       }
     },
     {
