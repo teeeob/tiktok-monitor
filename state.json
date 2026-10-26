@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7691346429910027552",
     "askyp.france": "7686280016946105632",
-    "infofrance.tv": "7700590377161493792",
+    "infofrance.tv": "7700935851445931296",
     "mediaflix": "7700708412790672672",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7700684941918473505",
@@ -47,12 +47,12 @@
     "actuone.tv1": "7700636919830564128",
     "actuenbref.tv": "7700224327827868961",
     "actuexpressfr0": "7696897356272258337",
-    "langlecurieux": "7697300762535202070",
+    "langlecurieux": "7700933888184536342",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7700570825371569440",
     "ora_418": "7700923276419222816",
-    "actufrance36": "7700654123582033185",
+    "actufrance36": "7700935384519216417",
     "france24infos": "7700631366580358432",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7697785423317323040",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7700676689432497440",
     "to.suissra": "7654575792071953696",
-    "essiide": "7700854176246549793",
+    "essiide": "7700940146530585888",
     "univers_doc": "7700809792062770465",
     "infos.tv05": "7700586439901318432",
     "actufrance98": "7680998138773130528",
@@ -133,35 +133,41 @@
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
     "actuexpress01": "7695748417334578465",
-    "actufollee": "7696370821169712417"
+    "actufollee": "7696370821169712417",
+    "dernierenouvelle": "7693870258687380768",
+    "actuoff_fr": "7695355452019789088",
+    "vincent_tv2": "7699899978415623456",
+    "neratepaslinfo": "7700939119677033760",
+    "cinemama.fr": "7700599096414866721",
+    "actufrance14": "7692046706434772256",
+    "lejournal_fr": "7692744048167226657",
+    "francedirectinfo": "7669107057638919457",
+    "brut.story": "7644226401763134752",
+    "lequotidien.actu": "7700113608079904032",
+    "le_nectarium": "7699562821993925921",
+    "onparlecine98": "7680998138773130528",
+    "monsieur_salem": "7691794057604959521",
+    "instantpeople": "7693489213056011553",
+    "infoexpress35": "7700591576728325408",
+    "minutepeople.fr": "7700684632915741985",
+    "lemondeact": "7697334249367653664",
+    "actuplus_info": "7698036383583046944",
+    "leradar.fr33": "7700667816457882913",
+    "lepointactuu": "7699601839917927712",
+    "logikinfo": "7696790052050881814",
+    "faits.divers.fr5": "7700629601151634721",
+    "qur__6yy": "7700891671105391905",
+    "info.direct44": "7700635793949199649",
+    "hgdjvnfei18": "7700522074669878561",
+    "fil_bleu_actu.fr": "7700141135464811809",
+    "flash_actu24": "7699413304027974944",
+    "laffaire_france": "7700895122782817568",
+    "askyp.fr_": "7698096971692707104",
+    "ella.nadadora": "7698066171408452897",
+    "oeil2.fr": "7700257288120225057",
+    "flashactufr1": "7700417784475356438"
   },
   "pending": [
-    {
-      "handle": "essiide",
-      "video_id": "7700854176246549793",
-      "url": "https://www.tiktok.com/@essiide/video/7700854176246549793",
-      "detected_at": "2026-10-26T06:07:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3453,
-        "likes": 75,
-        "comments": 3,
-        "shares": 9
-      }
-    },
     {
       "handle": "alerte.min",
       "video_id": "7700875218880908576",
@@ -274,6 +280,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 133,
+        "likes": 9,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7700935851445931296",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7700935851445931296",
+      "detected_at": "2026-10-26T11:24:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -286,8 +318,86 @@
         }
       ],
       "last_stats": {
-        "views": 97,
-        "likes": 3,
+        "views": 2004,
+        "likes": 50,
+        "comments": 2,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "langlecurieux",
+      "video_id": "7700933888184536342",
+      "url": "https://www.tiktok.com/@langlecurieux/video/7700933888184536342",
+      "detected_at": "2026-10-26T11:17:49+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1646,
+        "likes": 59,
+        "comments": 2,
+        "shares": 14
+      }
+    },
+    {
+      "handle": "actufrance36",
+      "video_id": "7700935384519216417",
+      "url": "https://www.tiktok.com/@actufrance36/video/7700935384519216417",
+      "detected_at": "2026-10-26T11:22:27+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 178,
+        "likes": 9,
+        "comments": 2,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7700940146530585888",
+      "url": "https://www.tiktok.com/@essiide/video/7700940146530585888",
+      "detected_at": "2026-10-26T11:40:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 484,
+        "likes": 17,
         "comments": 1,
         "shares": 0
       }
