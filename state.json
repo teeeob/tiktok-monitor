@@ -135,32 +135,6 @@
   },
   "pending": [
     {
-      "handle": "info20fr",
-      "video_id": "7700701431350709536",
-      "url": "https://www.tiktok.com/@info20fr/video/7700701431350709536",
-      "detected_at": "2026-10-25T20:14:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 232,
-        "likes": 7,
-        "comments": 0,
-        "shares": 1
-      }
-    },
-    {
       "handle": "mediaflix",
       "video_id": "7700708412790672672",
       "url": "https://www.tiktok.com/@mediaflix/video/7700708412790672672",
@@ -250,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -258,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 9782,
-        "likes": 102,
-        "comments": 8,
-        "shares": 59
+        "views": 34322,
+        "likes": 371,
+        "comments": 11,
+        "shares": 194
       }
     },
     {
@@ -350,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 6408,
-        "likes": 581,
-        "comments": 53,
-        "shares": 32
+        "views": 62797,
+        "likes": 6679,
+        "comments": 300,
+        "shares": 367
       }
     }
   ]
