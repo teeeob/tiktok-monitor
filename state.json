@@ -152,7 +152,7 @@
     "minutepeople.fr": "7701364515698429217",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7698036383583046944",
-    "leradar.fr33": "7701313676350852384",
+    "leradar.fr33": "7701653152449301793",
     "lepointactuu": "7701031030991441184",
     "logikinfo": "7696790052050881814",
     "faits.divers.fr5": "7701289009313500448",
@@ -170,32 +170,6 @@
     "adnrfr": "7701339919393803553"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7701578073963007264",
-      "url": "https://www.tiktok.com/@zopinfo/video/7701578073963007264",
-      "detected_at": "2026-10-28T04:56:30+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3892,
-        "likes": 56,
-        "comments": 2,
-        "shares": 18
-      }
-    },
     {
       "handle": "remi4max",
       "video_id": "7701611851968220449",
@@ -282,7 +256,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -294,10 +268,10 @@
         }
       ],
       "last_stats": {
-        "views": 417,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0
+        "views": 1604,
+        "likes": 41,
+        "comments": 1,
+        "shares": 4
       }
     },
     {
@@ -308,7 +282,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -320,10 +294,10 @@
         }
       ],
       "last_stats": {
-        "views": 80,
-        "likes": 6,
-        "comments": 2,
-        "shares": 8
+        "views": 297,
+        "likes": 16,
+        "comments": 3,
+        "shares": 11
       }
     },
     {
@@ -331,6 +305,32 @@
       "video_id": "7701639277049941280",
       "url": "https://www.tiktok.com/@qur__6yy/video/7701639277049941280",
       "detected_at": "2026-10-28T08:53:58+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 4094,
+        "likes": 62,
+        "comments": 4,
+        "shares": 27
+      }
+    },
+    {
+      "handle": "leradar.fr33",
+      "video_id": "7701653152449301793",
+      "url": "https://www.tiktok.com/@leradar.fr33/video/7701653152449301793",
+      "detected_at": "2026-10-28T09:47:47+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -346,10 +346,10 @@
         }
       ],
       "last_stats": {
-        "views": 56,
-        "likes": 7,
-        "comments": 3,
-        "shares": 1
+        "views": 99,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
