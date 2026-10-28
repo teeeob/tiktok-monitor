@@ -171,84 +171,6 @@
   },
   "pending": [
     {
-      "handle": "tiktok.ragot",
-      "video_id": "7701702848794447137",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7701702848794447137",
-      "detected_at": "2026-10-28T13:00:35+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6449,
-        "likes": 165,
-        "comments": 8,
-        "shares": 21
-      }
-    },
-    {
-      "handle": "fil_bleu_actu.fr",
-      "video_id": "7701701703711722784",
-      "url": "https://www.tiktok.com/@fil_bleu_actu.fr/video/7701701703711722784",
-      "detected_at": "2026-10-28T12:56:09+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 76913,
-        "likes": 1388,
-        "comments": 60,
-        "shares": 675
-      }
-    },
-    {
-      "handle": "zopinfo",
-      "video_id": "7701703176726121761",
-      "url": "https://www.tiktok.com/@zopinfo/video/7701703176726121761",
-      "detected_at": "2026-10-28T13:01:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5924,
-        "likes": 153,
-        "comments": 11,
-        "shares": 99
-      }
-    },
-    {
       "handle": "contrelaguerre",
       "video_id": "7701704030430580000",
       "url": "https://www.tiktok.com/@contrelaguerre/video/7701704030430580000",
@@ -598,7 +520,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -606,10 +528,10 @@
         }
       ],
       "last_stats": {
-        "views": 93928,
-        "likes": 2262,
-        "comments": 30,
-        "shares": 450
+        "views": 347812,
+        "likes": 13534,
+        "comments": 114,
+        "shares": 2380
       }
     },
     {
@@ -624,7 +546,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -632,10 +554,10 @@
         }
       ],
       "last_stats": {
-        "views": 12917,
-        "likes": 116,
-        "comments": 0,
-        "shares": 9
+        "views": 106231,
+        "likes": 1804,
+        "comments": 4,
+        "shares": 166
       }
     },
     {
@@ -750,7 +672,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -762,10 +684,10 @@
         }
       ],
       "last_stats": {
-        "views": 180,
-        "likes": 11,
-        "comments": 1,
-        "shares": 14
+        "views": 1324,
+        "likes": 35,
+        "comments": 3,
+        "shares": 20
       }
     },
     {
@@ -776,7 +698,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -788,7 +710,7 @@
         }
       ],
       "last_stats": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0
@@ -828,7 +750,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -840,10 +762,10 @@
         }
       ],
       "last_stats": {
-        "views": 1168,
-        "likes": 19,
-        "comments": 1,
-        "shares": 2
+        "views": 10515,
+        "likes": 84,
+        "comments": 2,
+        "shares": 24
       }
     }
   ]
