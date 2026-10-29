@@ -5,7 +5,7 @@
     "lejournal.actu": "7701832093524856097",
     "chronoactu": "7702138083218591009",
     "infos.minutes": "7700761746750901536",
-    "alarmeactu": "7701944867106196768",
+    "alarmeactu": "7548559240609205526",
     "actumedias": "7523926913388170518",
     "france_infos": "7692220226842234144",
     "en.savoir.plus.fr": "7492076316179729687",
@@ -51,7 +51,7 @@
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7702065089981058337",
-    "ora_418": "7700923276419222816",
+    "ora_418": "7702178690720943393",
     "actufrance36": "7702151469373459745",
     "france24infos": "7701711528021609760",
     "actusmad": "7614152772648176898",
@@ -542,7 +542,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -554,10 +554,10 @@
         }
       ],
       "last_stats": {
-        "views": 50,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 7213,
+        "likes": 84,
+        "comments": 1,
+        "shares": 74
       }
     },
     {
@@ -636,6 +636,32 @@
         "likes": 20,
         "comments": 1,
         "shares": 2
+      }
+    },
+    {
+      "handle": "ora_418",
+      "video_id": "7702178690720943393",
+      "url": "https://www.tiktok.com/@ora_418/video/7702178690720943393",
+      "detected_at": "2026-10-29T19:47:06+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 17,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
