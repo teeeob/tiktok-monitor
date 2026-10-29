@@ -42,7 +42,7 @@
     "lejournal.actu2": "7701721468324826400",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7701838297881922848",
+    "contrelaguerre": "7702016418832846113",
     "actubrute_fr": "7697625816531766561",
     "actuone.tv1": "7701832977021488417",
     "actuenbref.tv": "7700224327827868961",
@@ -156,9 +156,9 @@
     "lepointactuu": "7701677559183854880",
     "logikinfo": "7696790052050881814",
     "faits.divers.fr5": "7701658106421464353",
-    "qur__6yy": "7701639277049941280",
+    "qur__6yy": "7702013770758966560",
     "info.direct44": "7701781726766402848",
-    "hgdjvnfei18": "7701786016809602336",
+    "hgdjvnfei18": "7702013993753333024",
     "fil_bleu_actu.fr": "7701701703711722784",
     "flash_actu24": "7701381432563830049",
     "laffaire_france": "7701999526147640609",
@@ -412,6 +412,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 348,
+        "likes": 40,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7702016418832846113",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7702016418832846113",
+      "detected_at": "2026-10-29T09:17:26+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -424,8 +450,60 @@
         }
       ],
       "last_stats": {
-        "views": 106,
-        "likes": 13,
+        "views": 147,
+        "likes": 2,
+        "comments": 0,
+        "shares": 5
+      }
+    },
+    {
+      "handle": "qur__6yy",
+      "video_id": "7702013770758966560",
+      "url": "https://www.tiktok.com/@qur__6yy/video/7702013770758966560",
+      "detected_at": "2026-10-29T09:07:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 230,
+        "likes": 12,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "hgdjvnfei18",
+      "video_id": "7702013993753333024",
+      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7702013993753333024",
+      "detected_at": "2026-10-29T09:08:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 95,
+        "likes": 3,
         "comments": 1,
         "shares": 0
       }
