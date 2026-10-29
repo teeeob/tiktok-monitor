@@ -161,7 +161,7 @@
     "hgdjvnfei18": "7701786016809602336",
     "fil_bleu_actu.fr": "7701701703711722784",
     "flash_actu24": "7701381432563830049",
-    "laffaire_france": "7701833139890425120",
+    "laffaire_france": "7701999526147640609",
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
@@ -260,7 +260,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -268,10 +268,10 @@
         }
       ],
       "last_stats": {
-        "views": 3690,
-        "likes": 60,
+        "views": 5871,
+        "likes": 110,
         "comments": 2,
-        "shares": 32
+        "shares": 42
       }
     },
     {
@@ -312,7 +312,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -320,10 +320,10 @@
         }
       ],
       "last_stats": {
-        "views": 163,
-        "likes": 0,
-        "comments": 0,
-        "shares": 2
+        "views": 771,
+        "likes": 12,
+        "comments": 1,
+        "shares": 8
       }
     },
     {
@@ -401,6 +401,32 @@
         "views": 0,
         "likes": 0,
         "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "laffaire_france",
+      "video_id": "7701999526147640609",
+      "url": "https://www.tiktok.com/@laffaire_france/video/7701999526147640609",
+      "detected_at": "2026-10-29T08:11:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 106,
+        "likes": 13,
+        "comments": 1,
         "shares": 0
       }
     }
