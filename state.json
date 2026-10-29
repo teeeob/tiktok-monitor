@@ -100,7 +100,7 @@
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7680869863673351457",
-    "unmomentactu": "7702135839538597152",
+    "unmomentactu": "7702211437925616928",
     "franceecho": "7702105645222284577",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7634530119930973442",
@@ -149,7 +149,7 @@
     "monsieur_salem": "7701431809762004256",
     "instantpeople": "7693489213056011553",
     "infoexpress35": "7701882751305141537",
-    "minutepeople.fr": "7701860700976712992",
+    "minutepeople.fr": "7702211005119565088",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7698036383583046944",
     "leradar.fr33": "7701976816386362656",
@@ -170,32 +170,6 @@
     "adnrfr": "7702192299706502432"
   },
   "pending": [
-    {
-      "handle": "unmomentactu",
-      "video_id": "7702135839538597152",
-      "url": "https://www.tiktok.com/@unmomentactu/video/7702135839538597152",
-      "detected_at": "2026-10-29T17:00:48+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7297,
-        "likes": 122,
-        "comments": 18,
-        "shares": 39
-      }
-    },
     {
       "handle": "chronoactu",
       "video_id": "7702138083218591009",
@@ -468,7 +442,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -476,10 +450,10 @@
         }
       ],
       "last_stats": {
-        "views": 7213,
-        "likes": 84,
-        "comments": 1,
-        "shares": 74
+        "views": 30734,
+        "likes": 445,
+        "comments": 7,
+        "shares": 506
       }
     },
     {
@@ -494,7 +468,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -502,8 +476,8 @@
         }
       ],
       "last_stats": {
-        "views": 113,
-        "likes": 10,
+        "views": 245,
+        "likes": 12,
         "comments": 1,
         "shares": 0
       }
@@ -620,7 +594,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -632,9 +606,9 @@
         }
       ],
       "last_stats": {
-        "views": 221,
-        "likes": 8,
-        "comments": 3,
+        "views": 323,
+        "likes": 9,
+        "comments": 5,
         "shares": 6
       }
     },
@@ -672,7 +646,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -684,8 +658,8 @@
         }
       ],
       "last_stats": {
-        "views": 343,
-        "likes": 17,
+        "views": 618,
+        "likes": 19,
         "comments": 1,
         "shares": 0
       }
@@ -698,7 +672,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -710,8 +684,8 @@
         }
       ],
       "last_stats": {
-        "views": 282,
-        "likes": 4,
+        "views": 829,
+        "likes": 13,
         "comments": 0,
         "shares": 0
       }
@@ -740,6 +714,58 @@
         "likes": 15,
         "comments": 4,
         "shares": 0
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7702211437925616928",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7702211437925616928",
+      "detected_at": "2026-10-29T21:54:11+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 113,
+        "likes": 16,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "minutepeople.fr",
+      "video_id": "7702211005119565088",
+      "url": "https://www.tiktok.com/@minutepeople.fr/video/7702211005119565088",
+      "detected_at": "2026-10-29T21:52:30+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 400,
+        "likes": 32,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
