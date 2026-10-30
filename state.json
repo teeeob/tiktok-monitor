@@ -171,58 +171,6 @@
   },
   "pending": [
     {
-      "handle": "info20fr",
-      "video_id": "7702511887606484256",
-      "url": "https://www.tiktok.com/@info20fr/video/7702511887606484256",
-      "detected_at": "2026-10-30T17:20:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1120,
-        "likes": 106,
-        "comments": 11,
-        "shares": 5
-      }
-    },
-    {
-      "handle": "info.direct44",
-      "video_id": "7702514558014950689",
-      "url": "https://www.tiktok.com/@info.direct44/video/7702514558014950689",
-      "detected_at": "2026-10-30T17:30:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 189,
-        "likes": 10,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "actufrance_14",
       "video_id": "7702520279116844321",
       "url": "https://www.tiktok.com/@actufrance_14/video/7702520279116844321",
@@ -390,7 +338,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -398,10 +346,10 @@
         }
       ],
       "last_stats": {
-        "views": 1097,
-        "likes": 21,
-        "comments": 1,
-        "shares": 13
+        "views": 7656,
+        "likes": 76,
+        "comments": 5,
+        "shares": 104
       }
     },
     {
@@ -490,7 +438,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -502,9 +450,9 @@
         }
       ],
       "last_stats": {
-        "views": 69,
-        "likes": 6,
-        "comments": 0,
+        "views": 593,
+        "likes": 27,
+        "comments": 1,
         "shares": 0
       }
     }
