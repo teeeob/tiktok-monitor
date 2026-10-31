@@ -129,7 +129,7 @@
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
     "remi4max": "7702788998070013217",
-    "actud5": "7702772489583152416",
+    "actud5": "7702833851214843168",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
     "actuexpress01": "7695748417334578465",
@@ -170,32 +170,6 @@
     "adnrfr": "7702729574030888225"
   },
   "pending": [
-    {
-      "handle": "qur__6yy",
-      "video_id": "7702756816844819745",
-      "url": "https://www.tiktok.com/@qur__6yy/video/7702756816844819745",
-      "detected_at": "2026-10-31T09:10:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 22484,
-        "likes": 426,
-        "comments": 15,
-        "shares": 75
-      }
-    },
     {
       "handle": "contrelaguerre",
       "video_id": "7702769555822710048",
@@ -364,7 +338,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -372,8 +346,8 @@
         }
       ],
       "last_stats": {
-        "views": 485,
-        "likes": 32,
+        "views": 641,
+        "likes": 34,
         "comments": 2,
         "shares": 8
       }
@@ -504,6 +478,32 @@
       "last_stats": {
         "views": 40,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7702833851214843168",
+      "url": "https://www.tiktok.com/@actud5/video/7702833851214843168",
+      "detected_at": "2026-10-31T14:09:29+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 312,
+        "likes": 9,
         "comments": 0,
         "shares": 0
       }
