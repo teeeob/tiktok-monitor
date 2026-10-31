@@ -129,7 +129,7 @@
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
     "remi4max": "7702721642241330464",
-    "actud5": "7702559489458703649",
+    "actud5": "7702772489583152416",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
     "actuexpress01": "7695748417334578465",
@@ -138,7 +138,7 @@
     "actuoff_fr": "7695355452019789088",
     "vincent_tv2": "7699899978415623456",
     "neratepaslinfo": "7702750733216582945",
-    "cinemama.fr": "7700599096414866721",
+    "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
     "lejournal_fr": "7692744048167226657",
     "francedirectinfo": "7702499608802463008",
@@ -234,7 +234,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -242,9 +242,9 @@
         }
       ],
       "last_stats": {
-        "views": 190,
-        "likes": 13,
-        "comments": 3,
+        "views": 312,
+        "likes": 21,
+        "comments": 5,
         "shares": 1
       }
     },
@@ -438,7 +438,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -450,10 +450,10 @@
         }
       ],
       "last_stats": {
-        "views": 217,
-        "likes": 14,
-        "comments": 1,
-        "shares": 0
+        "views": 3034,
+        "likes": 54,
+        "comments": 4,
+        "shares": 7
       }
     },
     {
@@ -464,7 +464,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -476,10 +476,10 @@
         }
       ],
       "last_stats": {
-        "views": 541,
-        "likes": 15,
-        "comments": 2,
-        "shares": 0
+        "views": 31154,
+        "likes": 260,
+        "comments": 26,
+        "shares": 52
       }
     },
     {
@@ -556,6 +556,58 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "cinemama.fr",
+      "video_id": "7702774453511408928",
+      "url": "https://www.tiktok.com/@cinemama.fr/video/7702774453511408928",
+      "detected_at": "2026-10-31T10:18:59+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1236,
+        "likes": 47,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7702772489583152416",
+      "url": "https://www.tiktok.com/@actud5/video/7702772489583152416",
+      "detected_at": "2026-10-31T10:11:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 240,
+        "likes": 9,
         "comments": 0,
         "shares": 0
       }
