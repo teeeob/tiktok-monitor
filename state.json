@@ -3,7 +3,7 @@
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7702372529075277089",
-    "chronoactu": "7703193761400048929",
+    "chronoactu": "7703341433830296865",
     "infos.minutes": "7700761746750901536",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
@@ -99,7 +99,7 @@
     "newo.telop": "7700980106407316768",
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
-    "oeil_global_news": "7703250747382713633",
+    "oeil_global_news": "7703338374010031393",
     "unmomentactu": "7702873944763682081",
     "franceecho": "7703241017847336224",
     "franceavifactu": "7655787451516079392",
@@ -171,32 +171,6 @@
   },
   "pending": [
     {
-      "handle": "neratepaslinfo",
-      "video_id": "7703261280743820577",
-      "url": "https://www.tiktok.com/@neratepaslinfo/video/7703261280743820577",
-      "detected_at": "2026-11-01T17:48:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 258,
-        "likes": 22,
-        "comments": 2,
-        "shares": 0
-      }
-    },
-    {
       "handle": "zopinfo",
       "video_id": "7703271206518148385",
       "url": "https://www.tiktok.com/@zopinfo/video/7703271206518148385",
@@ -220,32 +194,6 @@
         "likes": 64,
         "comments": 1,
         "shares": 11
-      }
-    },
-    {
-      "handle": "actuchrono60",
-      "video_id": "7703264937249869088",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7703264937249869088",
-      "detected_at": "2026-11-01T18:02:17+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 25008,
-        "likes": 569,
-        "comments": 85,
-        "shares": 201
       }
     },
     {
@@ -390,7 +338,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -398,10 +346,10 @@
         }
       ],
       "last_stats": {
-        "views": 1698,
-        "likes": 30,
-        "comments": 1,
-        "shares": 1
+        "views": 2619,
+        "likes": 36,
+        "comments": 2,
+        "shares": 2
       }
     },
     {
@@ -416,7 +364,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -424,10 +372,10 @@
         }
       ],
       "last_stats": {
-        "views": 364,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
+        "views": 1999,
+        "likes": 16,
+        "comments": 2,
+        "shares": 4
       }
     },
     {
@@ -516,6 +464,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 552,
+        "likes": 25,
+        "comments": 2,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "chronoactu",
+      "video_id": "7703341433830296865",
+      "url": "https://www.tiktok.com/@chronoactu/video/7703341433830296865",
+      "detected_at": "2026-11-01T22:59:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -528,9 +502,35 @@
         }
       ],
       "last_stats": {
-        "views": 148,
-        "likes": 9,
-        "comments": 1,
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "oeil_global_news",
+      "video_id": "7703338374010031393",
+      "url": "https://www.tiktok.com/@oeil_global_news/video/7703338374010031393",
+      "detected_at": "2026-11-01T22:47:17+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 85,
+        "likes": 3,
+        "comments": 0,
         "shares": 0
       }
     }
