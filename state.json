@@ -171,32 +171,6 @@
   },
   "pending": [
     {
-      "handle": "ora_418",
-      "video_id": "7702957301174488352",
-      "url": "https://www.tiktok.com/@ora_418/video/7702957301174488352",
-      "detected_at": "2026-10-31T22:08:29+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 324,
-        "likes": 5,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
       "handle": "faits.divers.fr5",
       "video_id": "7702962996837977377",
       "url": "https://www.tiktok.com/@faits.divers.fr5/video/7702962996837977377",
@@ -286,7 +260,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -294,8 +268,8 @@
         }
       ],
       "last_stats": {
-        "views": 158,
-        "likes": 7,
+        "views": 213,
+        "likes": 12,
         "comments": 1,
         "shares": 0
       }
