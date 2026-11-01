@@ -125,7 +125,7 @@
     "jtmonde1": "7692877695922785569",
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7702860104181288225",
+    "alerte.min": "7703023174287494432",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
     "remi4max": "7702893434142493984",
@@ -141,7 +141,7 @@
     "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
     "lejournal_fr": "7692744048167226657",
-    "francedirectinfo": "7702880344072064289",
+    "francedirectinfo": "7702499608802463008",
     "brut.story": "7644226401763134752",
     "lequotidien.actu": "7700113608079904032",
     "le_nectarium": "7699562821993925921",
@@ -170,58 +170,6 @@
     "adnrfr": "7702729574030888225"
   },
   "pending": [
-    {
-      "handle": "actuchrono60",
-      "video_id": "7702943843494235425",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7702943843494235425",
-      "detected_at": "2026-10-31T21:16:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 25240,
-        "likes": 1106,
-        "comments": 107,
-        "shares": 153
-      }
-    },
-    {
-      "handle": "actufrance_14",
-      "video_id": "7702945389682396449",
-      "url": "https://www.tiktok.com/@actufrance_14/video/7702945389682396449",
-      "detected_at": "2026-10-31T21:22:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5383,
-        "likes": 141,
-        "comments": 14,
-        "shares": 123
-      }
-    },
     {
       "handle": "ora_418",
       "video_id": "7702957301174488352",
@@ -376,6 +324,32 @@
         "likes": 28,
         "comments": 2,
         "shares": 2
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7703023174287494432",
+      "url": "https://www.tiktok.com/@alerte.min/video/7703023174287494432",
+      "detected_at": "2026-11-01T02:24:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 74,
+        "likes": 16,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
