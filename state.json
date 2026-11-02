@@ -128,7 +128,7 @@
     "alerte.min": "7703023174287494432",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7694973888832343328",
-    "remi4max": "7703228978114448673",
+    "remi4max": "7703464313092066593",
     "actud5": "7703323816205749536",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
@@ -170,32 +170,6 @@
     "adnrfr": "7702729574030888225"
   },
   "pending": [
-    {
-      "handle": "buzzalerte",
-      "video_id": "7703388658816044320",
-      "url": "https://www.tiktok.com/@buzzalerte/video/7703388658816044320",
-      "detected_at": "2026-11-02T02:02:48+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 109,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "actufollee",
       "video_id": "7703401172438224160",
@@ -282,6 +256,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 30384,
+        "likes": 663,
+        "comments": 39,
+        "shares": 128
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7703464313092066593",
+      "url": "https://www.tiktok.com/@remi4max/video/7703464313092066593",
+      "detected_at": "2026-11-02T06:56:03+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -294,10 +294,10 @@
         }
       ],
       "last_stats": {
-        "views": 1188,
-        "likes": 29,
-        "comments": 2,
-        "shares": 4
+        "views": 96,
+        "likes": 10,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
