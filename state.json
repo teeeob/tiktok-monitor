@@ -60,12 +60,12 @@
     "trasssh.tv": "7698812174025690401",
     "kosactcbndb": "7700620681087634721",
     "askyp.fr": "7651886903687531809",
-    "actualfrancetv": "7703113168494677281",
+    "actualfrancetv": "7703485699135261984",
     "actu913": "7693464169907080480",
     "franceendirect1": "7700287140776676641",
     "h.o.b15": "7690985038111853857",
     "info247fr": "7681230734899694880",
-    "breaking3": "7703113825406536992",
+    "breaking3": "7703486455884139809",
     "enbref33": "7667628668490894624",
     "infofrance.24": "7702159866802097440",
     "info20fr": "7703255749496933665",
@@ -161,7 +161,7 @@
     "hgdjvnfei18": "7703233642243378465",
     "fil_bleu_actu.fr": "7703128911055539489",
     "flash_actu24": "7701381432563830049",
-    "laffaire_france": "7703307405873974560",
+    "laffaire_france": "7703484148131908897",
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
@@ -182,7 +182,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -190,10 +190,10 @@
         }
       ],
       "last_stats": {
-        "views": 2360,
-        "likes": 55,
+        "views": 7886,
+        "likes": 168,
         "comments": 2,
-        "shares": 14
+        "shares": 78
       }
     },
     {
@@ -208,7 +208,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -216,10 +216,10 @@
         }
       ],
       "last_stats": {
-        "views": 914,
-        "likes": 43,
-        "comments": 1,
-        "shares": 2
+        "views": 3903,
+        "likes": 128,
+        "comments": 6,
+        "shares": 34
       }
     },
     {
@@ -282,7 +282,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -294,8 +294,8 @@
         }
       ],
       "last_stats": {
-        "views": 259,
-        "likes": 7,
+        "views": 462,
+        "likes": 11,
         "comments": 0,
         "shares": 0
       }
@@ -374,6 +374,84 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actualfrancetv",
+      "video_id": "7703485699135261984",
+      "url": "https://www.tiktok.com/@actualfrancetv/video/7703485699135261984",
+      "detected_at": "2026-11-02T08:19:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 145,
+        "likes": 11,
+        "comments": 1,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "breaking3",
+      "video_id": "7703486455884139809",
+      "url": "https://www.tiktok.com/@breaking3/video/7703486455884139809",
+      "detected_at": "2026-11-02T08:22:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 59,
+        "likes": 6,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "laffaire_france",
+      "video_id": "7703484148131908897",
+      "url": "https://www.tiktok.com/@laffaire_france/video/7703484148131908897",
+      "detected_at": "2026-11-02T08:13:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 116,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
