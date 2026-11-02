@@ -133,7 +133,7 @@
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
     "actuexpress01": "7695748417334578465",
-    "actufollee": "7696370821169712417",
+    "actufollee": "7703401172438224160",
     "dernierenouvelle": "7693870258687380768",
     "actuoff_fr": "7695355452019789088",
     "vincent_tv2": "7699899978415623456",
@@ -170,32 +170,6 @@
     "adnrfr": "7702729574030888225"
   },
   "pending": [
-    {
-      "handle": "actud5",
-      "video_id": "7703323816205749536",
-      "url": "https://www.tiktok.com/@actud5/video/7703323816205749536",
-      "detected_at": "2026-11-01T21:50:46+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 735,
-        "likes": 33,
-        "comments": 2,
-        "shares": 1
-      }
-    },
     {
       "handle": "chronoactu",
       "video_id": "7703341433830296865",
@@ -256,6 +230,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 109,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufollee",
+      "video_id": "7703401172438224160",
+      "url": "https://www.tiktok.com/@actufollee/video/7703401172438224160",
+      "detected_at": "2026-11-02T02:51:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -268,8 +268,8 @@
         }
       ],
       "last_stats": {
-        "views": 96,
-        "likes": 1,
+        "views": 47,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
