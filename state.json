@@ -137,7 +137,7 @@
     "dernierenouvelle": "7693870258687380768",
     "actuoff_fr": "7695355452019789088",
     "vincent_tv2": "7699899978415623456",
-    "neratepaslinfo": "7703556897529466145",
+    "neratepaslinfo": "7703836336989556000",
     "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
     "lejournal_fr": "7692744048167226657",
@@ -294,6 +294,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 10110,
+        "likes": 155,
+        "comments": 3,
+        "shares": 96
+      }
+    },
+    {
+      "handle": "neratepaslinfo",
+      "video_id": "7703836336989556000",
+      "url": "https://www.tiktok.com/@neratepaslinfo/video/7703836336989556000",
+      "detected_at": "2026-11-03T06:59:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -306,8 +332,8 @@
         }
       ],
       "last_stats": {
-        "views": 124,
-        "likes": 4,
+        "views": 0,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
