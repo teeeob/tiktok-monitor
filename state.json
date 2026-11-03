@@ -171,7 +171,7 @@
     "parallaxeactu": "7702257860415114528",
     "franceinfo43": "7703769599761845526",
     "lejournaldefrance": "7703894349028789537",
-    "france.horizon": "7703658056567098656",
+    "france.horizon": "7703991158866726176",
     "france24actu": "7703979103489183009",
     "francemonde1": "7703644624862170401",
     "decouverteschoc": "7683917464182344992",
@@ -182,58 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "acturium",
-      "video_id": "7703913815972318496",
-      "url": "https://www.tiktok.com/@acturium/video/7703913815972318496",
-      "detected_at": "2026-11-03T12:00:06+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1269,
-        "likes": 39,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "actud5",
-      "video_id": "7703912229938220320",
-      "url": "https://www.tiktok.com/@actud5/video/7703912229938220320",
-      "detected_at": "2026-11-03T11:54:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 893,
-        "likes": 22,
-        "comments": 4,
-        "shares": 2
-      }
-    },
     {
       "handle": "laffaire_france",
       "video_id": "7703917828033744161",
@@ -402,7 +350,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -410,10 +358,10 @@
         }
       ],
       "last_stats": {
-        "views": 271,
-        "likes": 11,
-        "comments": 0,
-        "shares": 0
+        "views": 6533,
+        "likes": 86,
+        "comments": 2,
+        "shares": 10
       }
     },
     {
@@ -684,7 +632,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -696,10 +644,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
+        "views": 678,
+        "likes": 19,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -778,6 +726,32 @@
         "likes": 13,
         "comments": 1,
         "shares": 2
+      }
+    },
+    {
+      "handle": "france.horizon",
+      "video_id": "7703991158866726176",
+      "url": "https://www.tiktok.com/@france.horizon/video/7703991158866726176",
+      "detected_at": "2026-11-03T17:00:26+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 60,
+        "likes": 1,
+        "comments": 1,
+        "shares": 0
       }
     }
   ]
