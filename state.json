@@ -152,12 +152,12 @@
     "minutepeople.fr": "7703585456289565984",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7698036383583046944",
-    "leradar.fr33": "7703682888616709408",
+    "leradar.fr33": "7703930671139507489",
     "lepointactuu": "7703886820915809568",
     "logikinfo": "7696790052050881814",
     "faits.divers.fr5": "7703876792024698145",
     "qur__6yy": "7703870123567746337",
-    "info.direct44": "7703640162537934112",
+    "info.direct44": "7703936522986196256",
     "hgdjvnfei18": "7703882909186362657",
     "fil_bleu_actu.fr": "7703868235984276769",
     "flash_actu24": "7701381432563830049",
@@ -182,58 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "actualfrancetv",
-      "video_id": "7703854253940444448",
-      "url": "https://www.tiktok.com/@actualfrancetv/video/7703854253940444448",
-      "detected_at": "2026-11-03T08:09:16+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1479,
-        "likes": 43,
-        "comments": 2,
-        "shares": 7
-      }
-    },
-    {
-      "handle": "breaking3",
-      "video_id": "7703855235382480161",
-      "url": "https://www.tiktok.com/@breaking3/video/7703855235382480161",
-      "detected_at": "2026-11-03T08:13:10+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1453,
-        "likes": 34,
-        "comments": 1,
-        "shares": 2
-      }
-    },
     {
       "handle": "laffaire_france",
       "video_id": "7703865186309983521",
@@ -454,7 +402,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -462,10 +410,10 @@
         }
       ],
       "last_stats": {
-        "views": 2653,
-        "likes": 77,
-        "comments": 2,
-        "shares": 88
+        "views": 15890,
+        "likes": 330,
+        "comments": 7,
+        "shares": 812
       }
     },
     {
@@ -480,7 +428,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -488,10 +436,10 @@
         }
       ],
       "last_stats": {
-        "views": 5611,
-        "likes": 213,
-        "comments": 12,
-        "shares": 8
+        "views": 113495,
+        "likes": 7137,
+        "comments": 131,
+        "shares": 789
       }
     },
     {
@@ -684,7 +632,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -696,10 +644,10 @@
         }
       ],
       "last_stats": {
-        "views": 139,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
+        "views": 2510,
+        "likes": 48,
+        "comments": 2,
+        "shares": 3
       }
     },
     {
@@ -726,6 +674,58 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "leradar.fr33",
+      "video_id": "7703930671139507489",
+      "url": "https://www.tiktok.com/@leradar.fr33/video/7703930671139507489",
+      "detected_at": "2026-11-03T13:05:45+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 213,
+        "likes": 4,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info.direct44",
+      "video_id": "7703936522986196256",
+      "url": "https://www.tiktok.com/@info.direct44/video/7703936522986196256",
+      "detected_at": "2026-11-03T13:28:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 349,
+        "likes": 10,
+        "comments": 1,
+        "shares": 4
       }
     }
   ]
