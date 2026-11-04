@@ -161,7 +161,7 @@
     "hgdjvnfei18": "7704346863847181600",
     "fil_bleu_actu.fr": "7704237672180567328",
     "flash_actu24": "7701381432563830049",
-    "laffaire_france": "7704264545904233760",
+    "laffaire_france": "7704373763244150048",
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
@@ -170,7 +170,7 @@
     "adnrfr": "7703928461781372193",
     "parallaxeactu": "7702257860415114528",
     "franceinfo43": "7704079308951653654",
-    "lejournaldefrance": "7704033015223045408",
+    "lejournaldefrance": "7704375319402171680",
     "france.horizon": "7703991158866726176",
     "france24actu": "7704364772711599393",
     "francemonde1": "7703644624862170401",
@@ -182,32 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "journalfrancetv",
-      "video_id": "7704299601016147233",
-      "url": "https://www.tiktok.com/@journalfrancetv/video/7704299601016147233",
-      "detected_at": "2026-11-04T12:57:19+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 10785,
-        "likes": 166,
-        "comments": 2,
-        "shares": 96
-      }
-    },
     {
       "handle": "actuone.tv1",
       "video_id": "7704305436056358177",
@@ -402,7 +376,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -410,8 +384,8 @@
         }
       ],
       "last_stats": {
-        "views": 539,
-        "likes": 11,
+        "views": 618,
+        "likes": 12,
         "comments": 0,
         "shares": 0
       }
@@ -428,7 +402,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -436,10 +410,10 @@
         }
       ],
       "last_stats": {
-        "views": 341,
-        "likes": 36,
+        "views": 421,
+        "likes": 40,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -684,7 +658,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -696,9 +670,9 @@
         }
       ],
       "last_stats": {
-        "views": 184,
-        "likes": 8,
-        "comments": 2,
+        "views": 399,
+        "likes": 11,
+        "comments": 3,
         "shares": 6
       }
     },
@@ -710,7 +684,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -722,10 +696,10 @@
         }
       ],
       "last_stats": {
-        "views": 312,
-        "likes": 11,
+        "views": 1369,
+        "likes": 40,
         "comments": 1,
-        "shares": 1
+        "shares": 12
       }
     },
     {
@@ -736,7 +710,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -748,10 +722,10 @@
         }
       ],
       "last_stats": {
-        "views": 168,
-        "likes": 9,
-        "comments": 0,
-        "shares": 0
+        "views": 679,
+        "likes": 20,
+        "comments": 3,
+        "shares": 6
       }
     },
     {
@@ -762,7 +736,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -774,10 +748,10 @@
         }
       ],
       "last_stats": {
-        "views": 199,
-        "likes": 19,
-        "comments": 0,
-        "shares": 1
+        "views": 19098,
+        "likes": 745,
+        "comments": 8,
+        "shares": 149
       }
     },
     {
@@ -856,6 +830,58 @@
         "likes": 58,
         "comments": 4,
         "shares": 34
+      }
+    },
+    {
+      "handle": "laffaire_france",
+      "video_id": "7704373763244150048",
+      "url": "https://www.tiktok.com/@laffaire_france/video/7704373763244150048",
+      "detected_at": "2026-11-04T17:45:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 82,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lejournaldefrance",
+      "video_id": "7704375319402171680",
+      "url": "https://www.tiktok.com/@lejournaldefrance/video/7704375319402171680",
+      "detected_at": "2026-11-04T17:51:12+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 396,
+        "likes": 12,
+        "comments": 1,
+        "shares": 2
       }
     }
   ]
