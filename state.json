@@ -183,58 +183,6 @@
   },
   "pending": [
     {
-      "handle": "actud5",
-      "video_id": "7704058955571514657",
-      "url": "https://www.tiktok.com/@actud5/video/7704058955571514657",
-      "detected_at": "2026-11-03T21:23:33+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 635,
-        "likes": 43,
-        "comments": 2,
-        "shares": 3
-      }
-    },
-    {
-      "handle": "minutepeople.fr",
-      "video_id": "7704058613203029280",
-      "url": "https://www.tiktok.com/@minutepeople.fr/video/7704058613203029280",
-      "detected_at": "2026-11-03T21:22:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6124,
-        "likes": 83,
-        "comments": 17,
-        "shares": 8
-      }
-    },
-    {
       "handle": "robactt",
       "video_id": "7704064031170104609",
       "url": "https://www.tiktok.com/@robactt/video/7704064031170104609",
@@ -454,7 +402,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -462,8 +410,8 @@
         }
       ],
       "last_stats": {
-        "views": 363,
-        "likes": 14,
+        "views": 652,
+        "likes": 28,
         "comments": 0,
         "shares": 0
       }
@@ -476,7 +424,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -488,10 +436,10 @@
         }
       ],
       "last_stats": {
-        "views": 288,
-        "likes": 17,
-        "comments": 0,
-        "shares": 1
+        "views": 6068,
+        "likes": 139,
+        "comments": 12,
+        "shares": 19
       }
     }
   ]
