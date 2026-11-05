@@ -161,7 +161,7 @@
     "hgdjvnfei18": "7704346863847181600",
     "fil_bleu_actu.fr": "7704237672180567328",
     "flash_actu24": "7701381432563830049",
-    "laffaire_france": "7704264545904233760",
+    "laffaire_france": "7704577476466380065",
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
@@ -320,7 +320,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -386,6 +386,32 @@
       "last_stats": {
         "views": 127,
         "likes": 6,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "laffaire_france",
+      "video_id": "7704577476466380065",
+      "url": "https://www.tiktok.com/@laffaire_france/video/7704577476466380065",
+      "detected_at": "2026-11-05T06:55:46+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 16,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
