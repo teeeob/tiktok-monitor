@@ -183,32 +183,6 @@
   },
   "pending": [
     {
-      "handle": "langlecurieux",
-      "video_id": "7704855158575992086",
-      "url": "https://www.tiktok.com/@langlecurieux/video/7704855158575992086",
-      "detected_at": "2026-11-06T00:54:41+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 15,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "univers_doc",
       "video_id": "7704864520744750368",
       "url": "https://www.tiktok.com/@univers_doc/video/7704864520744750368",
@@ -320,7 +294,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -332,10 +306,10 @@
         }
       ],
       "last_stats": {
-        "views": 95,
-        "likes": 5,
-        "comments": 0,
-        "shares": 0
+        "views": 1751,
+        "likes": 20,
+        "comments": 6,
+        "shares": 5
       }
     },
     {
