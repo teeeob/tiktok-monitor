@@ -183,32 +183,6 @@
   },
   "pending": [
     {
-      "handle": "robactt",
-      "video_id": "7705174558269050145",
-      "url": "https://www.tiktok.com/@robactt/video/7705174558269050145",
-      "detected_at": "2026-11-06T21:32:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 386,
-        "likes": 25,
-        "comments": 0,
-        "shares": 2
-      }
-    },
-    {
       "handle": "contrelaguerre",
       "video_id": "7705178826912943392",
       "url": "https://www.tiktok.com/@contrelaguerre/video/7705178826912943392",
@@ -324,7 +298,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -332,8 +306,8 @@
         }
       ],
       "last_stats": {
-        "views": 252,
-        "likes": 5,
+        "views": 360,
+        "likes": 9,
         "comments": 0,
         "shares": 0
       }
