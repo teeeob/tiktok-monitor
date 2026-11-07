@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7702159866802097440",
     "info20fr": "7705388974415613217",
-    "kat_info": "7705114466341506337",
+    "kat_info": "7705397435782155553",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7705369304719494432",
     "actu.le.fran843": "7655044164291169568",
@@ -158,7 +158,7 @@
     "faits.divers.fr5": "7705323818029436193",
     "qur__6yy": "7705353751208430881",
     "info.direct44": "7705066745702157601",
-    "hgdjvnfei18": "7705336347208273184",
+    "hgdjvnfei18": "7705398225364143393",
     "fil_bleu_actu.fr": "7705352819351588129",
     "flash_actu24": "7701381432563830049",
     "laffaire_france": "7704658482233920800",
@@ -350,7 +350,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -358,10 +358,10 @@
         }
       ],
       "last_stats": {
-        "views": 1066,
-        "likes": 47,
-        "comments": 3,
-        "shares": 18
+        "views": 5558,
+        "likes": 154,
+        "comments": 24,
+        "shares": 57
       }
     },
     {
@@ -402,7 +402,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -410,9 +410,9 @@
         }
       ],
       "last_stats": {
-        "views": 637,
-        "likes": 45,
-        "comments": 2,
+        "views": 875,
+        "likes": 49,
+        "comments": 3,
         "shares": 4
       }
     },
@@ -428,7 +428,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -436,10 +436,10 @@
         }
       ],
       "last_stats": {
-        "views": 494,
-        "likes": 28,
-        "comments": 0,
-        "shares": 0
+        "views": 763,
+        "likes": 48,
+        "comments": 1,
+        "shares": 2
       }
     },
     {
@@ -454,7 +454,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -462,10 +462,10 @@
         }
       ],
       "last_stats": {
-        "views": 614,
-        "likes": 37,
-        "comments": 2,
-        "shares": 0
+        "views": 1037,
+        "likes": 40,
+        "comments": 3,
+        "shares": 3
       }
     },
     {
@@ -710,7 +710,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -722,10 +722,10 @@
         }
       ],
       "last_stats": {
-        "views": 372,
-        "likes": 21,
-        "comments": 0,
-        "shares": 0
+        "views": 7928,
+        "likes": 116,
+        "comments": 13,
+        "shares": 17
       }
     },
     {
@@ -778,6 +778,58 @@
         "likes": 10,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7705397435782155553",
+      "url": "https://www.tiktok.com/@kat_info/video/7705397435782155553",
+      "detected_at": "2026-11-07T11:57:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 35,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "hgdjvnfei18",
+      "video_id": "7705398225364143393",
+      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7705398225364143393",
+      "detected_at": "2026-11-07T12:00:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
