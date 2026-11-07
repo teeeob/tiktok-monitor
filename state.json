@@ -76,7 +76,7 @@
     "france.actu02": "7704763567605632289",
     "actu.choc1": "7673018569768062240",
     "infofrance_fr": "7690323229948366102",
-    "actudivers.fr": "7704792858514984225",
+    "actudivers.fr": "7705228379590577440",
     "to.suissra": "7654575792071953696",
     "essiide": "7704958907399015712",
     "univers_doc": "7705166147062107425",
@@ -182,32 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "franceecho",
-      "video_id": "7705147774722985248",
-      "url": "https://www.tiktok.com/@franceecho/video/7705147774722985248",
-      "detected_at": "2026-11-06T19:48:38+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2143,
-        "likes": 51,
-        "comments": 3,
-        "shares": 5
-      }
-    },
     {
       "handle": "lejournal.actu",
       "video_id": "7705164129480232224",
@@ -376,7 +350,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -384,8 +358,8 @@
         }
       ],
       "last_stats": {
-        "views": 335,
-        "likes": 15,
+        "views": 433,
+        "likes": 18,
         "comments": 5,
         "shares": 7
       }
@@ -402,7 +376,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -410,8 +384,8 @@
         }
       ],
       "last_stats": {
-        "views": 1972,
-        "likes": 131,
+        "views": 2090,
+        "likes": 136,
         "comments": 1,
         "shares": 2
       }
@@ -502,6 +476,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 330,
+        "likes": 20,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actudivers.fr",
+      "video_id": "7705228379590577440",
+      "url": "https://www.tiktok.com/@actudivers.fr/video/7705228379590577440",
+      "detected_at": "2026-11-07T01:01:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -514,8 +514,8 @@
         }
       ],
       "last_stats": {
-        "views": 239,
-        "likes": 16,
+        "views": 7,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
