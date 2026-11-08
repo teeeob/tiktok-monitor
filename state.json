@@ -79,7 +79,7 @@
     "actudivers.fr": "7705557821005303072",
     "to.suissra": "7654575792071953696",
     "essiide": "7705333665286425889",
-    "univers_doc": "7705418978755120416",
+    "univers_doc": "7705634754762181921",
     "infos.tv05": "7700955491324808481",
     "actufrance98": "7680998138773130528",
     "lesignal.fr": "7672033344347016481",
@@ -183,32 +183,6 @@
   },
   "pending": [
     {
-      "handle": "actudivers.fr",
-      "video_id": "7705557821005303072",
-      "url": "https://www.tiktok.com/@actudivers.fr/video/7705557821005303072",
-      "detected_at": "2026-11-07T22:19:53+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1137,
-        "likes": 33,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "franceecho",
       "video_id": "7705568441234656544",
       "url": "https://www.tiktok.com/@franceecho/video/7705568441234656544",
@@ -298,7 +272,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -306,8 +280,8 @@
         }
       ],
       "last_stats": {
-        "views": 7,
-        "likes": 1,
+        "views": 11,
+        "likes": 2,
         "comments": 0,
         "shares": 0
       }
@@ -324,7 +298,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -346,6 +320,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 271,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "univers_doc",
+      "video_id": "7705634754762181921",
+      "url": "https://www.tiktok.com/@univers_doc/video/7705634754762181921",
+      "detected_at": "2026-11-08T03:18:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -358,7 +358,7 @@
         }
       ],
       "last_stats": {
-        "views": 16,
+        "views": 28,
         "likes": 0,
         "comments": 0,
         "shares": 0
