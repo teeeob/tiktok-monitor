@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7705557821005303072",
     "to.suissra": "7654575792071953696",
-    "essiide": "7705333665286425889",
+    "essiide": "7705727680477433121",
     "univers_doc": "7705634754762181921",
     "infos.tv05": "7700955491324808481",
     "actufrance98": "7680998138773130528",
@@ -157,7 +157,7 @@
     "logikinfo": "7696790052050881814",
     "faits.divers.fr5": "7705445610882665761",
     "qur__6yy": "7705353751208430881",
-    "info.direct44": "7705544781958483233",
+    "info.direct44": "7705728342233713952",
     "hgdjvnfei18": "7705460051011587360",
     "fil_bleu_actu.fr": "7705352819351588129",
     "flash_actu24": "7701381432563830049",
@@ -182,32 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "chronoactu",
-      "video_id": "7705650970230902049",
-      "url": "https://www.tiktok.com/@chronoactu/video/7705650970230902049",
-      "detected_at": "2026-11-08T04:21:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3637,
-        "likes": 164,
-        "comments": 10,
-        "shares": 25
-      }
-    },
     {
       "handle": "actuchrono60",
       "video_id": "7705654334255664417",
@@ -294,7 +268,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -306,10 +280,10 @@
         }
       ],
       "last_stats": {
-        "views": 2,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 140,
+        "likes": 8,
+        "comments": 1,
+        "shares": 2
       }
     },
     {
@@ -320,7 +294,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -332,10 +306,10 @@
         }
       ],
       "last_stats": {
-        "views": 237,
-        "likes": 16,
-        "comments": 0,
-        "shares": 12
+        "views": 1553,
+        "likes": 46,
+        "comments": 4,
+        "shares": 13
       }
     },
     {
@@ -346,7 +320,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -358,10 +332,10 @@
         }
       ],
       "last_stats": {
-        "views": 380,
-        "likes": 10,
+        "views": 1107,
+        "likes": 38,
         "comments": 1,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -372,7 +346,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -384,8 +358,8 @@
         }
       ],
       "last_stats": {
-        "views": 113,
-        "likes": 16,
+        "views": 385,
+        "likes": 32,
         "comments": 1,
         "shares": 9
       }
@@ -398,6 +372,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 484,
+        "likes": 17,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7705727680477433121",
+      "url": "https://www.tiktok.com/@essiide/video/7705727680477433121",
+      "detected_at": "2026-11-08T09:19:02+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -410,8 +410,34 @@
         }
       ],
       "last_stats": {
-        "views": 272,
-        "likes": 15,
+        "views": 108,
+        "likes": 12,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info.direct44",
+      "video_id": "7705728342233713952",
+      "url": "https://www.tiktok.com/@info.direct44/video/7705728342233713952",
+      "detected_at": "2026-11-08T09:21:37+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
