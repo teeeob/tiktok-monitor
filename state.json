@@ -96,7 +96,7 @@
     "actufrance.tv": "7695738080170347808",
     "le.journalrapide": "7639787351190834465",
     "actufrlive": "7661341770462072096",
-    "newo.telop": "7700980106407316768",
+    "newo.telop": "7705733417865841953",
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7705187252187434272",
@@ -182,32 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "actuchrono60",
-      "video_id": "7705654334255664417",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7705654334255664417",
-      "detected_at": "2026-11-08T04:34:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 243812,
-        "likes": 7936,
-        "comments": 437,
-        "shares": 1448
-      }
-    },
     {
       "handle": "contrelaguerre",
       "video_id": "7705662593838484768",
@@ -421,6 +395,32 @@
       "video_id": "7705728342233713952",
       "url": "https://www.tiktok.com/@info.direct44/video/7705728342233713952",
       "detected_at": "2026-11-08T09:21:37+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "newo.telop",
+      "video_id": "7705733417865841953",
+      "url": "https://www.tiktok.com/@newo.telop/video/7705733417865841953",
+      "detected_at": "2026-11-08T09:41:14+00:00",
       "checks": [
         {
           "offset_h": 1,
