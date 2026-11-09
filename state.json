@@ -183,32 +183,6 @@
   },
   "pending": [
     {
-      "handle": "kat_info",
-      "video_id": "7705995461559110945",
-      "url": "https://www.tiktok.com/@kat_info/video/7705995461559110945",
-      "detected_at": "2026-11-09T02:38:46+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 6263,
-        "likes": 30,
-        "comments": 4,
-        "shares": 1
-      }
-    },
-    {
       "handle": "acturium",
       "video_id": "7706016499999313185",
       "url": "https://www.tiktok.com/@acturium/video/7706016499999313185",
@@ -298,7 +272,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -306,9 +280,9 @@
         }
       ],
       "last_stats": {
-        "views": 119,
-        "likes": 6,
-        "comments": 0,
+        "views": 202,
+        "likes": 7,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -350,7 +324,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -358,10 +332,10 @@
         }
       ],
       "last_stats": {
-        "views": 5087,
-        "likes": 102,
-        "comments": 2,
-        "shares": 95
+        "views": 28253,
+        "likes": 603,
+        "comments": 12,
+        "shares": 765
       }
     },
     {
@@ -372,7 +346,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -384,10 +358,10 @@
         }
       ],
       "last_stats": {
-        "views": 191,
-        "likes": 14,
+        "views": 1644,
+        "likes": 48,
         "comments": 0,
-        "shares": 2
+        "shares": 15
       }
     },
     {
@@ -398,7 +372,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -410,10 +384,10 @@
         }
       ],
       "last_stats": {
-        "views": 120,
-        "likes": 17,
+        "views": 618,
+        "likes": 45,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     }
   ]
