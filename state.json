@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7705831189227015457",
+    "acturium": "7706016499999313185",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7695738080170347808",
     "le.journalrapide": "7639787351190834465",
@@ -182,110 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "actuone.tv1",
-      "video_id": "7705932588120165664",
-      "url": "https://www.tiktok.com/@actuone.tv1/video/7705932588120165664",
-      "detected_at": "2026-11-08T22:34:12+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 20364,
-        "likes": 1184,
-        "comments": 20,
-        "shares": 125
-      }
-    },
-    {
-      "handle": "actudivers.fr",
-      "video_id": "7705939366346034464",
-      "url": "https://www.tiktok.com/@actudivers.fr/video/7705939366346034464",
-      "detected_at": "2026-11-08T23:00:27+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1456,
-        "likes": 60,
-        "comments": 0,
-        "shares": 3
-      }
-    },
-    {
-      "handle": "laffaire_france",
-      "video_id": "7705937185719078176",
-      "url": "https://www.tiktok.com/@laffaire_france/video/7705937185719078176",
-      "detected_at": "2026-11-08T22:52:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 13144,
-        "likes": 188,
-        "comments": 0,
-        "shares": 2
-      }
-    },
-    {
-      "handle": "parallaxeactu",
-      "video_id": "7705933954884406561",
-      "url": "https://www.tiktok.com/@parallaxeactu/video/7705933954884406561",
-      "detected_at": "2026-11-08T22:39:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 864,
-        "likes": 49,
-        "comments": 4,
-        "shares": 3
-      }
-    },
     {
       "handle": "actuchrono60",
       "video_id": "7705948367523712288",
@@ -398,6 +294,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 643,
+        "likes": 11,
+        "comments": 2,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7706016499999313185",
+      "url": "https://www.tiktok.com/@acturium/video/7706016499999313185",
+      "detected_at": "2026-11-09T04:00:05+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -410,8 +332,8 @@
         }
       ],
       "last_stats": {
-        "views": 221,
-        "likes": 4,
+        "views": 4,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
