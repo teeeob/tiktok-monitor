@@ -165,7 +165,7 @@
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
-    "flashactufr1": "7705884107640818966",
+    "flashactufr1": "7706010331570605334",
     "robactt": "7705174558269050145",
     "adnrfr": "7704730918958812449",
     "parallaxeactu": "7705933954884406561",
@@ -182,32 +182,6 @@
     "actualiflash": "7701745042481876257"
   },
   "pending": [
-    {
-      "handle": "actuchrono60",
-      "video_id": "7705948367523712288",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7705948367523712288",
-      "detected_at": "2026-11-08T23:35:31+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 122808,
-        "likes": 11863,
-        "comments": 232,
-        "shares": 2092
-      }
-    },
     {
       "handle": "univers_doc",
       "video_id": "7705963038469410081",
@@ -272,7 +246,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -320,7 +294,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -332,10 +306,10 @@
         }
       ],
       "last_stats": {
-        "views": 4,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 6454,
+        "likes": 107,
+        "comments": 2,
+        "shares": 6
       }
     },
     {
@@ -385,6 +359,32 @@
       ],
       "last_stats": {
         "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "flashactufr1",
+      "video_id": "7706010331570605334",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7706010331570605334",
+      "detected_at": "2026-11-09T05:00:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
         "likes": 0,
         "comments": 0,
         "shares": 0
