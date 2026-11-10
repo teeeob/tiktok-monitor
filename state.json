@@ -27,7 +27,7 @@
     "reclist": "7646688930988920097",
     "actuflashh": "7691346429910027552",
     "askyp.france": "7686280016946105632",
-    "infofrance.tv": "7706494216771259681",
+    "infofrance.tv": "7706515753931001121",
     "mediaflix": "7701046255513849120",
     "actu_brut.fr": "7678679027103599905",
     "tiktok.ragot": "7705438390480538912",
@@ -158,7 +158,7 @@
     "faits.divers.fr5": "7706170705116761377",
     "qur__6yy": "7705353751208430881",
     "info.direct44": "7706239552247139617",
-    "hgdjvnfei18": "7706449619420482849",
+    "hgdjvnfei18": "7706511586030112032",
     "fil_bleu_actu.fr": "7706464422130224416",
     "flash_actu24": "7701381432563830049",
     "laffaire_france": "7706509448377797921",
@@ -168,7 +168,7 @@
     "flashactufr1": "7706010331570605334",
     "robactt": "7705174558269050145",
     "adnrfr": "7706079932828388640",
-    "parallaxeactu": "7705933954884406561",
+    "parallaxeactu": "7706513524234800416",
     "franceinfo43": "7706460931340897558",
     "lejournaldefrance": "7706492695102934305",
     "france.horizon": "7706296539303480608",
@@ -328,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -336,8 +336,8 @@
         }
       ],
       "last_stats": {
-        "views": 73,
-        "likes": 4,
+        "views": 125,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
@@ -354,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 268,
-        "likes": 11,
-        "comments": 1,
-        "shares": 2
+        "views": 2841,
+        "likes": 80,
+        "comments": 4,
+        "shares": 5
       }
     },
     {
@@ -380,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -388,8 +388,8 @@
         }
       ],
       "last_stats": {
-        "views": 314,
-        "likes": 31,
+        "views": 864,
+        "likes": 56,
         "comments": 4,
         "shares": 0
       }
@@ -584,7 +584,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -596,10 +596,10 @@
         }
       ],
       "last_stats": {
-        "views": 357,
-        "likes": 17,
-        "comments": 1,
-        "shares": 4
+        "views": 859,
+        "likes": 26,
+        "comments": 2,
+        "shares": 8
       }
     },
     {
@@ -626,6 +626,84 @@
         "likes": 2,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "infofrance.tv",
+      "video_id": "7706515753931001121",
+      "url": "https://www.tiktok.com/@infofrance.tv/video/7706515753931001121",
+      "detected_at": "2026-11-10T12:17:10+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 440,
+        "likes": 24,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "hgdjvnfei18",
+      "video_id": "7706511586030112032",
+      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7706511586030112032",
+      "detected_at": "2026-11-10T12:00:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 150,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "parallaxeactu",
+      "video_id": "7706513524234800416",
+      "url": "https://www.tiktok.com/@parallaxeactu/video/7706513524234800416",
+      "detected_at": "2026-11-10T12:08:35+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 286,
+        "likes": 24,
+        "comments": 0,
+        "shares": 2
       }
     }
   ]
