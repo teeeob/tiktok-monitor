@@ -91,7 +91,7 @@
     "_alertesinfos_": "7548877178239192342",
     "actubrutefr": "7625713560387177750",
     "actualits.du.jour58": "7653476439332834593",
-    "acturium": "7706481081041603873",
+    "acturium": "7706573406312877345",
     "lecoin.info": "7656839512147971361",
     "actufrance.tv": "7695738080170347808",
     "le.journalrapide": "7639787351190834465",
@@ -158,7 +158,7 @@
     "faits.divers.fr5": "7706170705116761377",
     "qur__6yy": "7705353751208430881",
     "info.direct44": "7706239552247139617",
-    "hgdjvnfei18": "7706511586030112032",
+    "hgdjvnfei18": "7706573328319843617",
     "fil_bleu_actu.fr": "7706464422130224416",
     "flash_actu24": "7701381432563830049",
     "laffaire_france": "7706544078615268641",
@@ -186,58 +186,6 @@
     "efraim.actu": "7704734747817168161"
   },
   "pending": [
-    {
-      "handle": "langlecurieux",
-      "video_id": "7706495328802901270",
-      "url": "https://www.tiktok.com/@langlecurieux/video/7706495328802901270",
-      "detected_at": "2026-11-10T10:58:41+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 218,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "univers_doc",
-      "video_id": "7706495801731632416",
-      "url": "https://www.tiktok.com/@univers_doc/video/7706495801731632416",
-      "detected_at": "2026-11-10T10:59:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 856,
-        "likes": 33,
-        "comments": 0,
-        "shares": 1
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7706497425023765793",
@@ -662,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -674,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 1321,
+        "likes": 43,
+        "comments": 2,
+        "shares": 4
       }
     },
     {
@@ -808,6 +756,58 @@
         "likes": 18,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "acturium",
+      "video_id": "7706573406312877345",
+      "url": "https://www.tiktok.com/@acturium/video/7706573406312877345",
+      "detected_at": "2026-11-10T16:00:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "hgdjvnfei18",
+      "video_id": "7706573328319843617",
+      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7706573328319843617",
+      "detected_at": "2026-11-10T16:00:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 9,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
