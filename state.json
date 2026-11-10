@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7702159866802097440",
     "info20fr": "7706209648675769633",
-    "kat_info": "7706345002212822305",
+    "kat_info": "7706473655391243553",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7705369304719494432",
     "actu.le.fran843": "7655044164291169568",
@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7705939366346034464",
     "to.suissra": "7654575792071953696",
-    "essiide": "7705727680477433121",
+    "essiide": "7706473414151720224",
     "univers_doc": "7706265831621119264",
     "infos.tv05": "7705853920207310112",
     "actufrance98": "7680998138773130528",
@@ -127,7 +127,7 @@
     "bazar_clubfr": "7616428878394952982",
     "alerte.min": "7706249344495750433",
     "actu60seconds": "7696062032692514080",
-    "actutv_france": "7706224349417704737",
+    "actutv_france": "7706474161589308705",
     "remi4max": "7706295376642395425",
     "actud5": "7706204002639187233",
     "lenaentdeckt_": "7687587330466630945",
@@ -186,32 +186,6 @@
     "efraim.actu": "7704734747817168161"
   },
   "pending": [
-    {
-      "handle": "chronoactu",
-      "video_id": "7706397147964476704",
-      "url": "https://www.tiktok.com/@chronoactu/video/7706397147964476704",
-      "detected_at": "2026-11-10T04:37:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9603,
-        "likes": 212,
-        "comments": 15,
-        "shares": 10
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7706406037359840545",
@@ -428,7 +402,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 47,
-        "likes": 9,
-        "comments": 1,
-        "shares": 0
+        "views": 1176,
+        "likes": 56,
+        "comments": 4,
+        "shares": 3
       }
     },
     {
@@ -454,7 +428,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -466,9 +440,9 @@
         }
       ],
       "last_stats": {
-        "views": 117,
-        "likes": 5,
-        "comments": 0,
+        "views": 402,
+        "likes": 22,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -494,6 +468,84 @@
       "last_stats": {
         "views": 14,
         "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7706473655391243553",
+      "url": "https://www.tiktok.com/@kat_info/video/7706473655391243553",
+      "detected_at": "2026-11-10T09:33:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 173,
+        "likes": 11,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7706473414151720224",
+      "url": "https://www.tiktok.com/@essiide/video/7706473414151720224",
+      "detected_at": "2026-11-10T09:32:54+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 213,
+        "likes": 25,
+        "comments": 3,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actutv_france",
+      "video_id": "7706474161589308705",
+      "url": "https://www.tiktok.com/@actutv_france/video/7706474161589308705",
+      "detected_at": "2026-11-10T09:35:56+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 131,
+        "likes": 3,
         "comments": 0,
         "shares": 0
       }
