@@ -125,10 +125,10 @@
     "jtmonde1": "7692877695922785569",
     "le_signalfr": "7677974224098676001",
     "bazar_clubfr": "7616428878394952982",
-    "alerte.min": "7706683508244188438",
+    "alerte.min": "7706695761035103510",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7706553434861866272",
-    "remi4max": "7706610487680683296",
+    "remi4max": "7706833088428526880",
     "actud5": "7706826492700921120",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
@@ -302,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 623,
-        "likes": 7,
-        "comments": 0,
-        "shares": 2
+        "views": 14658,
+        "likes": 278,
+        "comments": 26,
+        "shares": 106
       }
     },
     {
@@ -428,7 +428,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 674,
+        "likes": 9,
+        "comments": 1,
+        "shares": 2
       }
     },
     {
@@ -469,6 +469,58 @@
         "views": 76,
         "likes": 5,
         "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "alerte.min",
+      "video_id": "7706695761035103510",
+      "url": "https://www.tiktok.com/@alerte.min/video/7706695761035103510",
+      "detected_at": "2026-11-11T09:00:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7706833088428526880",
+      "url": "https://www.tiktok.com/@remi4max/video/7706833088428526880",
+      "detected_at": "2026-11-11T08:48:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 265,
+        "likes": 11,
+        "comments": 0,
         "shares": 1
       }
     }
