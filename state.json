@@ -3,7 +3,7 @@
     "karaokefou": "7527714681310432534",
     "sebinfos": "7621267460284484886",
     "lejournal.actu": "7706544328201571616",
-    "chronoactu": "7706545653270220064",
+    "chronoactu": "7706761766465719585",
     "infos.minutes": "7700761746750901536",
     "alarmeactu": "7695956366476774689",
     "actumedias": "7523926913388170518",
@@ -214,32 +214,6 @@
     },
     {
       "handle": "kat_info",
-      "video_id": "7706690007276326177",
-      "url": "https://www.tiktok.com/@kat_info/video/7706690007276326177",
-      "detected_at": "2026-11-10T23:33:24+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1588,
-        "likes": 19,
-        "comments": 2,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "kat_info",
       "video_id": "7706710649862196513",
       "url": "https://www.tiktok.com/@kat_info/video/7706710649862196513",
       "detected_at": "2026-11-11T00:53:49+00:00",
@@ -365,6 +339,32 @@
         "views": 354,
         "likes": 12,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "chronoactu",
+      "video_id": "7706761766465719585",
+      "url": "https://www.tiktok.com/@chronoactu/video/7706761766465719585",
+      "detected_at": "2026-11-11T04:12:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 218,
+        "likes": 11,
+        "comments": 0,
         "shares": 0
       }
     }
