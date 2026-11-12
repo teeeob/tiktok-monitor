@@ -147,7 +147,7 @@
     "le_nectarium": "7699562821993925921",
     "onparlecine98": "7705816551542295841",
     "monsieur_salem": "7701431809762004256",
-    "instantpeople": "7707019182159842592",
+    "instantpeople": "7707169786832112929",
     "infoexpress35": "7702217911389228321",
     "minutepeople.fr": "7706181913186159905",
     "lemondeact": "7697334249367653664",
@@ -224,7 +224,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -232,10 +232,10 @@
         }
       ],
       "last_stats": {
-        "views": 545,
-        "likes": 8,
+        "views": 1102,
+        "likes": 16,
         "comments": 0,
-        "shares": 3
+        "shares": 13
       }
     },
     {
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 199,
-        "likes": 22,
+        "views": 2275,
+        "likes": 47,
         "comments": 0,
-        "shares": 1
+        "shares": 3
       }
     },
     {
@@ -321,6 +321,32 @@
       "video_id": "7707031936342019350",
       "url": "https://www.tiktok.com/@alerte.min/video/7707031936342019350",
       "detected_at": "2026-11-12T06:00:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1151,
+        "likes": 17,
+        "comments": 1,
+        "shares": 7
+      }
+    },
+    {
+      "handle": "instantpeople",
+      "video_id": "7707169786832112929",
+      "url": "https://www.tiktok.com/@instantpeople/video/7707169786832112929",
+      "detected_at": "2026-11-12T06:35:15+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -336,8 +362,8 @@
         }
       ],
       "last_stats": {
-        "views": 31,
-        "likes": 1,
+        "views": 102,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
