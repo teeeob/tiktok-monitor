@@ -128,7 +128,7 @@
     "alerte.min": "7707264442257378582",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7706553434861866272",
-    "remi4max": "7707200831753325857",
+    "remi4max": "7707306243517467937",
     "actud5": "7707218359938534689",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
@@ -182,7 +182,7 @@
     "actualiflash": "7701745042481876257",
     "actufrance70": "7704593162517466400",
     "faisdivers.fr": "7707280417954499872",
-    "lefil.info": "7706200825193860384",
+    "lefil.info": "7707302919405686038",
     "efraim.actu": "7706958346212936993"
   },
   "pending": [
@@ -458,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,8 +466,8 @@
         }
       ],
       "last_stats": {
-        "views": 385,
-        "likes": 13,
+        "views": 652,
+        "likes": 19,
         "comments": 1,
         "shares": 0
       }
@@ -484,7 +484,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,8 +492,8 @@
         }
       ],
       "last_stats": {
-        "views": 43,
-        "likes": 8,
+        "views": 95,
+        "likes": 12,
         "comments": 0,
         "shares": 0
       }
@@ -834,6 +834,58 @@
         "likes": 17,
         "comments": 1,
         "shares": 1
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7707306243517467937",
+      "url": "https://www.tiktok.com/@remi4max/video/7707306243517467937",
+      "detected_at": "2026-11-12T15:24:38+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 115,
+        "likes": 15,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lefil.info",
+      "video_id": "7707302919405686038",
+      "url": "https://www.tiktok.com/@lefil.info/video/7707302919405686038",
+      "detected_at": "2026-11-12T15:12:52+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 173,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
