@@ -154,7 +154,7 @@
     "actuplus_info": "7706421096400129312",
     "leradar.fr33": "7707570611207359777",
     "lepointactuu": "7704694550404566305",
-    "logikinfo": "7707640617169440032",
+    "logikinfo": "7707632007655820576",
     "faits.divers.fr5": "7707545516900371744",
     "qur__6yy": "7705353751208430881",
     "info.direct44": "7706968810003238176",
@@ -186,32 +186,6 @@
     "efraim.actu": "7707338541734415649"
   },
   "pending": [
-    {
-      "handle": "leradar.fr33",
-      "video_id": "7707570611207359777",
-      "url": "https://www.tiktok.com/@leradar.fr33/video/7707570611207359777",
-      "detected_at": "2026-11-13T08:30:36+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7151,
-        "likes": 87,
-        "comments": 9,
-        "shares": 6
-      }
-    },
     {
       "handle": "info20fr",
       "video_id": "7707572652864474401",
@@ -484,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,8 +466,8 @@
         }
       ],
       "last_stats": {
-        "views": 38,
-        "likes": 2,
+        "views": 53,
+        "likes": 4,
         "comments": 2,
         "shares": 0
       }
@@ -662,7 +636,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -674,8 +648,8 @@
         }
       ],
       "last_stats": {
-        "views": 17,
-        "likes": 1,
+        "views": 110,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
@@ -782,6 +756,32 @@
         "likes": 6,
         "comments": 0,
         "shares": 2
+      }
+    },
+    {
+      "handle": "logikinfo",
+      "video_id": "7707632007655820576",
+      "url": "https://www.tiktok.com/@logikinfo/video/7707632007655820576",
+      "detected_at": "2026-11-13T12:28:49+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 110,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
