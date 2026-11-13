@@ -187,58 +187,6 @@
   },
   "pending": [
     {
-      "handle": "tiktok.ragot",
-      "video_id": "7707708451975187744",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7707708451975187744",
-      "detected_at": "2026-11-13T17:25:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 15876,
-        "likes": 226,
-        "comments": 15,
-        "shares": 11
-      }
-    },
-    {
-      "handle": "alerte.min",
-      "video_id": "7707708584770948384",
-      "url": "https://www.tiktok.com/@alerte.min/video/7707708584770948384",
-      "detected_at": "2026-11-13T17:25:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 965,
-        "likes": 41,
-        "comments": 0,
-        "shares": 3
-      }
-    },
-    {
       "handle": "flashactufr1",
       "video_id": "7707466501619567894",
       "url": "https://www.tiktok.com/@flashactufr1/video/7707466501619567894",
@@ -432,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 334,
-        "likes": 58,
+        "views": 373,
+        "likes": 60,
         "comments": 2,
-        "shares": 2
+        "shares": 3
       }
     },
     {
@@ -792,7 +740,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -804,8 +752,8 @@
         }
       ],
       "last_stats": {
-        "views": 86,
-        "likes": 7,
+        "views": 294,
+        "likes": 27,
         "comments": 0,
         "shares": 0
       }
