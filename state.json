@@ -42,7 +42,7 @@
     "lejournal.actu2": "7707318715657784608",
     "en.bref_": "7639431069082586401",
     "509stories": "7688507134190931232",
-    "contrelaguerre": "7707555250911087905",
+    "contrelaguerre": "7707764467387469088",
     "actubrute_fr": "7697625816531766561",
     "actuone.tv1": "7707739300074622210",
     "actuenbref.tv": "7707666838762589473",
@@ -76,7 +76,7 @@
     "france.actu02": "7704409340882455841",
     "actu.choc1": "7673018569768062240",
     "infofrance_fr": "7690323229948366102",
-    "actudivers.fr": "7707299450087148832",
+    "actudivers.fr": "7707770453871332640",
     "to.suissra": "7654575792071953696",
     "essiide": "7707675674340887840",
     "univers_doc": "7707493322851405089",
@@ -186,58 +186,6 @@
     "efraim.actu": "7707338541734415649"
   },
   "pending": [
-    {
-      "handle": "franceinfo43",
-      "video_id": "7707691984915418390",
-      "url": "https://www.tiktok.com/@franceinfo43/video/7707691984915418390",
-      "detected_at": "2026-11-13T16:21:33+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 9612,
-        "likes": 100,
-        "comments": 7,
-        "shares": 27
-      }
-    },
-    {
-      "handle": "laffaire_france",
-      "video_id": "7707694868579061024",
-      "url": "https://www.tiktok.com/@laffaire_france/video/7707694868579061024",
-      "detected_at": "2026-11-13T16:32:42+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 704,
-        "likes": 30,
-        "comments": 1,
-        "shares": 0
-      }
-    },
     {
       "handle": "zopinfo",
       "video_id": "7707696618459417889",
@@ -484,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,8 +440,8 @@
         }
       ],
       "last_stats": {
-        "views": 1254,
-        "likes": 44,
+        "views": 1652,
+        "likes": 55,
         "comments": 1,
         "shares": 0
       }
@@ -510,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -518,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 1086,
-        "likes": 45,
+        "views": 5336,
+        "likes": 186,
         "comments": 1,
-        "shares": 0
+        "shares": 4
       }
     },
     {
@@ -844,7 +792,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -856,8 +804,8 @@
         }
       ],
       "last_stats": {
-        "views": 80,
-        "likes": 1,
+        "views": 139,
+        "likes": 6,
         "comments": 0,
         "shares": 0
       }
@@ -963,6 +911,58 @@
         "views": 221,
         "likes": 6,
         "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "contrelaguerre",
+      "video_id": "7707764467387469088",
+      "url": "https://www.tiktok.com/@contrelaguerre/video/7707764467387469088",
+      "detected_at": "2026-11-13T21:02:47+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 519,
+        "likes": 6,
+        "comments": 1,
+        "shares": 6
+      }
+    },
+    {
+      "handle": "actudivers.fr",
+      "video_id": "7707770453871332640",
+      "url": "https://www.tiktok.com/@actudivers.fr/video/7707770453871332640",
+      "detected_at": "2026-11-13T21:26:01+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 86,
+        "likes": 7,
+        "comments": 0,
         "shares": 0
       }
     }
