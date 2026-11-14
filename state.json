@@ -168,7 +168,7 @@
     "flashactufr1": "7707849375363501314",
     "robactt": "7707752253553200416",
     "adnrfr": "7707966392364010785",
-    "parallaxeactu": "7707864420977823009",
+    "parallaxeactu": "7708059442679516448",
     "franceinfo43": "7707884001037454614",
     "lejournaldefrance": "7707734000277703968",
     "france.horizon": "7707053386792733985",
@@ -210,84 +210,6 @@
         "likes": 62,
         "comments": 4,
         "shares": 51
-      }
-    },
-    {
-      "handle": "actu_minute_info",
-      "video_id": "7707982011079724320",
-      "url": "https://www.tiktok.com/@actu_minute_info/video/7707982011079724320",
-      "detected_at": "2026-11-14T11:07:00+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 24643,
-        "likes": 432,
-        "comments": 42,
-        "shares": 402
-      }
-    },
-    {
-      "handle": "acturium",
-      "video_id": "7707981397490683168",
-      "url": "https://www.tiktok.com/@acturium/video/7707981397490683168",
-      "detected_at": "2026-11-14T11:04:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 36144,
-        "likes": 329,
-        "comments": 57,
-        "shares": 32
-      }
-    },
-    {
-      "handle": "alerte.min",
-      "video_id": "7707982056315292961",
-      "url": "https://www.tiktok.com/@alerte.min/video/7707982056315292961",
-      "detected_at": "2026-11-14T11:07:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7275,
-        "likes": 189,
-        "comments": 5,
-        "shares": 112
       }
     },
     {
@@ -458,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 1765,
-        "likes": 23,
+        "views": 2724,
+        "likes": 37,
         "comments": 3,
-        "shares": 9
+        "shares": 17
       }
     },
     {
@@ -884,6 +806,32 @@
       "last_stats": {
         "views": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "parallaxeactu",
+      "video_id": "7708059442679516448",
+      "url": "https://www.tiktok.com/@parallaxeactu/video/7708059442679516448",
+      "detected_at": "2026-11-14T16:07:27+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 93,
+        "likes": 7,
         "comments": 0,
         "shares": 0
       }
