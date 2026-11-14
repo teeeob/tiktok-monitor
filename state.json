@@ -47,7 +47,7 @@
     "actuone.tv1": "7707739300074622210",
     "actuenbref.tv": "7707666838762589473",
     "actuexpressfr0": "7696897356272258337",
-    "langlecurieux": "7707325765943102742",
+    "langlecurieux": "7708030065761701142",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7707981115818249505",
@@ -157,7 +157,7 @@
     "logikinfo": "7707675573694303520",
     "faits.divers.fr5": "7707963958790999328",
     "qur__6yy": "7705353751208430881",
-    "info.direct44": "7708001378785889569",
+    "info.direct44": "7707763448641260833",
     "hgdjvnfei18": "7707995783991266593",
     "fil_bleu_actu.fr": "7707947146573614369",
     "flash_actu24": "7701381432563830049",
@@ -186,58 +186,6 @@
     "efraim.actu": "7707338541734415649"
   },
   "pending": [
-    {
-      "handle": "zopinfo",
-      "video_id": "7707956059792477473",
-      "url": "https://www.tiktok.com/@zopinfo/video/7707956059792477473",
-      "detected_at": "2026-11-14T09:26:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8648,
-        "likes": 211,
-        "comments": 3,
-        "shares": 175
-      }
-    },
-    {
-      "handle": "leradar.fr33",
-      "video_id": "7707956609351306529",
-      "url": "https://www.tiktok.com/@leradar.fr33/video/7707956609351306529",
-      "detected_at": "2026-11-14T09:28:28+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 92,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "info20fr",
       "video_id": "7707964469716077856",
@@ -406,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 713,
-        "likes": 28,
-        "comments": 1,
-        "shares": 4
+        "views": 2643,
+        "likes": 62,
+        "comments": 4,
+        "shares": 51
       }
     },
     {
@@ -432,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 1489,
-        "likes": 31,
-        "comments": 4,
-        "shares": 7
+        "views": 24643,
+        "likes": 432,
+        "comments": 42,
+        "shares": 402
       }
     },
     {
@@ -510,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -518,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 2128,
-        "likes": 74,
-        "comments": 1,
-        "shares": 27
+        "views": 7275,
+        "likes": 189,
+        "comments": 5,
+        "shares": 112
       }
     },
     {
@@ -688,7 +636,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -700,10 +648,10 @@
         }
       ],
       "last_stats": {
-        "views": 387,
-        "likes": 7,
-        "comments": 0,
-        "shares": 1
+        "views": 1765,
+        "likes": 23,
+        "comments": 3,
+        "shares": 9
       }
     },
     {
@@ -714,7 +662,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -726,10 +674,10 @@
         }
       ],
       "last_stats": {
-        "views": 256,
-        "likes": 8,
+        "views": 1530,
+        "likes": 46,
         "comments": 0,
-        "shares": 6
+        "shares": 38
       }
     },
     {
@@ -780,6 +728,32 @@
       "last_stats": {
         "views": 25,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "langlecurieux",
+      "video_id": "7708030065761701142",
+      "url": "https://www.tiktok.com/@langlecurieux/video/7708030065761701142",
+      "detected_at": "2026-11-14T14:14:39+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 93,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
