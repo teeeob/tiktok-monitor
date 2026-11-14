@@ -47,7 +47,7 @@
     "actuone.tv1": "7707739300074622210",
     "actuenbref.tv": "7707666838762589473",
     "actuexpressfr0": "7696897356272258337",
-    "langlecurieux": "7707855554277838103",
+    "langlecurieux": "7707860166636588310",
     "actualoff_fr": "7669692052082265377",
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7707737132244192544",
@@ -168,7 +168,7 @@
     "flashactufr1": "7707466501619567894",
     "robactt": "7707752253553200416",
     "adnrfr": "7707704962725268768",
-    "parallaxeactu": "7707339665803693345",
+    "parallaxeactu": "7707864420977823009",
     "franceinfo43": "7707691984915418390",
     "lejournaldefrance": "7707734000277703968",
     "france.horizon": "7707053386792733985",
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 384,
-        "likes": 18,
-        "comments": 0,
-        "shares": 2
+        "views": 4632,
+        "likes": 76,
+        "comments": 4,
+        "shares": 40
       }
     },
     {
@@ -389,6 +389,58 @@
       ],
       "last_stats": {
         "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "langlecurieux",
+      "video_id": "7707860166636588310",
+      "url": "https://www.tiktok.com/@langlecurieux/video/7707860166636588310",
+      "detected_at": "2026-11-14T03:15:20+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "parallaxeactu",
+      "video_id": "7707864420977823009",
+      "url": "https://www.tiktok.com/@parallaxeactu/video/7707864420977823009",
+      "detected_at": "2026-11-14T03:31:22+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0
