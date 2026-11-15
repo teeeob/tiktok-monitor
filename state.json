@@ -41,7 +41,7 @@
     "latiktokinfo": "7664191749606133025",
     "lejournal.actu2": "7707805756053097750",
     "en.bref_": "7639431069082586401",
-    "509stories": "7688507134190931232",
+    "509stories": "7708249973669858593",
     "contrelaguerre": "7708264961478315296",
     "actubrute_fr": "7697625816531766561",
     "actuone.tv1": "7707739300074622210",
@@ -129,7 +129,7 @@
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7706553434861866272",
     "remi4max": "7708086086613962017",
-    "actud5": "7708057835795434785",
+    "actud5": "7708321784491281696",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
     "actuexpress01": "7695748417334578465",
@@ -152,7 +152,7 @@
     "minutepeople.fr": "7708232949363166497",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7706421096400129312",
-    "leradar.fr33": "7708144556788747553",
+    "leradar.fr33": "7708323748507651360",
     "lepointactuu": "7704694550404566305",
     "logikinfo": "7707675573694303520",
     "faits.divers.fr5": "7708124840011533601",
@@ -183,7 +183,7 @@
     "actufrance70": "7704593162517466400",
     "faisdivers.fr": "7708148436763200801",
     "lefil.info": "7707302919405686038",
-    "efraim.actu": "7707338541734415649"
+    "efraim.actu": "7708321764182363425"
   },
   "pending": [
     {
@@ -350,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -362,8 +362,8 @@
         }
       ],
       "last_stats": {
-        "views": 421,
-        "likes": 22,
+        "views": 743,
+        "likes": 33,
         "comments": 1,
         "shares": 4
       }
@@ -376,7 +376,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -388,9 +388,9 @@
         }
       ],
       "last_stats": {
-        "views": 88,
-        "likes": 11,
-        "comments": 0,
+        "views": 514,
+        "likes": 27,
+        "comments": 2,
         "shares": 3
       }
     },
@@ -418,6 +418,110 @@
         "likes": 13,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "509stories",
+      "video_id": "7708249973669858593",
+      "url": "https://www.tiktok.com/@509stories/video/7708249973669858593",
+      "detected_at": "2026-11-15T09:10:00+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 145,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actud5",
+      "video_id": "7708321784491281696",
+      "url": "https://www.tiktok.com/@actud5/video/7708321784491281696",
+      "detected_at": "2026-11-15T09:05:31+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 250,
+        "likes": 13,
+        "comments": 1,
+        "shares": 3
+      }
+    },
+    {
+      "handle": "leradar.fr33",
+      "video_id": "7708323748507651360",
+      "url": "https://www.tiktok.com/@leradar.fr33/video/7708323748507651360",
+      "detected_at": "2026-11-15T09:13:08+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "efraim.actu",
+      "video_id": "7708321764182363425",
+      "url": "https://www.tiktok.com/@efraim.actu/video/7708321764182363425",
+      "detected_at": "2026-11-15T09:05:24+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 452,
+        "likes": 50,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
