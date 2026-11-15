@@ -149,7 +149,7 @@
     "monsieur_salem": "7701431809762004256",
     "instantpeople": "7707169786832112929",
     "infoexpress35": "7702217911389228321",
-    "minutepeople.fr": "7708132978043391265",
+    "minutepeople.fr": "7708196330492939552",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7706421096400129312",
     "leradar.fr33": "7708144556788747553",
@@ -186,58 +186,6 @@
     "efraim.actu": "7707338541734415649"
   },
   "pending": [
-    {
-      "handle": "mediaflix",
-      "video_id": "7708117964234575136",
-      "url": "https://www.tiktok.com/@mediaflix/video/7708117964234575136",
-      "detected_at": "2026-11-14T19:54:33+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 8759,
-        "likes": 55,
-        "comments": 8,
-        "shares": 17
-      }
-    },
-    {
-      "handle": "hgdjvnfei18",
-      "video_id": "7708119495801392416",
-      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7708119495801392416",
-      "detected_at": "2026-11-14T20:00:06+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 7062,
-        "likes": 89,
-        "comments": 6,
-        "shares": 7
-      }
-    },
     {
       "handle": "actufrance_14",
       "video_id": "7708120394376498465",
@@ -406,7 +354,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +362,10 @@
         }
       ],
       "last_stats": {
-        "views": 7099,
-        "likes": 165,
-        "comments": 8,
-        "shares": 17
+        "views": 22911,
+        "likes": 655,
+        "comments": 24,
+        "shares": 84
       }
     },
     {
@@ -432,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,7 +388,7 @@
         }
       ],
       "last_stats": {
-        "views": 285,
+        "views": 337,
         "likes": 7,
         "comments": 1,
         "shares": 0
@@ -458,7 +406,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 1780,
-        "likes": 53,
-        "comments": 6,
-        "shares": 7
+        "views": 4345,
+        "likes": 149,
+        "comments": 16,
+        "shares": 12
       }
     },
     {
@@ -484,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,7 +440,7 @@
         }
       ],
       "last_stats": {
-        "views": 1168,
+        "views": 1222,
         "likes": 11,
         "comments": 3,
         "shares": 0
@@ -610,6 +558,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 5186,
+        "likes": 47,
+        "comments": 1,
+        "shares": 1
+      }
+    },
+    {
+      "handle": "minutepeople.fr",
+      "video_id": "7708196330492939552",
+      "url": "https://www.tiktok.com/@minutepeople.fr/video/7708196330492939552",
+      "detected_at": "2026-11-15T00:58:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -622,10 +596,10 @@
         }
       ],
       "last_stats": {
-        "views": 5,
-        "likes": 0,
+        "views": 112,
+        "likes": 6,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     }
   ]
