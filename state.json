@@ -157,7 +157,7 @@
     "logikinfo": "7707675573694303520",
     "faits.divers.fr5": "7708124840011533601",
     "qur__6yy": "7705353751208430881",
-    "info.direct44": "7708074967849602337",
+    "info.direct44": "7708181650403806496",
     "hgdjvnfei18": "7708119495801392416",
     "fil_bleu_actu.fr": "7707947146573614369",
     "flash_actu24": "7701381432563830049",
@@ -186,58 +186,6 @@
     "efraim.actu": "7707338541734415649"
   },
   "pending": [
-    {
-      "handle": "info20fr",
-      "video_id": "7708103306589015329",
-      "url": "https://www.tiktok.com/@info20fr/video/7708103306589015329",
-      "detected_at": "2026-11-14T18:57:40+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 3165,
-        "likes": 211,
-        "comments": 7,
-        "shares": 4
-      }
-    },
-    {
-      "handle": "franceecho",
-      "video_id": "7708100903940803872",
-      "url": "https://www.tiktok.com/@franceecho/video/7708100903940803872",
-      "detected_at": "2026-11-14T18:48:18+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1263,
-        "likes": 43,
-        "comments": 1,
-        "shares": 3
-      }
-    },
     {
       "handle": "infofrance.tv",
       "video_id": "7708109615417920801",
@@ -484,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -492,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 2276,
-        "likes": 59,
-        "comments": 3,
-        "shares": 21
+        "views": 6924,
+        "likes": 193,
+        "comments": 7,
+        "shares": 118
       }
     },
     {
@@ -510,7 +458,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -518,10 +466,10 @@
         }
       ],
       "last_stats": {
-        "views": 9503,
-        "likes": 199,
-        "comments": 1,
-        "shares": 4
+        "views": 24499,
+        "likes": 520,
+        "comments": 8,
+        "shares": 15
       }
     },
     {
@@ -536,7 +484,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -544,7 +492,7 @@
         }
       ],
       "last_stats": {
-        "views": 1,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "shares": 0
@@ -714,7 +662,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -726,8 +674,8 @@
         }
       ],
       "last_stats": {
-        "views": 1,
-        "likes": 0,
+        "views": 253,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
@@ -737,6 +685,32 @@
       "video_id": "7708166582265990422",
       "url": "https://www.tiktok.com/@flashactufr1/video/7708166582265990422",
       "detected_at": "2026-11-14T23:03:14+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 192,
+        "likes": 19,
+        "comments": 5,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info.direct44",
+      "video_id": "7708181650403806496",
+      "url": "https://www.tiktok.com/@info.direct44/video/7708181650403806496",
+      "detected_at": "2026-11-15T00:01:42+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -752,9 +726,9 @@
         }
       ],
       "last_stats": {
-        "views": 124,
-        "likes": 8,
-        "comments": 1,
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
         "shares": 0
       }
     }
