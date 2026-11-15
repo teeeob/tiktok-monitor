@@ -140,7 +140,7 @@
     "neratepaslinfo": "7708065574542183712",
     "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
-    "lejournal_fr": "7707936564604603681",
+    "lejournal_fr": "7708315943335693600",
     "francedirectinfo": "7701710078608411936",
     "brut.story": "7644226401763134752",
     "lequotidien.actu": "7700113608079904032",
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 563,
+        "likes": 46,
+        "comments": 5,
+        "shares": 1
       }
     },
     {
@@ -324,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -336,8 +336,8 @@
         }
       ],
       "last_stats": {
-        "views": 82,
-        "likes": 6,
+        "views": 114,
+        "likes": 8,
         "comments": 0,
         "shares": 0
       }
@@ -392,6 +392,32 @@
         "likes": 11,
         "comments": 0,
         "shares": 3
+      }
+    },
+    {
+      "handle": "lejournal_fr",
+      "video_id": "7708315943335693600",
+      "url": "https://www.tiktok.com/@lejournal_fr/video/7708315943335693600",
+      "detected_at": "2026-11-15T08:42:50+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 126,
+        "likes": 13,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
