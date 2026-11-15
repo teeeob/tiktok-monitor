@@ -187,110 +187,6 @@
   },
   "pending": [
     {
-      "handle": "tiktok.ragot",
-      "video_id": "7708145049795693857",
-      "url": "https://www.tiktok.com/@tiktok.ragot/video/7708145049795693857",
-      "detected_at": "2026-11-14T21:39:39+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 22911,
-        "likes": 655,
-        "comments": 24,
-        "shares": 84
-      }
-    },
-    {
-      "handle": "leradar.fr33",
-      "video_id": "7708144556788747553",
-      "url": "https://www.tiktok.com/@leradar.fr33/video/7708144556788747553",
-      "detected_at": "2026-11-14T21:37:44+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 337,
-        "likes": 7,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "france24actu",
-      "video_id": "7708144936364920096",
-      "url": "https://www.tiktok.com/@france24actu/video/7708144936364920096",
-      "detected_at": "2026-11-14T21:39:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4345,
-        "likes": 149,
-        "comments": 16,
-        "shares": 12
-      }
-    },
-    {
-      "handle": "faisdivers.fr",
-      "video_id": "7708148436763200801",
-      "url": "https://www.tiktok.com/@faisdivers.fr/video/7708148436763200801",
-      "detected_at": "2026-11-14T21:52:49+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1222,
-        "likes": 11,
-        "comments": 3,
-        "shares": 0
-      }
-    },
-    {
       "handle": "francedecouvertes",
       "video_id": "7708153640258719009",
       "url": "https://www.tiktok.com/@francedecouvertes/video/7708153640258719009",
@@ -406,7 +302,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 5186,
-        "likes": 47,
+        "views": 9062,
+        "likes": 70,
         "comments": 1,
-        "shares": 1
+        "shares": 2
       }
     },
     {
