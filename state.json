@@ -149,7 +149,7 @@
     "monsieur_salem": "7701431809762004256",
     "instantpeople": "7707169786832112929",
     "infoexpress35": "7702217911389228321",
-    "minutepeople.fr": "7708814728780401952",
+    "minutepeople.fr": "7708956103589072160",
     "lemondeact": "7697334249367653664",
     "actuplus_info": "7706421096400129312",
     "leradar.fr33": "7708779750373870880",
@@ -186,84 +186,6 @@
     "efraim.actu": "7708321764182363425"
   },
   "pending": [
-    {
-      "handle": "actuchrono60",
-      "video_id": "7708883984972926240",
-      "url": "https://www.tiktok.com/@actuchrono60/video/7708883984972926240",
-      "detected_at": "2026-11-16T21:27:05+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 370738,
-        "likes": 12495,
-        "comments": 318,
-        "shares": 611
-      }
-    },
-    {
-      "handle": "francedecouvertes",
-      "video_id": "7708882128020262176",
-      "url": "https://www.tiktok.com/@francedecouvertes/video/7708882128020262176",
-      "detected_at": "2026-11-16T21:19:52+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 893,
-        "likes": 20,
-        "comments": 4,
-        "shares": 15
-      }
-    },
-    {
-      "handle": "laffaire_france",
-      "video_id": "7708882891186375968",
-      "url": "https://www.tiktok.com/@laffaire_france/video/7708882891186375968",
-      "detected_at": "2026-11-16T21:22:49+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 498,
-        "likes": 17,
-        "comments": 1,
-        "shares": 0
-      }
-    },
     {
       "handle": "france.actu02",
       "video_id": "7708890787563556129",
@@ -354,7 +276,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,9 +284,9 @@
         }
       ],
       "last_stats": {
-        "views": 1323,
-        "likes": 21,
-        "comments": 1,
+        "views": 5562,
+        "likes": 51,
+        "comments": 2,
         "shares": 1
       }
     },
@@ -402,7 +324,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -414,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 490,
-        "likes": 11,
+        "views": 9636,
+        "likes": 143,
         "comments": 0,
-        "shares": 7
+        "shares": 84
       }
     },
     {
@@ -428,7 +350,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -440,8 +362,8 @@
         }
       ],
       "last_stats": {
-        "views": 134,
-        "likes": 8,
+        "views": 480,
+        "likes": 22,
         "comments": 1,
         "shares": 0
       }
@@ -454,6 +376,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2513,
+        "likes": 51,
+        "comments": 0,
+        "shares": 10
+      }
+    },
+    {
+      "handle": "minutepeople.fr",
+      "video_id": "7708956103589072160",
+      "url": "https://www.tiktok.com/@minutepeople.fr/video/7708956103589072160",
+      "detected_at": "2026-11-17T02:07:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -466,9 +414,9 @@
         }
       ],
       "last_stats": {
-        "views": 913,
-        "likes": 13,
-        "comments": 0,
+        "views": 398,
+        "likes": 18,
+        "comments": 2,
         "shares": 5
       }
     }
