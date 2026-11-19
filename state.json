@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7700658436958178592",
-    "zopinfo": "7709910117906451745",
+    "zopinfo": "7709937130486697248",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7709408316891368736",
     "actuchrono60": "7709900626351672609",
@@ -73,7 +73,7 @@
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7709535900815904032",
     "actu.le.fran843": "7655044164291169568",
-    "france.actu02": "7709930736551267616",
+    "france.actu02": "7709939913373895968",
     "actu.choc1": "7673018569768062240",
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7709633021317516577",
@@ -186,32 +186,6 @@
     "efraim.actu": "7708321764182363425"
   },
   "pending": [
-    {
-      "handle": "buzzalerte",
-      "video_id": "7709863358790372640",
-      "url": "https://www.tiktok.com/@buzzalerte/video/7709863358790372640",
-      "detected_at": "2026-11-19T12:47:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 65,
-        "likes": 6,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "actualiflash",
       "video_id": "7709870736617278752",
@@ -432,7 +406,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -440,8 +414,8 @@
         }
       ],
       "last_stats": {
-        "views": 216,
-        "likes": 19,
+        "views": 268,
+        "likes": 20,
         "comments": 1,
         "shares": 2
       }
@@ -636,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -648,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 13,
-        "likes": 1,
+        "views": 397,
+        "likes": 10,
         "comments": 0,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -662,7 +636,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -674,10 +648,10 @@
         }
       ],
       "last_stats": {
-        "views": 359,
-        "likes": 14,
-        "comments": 1,
-        "shares": 1
+        "views": 3806,
+        "likes": 73,
+        "comments": 11,
+        "shares": 17
       }
     },
     {
@@ -688,7 +662,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -700,9 +674,9 @@
         }
       ],
       "last_stats": {
-        "views": 36,
-        "likes": 2,
-        "comments": 0,
+        "views": 197,
+        "likes": 21,
+        "comments": 1,
         "shares": 3
       }
     },
@@ -714,7 +688,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -726,10 +700,10 @@
         }
       ],
       "last_stats": {
-        "views": 181,
-        "likes": 13,
-        "comments": 0,
-        "shares": 11
+        "views": 1041,
+        "likes": 40,
+        "comments": 1,
+        "shares": 36
       }
     },
     {
@@ -766,7 +740,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -782,6 +756,58 @@
         "likes": 1,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7709937130486697248",
+      "url": "https://www.tiktok.com/@zopinfo/video/7709937130486697248",
+      "detected_at": "2026-11-19T17:33:48+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 160,
+        "likes": 11,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "france.actu02",
+      "video_id": "7709939913373895968",
+      "url": "https://www.tiktok.com/@france.actu02/video/7709939913373895968",
+      "detected_at": "2026-11-19T17:44:36+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 88,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
