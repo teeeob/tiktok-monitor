@@ -52,7 +52,7 @@
     "franais3097": "7629779767809674518",
     "journalfrancetv": "7709582168107863329",
     "ora_418": "7708413510144871712",
-    "actufrance36": "7709594728433569057",
+    "actufrance36": "7709839354708987169",
     "france24infos": "7709586443156442401",
     "actusmad": "7614152772648176898",
     "monde_actu2": "7697785423317323040",
@@ -137,7 +137,7 @@
     "dernierenouvelle": "7705080585206779169",
     "actuoff_fr": "7695355452019789088",
     "vincent_tv2": "7699899978415623456",
-    "neratepaslinfo": "7709597339136134432",
+    "neratepaslinfo": "7709841478691966241",
     "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
     "lejournal_fr": "7709786646761278753",
@@ -161,7 +161,7 @@
     "hgdjvnfei18": "7709789378951859489",
     "fil_bleu_actu.fr": "7709807321794252064",
     "flash_actu24": "7709826360608345376",
-    "laffaire_france": "7709823360846335264",
+    "laffaire_france": "7709843607834119456",
     "askyp.fr_": "7698096971692707104",
     "ella.nadadora": "7698066171408452897",
     "oeil2.fr": "7700257288120225057",
@@ -406,7 +406,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +414,10 @@
         }
       ],
       "last_stats": {
-        "views": 7860,
-        "likes": 117,
-        "comments": 3,
-        "shares": 13
+        "views": 25872,
+        "likes": 356,
+        "comments": 7,
+        "shares": 54
       }
     },
     {
@@ -506,7 +506,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -518,8 +518,8 @@
         }
       ],
       "last_stats": {
-        "views": 12,
-        "likes": 0,
+        "views": 67,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
@@ -532,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -676,6 +676,84 @@
       "last_stats": {
         "views": 152,
         "likes": 8,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "neratepaslinfo",
+      "video_id": "7709841478691966241",
+      "url": "https://www.tiktok.com/@neratepaslinfo/video/7709841478691966241",
+      "detected_at": "2026-11-19T11:22:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 29,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance36",
+      "video_id": "7709839354708987169",
+      "url": "https://www.tiktok.com/@actufrance36/video/7709839354708987169",
+      "detected_at": "2026-11-19T11:14:28+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 73,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "laffaire_france",
+      "video_id": "7709843607834119456",
+      "url": "https://www.tiktok.com/@laffaire_france/video/7709843607834119456",
+      "detected_at": "2026-11-19T11:30:57+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 6,
+        "likes": 0,
         "comments": 0,
         "shares": 0
       }
