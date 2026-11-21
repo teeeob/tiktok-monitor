@@ -71,7 +71,7 @@
     "info20fr": "7710350114107231520",
     "kat_info": "7710367724723047713",
     "pandadunet": "7665356751616609568",
-    "actufrance_33": "7710493123427765537",
+    "actufrance_33": "7710504766912089376",
     "actu.le.fran843": "7655044164291169568",
     "france.actu02": "7710359415160933665",
     "actu.choc1": "7673018569768062240",
@@ -272,7 +272,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -284,8 +284,8 @@
         }
       ],
       "last_stats": {
-        "views": 95,
-        "likes": 5,
+        "views": 743,
+        "likes": 21,
         "comments": 0,
         "shares": 0
       }
@@ -298,7 +298,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -310,10 +310,10 @@
         }
       ],
       "last_stats": {
-        "views": 202,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0
+        "views": 3902,
+        "likes": 101,
+        "comments": 2,
+        "shares": 45
       }
     },
     {
@@ -321,6 +321,32 @@
       "video_id": "7710493123427765537",
       "url": "https://www.tiktok.com/@actufrance_33/video/7710493123427765537",
       "detected_at": "2026-11-21T05:32:09+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 7,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actufrance_33",
+      "video_id": "7710504766912089376",
+      "url": "https://www.tiktok.com/@actufrance_33/video/7710504766912089376",
+      "detected_at": "2026-11-21T06:16:44+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -336,7 +362,7 @@
         }
       ],
       "last_stats": {
-        "views": 7,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "shares": 0
