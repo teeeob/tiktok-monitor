@@ -187,32 +187,6 @@
   },
   "pending": [
     {
-      "handle": "leradar.fr33",
-      "video_id": "7711111519806721313",
-      "url": "https://www.tiktok.com/@leradar.fr33/video/7711111519806721313",
-      "detected_at": "2026-11-22T21:31:04+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 426,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "newo.telop",
       "video_id": "7711118454622801185",
       "url": "https://www.tiktok.com/@newo.telop/video/7711118454622801185",
@@ -354,7 +328,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -362,10 +336,10 @@
         }
       ],
       "last_stats": {
-        "views": 701,
-        "likes": 12,
-        "comments": 3,
-        "shares": 1
+        "views": 1243,
+        "likes": 24,
+        "comments": 7,
+        "shares": 6
       }
     },
     {
