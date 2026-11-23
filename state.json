@@ -100,7 +100,7 @@
     "la.france.avenir2026": "7635227515635731734",
     "laminuteactu.tv": "7643465349840538912",
     "oeil_global_news": "7708096059641318689",
-    "unmomentactu": "7710680332172872993",
+    "unmomentactu": "7711399684081749280",
     "franceecho": "7711088947052498208",
     "franceavifactu": "7655787451516079392",
     "adrenatv.france": "7634530119930973442",
@@ -128,7 +128,7 @@
     "alerte.min": "7711309658866109729",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7708767873811991841",
-    "remi4max": "7711312600667032864",
+    "remi4max": "7711402627325529376",
     "actud5": "7711360708738338081",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
@@ -186,32 +186,6 @@
     "efraim.actu": "7708321764182363425"
   },
   "pending": [
-    {
-      "handle": "actufrance_14",
-      "video_id": "7711328097844399392",
-      "url": "https://www.tiktok.com/@actufrance_14/video/7711328097844399392",
-      "detected_at": "2026-11-23T11:31:32+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 4549,
-        "likes": 83,
-        "comments": 1,
-        "shares": 23
-      }
-    },
     {
       "handle": "infofrance.tv",
       "video_id": "7711329237487127841",
@@ -406,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,7 +388,7 @@
         }
       ],
       "last_stats": {
-        "views": 234,
+        "views": 315,
         "likes": 1,
         "comments": 0,
         "shares": 1
@@ -458,7 +432,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -466,10 +440,10 @@
         }
       ],
       "last_stats": {
-        "views": 654,
-        "likes": 17,
+        "views": 1137,
+        "likes": 20,
         "comments": 1,
-        "shares": 3
+        "shares": 10
       }
     },
     {
@@ -636,7 +610,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -648,10 +622,10 @@
         }
       ],
       "last_stats": {
-        "views": 19,
-        "likes": 4,
+        "views": 102,
+        "likes": 11,
         "comments": 1,
-        "shares": 0
+        "shares": 1
       }
     },
     {
@@ -754,6 +728,58 @@
       "last_stats": {
         "views": 1,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "unmomentactu",
+      "video_id": "7711399684081749280",
+      "url": "https://www.tiktok.com/@unmomentactu/video/7711399684081749280",
+      "detected_at": "2026-11-23T16:09:16+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 305,
+        "likes": 17,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
+      "handle": "remi4max",
+      "video_id": "7711402627325529376",
+      "url": "https://www.tiktok.com/@remi4max/video/7711402627325529376",
+      "detected_at": "2026-11-23T16:20:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 106,
+        "likes": 9,
         "comments": 0,
         "shares": 0
       }
