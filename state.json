@@ -169,7 +169,7 @@
     "robactt": "7710899009501678880",
     "adnrfr": "7711155937939049760",
     "parallaxeactu": "7711455483420298528",
-    "franceinfo43": "7711135555395816726",
+    "franceinfo43": "7711462053353147651",
     "lejournaldefrance": "7711033478355127585",
     "france.horizon": "7711117990300847393",
     "france24actu": "7711129895459360033",
@@ -186,32 +186,6 @@
     "efraim.actu": "7708321764182363425"
   },
   "pending": [
-    {
-      "handle": "infos.tv05",
-      "video_id": "7711386177433062688",
-      "url": "https://www.tiktok.com/@infos.tv05/video/7711386177433062688",
-      "detected_at": "2026-11-23T15:16:53+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 154,
-        "likes": 15,
-        "comments": 1,
-        "shares": 1
-      }
-    },
     {
       "handle": "actualitetiktok61",
       "video_id": "7711396126561176865",
@@ -406,7 +380,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -414,10 +388,10 @@
         }
       ],
       "last_stats": {
-        "views": 4066,
-        "likes": 65,
-        "comments": 1,
-        "shares": 34
+        "views": 12229,
+        "likes": 220,
+        "comments": 4,
+        "shares": 129
       }
     },
     {
@@ -558,7 +532,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -570,10 +544,10 @@
         }
       ],
       "last_stats": {
-        "views": 7579,
-        "likes": 67,
-        "comments": 1,
-        "shares": 47
+        "views": 58179,
+        "likes": 734,
+        "comments": 76,
+        "shares": 938
       }
     },
     {
@@ -678,6 +652,32 @@
         "likes": 9,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "handle": "franceinfo43",
+      "video_id": "7711462053353147651",
+      "url": "https://www.tiktok.com/@franceinfo43/video/7711462053353147651",
+      "detected_at": "2026-11-23T20:11:21+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 374,
+        "likes": 7,
+        "comments": 1,
+        "shares": 10
       }
     }
   ]
