@@ -175,7 +175,7 @@
     "france24actu": "7711841627781844263",
     "francemonde1": "7711494148074884384",
     "decouverteschoc": "7683917464182344992",
-    "actu24h00": "7711690971418873121",
+    "actu24h00": "7712017345526500641",
     "linfo24h00": "7709465861785947425",
     "flashinfosoff": "7706854555752959264",
     "actupasnet": "7711567766746172711",
@@ -267,7 +267,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -275,10 +275,10 @@
         }
       ],
       "last_stats": {
-        "views": 395,
-        "likes": 12,
-        "comments": 1,
-        "shares": 3
+        "views": 2705,
+        "likes": 35,
+        "comments": 3,
+        "shares": 49
       }
     },
     {
@@ -419,7 +419,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -431,10 +431,10 @@
         }
       ],
       "last_stats": {
-        "views": 104,
-        "likes": 9,
+        "views": 2105,
+        "likes": 30,
         "comments": 1,
-        "shares": 2
+        "shares": 30
       }
     },
     {
@@ -442,6 +442,32 @@
       "video_id": "7712006359201484065",
       "url": "https://www.tiktok.com/@remi4max/video/7712006359201484065",
       "detected_at": "2026-11-25T07:23:37+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 248,
+        "likes": 13,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actu24h00",
+      "video_id": "7712017345526500641",
+      "url": "https://www.tiktok.com/@actu24h00/video/7712017345526500641",
+      "detected_at": "2026-11-25T08:06:21+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -457,10 +483,10 @@
         }
       ],
       "last_stats": {
-        "views": 65,
-        "likes": 5,
-        "comments": 1,
-        "shares": 0
+        "views": 40,
+        "likes": 7,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
