@@ -199,114 +199,10 @@
     "franceactudirect1": "7711072203583868193",
     "elyainfo": "7711622085944069409",
     "actufiles.fr": "7711775536023997735",
-    "rembobine.film": "7711849455552580903",
+    "rembobine.film": "7711928083804212519",
     "nextenews": "7711862802947869985"
   },
   "pending": [
-    {
-      "handle": "mediaflix",
-      "video_id": "7711850675239521569",
-      "url": "https://www.tiktok.com/@mediaflix/video/7711850675239521569",
-      "detected_at": "2026-11-24T21:19:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 275,
-        "likes": 18,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "l_information",
-      "video_id": "7711850950830460193",
-      "url": "https://www.tiktok.com/@l_information/video/7711850950830460193",
-      "detected_at": "2026-11-24T21:20:26+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 426,
-        "likes": 15,
-        "comments": 1,
-        "shares": 0
-      }
-    },
-    {
-      "handle": "info.direct44",
-      "video_id": "7711849347217902887",
-      "url": "https://www.tiktok.com/@info.direct44/video/7711849347217902887",
-      "detected_at": "2026-11-24T21:14:11+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 30319,
-        "likes": 417,
-        "comments": 25,
-        "shares": 263
-      }
-    },
-    {
-      "handle": "rembobine.film",
-      "video_id": "7711849455552580903",
-      "url": "https://www.tiktok.com/@rembobine.film/video/7711849455552580903",
-      "detected_at": "2026-11-24T21:14:37+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 353,
-        "likes": 15,
-        "comments": 5,
-        "shares": 1
-      }
-    },
     {
       "handle": "lejournal.actu",
       "video_id": "7711855850712829206",
@@ -423,7 +319,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -431,8 +327,8 @@
         }
       ],
       "last_stats": {
-        "views": 327,
-        "likes": 23,
+        "views": 425,
+        "likes": 24,
         "comments": 0,
         "shares": 0
       }
@@ -511,6 +407,32 @@
       "last_stats": {
         "views": 253,
         "likes": 17,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "rembobine.film",
+      "video_id": "7711928083804212519",
+      "url": "https://www.tiktok.com/@rembobine.film/video/7711928083804212519",
+      "detected_at": "2026-11-25T02:20:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 56,
+        "likes": 5,
         "comments": 0,
         "shares": 0
       }
