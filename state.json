@@ -137,7 +137,7 @@
     "dernierenouvelle": "7712546644188761377",
     "actuoff_fr": "7695355452019789088",
     "vincent_tv2": "7699899978415623456",
-    "neratepaslinfo": "7712448605243690273",
+    "neratepaslinfo": "7712563304677346593",
     "cinemama.fr": "7702774453511408928",
     "actufrance14": "7692046706434772256",
     "lejournal_fr": "7712482695162400033",
@@ -189,7 +189,7 @@
     "leradar_actu": "7709485623421209888",
     "l_information": "7712064307751652647",
     "actudirectt": "7709444476015578401",
-    "info.decodeur": "7712476460144971047",
+    "info.decodeur": "7712561811899436327",
     "brokeconomie": "7712079487835524374",
     "noxium.fr": "7712054587171015975",
     "flashinfo49": "7712452837443144993",
@@ -203,32 +203,6 @@
     "nextenews": "7711862802947869985"
   },
   "pending": [
-    {
-      "handle": "lejournal_fr",
-      "video_id": "7712482695162400033",
-      "url": "https://www.tiktok.com/@lejournal_fr/video/7712482695162400033",
-      "detected_at": "2026-11-26T14:11:55+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 2136,
-        "likes": 70,
-        "comments": 8,
-        "shares": 3
-      }
-    },
     {
       "handle": "univers_doc",
       "video_id": "7712498777579474209",
@@ -497,7 +471,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -509,10 +483,10 @@
         }
       ],
       "last_stats": {
-        "views": 23,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 2156,
+        "likes": 44,
+        "comments": 1,
+        "shares": 6
       }
     },
     {
@@ -523,7 +497,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -535,9 +509,9 @@
         }
       ],
       "last_stats": {
-        "views": 59,
-        "likes": 3,
-        "comments": 0,
+        "views": 310,
+        "likes": 12,
+        "comments": 1,
         "shares": 0
       }
     },
@@ -575,7 +549,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -587,8 +561,8 @@
         }
       ],
       "last_stats": {
-        "views": 113,
-        "likes": 8,
+        "views": 175,
+        "likes": 13,
         "comments": 1,
         "shares": 0
       }
@@ -669,6 +643,58 @@
         "likes": 19,
         "comments": 0,
         "shares": 1
+      }
+    },
+    {
+      "handle": "neratepaslinfo",
+      "video_id": "7712563304677346593",
+      "url": "https://www.tiktok.com/@neratepaslinfo/video/7712563304677346593",
+      "detected_at": "2026-11-26T19:24:43+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 15,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "info.decodeur",
+      "video_id": "7712561811899436327",
+      "url": "https://www.tiktok.com/@info.decodeur/video/7712561811899436327",
+      "detected_at": "2026-11-26T19:18:55+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 41,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
