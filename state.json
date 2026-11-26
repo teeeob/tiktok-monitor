@@ -54,7 +54,7 @@
     "ora_418": "7708413510144871712",
     "actufrance36": "7712226203683376423",
     "france24infos": "7712224417664830753",
-    "actusmad": "7712143921043754279",
+    "actusmad": "7712395707147095329",
     "monde_actu2": "7697785423317323040",
     "suziepress": "7675741773410389280",
     "trasssh.tv": "7698812174025690401",
@@ -345,7 +345,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -353,10 +353,10 @@
         }
       ],
       "last_stats": {
-        "views": 1134,
-        "likes": 29,
-        "comments": 7,
-        "shares": 1
+        "views": 5465,
+        "likes": 80,
+        "comments": 21,
+        "shares": 28
       }
     },
     {
@@ -471,7 +471,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -483,9 +483,9 @@
         }
       ],
       "last_stats": {
-        "views": 61,
-        "likes": 4,
-        "comments": 0,
+        "views": 241,
+        "likes": 11,
+        "comments": 1,
         "shares": 5
       }
     },
@@ -497,7 +497,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -509,10 +509,10 @@
         }
       ],
       "last_stats": {
-        "views": 100,
-        "likes": 6,
-        "comments": 2,
-        "shares": 0
+        "views": 395,
+        "likes": 19,
+        "comments": 3,
+        "shares": 5
       }
     },
     {
@@ -520,6 +520,32 @@
       "video_id": "7712387373480430881",
       "url": "https://www.tiktok.com/@leradar.fr33/video/7712387373480430881",
       "detected_at": "2026-11-26T08:02:07+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 141,
+        "likes": 1,
+        "comments": 1,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "actusmad",
+      "video_id": "7712395707147095329",
+      "url": "https://www.tiktok.com/@actusmad/video/7712395707147095329",
+      "detected_at": "2026-11-26T08:34:26+00:00",
       "checks": [
         {
           "offset_h": 1,
@@ -535,10 +561,10 @@
         }
       ],
       "last_stats": {
-        "views": 121,
-        "likes": 1,
-        "comments": 1,
-        "shares": 0
+        "views": 186,
+        "likes": 6,
+        "comments": 0,
+        "shares": 1
       }
     }
   ]
