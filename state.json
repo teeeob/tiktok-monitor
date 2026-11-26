@@ -78,7 +78,7 @@
     "infofrance_fr": "7690323229948366102",
     "actudivers.fr": "7710765827175337248",
     "to.suissra": "7654575792071953696",
-    "essiide": "7712384897255542049",
+    "essiide": "7712429654690368801",
     "univers_doc": "7712162114865040673",
     "infos.tv05": "7711729389112790311",
     "actufrance98": "7680998138773130528",
@@ -199,36 +199,10 @@
     "franceactudirect1": "7711072203583868193",
     "elyainfo": "7711622085944069409",
     "actufiles.fr": "7711775536023997735",
-    "rembobine.film": "7712237318005968161",
+    "rembobine.film": "7712433648426913063",
     "nextenews": "7712157962294316327"
   },
   "pending": [
-    {
-      "handle": "actufrance_33",
-      "video_id": "7712355684301425959",
-      "url": "https://www.tiktok.com/@actufrance_33/video/7712355684301425959",
-      "detected_at": "2026-11-26T05:59:14+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 5465,
-        "likes": 80,
-        "comments": 21,
-        "shares": 28
-      }
-    },
     {
       "handle": "actufrance_14",
       "video_id": "7712361724019494183",
@@ -345,7 +319,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -353,10 +327,10 @@
         }
       ],
       "last_stats": {
-        "views": 241,
-        "likes": 11,
-        "comments": 1,
-        "shares": 5
+        "views": 307,
+        "likes": 14,
+        "comments": 2,
+        "shares": 10
       }
     },
     {
@@ -371,7 +345,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -379,10 +353,10 @@
         }
       ],
       "last_stats": {
-        "views": 395,
-        "likes": 19,
+        "views": 995,
+        "likes": 48,
         "comments": 3,
-        "shares": 5
+        "shares": 9
       }
     },
     {
@@ -397,7 +371,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -405,9 +379,9 @@
         }
       ],
       "last_stats": {
-        "views": 141,
-        "likes": 1,
-        "comments": 1,
+        "views": 192,
+        "likes": 2,
+        "comments": 2,
         "shares": 0
       }
     },
@@ -575,6 +549,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 11705,
+        "likes": 285,
+        "comments": 7,
+        "shares": 402
+      }
+    },
+    {
+      "handle": "essiide",
+      "video_id": "7712429654690368801",
+      "url": "https://www.tiktok.com/@essiide/video/7712429654690368801",
+      "detected_at": "2026-11-26T10:46:15+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -587,10 +587,36 @@
         }
       ],
       "last_stats": {
-        "views": 577,
-        "likes": 14,
+        "views": 125,
+        "likes": 10,
         "comments": 2,
-        "shares": 11
+        "shares": 6
+      }
+    },
+    {
+      "handle": "rembobine.film",
+      "video_id": "7712433648426913063",
+      "url": "https://www.tiktok.com/@rembobine.film/video/7712433648426913063",
+      "detected_at": "2026-11-26T11:01:35+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     }
   ]
