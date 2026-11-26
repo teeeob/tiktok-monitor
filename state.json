@@ -204,32 +204,6 @@
   },
   "pending": [
     {
-      "handle": "leradar.fr33",
-      "video_id": "7712387373480430881",
-      "url": "https://www.tiktok.com/@leradar.fr33/video/7712387373480430881",
-      "detected_at": "2026-11-26T08:02:07+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 192,
-        "likes": 2,
-        "comments": 2,
-        "shares": 0
-      }
-    },
-    {
       "handle": "actusmad",
       "video_id": "7712395707147095329",
       "url": "https://www.tiktok.com/@actusmad/video/7712395707147095329",
@@ -549,7 +523,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -561,8 +535,8 @@
         }
       ],
       "last_stats": {
-        "views": 2,
-        "likes": 0,
+        "views": 138,
+        "likes": 4,
         "comments": 0,
         "shares": 0
       }
