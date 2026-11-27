@@ -20,7 +20,7 @@
     "coachdydy_business": "7664619038949100833",
     "coachdydy3.0": "7664617263466614048",
     "journalsudouest": "7700658436958178592",
-    "zopinfo": "7712892147439029537",
+    "zopinfo": "7712919684374465825",
     "actualfrance_tv": "7639358693603118368",
     "actualitetiktok61": "7711396126561176865",
     "actuchrono60": "7712589902902267169",
@@ -203,58 +203,6 @@
     "nextenews": "7712607514625412385"
   },
   "pending": [
-    {
-      "handle": "newo.telop",
-      "video_id": "7712842048323325217",
-      "url": "https://www.tiktok.com/@newo.telop/video/7712842048323325217",
-      "detected_at": "2026-11-27T13:26:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1080,
-        "likes": 54,
-        "comments": 3,
-        "shares": 1
-      }
-    },
-    {
-      "handle": "actupasnet",
-      "video_id": "7712842553124474145",
-      "url": "https://www.tiktok.com/@actupasnet/video/7712842553124474145",
-      "detected_at": "2026-11-27T13:28:22+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 492,
-        "likes": 19,
-        "comments": 0,
-        "shares": 0
-      }
-    },
     {
       "handle": "langlecurieux",
       "video_id": "7712847405124734230",
@@ -475,7 +423,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -483,10 +431,10 @@
         }
       ],
       "last_stats": {
-        "views": 131,
-        "likes": 5,
+        "views": 254,
+        "likes": 8,
         "comments": 0,
-        "shares": 4
+        "shares": 6
       }
     },
     {
@@ -501,7 +449,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -509,10 +457,10 @@
         }
       ],
       "last_stats": {
-        "views": 101,
-        "likes": 11,
-        "comments": 0,
-        "shares": 2
+        "views": 778,
+        "likes": 30,
+        "comments": 2,
+        "shares": 4
       }
     },
     {
@@ -553,7 +501,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -561,10 +509,10 @@
         }
       ],
       "last_stats": {
-        "views": 1705,
-        "likes": 79,
-        "comments": 2,
-        "shares": 8
+        "views": 3620,
+        "likes": 226,
+        "comments": 7,
+        "shares": 62
       }
     },
     {
@@ -757,7 +705,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -769,10 +717,10 @@
         }
       ],
       "last_stats": {
-        "views": 1645,
-        "likes": 62,
-        "comments": 2,
-        "shares": 15
+        "views": 19996,
+        "likes": 315,
+        "comments": 3,
+        "shares": 58
       }
     },
     {
@@ -823,6 +771,32 @@
       "last_stats": {
         "views": 194,
         "likes": 7,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "zopinfo",
+      "video_id": "7712919684374465825",
+      "url": "https://www.tiktok.com/@zopinfo/video/7712919684374465825",
+      "detected_at": "2026-11-27T18:27:40+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 33,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
