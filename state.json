@@ -128,7 +128,7 @@
     "alerte.min": "7711678833673506081",
     "actu60seconds": "7696062032692514080",
     "actutv_france": "7708767873811991841",
-    "remi4max": "7712812873856060705",
+    "remi4max": "7712758361556585761",
     "actud5": "7712796397195644193",
     "lenaentdeckt_": "7687587330466630945",
     "hostileactu": "7685072274961059104",
@@ -203,32 +203,6 @@
     "nextenews": "7712607514625412385"
   },
   "pending": [
-    {
-      "handle": "kat_info",
-      "video_id": "7712774474952756513",
-      "url": "https://www.tiktok.com/@kat_info/video/7712774474952756513",
-      "detected_at": "2026-11-27T09:04:13+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 417,
-        "likes": 26,
-        "comments": 1,
-        "shares": 1
-      }
-    },
     {
       "handle": "actufrance_33",
       "video_id": "7712780440070786337",
@@ -475,7 +449,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -483,9 +457,9 @@
         }
       ],
       "last_stats": {
-        "views": 384,
-        "likes": 34,
-        "comments": 1,
+        "views": 1415,
+        "likes": 92,
+        "comments": 5,
         "shares": 1
       }
     },
