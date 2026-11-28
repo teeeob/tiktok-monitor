@@ -204,32 +204,6 @@
   },
   "pending": [
     {
-      "handle": "kat_info",
-      "video_id": "7713046046569532711",
-      "url": "https://www.tiktok.com/@kat_info/video/7713046046569532711",
-      "detected_at": "2026-11-28T02:38:23+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 207,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
       "handle": "univers_doc",
       "video_id": "7713058906213289255",
       "url": "https://www.tiktok.com/@univers_doc/video/7713058906213289255",
@@ -393,7 +367,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -405,10 +379,10 @@
         }
       ],
       "last_stats": {
-        "views": 22,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 1233,
+        "likes": 29,
+        "comments": 1,
+        "shares": 18
       }
     },
     {
