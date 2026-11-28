@@ -39,7 +39,7 @@
     "dbrif.off": "7693806010854673696",
     "actualiradar": "7664606975195450657",
     "latiktokinfo": "7664191749606133025",
-    "lejournal.actu2": "7709211692521098518",
+    "lejournal.actu2": "7713025583747190038",
     "en.bref_": "7639431069082586401",
     "509stories": "7711543395306573089",
     "contrelaguerre": "7712592303021444391",
@@ -204,32 +204,6 @@
   },
   "pending": [
     {
-      "handle": "faisdivers.fr",
-      "video_id": "7712949952003018017",
-      "url": "https://www.tiktok.com/@faisdivers.fr/video/7712949952003018017",
-      "detected_at": "2026-11-27T20:25:06+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 1123,
-        "likes": 32,
-        "comments": 2,
-        "shares": 0
-      }
-    },
-    {
       "handle": "infofrance.tv",
       "video_id": "7712954392915332391",
       "url": "https://www.tiktok.com/@infofrance.tv/video/7712954392915332391",
@@ -371,7 +345,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -523,6 +497,32 @@
       "checks": [
         {
           "offset_h": 1,
+          "done": true
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 112,
+        "likes": 3,
+        "comments": 4,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "lejournal.actu2",
+      "video_id": "7713025583747190038",
+      "url": "https://www.tiktok.com/@lejournal.actu2/video/7713025583747190038",
+      "detected_at": "2026-11-28T01:20:58+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
           "done": false
         },
         {
@@ -535,9 +535,9 @@
         }
       ],
       "last_stats": {
-        "views": 78,
+        "views": 40,
         "likes": 2,
-        "comments": 4,
+        "comments": 2,
         "shares": 0
       }
     }
