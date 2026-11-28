@@ -204,32 +204,6 @@
   },
   "pending": [
     {
-      "handle": "actufrance_14",
-      "video_id": "7713156842842623271",
-      "url": "https://www.tiktok.com/@actufrance_14/video/7713156842842623271",
-      "detected_at": "2026-11-28T09:48:00+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 417,
-        "likes": 18,
-        "comments": 0,
-        "shares": 1
-      }
-    },
-    {
       "handle": "tiktok.actu.tv",
       "video_id": "7713178375434636577",
       "url": "https://www.tiktok.com/@tiktok.actu.tv/video/7713178375434636577",
@@ -471,7 +445,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -483,10 +457,10 @@
         }
       ],
       "last_stats": {
-        "views": 43,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0
+        "views": 442,
+        "likes": 11,
+        "comments": 2,
+        "shares": 5
       }
     },
     {
@@ -497,7 +471,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -509,10 +483,10 @@
         }
       ],
       "last_stats": {
-        "views": 107,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0
+        "views": 548,
+        "likes": 11,
+        "comments": 1,
+        "shares": 3
       }
     },
     {
@@ -523,7 +497,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -535,7 +509,7 @@
         }
       ],
       "last_stats": {
-        "views": 77,
+        "views": 101,
         "likes": 7,
         "comments": 0,
         "shares": 2
@@ -575,7 +549,7 @@
       "checks": [
         {
           "offset_h": 1,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 3,
@@ -587,10 +561,10 @@
         }
       ],
       "last_stats": {
-        "views": 238,
-        "likes": 7,
-        "comments": 0,
-        "shares": 0
+        "views": 464,
+        "likes": 14,
+        "comments": 3,
+        "shares": 2
       }
     }
   ]
