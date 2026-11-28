@@ -69,7 +69,7 @@
     "enbref33": "7667628668490894624",
     "infofrance.24": "7702159866802097440",
     "info20fr": "7712925599383211303",
-    "kat_info": "7713043783042010401",
+    "kat_info": "7713046046569532711",
     "pandadunet": "7665356751616609568",
     "actufrance_33": "7712780440070786337",
     "actu.le.fran843": "7655044164291169568",
@@ -203,32 +203,6 @@
     "nextenews": "7712607514625412385"
   },
   "pending": [
-    {
-      "handle": "rembobine.film",
-      "video_id": "7712974552057335073",
-      "url": "https://www.tiktok.com/@rembobine.film/video/7712974552057335073",
-      "detected_at": "2026-11-27T22:00:34+00:00",
-      "checks": [
-        {
-          "offset_h": 1,
-          "done": true
-        },
-        {
-          "offset_h": 3,
-          "done": true
-        },
-        {
-          "offset_h": 5,
-          "done": false
-        }
-      ],
-      "last_stats": {
-        "views": 177,
-        "likes": 10,
-        "comments": 1,
-        "shares": 1
-      }
-    },
     {
       "handle": "actupasnet",
       "video_id": "7712981682655137063",
@@ -371,7 +345,7 @@
         },
         {
           "offset_h": 3,
-          "done": false
+          "done": true
         },
         {
           "offset_h": 5,
@@ -379,8 +353,8 @@
         }
       ],
       "last_stats": {
-        "views": 611,
-        "likes": 14,
+        "views": 767,
+        "likes": 17,
         "comments": 1,
         "shares": 8
       }
@@ -458,6 +432,32 @@
       ],
       "last_stats": {
         "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "handle": "kat_info",
+      "video_id": "7713046046569532711",
+      "url": "https://www.tiktok.com/@kat_info/video/7713046046569532711",
+      "detected_at": "2026-11-28T02:38:23+00:00",
+      "checks": [
+        {
+          "offset_h": 1,
+          "done": false
+        },
+        {
+          "offset_h": 3,
+          "done": false
+        },
+        {
+          "offset_h": 5,
+          "done": false
+        }
+      ],
+      "last_stats": {
+        "views": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0
